@@ -21,8 +21,9 @@ permalink: /tributes/
 
 ## Introductions
 
-* 2011, [Anthology and Magazine Introductions](http://antsofgodarequeerfish.blogspot.com/2011/08/introductions-to-lafferty-in.html), Daniel Petersen
-* 2000, [Introduction to "In Our Block"](http://journal.neilgaiman.com/2001/12/mornings-mail-brought-bunch-of-stuff.asp), Neil Gaiman
+* 2011, [Anthology and Magazines](http://antsofgodarequeerfish.blogspot.com/2011/08/introductions-to-lafferty-in.html), Daniel Petersen
+* 2000, [In Our Block](http://journal.neilgaiman.com/2001/12/mornings-mail-brought-bunch-of-stuff.asp), Neil Gaiman
+* 1995, [It's Down the Slippery Cellar Stairs](http://www.mulle-kybernetik.com/RAL/reginald.html), Robert Reginald
 * 1993, [Despair and the Duck Lady](http://www.michaelswanwick.com/nonfic/duck.html), Michael Swanwick (*Iron Tears*)
 * 1971, [Boomer Flats Gazette](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/), Dan Knight
 * 1987, [Musings on Ray](http://web.archive.org/web/20091027093659/http://geocities.com/konstiantin/osfw/authors/RAL_kimmel.html), Stephen Kimmel

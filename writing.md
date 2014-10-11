@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Works
-permalink: /works/
+title: Writing
+permalink: /writing/
 ---
 
 <a href="http://www.centipedepress.com/authors/lafferty.html"><img src="{{ site.baseurl }}/images/works.jpg" height="197"></a>
