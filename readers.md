@@ -9,7 +9,7 @@ permalink: /readers/
 
 ## Blogs
 
-* [Continued on Next Rock](http://ralafferty.tumblr.com) &middot; [Writing](http://ralafferty.tumblr.com/post/74655381463/how-lafferty-wrote) &middot; [Thesis](http://www.academia.edu/329007/Lafferty_and_His_World), Andrew Ferguson, USA
+* [Continued on Next Rock](http://ralafferty.tumblr.com) &middot; [Writing](http://ralafferty.tumblr.com/post/74655381463/how-lafferty-wrote) &middot; [Thesis](http://www.academia.edu/329007/Lafferty_and_His_World) &middot; [Wiki](http://lafferty.wikidot.com/), Andrew Ferguson, USA
 * [East of Lafferty](http://www.eastoflafferty.com/), France
 * [Futuramen](http://www.lawrenceperson.com/?tag=r-a-lafferty), Lawrence Person, USA
 * [Hieronymopolis](http://hieronymopolis.wordpress.com/category/laffertyana/)
