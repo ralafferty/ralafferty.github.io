@@ -47,12 +47,12 @@ permalink: /writing/
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty)
 * [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty)
 
-### Shopping
+### Search
 
-* [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006), USA
-* [Broken Mirrors Press](http://smallbeerpress.com/smallbeer/2009/08/03/broken-mirrors-press/), USA
+* [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006), US
+* [Broken Mirrors Press](http://smallbeerpress.com/smallbeer/2009/08/03/broken-mirrors-press/)
 * [Cold Tonnage](http://www.coldtonnage.com/?CLSN_3127=14130129523127d347f7707db112357e&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search), UK
-* [eBay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xr.a.+lafferty&_nkw=r.a.+lafferty&_sacat=0), USA
-* [Fantastic Fiction (eBay+Abebooks)](http://www.fantasticfiction.co.uk/l/r-a-lafferty/), USA
-* [Half.com](http://search.half.ebay.com/r-a-lafferty_W0QQ_trksidZp3030Q2em1446Q2el2686QQqueryZrQ2eaQ2eQ20laffertyQQmZbooks), USA
+* [eBay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xr.a.+lafferty&_nkw=r.a.+lafferty&_sacat=0), US
+* [Fantastic Fiction](http://www.fantasticfiction.co.uk/l/r-a-lafferty/)
+* [Half.com](http://search.half.ebay.com/r-a-lafferty_W0QQ_trksidZp3030Q2em1446Q2el2686QQqueryZrQ2eaQ2eQ20laffertyQQmZbooks), US
 * [Metasearch](http://used.addall.com/), International
