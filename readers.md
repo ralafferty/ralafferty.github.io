@@ -14,7 +14,7 @@ permalink: /readers/
 * [Futuramen](http://www.lawrenceperson.com/?tag=r-a-lafferty), Lawrence Person, USA
 * [Hieronymopolis](http://hieronymopolis.wordpress.com/category/laffertyana/)
 * [I Want A Death and Resurrection of the Thing](http://failingevenbetter.blogspot.com/), trawlerman, USA
-* [Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Japan
+* [Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Kenji Matsuzaki, Japan
 * [MPorcius Fiction Log](http://mporcius.blogspot.com/search/label/Lafferty), MPorcius, USA
 * [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL), Nat, Germany
 * [The Ants of God are Queer Fish](http://antsofgodarequeerfish.blogspot.com), Daniel Petersen, Scotland

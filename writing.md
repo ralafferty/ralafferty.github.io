@@ -42,7 +42,8 @@ permalink: /writing/
 ## Bibliography
 
 * [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
-* [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/lafferty_r_a)
+* [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
+* Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) &middot; [Lafferty Books in Japan](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
 * [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RALafferty)
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty)
 * [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty)
@@ -55,4 +56,4 @@ permalink: /writing/
 * [eBay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xr.a.+lafferty&_nkw=r.a.+lafferty&_sacat=0), US
 * [Fantastic Fiction](http://www.fantasticfiction.co.uk/l/r-a-lafferty/)
 * [Half.com](http://search.half.ebay.com/r-a-lafferty_W0QQ_trksidZp3030Q2em1446Q2el2686QQqueryZrQ2eaQ2eQ20laffertyQQmZbooks), US
-* [Metasearch](http://used.addall.com/), International
+* [Top 25 bookstores](http://used.addall.com/), International
