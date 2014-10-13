@@ -34,6 +34,11 @@ permalink: /tributes/
 * 2002, [Cordwainer Smith Foundation "Rediscovery" Award](http://www.cordwainer-smith.com/lafferty.htm)
 * 1995, [The Cranky Old Man of Tulsa](https://web.archive.org/web/20091027093656/http://geocities.com/konstiantin/osfw/authors/RAL_sinor_tribute.html), Brad Sinor
 
+## Video
+
+* 2014, [Learn The True Topography](http://laffertydoc.blogspot.com/), Andrew Mass, USA
+* 1987, [Исчезатель](http://youtube.com/watch?v=YvrlbtOTPBc "Ischezatel") (inspired by *Seven-Day Terror*?), Mikhail Kamenetsky, Russia
+
 ### Obituaries {#obituaries}
 
 * [The Independent](http://www.independent.co.uk/news/obituaries/r-a-lafferty-9132908.html)
