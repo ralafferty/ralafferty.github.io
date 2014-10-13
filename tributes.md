@@ -18,6 +18,7 @@ permalink: /tributes/
 * 2003, [And They Took the Sky Off at Night](http://greatsfandf.com/AUTHORS/LAFFERTY/CholfinOnLafferty.html), Brian Cholfin
 * 2002, [Effective Arcanum](http://www.revolutionsf.com/article.php?id=1110), Don Webb
 * 2001, [Evangelical Propaganda](https://web.archive.org/web/20011025123836/http://home.earthlink.net/~cranked/the_lafferty_page.htm), Brian Cholfin
+* 1997, [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman
 
 ## Introductions {#introductions}
 
@@ -25,7 +26,7 @@ permalink: /tributes/
 * 2000, [In Our Block](http://journal.neilgaiman.com/2001/12/mornings-mail-brought-bunch-of-stuff.asp), Neil Gaiman
 * 1995, [It's Down the Slippery Cellar Stairs](http://www.mulle-kybernetik.com/RAL/reginald.html), Robert Reginald
 * 1992, [Despair and the Duck Lady](http://www.michaelswanwick.com/nonfic/duck.html), Michael Swanwick (*Iron Tears*)
-* 1971, [Boomer Flats Gazette](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/), Dan Knight, United Mythologies Press
+* 1991, [Boomer Flats Gazette](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/), Dan Knight, United Mythologies Press
 * 1987, [Musings on Ray](http://web.archive.org/web/20091027093659/http://geocities.com/konstiantin/osfw/authors/RAL_kimmel.html), Stephen Kimmel
 
 ## Awards {#awards}
