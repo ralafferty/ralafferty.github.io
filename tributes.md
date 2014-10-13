@@ -34,24 +34,26 @@ permalink: /tributes/
 * 2002, [Cordwainer Smith Foundation "Rediscovery" Award](http://www.cordwainer-smith.com/lafferty.htm)
 * 1995, [The Cranky Old Man of Tulsa](https://web.archive.org/web/20091027093656/http://geocities.com/konstiantin/osfw/authors/RAL_sinor_tribute.html), Brad Sinor
 
-## Video {#video}
-
-* 2014, [Learn The True Topography](http://laffertydoc.blogspot.com/), Andrew Mass, USA
-* 1987, [Исчезатель](http://youtube.com/watch?v=YvrlbtOTPBc "Ischezatel") (inspired by *Seven-Day Terror*?), Mikhail Kamenetsky, Russia
-
-## Art {#art}
-
-* 2012, [Eurema's Dam](http://jorib.deviantart.com/art/Albert-291776659), JoriB
-* 2012, [B2L: A Lot of Frigging Gizmoids In The Back, There](http://laemeur.blogspot.com/2011/02/b2l-s.html), Laemeur
-* 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
-* 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
-* 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
-
-### Obituaries {#obituaries}
+## Obituaries {#obituaries}
 
 * [The Independent](http://www.independent.co.uk/news/obituaries/r-a-lafferty-9132908.html)
 * [New York Times](http://www.nytimes.com/2002/03/29/us/rafael-a-lafferty-87-science-fiction-writer.html)
 * [Locus Online](http://www.locusmag.com/2002/Reviews/Lalumiere06_PastMasters.html)
 * [Science Fiction Writers of America](http://www.sfwa.org/archive/news/lafferty.htm)
 * [SFX Magazine](http://www.ansible.co.uk/sfx/sfx092.html)
+
+--------------
+
+## Art {#art}
+
+* 2012, [Eurema's Dam](http://jorib.deviantart.com/art/Albert-291776659), JoriB
+* 2012, [Gizmoids In The Back](http://laemeur.blogspot.com/2011/02/b2l-s.html), Laemeur
+* 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
+* 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
+* 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
+
+## Video {#video}
+
+* 2014, [Learn The True Topography](http://laffertydoc.blogspot.com/), Andrew Mass, USA
+* 1987, [Исчезатель](http://youtube.com/watch?v=YvrlbtOTPBc "Ischezatel") (inspired by *Seven-Day Terror*), [SOYUZMULTFILM](http://animator.ru/db/?p=show_film&fid=3323), Russia &nbsp; [&nbsp; &delta; &nbsp;](http://animator.ru/db/?ver=eng&p=show_film&fid=3323)
 
