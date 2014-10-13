@@ -35,7 +35,7 @@ The audience and writing of R.A. Lafferty (1914-2002).
 
 > "You read a few of his stories and you begin to feel him rewriting your brain and opening new possibilities of what fiction, and science fiction especially, are capable of doing." &mdash;[Andrew Ferguson](http://bsuva.org/wordpress/2012/09/contest-winner-places-in-national-competition/) [^uva-prize]
 
-> "No [science fiction] writer, so far, has really felt the need to push the limits... [like Lovecraft].  The only exception might be the strange author, very strange, who is RA Lafferty. More than science fiction, Lafferty sometimes seems to create a kind of philosophy fiction, unique in that ontological speculation plays a more important role than sociological, psychological or moral questions. ---[Michel Houellebecq](http://en.wikipedia.org/wiki/Michel_Houellebecq) [^hou]
+> "No [science fiction] writer, so far, has really felt the need to push the limits... [like Lovecraft].  The only exception might be the strange author, very strange, who is RA Lafferty. More than science fiction, Lafferty sometimes seems to create a kind of philosophy fiction, unique in that ontological speculation plays a more important role than sociological, psychological or moral questions." ---[Michel Houellebecq](http://en.wikipedia.org/wiki/Michel_Houellebecq) [^hou]
 
 > “It is a minor miracle that a serious philosophical and speculative work should be written so colorfully and so lyrically. There is, happily, no way to categorize the book: it has elements of science fiction, of pure fantasy, of poetry, of historical fiction." ---[Judith Merril](http://en.wikipedia.org/wiki/Judith_Merril) [^jabberwocky]
 
