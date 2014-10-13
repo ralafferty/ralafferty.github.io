@@ -18,7 +18,7 @@ permalink: /tributes/
 * 2003, [And They Took the Sky Off at Night](http://greatsfandf.com/AUTHORS/LAFFERTY/CholfinOnLafferty.html), Brian Cholfin
 * 2002, [Effective Arcanum](http://www.revolutionsf.com/article.php?id=1110), Don Webb
 * 2001, [Evangelical Propaganda](https://web.archive.org/web/20011025123836/http://home.earthlink.net/~cranked/the_lafferty_page.htm), Brian Cholfin
-* 1997, [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman
+* 1998, [Ray's "office"](http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm), Keith Purtell
 
 ## Introductions {#introductions}
 

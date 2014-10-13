@@ -5,7 +5,7 @@ permalink: /readers/
 ---
 
 
-<a href="https://en.wikipedia.org/wiki/R._A._Lafferty"><img src="{{ site.baseurl }}/images/readers.jpg"></a>
+<a href="http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm"><img src="{{ site.baseurl }}/images/readers.jpg"></a>
 
 ## English {#english}
 
@@ -44,3 +44,7 @@ permalink: /readers/
 
 * [Great SF&F](http://greatsfandf.com/forums/viewtopic.php?f=3&t=217)
 * [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL/messageboard/viewforum.php?f=1)
+
+### Other {#other}
+
+* 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)

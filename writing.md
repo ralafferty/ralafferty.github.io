@@ -17,7 +17,7 @@ permalink: /writing/
 * 1966, [Narrow Valley](https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html) &mdash; review: [2013](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) &middot; [2013](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) &middot; [1999](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) &middot; [Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?53936)
 * 1965, [Guesting Time](http://www.baenebooks.com/chapters/9781625791191/9781625791191___3.htm) &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?54089)
 * 1965, [In Our Block](https://www.google.com/search?&q=r.a.+lafferty+%22in+our+block%22) &mdash; *Nebula Nominee* &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?54099)
-* 1965, [Slow Tuesday Night](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm) &mdash; review: [2012](http://happinessisfreesf.blogspot.com/2012/12/slow-tuesday-night-by-r-lafferty.html) &middot; [2010](http://www.sfsignal.com/archives/2010/02/slow_tuesday_night/) &mdash; *Nebula Nominee* &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?52458)
+* 1965, [Slow Tuesday Night](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm) &mdash; review: [2012](http://happinessisfreesf.blogspot.com/2012/12/slow-tuesday-night-by-r-lafferty.html) &middot; [2010](http://www.sfsignal.com/archives/2010/02/slow_tuesday_night/) &middot; [2007](http://gilthejenius.blogspot.com/2007/02/web-wonder.html) --- *Nebula Nominee* &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?52458)
 * 1964, [The Transcendent Tigers](https://web.archive.org/web/20071230052651/www.scifi.com/scifiction/classics/classics_archive/lafferty4/lafferty41.html) &mdash; review: [2013](http://ralafferty.tumblr.com/post/65026598841/75-the-transcendent-tigers) &middot; [2005](http://edsfproject.blogspot.com/2005/11/transcendent-tigers-by-ra-lafferty.html) &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?59357)
 * 1962, [Sodom and Gomorrah, Texas](http://manybooks.net/titles/laffertyr2316123161.html) &mdash; review: [2013](http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas) &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?59221)
 * 1960, [The Six Fingers of Time](http://www.gutenberg.org/ebooks/31663) &mdash; review: [2013](http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time) &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?58350)
@@ -42,7 +42,8 @@ permalink: /writing/
 ## Bibliography {#bibliography}
 
 * [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
-* [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
+* [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
+* [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
 * Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) &middot; [Lafferty Books in Japan](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
 * [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RALafferty)
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty)
