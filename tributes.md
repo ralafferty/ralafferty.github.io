@@ -34,10 +34,18 @@ permalink: /tributes/
 * 2002, [Cordwainer Smith Foundation "Rediscovery" Award](http://www.cordwainer-smith.com/lafferty.htm)
 * 1995, [The Cranky Old Man of Tulsa](https://web.archive.org/web/20091027093656/http://geocities.com/konstiantin/osfw/authors/RAL_sinor_tribute.html), Brad Sinor
 
-## Video
+## Video {#video}
 
 * 2014, [Learn The True Topography](http://laffertydoc.blogspot.com/), Andrew Mass, USA
 * 1987, [Исчезатель](http://youtube.com/watch?v=YvrlbtOTPBc "Ischezatel") (inspired by *Seven-Day Terror*?), Mikhail Kamenetsky, Russia
+
+## Art {#art}
+
+* 2012, [Eurema's Dam](http://jorib.deviantart.com/art/Albert-291776659), JoriB
+* 2012, [B2L: A Lot of Frigging Gizmoids In The Back, There](http://laemeur.blogspot.com/2011/02/b2l-s.html), Laemeur
+* 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
+* 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
+* 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
 
 ### Obituaries {#obituaries}
 

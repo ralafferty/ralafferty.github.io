@@ -44,6 +44,3 @@ permalink: /readers/
 * [Great SF&F](http://greatsfandf.com/forums/viewtopic.php?f=3&t=217)
 * [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL/messageboard/viewforum.php?f=1)
 
-### Other {#other}
-
-* 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
