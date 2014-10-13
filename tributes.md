@@ -46,11 +46,14 @@ permalink: /tributes/
 
 ## Art {#art}
 
-* 2012, [Eurema's Dam](http://jorib.deviantart.com/art/Albert-291776659), JoriB
-* 2012, [Gizmoids In The Back](http://laemeur.blogspot.com/2011/02/b2l-s.html), Laemeur
-* 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
-* 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
-* 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
+* ####Illustrations
+  * [The Art of Leo and Diane Dillon](http://leo-and-diane-dillon.blogspot.com/search/label/R.A.%20Lafferty) &middot; [Locus interview (2000)](http://www.locusmag.com/2000/Issues/04/Dillons.html)
+* ####Fan-created
+  * 2012, [Eurema's Dam](http://jorib.deviantart.com/art/Albert-291776659), JoriB
+  * 2012, [Gizmoids In The Back](http://laemeur.blogspot.com/2011/02/b2l-s.html), Laemeur
+  * 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
+  * 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
+  * 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
 
 ## Video {#video}
 
