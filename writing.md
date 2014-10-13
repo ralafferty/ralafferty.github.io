@@ -6,7 +6,7 @@ permalink: /writing/
 
 <a href="http://www.centipedepress.com/authors/lafferty.html"><img src="{{ site.baseurl }}/images/works.jpg" height="197"></a>
 
-## Short Stories
+## Short Stories {#shortstories}
 
 * 1973, [Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22) &mdash; review: [2013](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) &middot; [2012](http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html) &mdash; <b>*Hugo Winner*</b> &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?41531)
 * 1971, [Sky](https://www.google.com/search?&q=r.a.+lafferty+"sky") &mdash; *Hugo Nominee* &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?40938)
@@ -22,24 +22,24 @@ permalink: /writing/
 * 1962, [Sodom and Gomorrah, Texas](http://manybooks.net/titles/laffertyr2316123161.html) &mdash; review: [2013](http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas) &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?59221)
 * 1960, [The Six Fingers of Time](http://www.gutenberg.org/ebooks/31663) &mdash; review: [2013](http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time) &nbsp; [&phi;](http://www.isfdb.org/cgi-bin/title.cgi?58350)
 
-## Reviews
+## Reviews {#reviews}
 
 * Archipelago &nbsp; [Andrew Ferguson (2013)](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=archipelago)
 * Arrive at Easterwine &nbsp; [hieronymopolis (2011)](http://hieronymopolis.wordpress.com/2011/02/21/epiktistes-on-time-from-arrive-at-easterwine-the-autobiography-of-a-ktistec-machine-as-conveyed-to-r-a-lafferty-1971/) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=arrive+at+easterwine)
-* Fourth Mansions &nbsp; [Daniel Petersen (2011)](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) &mdash; *Nebula Nominee* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=fourth+mansions)
-* Iron Tears &nbsp; [Don Webb (1993)](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) &mdash; *Philip K. Dick Award Finalist* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=iron+tears)
-* Nine Hundred Grandmothers &nbsp; [Ted Gioia (2014)](http://conceptualfiction.com/nine_hundred_grandmothers.html) &middot; [Bill Hader (2008)](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) &middot; [Ann Cecil (2007)](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=nine+hundred+grandmothers)
-* Okla Hannali &nbsp; [Keith Purtell (1998)](http://greatsfandf.com/AUTHORS/LAFFERTY/KeithPurtellLafferty.html) &middot; [excerpt](https://web.archive.org/web/20070927011811/http://www.prairienet.org/~almahu/hannali.htm) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=okla+hannali)
-* Past Master &nbsp; [trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/05/finished-past-master-not-review.html) &middot; [MPorcius (2014)](http://mporcius.blogspot.com/2014/01/past-master-by-r-lafferty.html) &middot; [Robert Bee (2008)](http://www.irosf.com/q/zine/article/10456) &middot; [Bill McClain (1996)](http://watershade.net/wmcclain/past_master.txt) &middot;  [excerpt](http://hieronymopolis.wordpress.com/2010/06/24/raphael-aloysius-laffertys-burlesqued-black-mass-in-his-book-past-master/) &mdash; *Hugo & Nebula Nominee* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=past+master)
-* The Devil is Dead &nbsp; [Steve Hooley (2002)](https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html) &mdash; *Nebula Nominee* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+devil+is+dead)
+* Fourth Mansions &nbsp; [Daniel Petersen (2011)](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) &middot; [preview](http://books.google.com/books?id=AJ1yVXoMfkoC&printsec=frontcover&dq=fourth+mansions&hl=en&sa=X&ei=3H47VPmeCIzLsATNi4KIBg&ved=0CCsQuwUwAA#v=onepage&q=fourth%20mansions&f=false) &mdash; *Nebula Nominee* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=fourth+mansions)
+* Iron Tears &nbsp; [Don Webb (1993)](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) &middot; [preview](http://books.google.com/books?id=wJZDoE5Hz0MC&printsec=frontcover#v=onepage&q&f=false) &mdash; *Philip K. Dick Award Finalist* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=iron+tears) 
+* Nine Hundred Grandmothers &nbsp; [Ted Gioia (2014)](http://conceptualfiction.com/nine_hundred_grandmothers.html) &middot; [Bill Hader (2008)](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) &middot; [Ann Cecil (2007)](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) &middot; [preview](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=frontcover#v=onepage&q&f=false) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=nine+hundred+grandmothers)
+* Okla Hannali &nbsp; [Keith Purtell (1998)](http://greatsfandf.com/AUTHORS/LAFFERTY/KeithPurtellLafferty.html) &middot; [excerpt](https://web.archive.org/web/20070927011811/http://www.prairienet.org/~almahu/hannali.htm) &middot; [preview](http://books.google.com/books?id=JEcdwFYa3boC&printsec=frontcover#v=onepage&q&f=false) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=okla+hannali)
+* Past Master &nbsp; [trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/05/finished-past-master-not-review.html) &middot; [MPorcius (2014)](http://mporcius.blogspot.com/2014/01/past-master-by-r-lafferty.html) &middot; [Robert Bee (2008)](http://www.irosf.com/q/zine/article/10456) &middot; [Bill McClain (1996)](http://watershade.net/wmcclain/past_master.txt) &middot;  [excerpt](http://hieronymopolis.wordpress.com/2010/06/24/raphael-aloysius-laffertys-burlesqued-black-mass-in-his-book-past-master/) &middot; [preview](http://books.google.com/books?id=uXHKVdU6nA8C&printsec=frontcover#v=onepage&q&f=false) &mdash; *Hugo & Nebula Nominee* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=past+master)
+* The Devil is Dead &nbsp; [Steve Hooley (2002)](https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html) &middot; [preview](http://books.google.com/books?id=xk0YTotXzu0C&printsec=frontcover#v=onepage&q&f=false) &mdash; *Nebula Nominee* &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+devil+is+dead)
 * The Fall of Rome &nbsp; [Martin Heavisides (2009)](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+fall+of+rome)
 * The Flame is Green &nbsp; [John J Reilly (2003)](http://www.benespen.com/storage/the-long-view/tfig.html)  &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+flame+is+green)
-* Sindbad: The 13th Voyage &nbsp; [trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/09/well-its-living-and-living-in-magic.html) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=sindbad)
+* Sindbad: The 13th Voyage &nbsp; [trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/09/well-its-living-and-living-in-magic.html) &middot; [preview](http://books.google.com/books?id=Y9sLZ56fQWMC&printsec=frontcover#v=onepage&q&f=false) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=sindbad)
 * Space Chantey &nbsp; [Kevin Cheek (2013)](http://www.yetanotherlaffertyblog.com/2013/05/deeply-silly.html) &nbsp; [$](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=space+chantey)
 * Unpublished Lafferty &nbsp; [Lawrence Person (2012)](http://www.lawrenceperson.com/?p=7400) &nbsp; [$](http://www.nyrsf.com/2012/01/)
 
 
-## Bibliography
+## Bibliography {#bibliography}
 
 * [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
 * [SF Encyclopedia](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
@@ -48,7 +48,7 @@ permalink: /writing/
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty)
 * [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty)
 
-## Publishers
+## Publishers {#publishers}
 
 * Bryan Cholfin, [Broken Mirrors Press](http://www.isfdb.org/cgi-bin/publisher.cgi?788)
 * [Centipede Press](http://www.centipedepress.com/sf/manmademodels.html)
@@ -57,7 +57,7 @@ permalink: /writing/
 * [John Betancourt](https://www.sfsite.com/10b/jb138.htm), [Wildside Press](http://www.isfdb.org/cgi-bin/publisher.cgi?140)
 * Steve Pasechnick, [Edgewood Press](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
 
-### Search
+### Search {#search}
 
 * [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006), US
 * [Broken Mirrors Press](http://smallbeerpress.com/smallbeer/2009/08/03/broken-mirrors-press/)

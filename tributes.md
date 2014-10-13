@@ -19,21 +19,21 @@ permalink: /tributes/
 * 2002, [Effective Arcanum](http://www.revolutionsf.com/article.php?id=1110), Don Webb
 * 2001, [Evangelical Propaganda](https://web.archive.org/web/20011025123836/http://home.earthlink.net/~cranked/the_lafferty_page.htm), Brian Cholfin
 
-## Introductions
+## Introductions {#introductions}
 
 * 2011, [Anthology and Magazines](http://antsofgodarequeerfish.blogspot.com/2011/08/introductions-to-lafferty-in.html), Daniel Petersen
 * 2000, [In Our Block](http://journal.neilgaiman.com/2001/12/mornings-mail-brought-bunch-of-stuff.asp), Neil Gaiman
 * 1995, [It's Down the Slippery Cellar Stairs](http://www.mulle-kybernetik.com/RAL/reginald.html), Robert Reginald
-* 1993, [Despair and the Duck Lady](http://www.michaelswanwick.com/nonfic/duck.html), Michael Swanwick (*Iron Tears*)
+* 1992, [Despair and the Duck Lady](http://www.michaelswanwick.com/nonfic/duck.html), Michael Swanwick (*Iron Tears*)
 * 1971, [Boomer Flats Gazette](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/), Dan Knight, United Mythologies Press
 * 1987, [Musings on Ray](http://web.archive.org/web/20091027093659/http://geocities.com/konstiantin/osfw/authors/RAL_kimmel.html), Stephen Kimmel
 
-## Awards
+## Awards {#awards}
 
 * 2002, [Cordwainer Smith Foundation "Rediscovery" Award](http://www.cordwainer-smith.com/lafferty.htm)
 * 1995, [The Cranky Old Man of Tulsa](https://web.archive.org/web/20091027093656/http://geocities.com/konstiantin/osfw/authors/RAL_sinor_tribute.html), Brad Sinor
 
-### Obituaries
+### Obituaries {#obituaries}
 
 * [The Independent](http://www.independent.co.uk/news/obituaries/r-a-lafferty-9132908.html)
 * [New York Times](http://www.nytimes.com/2002/03/29/us/rafael-a-lafferty-87-science-fiction-writer.html)
