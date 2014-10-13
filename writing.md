@@ -50,7 +50,12 @@ permalink: /writing/
 
 ## Publishers
 
+* Bryan Cholfin, [Broken Mirrors Press](http://www.isfdb.org/cgi-bin/publisher.cgi?788)
 * [Centipede Press](http://www.centipedepress.com/sf/manmademodels.html)
+* [Chris Drumm](http://www.isfdb.org/cgi-bin/publisher.cgi?938) &middot; [Notes on Lafferty Estate Sale](http://cdrumm.blogspot.com/2011/03/new-directions-lafferty-developments.html)
+* Dan Knight, [United Mythologies Press](http://www.isfdb.org/cgi-bin/publisher.cgi?454)
+* [John Betancourt](https://www.sfsite.com/10b/jb138.htm), [Wildside Press](http://www.isfdb.org/cgi-bin/publisher.cgi?140)
+* Steve Pasechnick, [Edgewood Press](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
 
 ### Search
 
