@@ -7,18 +7,24 @@ permalink: /readers/
 
 <a href="https://en.wikipedia.org/wiki/R._A._Lafferty"><img src="{{ site.baseurl }}/images/readers.jpg"></a>
 
-## Blogs
+## English
 
 * [Continued on Next Rock](http://ralafferty.tumblr.com) &middot; [Writing](http://ralafferty.tumblr.com/post/74655381463/how-lafferty-wrote) &middot; [Thesis](http://www.academia.edu/329007/Lafferty_and_His_World) &middot; [Wiki](http://lafferty.wikidot.com/), Andrew Ferguson, USA
-* [East of Lafferty](http://www.eastoflafferty.com/), France
 * [Futuramen](http://www.lawrenceperson.com/?tag=r-a-lafferty), Lawrence Person, USA
 * [Hieronymopolis](http://hieronymopolis.wordpress.com/category/laffertyana/)
 * [I Want A Death and Resurrection of the Thing](http://failingevenbetter.blogspot.com/), trawlerman, USA
-* [Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Kenji Matsuzaki, Japan
 * [MPorcius Fiction Log](http://mporcius.blogspot.com/search/label/Lafferty), MPorcius, USA
 * [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL), Nat, Germany
 * [The Ants of God are Queer Fish](http://antsofgodarequeerfish.blogspot.com), Daniel Petersen, Scotland
 * [Yet Another Lafferty Blog](http://www.yetanotherlaffertyblog.com/), Kevin Cheek, USA
+
+## International
+
+* [East of Lafferty](http://www.eastoflafferty.com/), France 
+* [とりあえず、ラファティ &mdash; Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Kenji Matsuzaki, Japan &nbsp; [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhc2.seikyou.ne.jp%2Fhome%2FDrBr%2Findex.html&edit-text=)
+* 2013, [Las recetas contra la solemnidad de R.A. Lafferty](http://www.lapazmundial.com/blog/2013/02/21/las-recetas-contra-la-solemnidad-de-r-a-lafferty/ "Recipes from the solemnity of R.A. Lafferty"), La Paz Mundial, Spain &nbsp; [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.lapazmundial.com%2Fblog%2F2013%2F02%2F21%2Flas-recetas-contra-la-solemnidad-de-r-a-lafferty%2F&edit-text=)
+* 2003, [Biography of Rapahel Aloysius Lafferty](http://web.archive.org/web/20030408031523/http://perso.wanadoo.fr/listes.sf/lafferty/bio.htm), France &nbsp; [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20030408031523%2Fhttp%3A%2F%2Fperso.wanadoo.fr%2Flistes.sf%2Flafferty%2Fbio.htm&edit-text=)
+
 
 ### Facebook
 
