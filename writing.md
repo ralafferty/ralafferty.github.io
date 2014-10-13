@@ -48,6 +48,10 @@ permalink: /writing/
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty)
 * [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty)
 
+## Publishers
+
+* [Centipede Press](http://www.centipedepress.com/sf/manmademodels.html)
+
 ### Search
 
 * [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006), US
