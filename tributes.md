@@ -42,7 +42,10 @@ permalink: /tributes/
 * 1978, Guest of Honor, [Okcon](http://fancyclopedia.org/okon-78)
 * 1975, Winner, [Seiun Award](http://en.wikipedia.org/wiki/Seiun_Award) (Japan), [Foreign Short Story](http://www.sfadb.com/Seiun_Awards_1975), *Eurema's Dam*
 * 1973, Winner, [Hugo Award, Best Short Story](http://www.sfadb.com/Hugo_Awards_1973), *Eurema's Dam*
-* 1972, Winner, [The Elves, Gnomes and Little Men’s Science Fiction, Chowder and Marching Society](http://file770.com/?p=8781&cpage=1#comment-90596), [The Invisible Little Man Award](http://fancyclopedia.org/invisible-little-man-award) &middot; [Trophy at University of Tulsa](http://web.archive.org/web/20100723200406/http://www.lib.utulsa.edu/speccoll/collections/lafferty/index3.htm) &middot; [Rhodomagnetic (fanzine)](http://fanac.org/fanzines/Rhodomagnetic/)
+* 1972, Winner, [The Elves, Gnomes and Little Men’s Science Fiction, Chowder and Marching Society](http://file770.com/?p=8781&cpage=1#comment-90596), [The Invisible Little Man Award](http://fancyclopedia.org/invisible-little-man-award) 
+&middot; [Lafferty Trophy at University of Tulsa](http://web.archive.org/web/20100723200406/http://www.lib.utulsa.edu/speccoll/collections/lafferty/index3.htm) 
+&middot; [Club History](http://fancyclopedia.org/bay-area)
+&middot; [Rhodomagnetic (fanzine)](http://fanac.org/fanzines/Rhodomagnetic/)
 * 1971, Winner, [DeepSouthCon](http://en.wikipedia.org/wiki/DeepSouthCon), SF Phoenix Award, [Lifetime Achievement Award](http://en.wikipedia.org/wiki/Phoenix_Award_%28science_fiction%29)
 * [... many other nominations](http://www.sfadb.com/R_A_Lafferty_Titles), including Nebula (7), Hugo (3) and Locus (22)
 
