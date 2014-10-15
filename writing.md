@@ -22,7 +22,7 @@ permalink: /writing/
 * 1962, [Sodom and Gomorrah, Texas](http://manybooks.net/titles/laffertyr2316123161.html) &mdash; review: [2013](http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?59221)
 * 1960, [The Six Fingers of Time](http://www.gutenberg.org/ebooks/31663) &mdash; review: [2013](http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?58350)
 
-## Reviews {#reviews}
+## Book Reviews {#bookreviews}
 
 * Archipelago, [Andrew Ferguson (2013)](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) 
 &middot; [gdrds](http://www.goodreads.com/book/show/2700591-archipelago#other_reviews)
