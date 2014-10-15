@@ -8,6 +8,12 @@
 	margin-top: 30px;
 	margin-right: 10px;
 	height: 170px;
+	min-width: 110px;
+	width: auto !important;
+	width: 110px;
 	vertical-align: top;
 }
 
+.btitle {
+	font-variant: small-caps;
+}

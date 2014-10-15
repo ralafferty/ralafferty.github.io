@@ -5,7 +5,9 @@ permalink: /readers/
 ---
 
 
-<img src="{{ site.baseurl }}/images/readers.jpg" height="197">
+<a href="http://manybooks.net/authors/laffertyr.html">
+  <img src="{{ site.baseurl }}/images/readers.jpg" height="197">
+</a>
 
 ## Social {#social}
 

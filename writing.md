@@ -24,17 +24,17 @@ permalink: /writing/
 
 ## Book Reviews {#bookreviews}
 
-* **Archipelago** 
+* <span class="btitle">Archipelago</span>
 [Andrew Ferguson (2013)](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) 
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2700591-archipelago#other_reviews)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=archipelago)
-* **Arrive at Easterwine**, 
+* <span class="btitle">Arrive at Easterwine</span>, 
 [hieronymopolis (2011)](http://hieronymopolis.wordpress.com/2011/02/21/epiktistes-on-time-from-arrive-at-easterwine-the-autobiography-of-a-ktistec-machine-as-conveyed-to-r-a-lafferty-1971/) 
 &middot; [goodreads](http://www.goodreads.com/book/show/2700590-arrive-at-easterwine#other_reviews)
 &middot; [amazon](http://www.amazon.com/Arrive-Easterwine-autobiography-ktistec-machine/product-reviews/068412341X/ref=cm_cr_pr_btm_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending) 
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=arrive+at+easterwine)
 &middot;&nbsp;[library](http://www.worldcat.org/title/arrive-at-easterwine-the-autobiography-of-a-ktistec-machine/oclc/000161018)
-* **Fourth Mansions**, 
+* <span class="btitle">Fourth Mansions</span>, 
 [Daniel Petersen (2011)](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) 
 &middot; [goodreads](http://www.goodreads.com/book/show/689957.Fourth_Mansions#other_reviews)
 &middot; [amazon](http://www.amazon.com/FOURTH-MANSIONS-24590-R-A-Lafferty/product-reviews/B001BJ0RAM/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending) 
@@ -43,14 +43,14 @@ permalink: /writing/
 &middot;&nbsp;[library](http://www.worldcat.org/title/fourth-mansions/oclc/005950330)
 &middot; [preview](http://books.google.com/books?id=AJ1yVXoMfkoC&printsec=frontcover&dq=fourth+mansions&hl=en&sa=X&ei=3H47VPmeCIzLsATNi4KIBg&ved=0CCsQuwUwAA#v=onepage&q=fourth%20mansions&f=false) 
 &mdash;&nbsp;*Nebula&nbsp;Nominee* 
-* **Iron Tears**, 
+* <span class="btitle">Iron Tears</span>, 
 [Don Webb (1993)](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) 
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292074.Iron_Tears#other_reviews)
 &middot;&nbsp;[amazon](http://www.amazon.com/Iron-Tears-R-A-Lafferty/product-reviews/096290662X/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending) 
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=iron+tears) 
 &middot;&nbsp;[preview](http://books.google.com/books?id=wJZDoE5Hz0MC&printsec=frontcover#v=onepage&q&f=false) 
 &mdash;&nbsp;*Philip&nbsp;K.&nbsp;Dick&nbsp;Award&nbsp;Finalist* 
-* **Nine Hundred Grandmothers**, 
+* <span class="btitle">Nine Hundred Grandmothers</span>, 
 [Ted Gioia (2014)](http://conceptualfiction.com/nine_hundred_grandmothers.html) 
 &middot;&nbsp;[Bill Hader (2008)](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) 
 &middot;&nbsp;[Ann Cecil (2007)](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) 
@@ -59,7 +59,7 @@ permalink: /writing/
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=nine+hundred+grandmothers)
 &middot;&nbsp;[library](http://www.worldcat.org/title/nine-hundred-grandmothers/oclc/003633426)
 &middot;&nbsp;[preview](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=frontcover#v=onepage&q&f=false) 
-* **Okla Hannali**, 
+* <span class="btitle">Okla Hannali</span>, 
 [Josephine (2013)](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/)
 &middot;&nbsp;[Keith Purtell (1998)](http://www.keithpurtell.com/kthings/r-a-lafferty.htm)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/667700.Okla_Hannali#other_reviews)
@@ -68,7 +68,7 @@ permalink: /writing/
 &middot;&nbsp;[excerpt](https://web.archive.org/web/20070927011811/http://www.prairienet.org/~almahu/hannali.htm) 
 &middot;&nbsp;[library](http://www.worldcat.org/title/okla-hannali/oclc/000389556)
 &middot;&nbsp;[preview](http://books.google.com/books?id=JEcdwFYa3boC&printsec=frontcover#v=onepage&q&f=false) 
-* **Past Master**, 
+* <span class="btitle">Past Master</span>, 
 [trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/05/finished-past-master-not-review.html) 
 &middot;&nbsp;[MPorcius (2014)](http://mporcius.blogspot.com/2014/01/past-master-by-r-lafferty.html) 
 &middot;&nbsp;[Robert Bee (2008)](http://www.irosf.com/q/zine/article/10456) 
@@ -80,7 +80,7 @@ permalink: /writing/
 &middot;&nbsp;[library](http://www.worldcat.org/title/past-master/oclc/001693870)
 &middot;&nbsp;[preview](http://books.google.com/books?id=uXHKVdU6nA8C&printsec=frontcover#v=onepage&q&f=false) 
 &mdash;&nbsp;*Hugo&nbsp;&&nbsp;Nebula&nbsp;Nominee* 
-* **The Devil is Dead**, 
+* <span class="btitle">The Devil is Dead</span>, 
 [Arthur B (2008)](http://ferretbrain.com/articles/article-240.html)
 &middot; [Steve Hooley (2002)](https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html) 
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292067.The_Devil_Is_Dead#other_reviews)
@@ -90,17 +90,17 @@ permalink: /writing/
 &middot;&nbsp;[library](http://www.worldcat.org/title/devil-is-dead/oclc/002896356)
 &middot;&nbsp;[preview](http://books.google.com/books?id=xk0YTotXzu0C&printsec=frontcover#v=onepage&q&f=false) 
 &mdash;&nbsp;*Nebula&nbsp;Nominee* 
-* **The Fall of Rome**, [Martin Heavisides (2009)](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html) 
+* <span class="btitle">The Fall of Rome</span>, [Martin Heavisides (2009)](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html) 
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2806990-the-fall-of-rome#other_reviews)
 &middot;&nbsp;[amazon](http://www.amazon.com/fall-Rome-R-Lafferty/product-reviews/B0006CALC4/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+fall+of+rome)
 &middot;&nbsp;[library](http://www.worldcat.org/title/fall-of-rome/oclc/000164581)
-* **The Flame is Green**, [John J Reilly (2003)](http://www.benespen.com/storage/the-long-view/tfig.html) 
+* <span class="btitle">The Flame is Green</span>, [John J Reilly (2003)](http://www.benespen.com/storage/the-long-view/tfig.html) 
 &middot; [goodreads](http://www.goodreads.com/book/show/4738947-the-flame-is-green#other_reviews)
 &middot; [amazon](http://www.amazon.com/flame-green-R-Lafferty/product-reviews/0802703461/ref=sr_1_2_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+flame+is+green)
 &middot;&nbsp;[library](http://www.worldcat.org/title/flame-is-green/oclc/000132073)
-* **Sindbad: The 13th Voyage**, 
+* <span class="btitle">Sindbad: The 13th Voyage</span>, 
 [trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/10/this-great-redemptive-recoil.html)
 &middot;&nbsp;[Arthur B (2008)](http://ferretbrain.com/articles/article-264)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2412553.Sindbad#other_reviews)
@@ -108,14 +108,14 @@ permalink: /writing/
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=sindbad)
 &middot;&nbsp;[excerpt](http://failingevenbetter.blogspot.com/2014/09/well-its-living-and-living-in-magic.html) 
 &middot;&nbsp;[preview](http://books.google.com/books?id=Y9sLZ56fQWMC&printsec=frontcover#v=onepage&q&f=false) 
-* **Space Chantey**, [Kevin Cheek (2013)](http://www.yetanotherlaffertyblog.com/2013/05/deeply-silly.html) 
+* <span class="btitle">Space Chantey</span>, [Kevin Cheek (2013)](http://www.yetanotherlaffertyblog.com/2013/05/deeply-silly.html) 
 &middot; [goodreads](http://www.goodreads.com/book/show/2154101.Space_Chantey#other_reviews)
 &middot; [goodreads](http://www.goodreads.com/book/show/10876706-pity-about-earth-space-chantey#other_reviews)
 &middot; [amazon](http://www.amazon.com/Space-Chantey-About-Earth-Double/product-reviews/B001E50QMW/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=space+chantey)
 &middot;&nbsp;[library](http://www.worldcat.org/title/space-chantey/oclc/006027516)
-* **United Mythologies Press**, [Catalog (1992)](/archive/ump-usenet.txt)
-* **Unpublished Lafferty**, [Lawrence Person (2012)](http://www.lawrenceperson.com/?p=7400) 
+* <span class="btitle">United Mythologies Press</span>, [Catalog (1992)](/archive/ump-usenet.txt)
+* <span class="btitle">Unpublished Lafferty</span>, [Lawrence Person (2012)](http://www.lawrenceperson.com/?p=7400) 
 &middot;&nbsp;[buy review article](http://www.nyrsf.com/2012/01/)
 
 
