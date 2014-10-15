@@ -5,7 +5,7 @@ permalink: /readers/
 ---
 
 
-<a href="http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm"><img src="{{ site.baseurl }}/images/readers.jpg"></a>
+<img src="{{ site.baseurl }}/images/readers.jpg" height="197">
 
 ## Social {#social}
 

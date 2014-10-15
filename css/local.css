@@ -1,0 +1,13 @@
+.TextWrapLeft {
+	clear: left
+	float: left
+	margin: 10px;
+}
+
+.bookcover {
+	margin-top: 30px;
+	margin-right: 10px;
+	height: 170px;
+	vertical-align: top;
+}
+
