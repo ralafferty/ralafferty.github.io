@@ -24,7 +24,7 @@ permalink: /writing/
 
 ## Book Reviews {#bookreviews}
 
-* <span class="btitle">Archipelago</span>
+* <span class="btitle">Archipelago</span>,
 [Andrew Ferguson (2013)](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) 
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2700591-archipelago#other_reviews)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=archipelago)
