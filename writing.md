@@ -72,9 +72,11 @@ permalink: /writing/
 &middot; [gdrds](http://www.goodreads.com/book/show/4738947-the-flame-is-green#other_reviews)
 &middot; [amzn](http://www.amazon.com/flame-green-R-Lafferty/product-reviews/0802703461/ref=sr_1_2_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
 [&nbsp; $ &nbsp;](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+flame+is+green)
-* Sindbad: The 13th Voyage, [trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/09/well-its-living-and-living-in-magic.html) 
+* Sindbad: The 13th Voyage, 
+[trawlerman 2014](http://failingevenbetter.blogspot.com/2014/10/this-great-redemptive-recoil.html)
 &middot; [gdrds](http://www.goodreads.com/book/show/2412553.Sindbad#other_reviews)
 &middot; [amzn](http://www.amazon.com/Sindbad-Thirteenth-Voyage-R-Lafferty/product-reviews/0962382418/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+&middot; [excerpt](http://failingevenbetter.blogspot.com/2014/09/well-its-living-and-living-in-magic.html) 
 &middot; [preview](http://books.google.com/books?id=Y9sLZ56fQWMC&printsec=frontcover#v=onepage&q&f=false) 
 [&nbsp; $ &nbsp;](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=sindbad)
 * Space Chantey, [Kevin Cheek (2013)](http://www.yetanotherlaffertyblog.com/2013/05/deeply-silly.html) 
