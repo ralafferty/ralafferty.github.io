@@ -9,7 +9,7 @@ permalink: /library/
 <br>
 R.A. Lafferty on his personal library: 
 
-> "... sometime in late 1946, I came home from the war and went back to work in the Electric business.  Everything went well with me.  I had friends and fun.  I accumulated 8,000 books, all of them choice."&nbsp;[^andersol93]
+> "... sometime in late 1946, I came home from the war and went back to work in the Electric business.  Everything went well with me.  I had friends and fun.  I accumulated 8,000 books, all of them choice."&nbsp;[^anderson93]
 
 Keith Purtell (who took the above photo in 1998) [described the library](http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm):
 
@@ -29,7 +29,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Ancient Engineers*, by L. Sprague De Camp, 1963 
 
-> "This is more exciting than any of the dozens of fictional works written by this talented man."&nbsp;[^andersol93]
+> "This is more exciting than any of the dozens of fictional works written by this talented man."&nbsp;[^anderson93]
 
 &middot;&nbsp;[kirkus](https://www.kirkusreviews.com/book-reviews/l-sprague-de-camp-14/the-ancient-engineers-2/)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1120788.The_Ancient_Engineers#other_reviews)
@@ -48,7 +48,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Catholic Encyclopedia*, 15 Volumes & Index, 1913
 
-> "There's lots of information on its 12,000 pages.  When I wonder 'What was it really like?' I look up the key city of a place.  If it had a Bishop, it had a history.  There are entries as droll as tales out of Chaucer.  The color and flavor are to be found everywhere."&nbsp;[^andersol93]
+> "There's lots of information on its 12,000 pages.  When I wonder 'What was it really like?' I look up the key city of a place.  If it had a Bishop, it had a history.  There are entries as droll as tales out of Chaucer.  The color and flavor are to be found everywhere."&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/Catholic_Encyclopedia)
 &middot;&nbsp;[oce](http://oce.catholic.com)
@@ -64,7 +64,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The City of God*, by St. Augustine, 426
 
-> "It's all there, even if in a sort of code."&nbsp;[^andersol93]
+> "It's all there, even if in a sort of code."&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/City_of_God_%28book%29)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/25673.City_of_God#other_reviews)
@@ -82,7 +82,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Decline of the West*, by Oswald Spangler, 1922 
 
-> "... don't forget the strange work ... by the strange genius Oswald Spengler.  Once you have read that, everything in the world has a different color to it."&nbsp;[^andersol93]
+> "... don't forget the strange work ... by the strange genius Oswald Spengler.  Once you have read that, everything in the world has a different color to it."&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/The_Decline_of_the_West)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/801754.The_Decline_of_the_West#other_reviews)
@@ -101,7 +101,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *Harper's Dictionary of Classical Literature and Antiquities*, by Harry Thurston Peck (ed.), 1963 
 
-> "There are absolute delights to be found on every one of its 1701 pages."&nbsp;[^andersol93]
+> "There are absolute delights to be found on every one of its 1701 pages."&nbsp;[^anderson93]
 
 &middot; [perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0062&redirect=true)
 &middot;&nbsp;[archive.org](https://archive.org/details/cu31924027019482)
@@ -118,7 +118,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *A History of Technology*, by Charles Singer (ed.), 5 Volumes, 1954, Oxford University Press. 
 
-> "One unsuspected source that I used a lot ... Vol. 1 'From Early Times to the Fall of Ancient Empires' is a treasure trove of early and unsuspected technology."&nbsp;[^andersol93]
+> "One unsuspected source that I used a lot ... Vol. 1 'From Early Times to the Fall of Ancient Empires' is a treasure trove of early and unsuspected technology."&nbsp;[^anderson93]
 
 &middot;&nbsp;[archive.org](https://archive.org/details/shorthistoryofsc007407mbp) (abridged) 
 &middot;&nbsp;[amazon](http://www.amazon.com/History-Technology-Early-Ancient-Empires/dp/019858105X/#customerReviews)
@@ -135,7 +135,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The History of the Decline and Fall of the Roman Empire*, by Edward Gibbon, 1776 
 
-> "There were numerous 'Histories of Rome' which cover the subject but most of them lack real excitement.  Well, all of them lack it except Gibbons.  Gibbons is sometimes inaccurate, but not very often.  He is sometimes prejudiced, and sometimes his fine sense of proportion fails him (but only for a little while and not seriously).  But he is always exciting, he is a wonder, he has a true touch of magic, even if he sometimes uses too broad a brush with it."&nbsp;[^andersol93]
+> "There were numerous 'Histories of Rome' which cover the subject but most of them lack real excitement.  Well, all of them lack it except Gibbons.  Gibbons is sometimes inaccurate, but not very often.  He is sometimes prejudiced, and sometimes his fine sense of proportion fails him (but only for a little while and not seriously).  But he is always exciting, he is a wonder, he has a true touch of magic, even if he sometimes uses too broad a brush with it."&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire)
 &middot;&nbsp;[manybooks](http://manybooks.net/authors/gibboned.html) 
@@ -151,4 +151,4 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 <br>
 
-[^andersol93]: [Lafferty to Charlotte Andersol](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402), August 3, 1993
+[^anderson93]: [Lafferty to Charlotte Anderson](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402), August 3, 1993
