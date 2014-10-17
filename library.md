@@ -198,7 +198,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Bow in the Clouds*, by E.I. Watkin, 1931
 
-In [2014](http://ralafferty.tumblr.com/post/90693992487/excerpt-2-austro-and-the-colors-of-heaven) and [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html), Andrew Ferguson reviewed the influence of [E.I.&nbsp;Watkin](http://supremacyandsurvival.blogspot.com/2013/04/ei-watkins-friend-of-christopher-dawson.html) on stories in *Through Elegant Eyes*. [Gregorio](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html?showComment=1318520489020#c1038800607588431769) noted that Lafferty quotes Watkin in *Tales of Midnight*.
+In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html) and [2014](http://ralafferty.tumblr.com/post/90693992487/excerpt-2-austro-and-the-colors-of-heaven), Andrew Ferguson reviewed the influence of [E.I.&nbsp;Watkin](http://supremacyandsurvival.blogspot.com/2013/04/ei-watkins-friend-of-christopher-dawson.html) on stories in *Through Elegant Eyes*. [Gregorio](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html?showComment=1318520489020#c1038800607588431769) noted that Lafferty quotes Watkin in *Tales of Midnight*.
  
 &middot;&nbsp;[amazon](http://www.amazon.com/Bow-Clouds-Towards-Integration-Experience/dp/1162737913/)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=e.i.+watkin&title=The+Bow+in+the+Clouds)
