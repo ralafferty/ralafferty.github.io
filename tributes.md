@@ -30,6 +30,7 @@ permalink: /tributes/
 * 1992, [Despair and the Duck Lady](http://www.michaelswanwick.com/nonfic/duck.html), Michael Swanwick (*Iron Tears*)
 * 1991, [Boomer Flats Gazette](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/), Dan Knight, United Mythologies Press
 * 1990, [Episodes of the Argo](http://antsofgodarequeerfish.blogspot.co.uk/2011/10/its-great-to-be-young-and-in-danger.html), Gene Wolfe
+* 1984, [Ringing Changes](http://antsofgodarequeerfish.blogspot.com/2014/10/against-grain-stories-songs-of.html)
 * 1987, [Musings on Ray](http://web.archive.org/web/20091027093659/http://geocities.com/konstiantin/osfw/authors/RAL_kimmel.html), Stephen Kimmel
 * 1971, [Fall of Rome](http://books.google.com/books?id=HG-vjhQqE_cC&pg=PA107&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=uwhBVKXtGavbsASE64LoBw&ved=0CCIQuwUwAA#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false), Darrell Schweitzer
 
@@ -43,7 +44,8 @@ permalink: /tributes/
 * 1991, Shortlist, U of Kansas, [Theodore Sturgeon Award](http://en.wikipedia.org/wiki/Theodore_Sturgeon_Award), [Best Short Story](http://www.locusmag.com/SFAwards/Db/Sturgeon1991.html), *Episodes of the Argo*
 * 1990, Winner, World Fantasy Convention, [Lifetime Achievement Award](http://www.worldfantasy.org/awards/awardslist.html)
 * 1983, Finalist, [Philip K. Dick Award](http://en.wikipedia.org/wiki/Philip_K._Dick_Award), [Best Original SF Paperback](http://www.sfadb.com/Philip_K_Dick_Award_1983), *Aurelia*
-* 1978, Guest of Honor, [Okcon](http://fancyclopedia.org/okon-78)
+* 1978, Guest of Honor, [Okcon](http://fancyclopedia.org/okon-78) 
+&middot; [DSC](http://www.smithuel.net/sfchb/hbp2dsc.html)
 * 1975, Winner, [Seiun Award](http://en.wikipedia.org/wiki/Seiun_Award) (Japan), [Foreign Short Story](http://www.sfadb.com/Seiun_Awards_1975), *Eurema's Dam*
 * 1973, Winner, [Hugo Award, Best Short Story](http://www.sfadb.com/Hugo_Awards_1973), *Eurema's Dam*
 * 1972, Winner, [The Elves, Gnomes and Little Men’s Science Fiction, Chowder and Marching Society](http://file770.com/?p=8781&cpage=1#comment-90596), [The Invisible Little Man Award](http://fancyclopedia.org/invisible-little-man-award) 

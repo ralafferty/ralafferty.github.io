@@ -9,10 +9,14 @@ The audience and writing of R.A. Lafferty (1914-2002).
 
 ## Interviews 
 
-* 1983, [Darrel Schweitzer](http://hieronymopolis.wordpress.com/2010/12/09/r-a-lafferty-on-secular-liberalism-the-religion-that-is-not-called-a-religion/) 
-&middot; [preview full interview](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
-* 1979, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), Robert Whitaker
-* 1979, [The Day After the World Ended](http://web.archive.org/web/20090327154715/http://www.prairienet.org/~almahu/after.htm)
+* 1990, United Mythologies Press, *Cranky Old Man from Tulsa*
+* 1983, Darrel Schweitzer
+&middot; [excerpt](http://hieronymopolis.wordpress.com/2010/12/09/r-a-lafferty-on-secular-liberalism-the-religion-that-is-not-called-a-religion/) 
+&middot; [preview](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
+* 1979, Robert Whitaker, [*At The Sleepy Sailor*](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) 
+* 1979, [The Day After the World Ended](http://web.archive.org/web/20090327154715/http://www.prairienet.org/~almahu/after.htm), *It's Down the Slippery Cellar Stairs*
+* 1973, Paul Walker, *Alien Critic #6*
+* 1970, P.S. Price, R.A. Lafferty the man and his work, *Phantasmicom #3* [&nbsp; * &nbsp;](http://www.worldcat.org/title/ra-lafferty-the-man-and-his-work/oclc/70161171)
 
 ## [Quotes](http://en.wikiquote.org/wiki/R._A._Lafferty) {#quotes}
 
