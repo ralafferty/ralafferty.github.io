@@ -138,6 +138,7 @@ permalink: /writing/
 &middot; [Lafferty letter](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402) (1993)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2806990-the-fall-of-rome#other_reviews "6 reviews")
 &middot;&nbsp;[amazon](http://www.amazon.com/fall-Rome-R-Lafferty/product-reviews/B0006CALC4/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "3 reviews")
+&middot;&nbsp;[Darrell Schweitzer introduction](http://books.google.com/books?id=HG-vjhQqE_cC&pg=PA107&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=uwhBVKXtGavbsASE64LoBw&ved=0CCIQuwUwAA#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+fall+of+rome)
 &middot;&nbsp;[library](http://www.worldcat.org/title/fall-of-rome/oclc/000164581)
 * <span class="btitle">The Flame is Green</span>

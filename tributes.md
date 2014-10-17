@@ -31,6 +31,7 @@ permalink: /tributes/
 * 1991, [Boomer Flats Gazette](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/), Dan Knight, United Mythologies Press
 * 1990, [Episodes of the Argo](http://antsofgodarequeerfish.blogspot.co.uk/2011/10/its-great-to-be-young-and-in-danger.html), Gene Wolfe
 * 1987, [Musings on Ray](http://web.archive.org/web/20091027093659/http://geocities.com/konstiantin/osfw/authors/RAL_kimmel.html), Stephen Kimmel
+* 1971, [Fall of Rome](http://books.google.com/books?id=HG-vjhQqE_cC&pg=PA107&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=uwhBVKXtGavbsASE64LoBw&ved=0CCIQuwUwAA#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false), Darrell Schweitzer
 
 ## Honors {#honors}
 
