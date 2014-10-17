@@ -104,8 +104,8 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 > "This is the biggest and probably the best one-author collection to appear in the '80s. There are at least three stories in it that should have won Hugos, and there are no poor stories in it at all... Read it, and then read at least half of it again." [^wolfe-cover]
 
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/415634.Plutarch_s_Lives_Volume_1#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/Plutarchs-Volume-Modern-Library-Classics/product-reviews/0375756760/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/271578.Endangered_Species#other_reviews)
+&middot;&nbsp;[amazon](http://www.amazon.com/Endangered-Species-Gene-Wolfe/product-reviews/0765310333/)
 
   </td>
 </tr>
