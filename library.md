@@ -7,7 +7,7 @@ permalink: /library/
 <a href="http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm"><img src="{{ site.baseurl }}/images/library.jpg"></a>
 
 <br>
-R.A. Lafferty on his personal library: 
+R. A. Lafferty on his personal library: 
 
 > "... sometime in late 1946, I came home from the war and went back to work in the Electric business.  Everything went well with me.  I had friends and fun.  I accumulated 8,000 books, all of them choice."&nbsp;[^anderson93]
 
@@ -15,10 +15,11 @@ Keith Purtell (who took the above photo in 1998) [described the library](http://
 
 > "Ray opened a plain door and I followed him between two long book shelves that towered above my head. They ran most the length of the room, leaving only enough space for a left turn near the far wall. The shelves were packed with hundreds of books. We turned left and I saw another narrow corridor framed by high, full book shelves on the right and several book-lined avenues radiating off to the left, each disappearing into dim recesses. We walked straight along the wall to the far corner and made another left turn, whereupon our final destination was in sight; Ray's "office." He told me this was where he did all his writing. He gestured to a rickety little table and a manual typewriter. A simple gooseneck lamp hovered expectantly over the typewriter."
 
+It appears that no inventory was taken of Lafferty's personal library before it was dismantled.  However, some of his letters and interviews included commentary on books.  As these are identified, they will be added to this page, along with a Lafferty quote if available.
+
 -----
 
-<br>
-It appears that no inventory was taken of Lafferty's personal library before it was dismantled.  However, some of his letters included commentary on books.  As these are identified, they will be added to this list.
+## Books Reviewed
 
 <table>
 <tr valign="top">
@@ -95,11 +96,26 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 </tr>
 <tr valign="top">
   <td>
+    <img src="../images/endangered-species-wolfe.jpg" class="bookcover">
+  </td>
+<td markdown="1">
+
+#### *Endangered Species*, by Gene Wolfe
+
+> "This is the biggest and probably the best one-author collection to appear in the '80s. There are at least three stories in it that should have won Hugos, and there are no poor stories in it at all... Read it, and then read at least half of it again." [^wolfe-cover]
+
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/415634.Plutarch_s_Lives_Volume_1#other_reviews)
+&middot;&nbsp;[amazon](http://www.amazon.com/Plutarchs-Volume-Modern-Library-Classics/product-reviews/0375756760/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending)
+
+  </td>
+</tr>
+<tr valign="top">
+  <td>
     <img src="../images/harpers_dictionary.jpg" class="bookcover">
   </td>
 <td markdown="1">
 
-#### *Harper's Dictionary of Classical Literature and Antiquities*, by Harry Thurston Peck (ed.), 1963 
+#### *Harper's Dictionary of Classical Literature and Antiquities*, by Harry&nbsp;Thurston&nbsp;Peck (ed.), 1963 
 
 > "There are absolute delights to be found on every one of its 1701 pages."&nbsp;[^anderson93]
 
@@ -133,7 +149,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
   </td>
 <td markdown="1">
 
-#### *The History of the Decline and Fall of the Roman Empire*, by Edward Gibbon, 1776 
+#### *The History of the Decline and Fall of the Roman Empire*, by Edward&nbsp;Gibbon, 1776 
 
 > "There were numerous 'Histories of Rome' which cover the subject but most of them lack real excitement.  Well, all of them lack it except Gibbons.  Gibbons is sometimes inaccurate, but not very often.  He is sometimes prejudiced, and sometimes his fine sense of proportion fails him (but only for a little while and not seriously).  But he is always exciting, he is a wonder, he has a true touch of magic, even if he sometimes uses too broad a brush with it."&nbsp;[^anderson93]
 
@@ -147,8 +163,95 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
   </td>
 </tr>
+<tr valign="top">
+  <td>
+    <img src="../images/plutarchs_lives.jpg" class="bookcover">
+  </td>
+<td markdown="1">
+
+#### *Plutarch's Lives*, 1st century
+
+> "Plutarch invented the novel as well as the biography in this.  There were really fifty short-or-medium-length novels here (the degree of fiction can't be determined now), and they are good.  He really invented narration as distinguished from rhetoric and a few other things.  He was the world's best novelist (Balzac comes in second) and nineteen hundred years haven't done him any harm at all."&nbsp;[^whitaker79]
+
+
+&middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/Parallel_Lives)
+&middot;&nbsp;[manybooks](http://manybooks.net/titles/plutarchetext96plivs10.html)
+&middot;&nbsp;[archive.org](http://archive.org/search.php?query=Plutarch%27s%20lives&sort=-downloads)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/415634.Plutarch_s_Lives_Volume_1#other_reviews)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/3679100-parallel-lives#other_reviews)
+&middot;&nbsp;[amazon](http://www.amazon.com/Plutarchs-Volume-Modern-Library-Classics/product-reviews/0375756760/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending)
+
+  </td>
+</tr>
+</table>
+
+-------
+
+## Books Cited
+
+<table>
+<tr valign="top">
+  <td>
+    <img src="../images/bow-in-the-clouds.jpg" class="bookcover">
+  </td>
+<td markdown="1">
+
+#### *The Bow in the Clouds*, by E.I. Watkin, 1931
+
+In [2014](http://ralafferty.tumblr.com/post/90693992487/excerpt-2-austro-and-the-colors-of-heaven) and [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html), Andrew Ferguson reviewed the influence of [E.I.&nbsp;Watkin](http://supremacyandsurvival.blogspot.com/2013/04/ei-watkins-friend-of-christopher-dawson.html) on stories in *Through Elegant Eyes*. [Gregorio](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html?showComment=1318520489020#c1038800607588431769) noted that Lafferty quotes Watkin in *Tales of Midnight*.
+ 
+&middot;&nbsp;[amazon](http://www.amazon.com/Bow-Clouds-Towards-Integration-Experience/dp/1162737913/)
+&middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=e.i.+watkin&title=The+Bow+in+the+Clouds)
+
+  </td>
+</tr>
 </table>
 
 <br>
 
+-------
+
+## Writers Cited
+
+* #### World's second-best novelist [^whitaker79]
+  * <span class="btitle">[Honoré de Balzac](http://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac "Due to his keen observation of detail and unfiltered representation of society, Balzac is regarded as one of the founders of realism in European literature. He is renowned for his multifaceted characters, who are morally ambiguous.")</span> (1850)
+&middot; [archive.org](https://archive.org/details/lacomedie33balz)
+&middot; [manybooks](http://manybooks.net/authors/balzacho.html) 
+&middot; [goodreads](https://www.goodreads.com/shelf/show/balzac)
+
+* #### Early influences [^whitaker79]
+  * <span class="btitle">[Robert Louis Stevenson](http://en.wikipedia.org/wiki/Robert_Louis_Stevenson "most famous works are Treasure Island, Kidnapped, and Strange Case of Dr Jekyll and Mr Hyde.")</span> (1894)
+&middot; [manybooks](http://manybooks.net/authors/stevensonro.html)
+  * <span class="btitle">[Mark Twain](http://en.wikipedia.org/wiki/Mark_Twain "lauded as the "greatest American humorist of his age"")</span> (1910)
+&middot; [manybooks](http://manybooks.net/authors/twainmar.html)
+  * <span class="btitle">[Bret Harte](http://en.wikipedia.org/wiki/Bret_Harte "best remembered for his short fiction featuring miners, gamblers, and other romantic figures of the California Gold Rush")</span> (1902)
+&middot; [manybooks](http://manybooks.net/authors/hartebre.html)
+  * <span class="btitle">[Herman Melville](http://en.wikipedia.org/wiki/Herman_Melville "Best known for his whaling novel Moby-Dick")</span> (1891)
+&middot; [manybooks](http://manybooks.net/authors/melville.html)
+  * <span class="btitle">[Lafcadio Hearn](http://en.wikipedia.org/wiki/Lafcadio_Hearn "known best for his books about Japan, especially his collections of Japanese legends and ghost stories")</span> (1904)
+&middot; [Kwaidan: Stories and Studies of Strange Things](http://en.wikipedia.org/wiki/Kwaidan:_Stories_and_Studies_of_Strange_Things)
+&middot; [manybooks](http://manybooks.net/titles/hearnlafetext98kwidn10.html)
+  * <span class="btitle">[Hilaire Belloc](http://en.wikipedia.org/wiki/Hilaire_Belloc "writer, orator, poet, sailor, satirist, man of letters, soldier and political activist")</span> (1953)
+&middot; [manybooks](http://manybooks.net/authors/bellochi.html)
+  * <span class="btitle">[G.K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton "writer, lay theologian, poet, philosopher, dramatist, journalist, orator, literary and art critic, biographer, and Christian apologist")</span> (1936)
+&middot; [manybooks](http://manybooks.net/authors/chestert.html)
+  * <span class="btitle">[Charles Dickens](http://en.wikipedia.org/wiki/Charles_Dickens "generally regarded as the greatest novelist of the Victorian period")</span> (1870)
+&middot; [manybooks](http://manybooks.net/authors/dickensc.html)
+  * <span class="btitle">[J.B. Cabell](http://en.wikipedia.org/wiki/James_Branch_Cabell "saw art as an escape from life, but once the artist creates his ideal world, he finds that it is made up of the same elements that make the real one")</span> (1958)
+&middot; [manybooks](http://manybooks.net/authors/cabellja.html)
+  * <span class="btitle">[Donn Byrne](http://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne "was firmly of the neo-Romantic view of the mythical and pastoral beauty of Irish history.")</span> (1928)
+&middot; [manybooks](http://manybooks.net/authors/donn-byrneb.html)
+  * <span class="btitle">[Graham Greene](http://en.wikipedia.org/wiki/Graham_Greene "Combining literary acclaim with widespread popularity, Greene acquired a reputation as a great writer, both of serious Catholic novels and of thrillers")</span> (1991)
+&middot; [goodreads](http://www.goodreads.com/author/show/2533.Graham_Greene)
+  * <span class="btitle">[W. Somerset Maugham](http://en.wikipedia.org/wiki/W._Somerset_Maugham "British playwright, novelist and short story writer. He was among the most popular writers of his era and reputedly the highest paid author during the 1930s.")</span> (1965)
+&middot; [manybooks](http://manybooks.net/authors/maughamw.html)
+
+-------
+
+## Notes
+
 [^anderson93]: [Lafferty to Charlotte Anderson](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402), August 3, 1993
+
+[^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
+
+[^wolfe-cover]: Cover Blurb, [Endangered Species](http://books.google.com/books?id=4AVYhTiMiawC&pg=PP3&lpg=PP3&dq=%22This+is+the+biggest+and+probably+the+best+one-author+collection%22&source=bl&ots=p3cI6H7GX9&sig=vjlXYMvIm65X1qcbrWiHGNr2B0U&hl=en&sa=X&ei=krtAVLqIJ9fesAS5mYLQCw&ved=0CCQQ6AEwAQ#v=onepage&q=%22This%20is%20the%20biggest%20and%20probably%20the%20best%20one-author%20collection%22&f=false), Gene Wolfe

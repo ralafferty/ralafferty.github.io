@@ -14,6 +14,7 @@ permalink: /readers/
 * Facebook, Group: [East of Laughter](https://www.facebook.com/groups/586744968045210/) &middot; Page: [ralaffertyfans](https://www.facebook.com/ralaffertyfans)
 * Forums, [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL/messageboard/viewforum.php?f=1) &middot; [Vault of Evil](http://vaultofevil.proboards.com/thread/4740/lafferty) &middot; [Forum Romanum](http://5622.forumromanum.com/member/forum/forum.php?action=std_tindex&USER=user_5622&onsearch=1&threadid=2) (2003)
 * Twitter, Search: [R.A. Lafferty](https://twitter.com/search?q=r.a.%20lafferty&src=typd) &middot; [#RALafferty](https://twitter.com/hashtag/RALafferty?src=hash) &middot; Lafferty Quotes: [@RALaffertyTweet](https://twitter.com/RALaffertyTweet)
+* Disqus, [John Ellison](https://disqus.com/home/user/johnellison)
 
 ## English {#english}
 
@@ -37,7 +38,11 @@ permalink: /readers/
   * [East of Lafferty](http://www.eastoflafferty.com/) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.eastoflafferty.com%2F&edit-text=)
 
 * #### Japanese
-   * [とりあえず、ラファティ &mdash; Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Kenji Matsuzaki [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhc2.seikyou.ne.jp%2Fhome%2FDrBr%2Findex.html&edit-text=)
+   * [とりあえず、ラファティ&mdash; Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Kenji Matsuzaki 
+[&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhc2.seikyou.ne.jp%2Fhome%2FDrBr%2Findex.html&edit-text=)
+  * [S―Fマガジン２０１４年１２月号 &mdash; Lafferty Centennial](http://hayakawa-online.co.jp/product/books/721412.html)
+[&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhayakawa-online.co.jp%2Fproduct%2Fbooks%2F721412.html&edit-text=)
+
 * #### Spanish
   * Bibliography, [Tercera](http://www.tercerafundacion.net/biblioteca/ver/persona/306) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.tercerafundacion.net%2Fbiblioteca%2Fver%2Fpersona%2F306&edit-text=) --- &nbsp; [Lecturalia](http://www.lecturalia.com/autor/13364/r-a-lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.lecturalia.com%2Fautor%2F13364%2Fr-a-lafferty&edit-text=) --- &nbsp; [wikipedia](http://es.wikipedia.org/wiki/R._A._Lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FR._A._Lafferty&edit-text=)
   * 2013, [Las recetas contra la solemnidad de R.A. Lafferty](http://www.lapazmundial.com/blog/2013/02/21/las-recetas-contra-la-solemnidad-de-r-a-lafferty/ "Recipes from the solemnity of R.A. Lafferty"), La Paz Mundial [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.lapazmundial.com%2Fblog%2F2013%2F02%2F21%2Flas-recetas-contra-la-solemnidad-de-r-a-lafferty%2F&edit-text=)

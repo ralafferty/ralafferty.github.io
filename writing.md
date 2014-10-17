@@ -8,114 +8,163 @@ permalink: /writing/
 
 ## Short Stories {#shortstories}
 
-* 1973, [Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22) &mdash; review: [2013](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) &middot; [2012](http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html) &mdash; <b>*Hugo Winner*</b> [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?41531)
-* 1971, [Sky](https://www.google.com/search?&q=r.a.+lafferty+"sky") &mdash; *Hugo Nominee* [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?40938)
-* 1970, [Entire And Perfect Chrysolite](https://www.google.com/search?&q=r.a.+lafferty+%22entire+and+perfect+chrysolite%22) &mdash; *Nebula Nominee* [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?41436)
-* 1970, [Continued on the Next Rock](https://www.google.com/search?q=Continued+on+the+Next+Rock&ie=utf-8&oe=utf-8#channel=fs&q=r.a.+lafferty+%22Continued+on+the+Next+Rock%22) &mdash; *Nebula Nominee* [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?41531)
-* 1967, [Thus We Frustrate Charlemagne](https://www.google.com/search?&q=r.a.+lafferty+"thus+we+frustrate+charlemagne") &mdash; review: [2014](http://ttdlabyrinth.wordpress.com/2014/08/01/reprint-thus-we-frustrate-charlemagne/) &middot; [2014](https://livingthegeeklife.wordpress.com/2014/01/05/short-story-saturday-thus-we-frustrate-charlemagne/) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?52255)
-* 1966, [Nine Hundred Grandmothers](https://web.archive.org/web/20080124051430/http://www.scifi.com/scifiction/classics/classics_archive/lafferty/lafferty1.html) &mdash; review: [2011](http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?54132)
-* 1966, [Narrow Valley](https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html) &mdash; review: [2013](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) &middot; [2013](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) &middot; [1999](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) &middot; [Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?53936)
-* 1965, [Guesting Time](http://www.baenebooks.com/chapters/9781625791191/9781625791191___3.htm) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?54089)
-* 1965, [In Our Block](https://www.google.com/search?&q=r.a.+lafferty+%22in+our+block%22) &mdash; *Nebula Nominee* [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?54099)
-* 1965, [Slow Tuesday Night](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm) &mdash; review: [2012](http://happinessisfreesf.blogspot.com/2012/12/slow-tuesday-night-by-r-lafferty.html) &middot; [2010](http://www.sfsignal.com/archives/2010/02/slow_tuesday_night/) &middot; [2007](http://gilthejenius.blogspot.com/2007/02/web-wonder.html) --- *Nebula Nominee* [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?52458)
-* 1964, [The Transcendent Tigers](https://web.archive.org/web/20071230052651/www.scifi.com/scifiction/classics/classics_archive/lafferty4/lafferty41.html) &mdash; review: [2013](http://ralafferty.tumblr.com/post/65026598841/75-the-transcendent-tigers) &middot; [2005](http://edsfproject.blogspot.com/2005/11/transcendent-tigers-by-ra-lafferty.html) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?59357)
-* 1962, [Sodom and Gomorrah, Texas](http://manybooks.net/titles/laffertyr2316123161.html) &mdash; review: [2013](http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?59221)
-* 1960, [The Six Fingers of Time](http://www.gutenberg.org/ebooks/31663) &mdash; review: [2013](http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time) [&nbsp; &phi; &nbsp;](http://www.isfdb.org/cgi-bin/title.cgi?58350)
+* 1973, <span class="btitle">[Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22)</span>
+&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) (2013)
+&middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html) (2012)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41531)
+&mdash; <b>*Hugo Winner*</b> 
+* 1971, <span class="btitle">[Sky](https://www.google.com/search?&q=r.a.+lafferty+"sky")</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?40938)
+&mdash; *Hugo Nominee* 
+* 1970, <span class="btitle">[Entire And Perfect Chrysolite](https://www.google.com/search?&q=r.a.+lafferty+%22entire+and+perfect+chrysolite%22)</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41436)
+&mdash; *Nebula Nominee* 
+* 1970, <span class="btitle">[Continued on the Next Rock](https://www.google.com/search?q=Continued+on+the+Next+Rock&ie=utf-8&oe=utf-8#channel=fs&q=r.a.+lafferty+%22Continued+on+the+Next+Rock%22)</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41531)
+&mdash; *Nebula Nominee* 
+* 1967, <span class="btitle">[Thus We Frustrate Charlemagne](https://www.google.com/search?&q=r.a.+lafferty+"thus+we+frustrate+charlemagne")</span>
+&middot; [Paul Kincaid](http://ttdlabyrinth.wordpress.com/2014/08/01/reprint-thus-we-frustrate-charlemagne/) (2014)
+&middot; [Living the Geek Life](https://livingthegeeklife.wordpress.com/2014/01/05/short-story-saturday-thus-we-frustrate-charlemagne/) (2014)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52255)
+* 1966, <span class="btitle">[Nine Hundred Grandmothers](https://web.archive.org/web/20080124051430/http://www.scifi.com/scifiction/classics/classics_archive/lafferty/lafferty1.html)</span>
+&middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html) 
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54132)
+* 1966, <span class="btitle">[Narrow Valley](https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html)</span>
+&middot; [Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) (2013)
+&middot; [MPorcius](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) (2013)
+&middot; [DRB](http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html) (2005)
+&middot; [Ron Ginzler](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) (1999)
+&middot; [Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) 
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?53936)
+* 1965, <span class="btitle">[Guesting Time](http://www.baenebooks.com/chapters/9781625791191/9781625791191___3.htm)</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54089)
+* 1965, <span class="btitle">[In Our Block](https://www.google.com/search?&q=r.a.+lafferty+%22in+our+block%22)</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54099)
+&mdash; *Nebula Nominee* 
+* 1965, <span class="btitle">[Slow Tuesday Night](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm)</span>
+&middot; [D.S.](http://happinessisfreesf.blogspot.com/2012/12/slow-tuesday-night-by-r-lafferty.html) (2012)
+&middot; [Peter Damien](http://www.sfsignal.com/archives/2010/02/slow_tuesday_night/)  (2010)
+&middot; [Gil Schmidt](http://gilthejenius.blogspot.com/2007/02/web-wonder.html) (2007)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52458)
+---&nbsp;*Nebula Nominee* 
+* 1964, <span class="btitle">[The Transcendent Tigers](https://web.archive.org/web/20071230052651/www.scifi.com/scifiction/classics/classics_archive/lafferty4/lafferty41.html)</span>
+&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/65026598841/75-the-transcendent-tigers) (2013)
+&middot; [Ellen Datlow](http://edsfproject.blogspot.com/2005/11/transcendent-tigers-by-ra-lafferty.html) (2005)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?59357)
+* 1962, <span class="btitle">[Sodom and Gomorrah, Texas](http://manybooks.net/titles/laffertyr2316123161.html)</span>
+&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas) (2013)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?59221)
+* 1961, <span class="btitle">[Rainbird](https://www.google.com/search?&q=r.a.+lafferty+%22rainbird%22)</span> 
+&middot; [Elton Gahr](http://www.humanities360.com/index.php/short-story-review-rainbird-by-ra-lafferty-37045/) (2009)
+&middot; [quotes](http://scifi.stackexchange.com/questions/36404/looking-for-a-story-about-a-time-traveler-talking-to-young-himself)
+&middot; [uchronia](http://www.uchronia.net/bib.cgi/label.html?id=laffrainbi)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41022)
+* 1960, <span class="btitle">[The Six Fingers of Time](http://www.gutenberg.org/ebooks/31663)</span>
+&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time) (2013)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?58350)
 
-## Book Reviews {#bookreviews}
+## Books {#books}
 
-* <span class="btitle">Archipelago</span>,
-[Andrew Ferguson (2013)](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) 
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2700591-archipelago#other_reviews)
+* <span class="btitle">Archipelago</span>
+&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) (2013)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2700591-archipelago#other_reviews "no reviews as of 2014-10-15")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=archipelago)
-* <span class="btitle">Arrive at Easterwine</span>, 
-[hieronymopolis (2011)](http://hieronymopolis.wordpress.com/2011/02/21/epiktistes-on-time-from-arrive-at-easterwine-the-autobiography-of-a-ktistec-machine-as-conveyed-to-r-a-lafferty-1971/) 
-&middot; [goodreads](http://www.goodreads.com/book/show/2700590-arrive-at-easterwine#other_reviews)
-&middot; [amazon](http://www.amazon.com/Arrive-Easterwine-autobiography-ktistec-machine/product-reviews/068412341X/ref=cm_cr_pr_btm_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending) 
+* <span class="btitle">Arrive at Easterwine</span>
+&middot; [hieronymopolis](http://hieronymopolis.wordpress.com/2011/02/21/epiktistes-on-time-from-arrive-at-easterwine-the-autobiography-of-a-ktistec-machine-as-conveyed-to-r-a-lafferty-1971/) (2011)
+&middot; [goodreads](http://www.goodreads.com/book/show/2700590-arrive-at-easterwine#other_reviews "4 reviews")
+&middot; [amazon](http://www.amazon.com/Arrive-Easterwine-autobiography-ktistec-machine/product-reviews/068412341X/ref=cm_cr_pr_btm_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending "7 reviews")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=arrive+at+easterwine)
 &middot;&nbsp;[library](http://www.worldcat.org/title/arrive-at-easterwine-the-autobiography-of-a-ktistec-machine/oclc/000161018)
-* <span class="btitle">Fourth Mansions</span>, 
-[Daniel Petersen (2011)](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) 
-&middot; [goodreads](http://www.goodreads.com/book/show/689957.Fourth_Mansions#other_reviews)
-&middot; [amazon](http://www.amazon.com/FOURTH-MANSIONS-24590-R-A-Lafferty/product-reviews/B001BJ0RAM/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending) 
-&middot; [amazon](http://www.amazon.com/Fourth-Mansions-R-A-Lafferty/product-reviews/1557850488/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending_) 
+* <span class="btitle">Fourth Mansions</span>
+&middot; [Daniel Petersen](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) (2011)
+&middot; [goodreads](http://www.goodreads.com/book/show/689957.Fourth_Mansions#other_reviews "10 reviews")
+&middot; [amazon](http://www.amazon.com/FOURTH-MANSIONS-24590-R-A-Lafferty/product-reviews/B001BJ0RAM/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending "3 reviews") 
+&middot; [amazon](http://www.amazon.com/Fourth-Mansions-R-A-Lafferty/product-reviews/1557850488/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending_ "4 reviews") 
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=fourth+mansions)
 &middot;&nbsp;[library](http://www.worldcat.org/title/fourth-mansions/oclc/005950330)
 &middot; [preview](http://books.google.com/books?id=AJ1yVXoMfkoC&printsec=frontcover&dq=fourth+mansions&hl=en&sa=X&ei=3H47VPmeCIzLsATNi4KIBg&ved=0CCsQuwUwAA#v=onepage&q=fourth%20mansions&f=false) 
 &mdash;&nbsp;*Nebula&nbsp;Nominee* 
-* <span class="btitle">Iron Tears</span>, 
-[Don Webb (1993)](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) 
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292074.Iron_Tears#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/Iron-Tears-R-A-Lafferty/product-reviews/096290662X/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending) 
+* <span class="btitle">Iron Tears</span>
+&middot; [Don Webb](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) (1993)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292074.Iron_Tears#other_reviews "1 review")
+&middot;&nbsp;[amazon](http://www.amazon.com/Iron-Tears-R-A-Lafferty/product-reviews/096290662X/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending "3 reviews") 
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=iron+tears) 
 &middot;&nbsp;[preview](http://books.google.com/books?id=wJZDoE5Hz0MC&printsec=frontcover#v=onepage&q&f=false) 
 &mdash;&nbsp;*Philip&nbsp;K.&nbsp;Dick&nbsp;Award&nbsp;Finalist* 
-* <span class="btitle">Nine Hundred Grandmothers</span>, 
-[Ted Gioia (2014)](http://conceptualfiction.com/nine_hundred_grandmothers.html) 
-&middot;&nbsp;[Bill Hader (2008)](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) 
-&middot;&nbsp;[Ann Cecil (2007)](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) 
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492773.Nine_Hundred_Grandmothers#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/Nine-Hundred-Grandmothers-R-Lafferty/product-reviews/0441580513/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending)
+* <span class="btitle">Nine Hundred Grandmothers</span>
+&middot; [Ted Gioia](http://conceptualfiction.com/nine_hundred_grandmothers.html) (2014)
+&middot;&nbsp;[Bill Hader](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) (2008)
+&middot;&nbsp;[Ann Cecil](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) (2007)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492773.Nine_Hundred_Grandmothers#other_reviews "27 reviews")
+&middot;&nbsp;[amazon](http://www.amazon.com/Nine-Hundred-Grandmothers-R-Lafferty/product-reviews/0441580513/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending "18 reviews")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=nine+hundred+grandmothers)
 &middot;&nbsp;[library](http://www.worldcat.org/title/nine-hundred-grandmothers/oclc/003633426)
 &middot;&nbsp;[preview](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=frontcover#v=onepage&q&f=false) 
-* <span class="btitle">Okla Hannali</span>, 
-[Josephine (2013)](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/)
-&middot;&nbsp;[Keith Purtell (1998)](http://www.keithpurtell.com/kthings/r-a-lafferty.htm)
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/667700.Okla_Hannali#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/Okla-Hannali-R-Lafferty/product-reviews/0806123494/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+* <span class="btitle">Okla Hannali</span>
+&middot; [Josephine](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/) (2013)
+&middot;&nbsp;[Keith Purtell](http://www.keithpurtell.com/kthings/r-a-lafferty.htm) (1998)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/667700.Okla_Hannali#other_reviews "9 reviews")
+&middot;&nbsp;[amazon](http://www.amazon.com/Okla-Hannali-R-Lafferty/product-reviews/0806123494/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "16 reviews")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=okla+hannali)
 &middot;&nbsp;[excerpt](https://web.archive.org/web/20070927011811/http://www.prairienet.org/~almahu/hannali.htm) 
 &middot;&nbsp;[library](http://www.worldcat.org/title/okla-hannali/oclc/000389556)
 &middot;&nbsp;[preview](http://books.google.com/books?id=JEcdwFYa3boC&printsec=frontcover#v=onepage&q&f=false) 
-* <span class="btitle">Past Master</span>, 
-[trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/05/finished-past-master-not-review.html) 
-&middot;&nbsp;[MPorcius (2014)](http://mporcius.blogspot.com/2014/01/past-master-by-r-lafferty.html) 
-&middot;&nbsp;[Robert Bee (2008)](http://www.irosf.com/q/zine/article/10456) 
-&middot;&nbsp;[Bill McClain (1996)](http://watershade.net/wmcclain/past_master.txt) 
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492772.Past_Master#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/Past-Master-Ace-SF-65301/product-reviews/0441653014/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+* <span class="btitle">Past Master</span>
+&middot; [trawlerman](http://failingevenbetter.blogspot.com/2014/05/finished-past-master-not-review.html) (2014)
+&middot;&nbsp;[MPorcius](http://mporcius.blogspot.com/2014/01/past-master-by-r-lafferty.html)  (2014)
+&middot;&nbsp;[George Kelly](http://georgekelley.org/forgotten-books-160-past-master-by-r-a-lafferty/) (2012)
+&middot;&nbsp;[John Hertz](http://web.archive.org/web/20110728190613/http://collectingsf.com/hertz/past_master.html) (2009)
+&middot;&nbsp;[Robert&nbsp;Bee](http://www.irosf.com/q/zine/article/10456) (2008)
+&middot;&nbsp;[Bill&nbsp;McClain](http://watershade.net/wmcclain/past_master.txt) (1996)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492772.Past_Master#other_reviews "23 reviews")
+&middot;&nbsp;[amazon](http://www.amazon.com/Past-Master-Ace-SF-65301/product-reviews/0441653014/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "6 reviews")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=past+master)
 &middot;&nbsp;[excerpt](http://hieronymopolis.wordpress.com/2010/06/24/raphael-aloysius-laffertys-burlesqued-black-mass-in-his-book-past-master/) 
 &middot;&nbsp;[library](http://www.worldcat.org/title/past-master/oclc/001693870)
 &middot;&nbsp;[preview](http://books.google.com/books?id=uXHKVdU6nA8C&printsec=frontcover#v=onepage&q&f=false) 
 &mdash;&nbsp;*Hugo&nbsp;&&nbsp;Nebula&nbsp;Nominee* 
-* <span class="btitle">The Devil is Dead</span>, 
-[Arthur B (2008)](http://ferretbrain.com/articles/article-240.html)
-&middot; [Steve Hooley (2002)](https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html) 
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292067.The_Devil_Is_Dead#other_reviews)
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/19376473-the-devil-is-dead#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/Devil-Dead-R-Lafferty/product-reviews/1557850461/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+* <span class="btitle">The Devil is Dead</span>
+&middot; [Arthur B](http://ferretbrain.com/articles/article-240.html) (2008)
+&middot; [Steve Hooley](https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html) (2002)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292067.The_Devil_Is_Dead#other_reviews "7 reviews")
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/19376473-the-devil-is-dead#other_reviews "1 review")
+&middot;&nbsp;[amazon](http://www.amazon.com/Devil-Dead-R-Lafferty/product-reviews/1557850461/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "4 reviews")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+devil+is+dead)
 &middot;&nbsp;[library](http://www.worldcat.org/title/devil-is-dead/oclc/002896356)
 &middot;&nbsp;[preview](http://books.google.com/books?id=xk0YTotXzu0C&printsec=frontcover#v=onepage&q&f=false) 
 &mdash;&nbsp;*Nebula&nbsp;Nominee* 
-* <span class="btitle">The Fall of Rome</span>, [Martin Heavisides (2009)](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html) 
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2806990-the-fall-of-rome#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/fall-Rome-R-Lafferty/product-reviews/B0006CALC4/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+* <span class="btitle">The Fall of Rome</span>
+&middot; [Martin Heavisides](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html)  (2009)
+&middot; [Lafferty letter](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402) (1993)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2806990-the-fall-of-rome#other_reviews "6 reviews")
+&middot;&nbsp;[amazon](http://www.amazon.com/fall-Rome-R-Lafferty/product-reviews/B0006CALC4/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "3 reviews")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+fall+of+rome)
 &middot;&nbsp;[library](http://www.worldcat.org/title/fall-of-rome/oclc/000164581)
-* <span class="btitle">The Flame is Green</span>, [John J Reilly (2003)](http://www.benespen.com/storage/the-long-view/tfig.html) 
-&middot; [goodreads](http://www.goodreads.com/book/show/4738947-the-flame-is-green#other_reviews)
-&middot; [amazon](http://www.amazon.com/flame-green-R-Lafferty/product-reviews/0802703461/ref=sr_1_2_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+* <span class="btitle">The Flame is Green</span>
+&middot; [John J Reilly](http://www.benespen.com/storage/the-long-view/tfig.html) (2003)
+&middot; [goodreads](http://www.goodreads.com/book/show/4738947-the-flame-is-green#other_reviews "no reviews as of 2014-10-15")
+&middot; [amazon](http://www.amazon.com/flame-green-R-Lafferty/product-reviews/0802703461/ref=sr_1_2_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "2 reviews")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+flame+is+green)
 &middot;&nbsp;[library](http://www.worldcat.org/title/flame-is-green/oclc/000132073)
-* <span class="btitle">Sindbad: The 13th Voyage</span>, 
-[trawlerman (2014)](http://failingevenbetter.blogspot.com/2014/10/this-great-redemptive-recoil.html)
-&middot;&nbsp;[Arthur B (2008)](http://ferretbrain.com/articles/article-264)
-&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2412553.Sindbad#other_reviews)
-&middot;&nbsp;[amazon](http://www.amazon.com/Sindbad-Thirteenth-Voyage-R-Lafferty/product-reviews/0962382418/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+* <span class="btitle">Sindbad: The 13th Voyage</span>
+&middot; [trawlerman](http://failingevenbetter.blogspot.com/2014/10/this-great-redemptive-recoil.html) (2014)
+&middot;&nbsp;[Arthur B](http://ferretbrain.com/articles/article-264) (2008)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2412553.Sindbad#other_reviews "2 reviews")
+&middot;&nbsp;[amazon](http://www.amazon.com/Sindbad-Thirteenth-Voyage-R-Lafferty/product-reviews/0962382418/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "1 review")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=sindbad)
 &middot;&nbsp;[excerpt](http://failingevenbetter.blogspot.com/2014/09/well-its-living-and-living-in-magic.html) 
 &middot;&nbsp;[preview](http://books.google.com/books?id=Y9sLZ56fQWMC&printsec=frontcover#v=onepage&q&f=false) 
-* <span class="btitle">Space Chantey</span>, [Kevin Cheek (2013)](http://www.yetanotherlaffertyblog.com/2013/05/deeply-silly.html) 
-&middot; [goodreads](http://www.goodreads.com/book/show/2154101.Space_Chantey#other_reviews)
-&middot; [goodreads](http://www.goodreads.com/book/show/10876706-pity-about-earth-space-chantey#other_reviews)
-&middot; [amazon](http://www.amazon.com/Space-Chantey-About-Earth-Double/product-reviews/B001E50QMW/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+* <span class="btitle">Space Chantey</span>
+&middot; [Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/05/deeply-silly.html) (2013)
+&middot; [goodreads](http://www.goodreads.com/book/show/2154101.Space_Chantey#other_reviews "8 reviews")
+&middot; [goodreads](http://www.goodreads.com/book/show/10876706-pity-about-earth-space-chantey#other_reviews "1 review")
+&middot; [amazon](http://www.amazon.com/Space-Chantey-About-Earth-Double/product-reviews/B001E50QMW/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "1 review")
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=space+chantey)
 &middot;&nbsp;[library](http://www.worldcat.org/title/space-chantey/oclc/006027516)
-* <span class="btitle">United Mythologies Press</span>, [Catalog (1992)](/archive/ump-usenet.txt)
-* <span class="btitle">Unpublished Lafferty</span>, [Lawrence Person (2012)](http://www.lawrenceperson.com/?p=7400) 
+* <span class="btitle">United Mythologies Press</span>
+&middot; [Catalog](/archive/ump-usenet.txt) (1992)
+* <span class="btitle">Unpublished Lafferty</span>
+&middot; [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
 &middot;&nbsp;[buy review article](http://www.nyrsf.com/2012/01/)
 
 
