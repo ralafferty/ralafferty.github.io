@@ -24,6 +24,25 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 <table>
 <tr valign="top">
   <td>
+    <img src="../images/Adventures_in_time_and_space.jpg" class="bookcover">
+  </td>
+  <td markdown="1">
+
+#### *Adventures in Time and Space*, by Raymond J. Healy & J. Francis McComas, 1946
+
+> "I had read the Healy and McComas anthology ... my reaction to that was that it was wonderful.  My reaction when I began to look for other good science fiction stories was that there weren't any other good ones..."&nbsp;[^whitaker79]
+
+&middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/Adventures_in_Time_and_Space)
+&middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?245825)
+&middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1381155.Famous_Science_Fiction_Stories#other_reviews)
+&middot;&nbsp;[amazon](http://www.amazon.com/Adventures-Time-Space-Raymond-Healy/product-reviews/B000OPMJO6/)
+&middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=Healy&title=Adventures+in+Time+and+Space)
+&middot;&nbsp;[preview](http://variety-sf.blogspot.com/2009/05/raymond-j-healy-j-francis-mccomas-eds.html)
+
+  </td>
+</tr>
+<tr valign="top">
+  <td>
     <img src="../images/ancient_engineers.jpg" class="bookcover">
   </td>
   <td markdown="1">
@@ -198,7 +217,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Bow in the Clouds*, by E.I. Watkin, 1931
 
-In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html) and [2014](http://ralafferty.tumblr.com/post/90693992487/excerpt-2-austro-and-the-colors-of-heaven), Andrew Ferguson reviewed the influence of [E.I.&nbsp;Watkin](http://supremacyandsurvival.blogspot.com/2013/04/ei-watkins-friend-of-christopher-dawson.html) on stories in *Through Elegant Eyes*. [Gregorio](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html?showComment=1318520489020#c1038800607588431769) noted that Lafferty quotes Watkin in *Tales of Midnight*.
+In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html) and [2014](http://ralafferty.tumblr.com/post/90693992487/excerpt-2-austro-and-the-colors-of-heaven), Andrew Ferguson reviewed the influence of [E.I.&nbsp;Watkin](http://supremacyandsurvival.blogspot.com/2013/04/ei-watkins-friend-of-christopher-dawson.html) on stories in *Through Elegant Eyes*. [Gregorio](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html?showComment=1318520489020#c1038800607588431769) noted that Lafferty quoted Watkin in *Tales of Midnight*.
  
 &middot;&nbsp;[amazon](http://www.amazon.com/Bow-Clouds-Towards-Integration-Experience/dp/1162737913/)
 &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=e.i.+watkin&title=The+Bow+in+the+Clouds)
@@ -254,6 +273,6 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 
 [^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
 
-[^wolfe-cover]: Cover Blurb, [Endangered Species](http://books.google.com/books?id=4AVYhTiMiawC&pg=PP3&lpg=PP3&dq=%22This+is+the+biggest+and+probably+the+best+one-author+collection%22&source=bl&ots=p3cI6H7GX9&sig=vjlXYMvIm65X1qcbrWiHGNr2B0U&hl=en&sa=X&ei=krtAVLqIJ9fesAS5mYLQCw&ved=0CCQQ6AEwAQ#v=onepage&q=%22This%20is%20the%20biggest%20and%20probably%20the%20best%20one-author%20collection%22&f=false), Gene Wolfe
+[^wolfe-cover]: Cover blurb, [Endangered Species](http://books.google.com/books?id=4AVYhTiMiawC&pg=PP3&lpg=PP3&dq=%22This+is+the+biggest+and+probably+the+best+one-author+collection%22&source=bl&ots=p3cI6H7GX9&sig=vjlXYMvIm65X1qcbrWiHGNr2B0U&hl=en&sa=X&ei=krtAVLqIJ9fesAS5mYLQCw&ved=0CCQQ6AEwAQ#v=onepage&q=%22This%20is%20the%20biggest%20and%20probably%20the%20best%20one-author%20collection%22&f=false), Gene Wolfe
 
 [^stairs84]: [It's Down the Slippery Cellar Stairs](http://www.isfdb.org/cgi-bin/title.cgi?717449), R. A. Lafferty

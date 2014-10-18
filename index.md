@@ -2,21 +2,45 @@
 layout: page
 ---
 
-The audience and writing of R.A. Lafferty (1914-2002).
+Dedicated to R.A. Lafferty (1914-2002), who said:
+
+> "You seem to posit a real world, but that is doubtful.  There isn't any reality except the various consensus realities.  And no two persons belong to quite the same consensus.  So the world that a person lives in is largely a world that he has fictionized, whether he is a fictioner by trade or not.  Whatever frustrations we find in the cantankerous combo-world is partly from our own inability to shape things just the way we want to.
+>
+> [Pax](https://www.wordnik.com/words/pax "Latin"), 
+> [paz](http://en.wiktionary.org/wiki/paz#Portuguese "Portugese, Spanish"),
+> [peace](http://www.columbia.edu/~fdc/pace/ "English"), 
+> [iri'ni](http://en.wikipedia.org/wiki/Irene_%28given_name%29 "Greek"), 
+> [salaam](http://en.wikipedia.org/wiki/Salaam "Arabic"), 
+> [scholem](http://en.wikipedia.org/wiki/Shalom_aleichem "Yiddish"), 
+> [heiwa](http://japanese.about.com/od/wordoftheday/p/word149.htm "Japanese"), 
+> [amani](http://en.bab.la/dictionary/swahili-english/amani "Swahili"),
+> [perdamaian](http://en.wikipedia.org/wiki/World_Peace_Gong "Indonesian"), 
+> [sulh](http://en.wikipedia.org/wiki/Sulh "Arabic"),
+> rusha, 
+> [pokój](http://en.wiktionary.org/wiki/pokoj "Polish, Czech, Slovak"), 
+> [fred](http://en.wiktionary.org/wiki/fred#Danish "Danish"), 
+> [vrede](http://en.wiktionary.org/wiki/vrede#Dutch "Dutch"), 
+> [frieden](http://www.collinsdictionary.com/dictionary/english-german/peace "German"), 
+> [síocháin](http://en.wiktionary.org/wiki/s%C3%ADoch%C3%A1in "Irish"),
+> [mirno](http://www.wordsense.eu/mirno "Serbo-Croatian")."&nbsp;[^whitaker79] 
 
 <br>
 <a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/"><img src="{{ site.baseurl }}/images/ral_index.jpg" height="197"></a>
 
 ## Interviews 
 
-* 1990, United Mythologies Press, *Cranky Old Man from Tulsa*
+* [1990](http://www.isfdb.org/cgi-bin/pl.cgi?304652),
+D. Schweitzer & R.J. Whitaker, *Cranky Old Man from Tulsa* 
+* 1987, Ron Wolfe, "Counting Grandmothers", *American Fantasy*
 * 1983, Darrel Schweitzer
 &middot; [excerpt](http://hieronymopolis.wordpress.com/2010/12/09/r-a-lafferty-on-secular-liberalism-the-religion-that-is-not-called-a-religion/) 
 &middot; [preview](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
-* 1979, Robert Whitaker, [*At The Sleepy Sailor*](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) 
-* 1979, [The Day After the World Ended](http://web.archive.org/web/20090327154715/http://www.prairienet.org/~almahu/after.htm), *It's Down the Slippery Cellar Stairs*
+* 1979, Robert J. Whitaker, [*At The Sleepy Sailor*](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) 
+* [1979](http://www.isfdb.org/cgi-bin/title.cgi?717449), 
+[The Day After the World Ended](http://web.archive.org/web/20090327154715/http://www.prairienet.org/~almahu/after.htm), *It's Down the Slippery Cellar Stairs*
 * 1973, Paul Walker, *Alien Critic #6*
-* 1970, P.S. Price, R.A. Lafferty the man and his work, *Phantasmicom #3* [&nbsp; * &nbsp;](http://www.worldcat.org/title/ra-lafferty-the-man-and-his-work/oclc/70161171)
+* [1970](http://www.worldcat.org/title/ra-lafferty-the-man-and-his-work/oclc/70161171),
+P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3* 
 
 ## [Quotes](http://en.wikiquote.org/wiki/R._A._Lafferty) {#quotes}
 
@@ -54,3 +78,4 @@ The audience and writing of R.A. Lafferty (1914-2002).
 [^intro-iron]: [Introduction](http://www.michaelswanwick.com/nonfic/duck.html) to *Iron Tears*, 1992
 [^uva-prize]: UVA Today, [Grad Student's Focus on Science Fiction Author Leads to Book-Collecting Prize](http://news.virginia.edu/node/18066?id=18066), April 12, 2012
 [^hou]: [Sortir du XXème siècle](https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https%3A%2F%2Fhouellebecqblog.wordpress.com%2Ftag%2Fr-a-lafferty%2F), Michel Houellebecq
+[^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
