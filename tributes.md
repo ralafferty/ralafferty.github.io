@@ -17,7 +17,7 @@ permalink: /tributes/
 * 2010, [Remembering Ray Lafferty (pdf)](http://efanzines.com/Challenger/Challenger-32.pdf), Joseph L. Green
 * 2009, [Great but Forgotten](http://greatbutforgotten.blogspot.com/2009/05/r-lafferty-author.html), Chuck Rothman
 * 2003, [And They Took the Sky Off at Night](http://greatsfandf.com/AUTHORS/LAFFERTY/CholfinOnLafferty.html), Bryan Cholfin
-* 2003, [Unpublished Essay](/archive/cholfin2003.txt), Bryan Cholfin
+* 2003, [Essay Draft](/archive/cholfin2003.txt), Bryan Cholfin
 * 2002, [Effective Arcanum](http://www.revolutionsf.com/article.php?id=1110), Don Webb
 * 2001, [Evangelical Propaganda](https://web.archive.org/web/20011025123836/http://home.earthlink.net/~cranked/the_lafferty_page.htm), Bryan Cholfin
 * 1998, [Ray's "office"](http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm), Keith Purtell
