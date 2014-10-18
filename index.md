@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Dedicated to R.A. Lafferty (1914-2002), who said:
+Dedicated to writer R.A. Lafferty (1914-2002), who said:
 
 > "You seem to posit a real world, but that is doubtful.  There isn't any reality except the various consensus realities.  And no two persons belong to quite the same consensus.  So the world that a person lives in is largely a world that he has fictionized, whether he is a fictioner by trade or not.  Whatever frustrations we find in the cantankerous combo-world is partly from our own inability to shape things just the way we want to.
 >
