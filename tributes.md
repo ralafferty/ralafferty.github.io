@@ -11,10 +11,10 @@ permalink: /tributes/
 * 2014, [The secret sci-fi genius more than ready for a comeback](http://www.theguardian.com/books/booksblog/2014/aug/13/ra-lafferty-secret-sci-fi-genius-poised-for-comeback), David Barnett, The Guardian
 * 2014, [Gaiman Touts Lafferty](http://blogs.wsj.com/speakeasy/2014/07/23/gaiman-touts-lafferty-obrien-while-discussing-the-thirteen-clocks/), Wall St. Journal
 * [A Few Words About R.A. Lafferty](http://greatsfandf.com/AUTHORS/RALafferty.php), Eric Walker
-* 2010, [Remembering Ray Lafferty (pdf)](http://efanzines.com/Challenger/Challenger-32.pdf), Joseph L. Green
 * 2012, [Secret Crocodiles and Strange Doings](https://grantvillegazette.com/wp/article/publish-516/), Bud Webster
 * 2011, [Saved from Drowning](http://floggingbabel.blogspot.com/2011/04/r-lafferty-saved-from-drowning.html), Michael Swanwick
 * 2011, [An Attempt at an Appreciation](http://www.blackgate.com/2011/03/27/ra-lafferty-an-attempt-at-an-appreciation/), Matthew Surridge
+* 2010, [Remembering Ray Lafferty (pdf)](http://efanzines.com/Challenger/Challenger-32.pdf), Joseph L. Green
 * 2009, [Great but Forgotten](http://greatbutforgotten.blogspot.com/2009/05/r-lafferty-author.html), Chuck Rothman
 * 2003, [And They Took the Sky Off at Night](http://greatsfandf.com/AUTHORS/LAFFERTY/CholfinOnLafferty.html), Bryan Cholfin
 * 2003, [Unpublished Essay](/archive/cholfin2003.txt), Bryan Cholfin
