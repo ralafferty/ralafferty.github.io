@@ -115,7 +115,7 @@ permalink: /tributes/
 --------------
 
 <br>
-*A Reader's Guide to Science Fiction* (1979) said:
+*A Reader's Guide to Science Fiction* (1979) [said](http://antsofgodarequeerfish.blogspot.com/2011/08/readers-guide-to-science-fiction-on-r.html):
 
 > "There is no one who writes like R. A. Lafferty, so if you like one of his books find some more."
 
