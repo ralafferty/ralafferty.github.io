@@ -98,6 +98,12 @@ permalink: /writing/
   &middot;&nbsp;[library](http://www.worldcat.org/title/nine-hundred-grandmothers-stories/oclc/47450066/editions?referer=di&editionsView=true)
   &middot;&nbsp;[preview](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=frontcover#v=onepage&q&f=false) 
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?24318)
+* <span class="btitle">Ringing Changes</span>
+  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/721747.Ringing_Changes)
+  &middot;&nbsp;[amazon](http://www.amazon.com/Ringing-Changes-R-A-Lafferty/dp/0441726070#customerReviews)
+  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=ringing+changes) 
+  &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"ringing+changes"&_sop=15)
+  &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?28204)
 * <span class="btitle">Strange Doings</span>
   &middot;&nbsp;[Bill Crider](http://billcrider.blogspot.com/2014/10/ffb-r-lafferty-strange-doings.html) (2014)
   &middot;&nbsp;[Vintage45](http://vintage45.wordpress.com/2010/09/20/strange-doings-r-a-lafferty/) (2010)
