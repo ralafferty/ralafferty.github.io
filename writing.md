@@ -12,41 +12,41 @@ permalink: /writing/
 &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) (2013)
 &middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html) (2012)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41531)
-&mdash; <b>*Hugo Winner*</b> 
+---&nbsp;*1973&nbsp;Hugo&nbsp;<b>Winner</b>, Locus 16<sup>th</sup>*, 1975 Seiun Winner
 * 1971, <span class="btitle">[Sky](https://www.google.com/search?&q=r.a.+lafferty+"sky")</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?40938)
-&mdash; *Hugo Nominee* 
+&mdash;&nbsp;*1972&nbsp;Hugo Nominee* 
 * 1970, <span class="btitle">[Entire And Perfect Chrysolite](https://www.google.com/search?&q=r.a.+lafferty+%22entire+and+perfect+chrysolite%22)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41436)
-&mdash; *Nebula Nominee* 
+&mdash;&nbsp;*1971&nbsp;Hugo & Nebula Nominee* 
 * 1970, <span class="btitle">[Continued on the Next Rock](https://www.google.com/search?q=Continued+on+the+Next+Rock&ie=utf-8&oe=utf-8#channel=fs&q=r.a.+lafferty+%22Continued+on+the+Next+Rock%22)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41531)
-&mdash; *Nebula Nominee* 
+&mdash; *1971 Hugo & Nebula Nominee, Locus 3<sup>rd</sup>, 1972&nbsp;Ditmar&nbsp;Nominee*
 * 1967, <span class="btitle">[Thus We Frustrate Charlemagne](https://www.google.com/search?&q=r.a.+lafferty+"thus+we+frustrate+charlemagne")</span>
-&middot; [Paul Kincaid](http://ttdlabyrinth.wordpress.com/2014/08/01/reprint-thus-we-frustrate-charlemagne/) (2014)
-&middot; [Living the Geek Life](https://livingthegeeklife.wordpress.com/2014/01/05/short-story-saturday-thus-we-frustrate-charlemagne/) (2014)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52255)
+&middot;&nbsp;[Paul Kincaid](http://ttdlabyrinth.wordpress.com/2014/08/01/reprint-thus-we-frustrate-charlemagne/) (2014)
+&middot;&nbsp;[Living the Geek Life](https://livingthegeeklife.wordpress.com/2014/01/05/short-story-saturday-thus-we-frustrate-charlemagne/) (2014)
+&middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52255)
 * 1966, <span class="btitle">[Nine Hundred Grandmothers](https://web.archive.org/web/20080124051430/http://www.scifi.com/scifiction/classics/classics_archive/lafferty/lafferty1.html)</span>
 &middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html) 
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54132)
 * 1966, <span class="btitle">[Narrow Valley](https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html)</span>
-&middot; [Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) (2013)
-&middot; [MPorcius](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) (2013)
-&middot; [DRB](http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html) (2005)
-&middot; [Ron Ginzler](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) (1999)
-&middot; [Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) 
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?53936)
+&middot;&nbsp;[Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) (2013)
+&middot;&nbsp;[MPorcius](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) (2013)
+&middot;&nbsp;[DRB](http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html) (2005)
+&middot;&nbsp;[Ron Ginzler](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) (1999)
+&middot;&nbsp;[Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) 
+&middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?53936)
 * 1965, <span class="btitle">[Guesting Time](http://www.baenebooks.com/chapters/9781625791191/9781625791191___3.htm)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54089)
 * 1965, <span class="btitle">[In Our Block](https://www.google.com/search?&q=r.a.+lafferty+%22in+our+block%22)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54099)
-&mdash; *Nebula Nominee* 
+---&nbsp;*1966&nbsp;Nebula Nominee* 
 * 1965, <span class="btitle">[Slow Tuesday Night](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm)</span>
 &middot; [D.S.](http://happinessisfreesf.blogspot.com/2012/12/slow-tuesday-night-by-r-lafferty.html) (2012)
 &middot; [Peter Damien](http://www.sfsignal.com/archives/2010/02/slow_tuesday_night/)  (2010)
 &middot; [Gil Schmidt](http://gilthejenius.blogspot.com/2007/02/web-wonder.html) (2007)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52458)
----&nbsp;*Nebula Nominee* 
+---&nbsp;*1966&nbsp;Nebula&nbsp;Nominee* 
 * 1964, <span class="btitle">[The Transcendent Tigers](https://web.archive.org/web/20071230052651/www.scifi.com/scifiction/classics/classics_archive/lafferty4/lafferty41.html)</span>
 &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/65026598841/75-the-transcendent-tigers) (2013)
 &middot; [Ellen Datlow](http://edsfproject.blogspot.com/2005/11/transcendent-tigers-by-ra-lafferty.html) (2005)
@@ -72,6 +72,7 @@ permalink: /writing/
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=iron+tears) 
   &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"iron+tears"&_sop=15)
   &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22iron%20tears%201992%22)
+  &middot;&nbsp;[library](http://www.worldcat.org/title/iron-tears/oclc/47447815/editions?referer=di&editionsView=true)
   &middot;&nbsp;[preview](http://books.google.com/books?id=wJZDoE5Hz0MC&printsec=frontcover#v=onepage&q&f=false) 
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
   &mdash;&nbsp;*Philip&nbsp;K.&nbsp;Dick&nbsp;Award&nbsp;Finalist* 
@@ -84,7 +85,7 @@ permalink: /writing/
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=nine+hundred+grandmothers)
   &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+nine+hundred+grandmothers&_sop=15)
   &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22nine+hundred+grandmothers+1970%22)
-  &middot;&nbsp;[library](http://www.worldcat.org/title/nine-hundred-grandmothers/oclc/003633426)
+  &middot;&nbsp;[library](http://www.worldcat.org/title/nine-hundred-grandmothers-stories/oclc/47450066/editions?referer=di&editionsView=true)
   &middot;&nbsp;[preview](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=frontcover#v=onepage&q&f=false) 
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?24318)
 * <span class="btitle">Strange Doings</span>
@@ -97,6 +98,7 @@ permalink: /writing/
   &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+strange+doings&_sop=15)
   &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22strange+doings+1972%22)
   &middot;&nbsp;[daisy](https://openlibrary.org/books/OL5318211M/Strange_doings/daisy)
+  &middot;&nbsp;[library](http://www.worldcat.org/title/strange-doings/oclc/2273728/editions?start_edition=1&sd=asc&referer=di&se=yr&qt=sort_yr_asc&editionsView=true&fq=)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?33489)
 
 ## Novels {#novels}
@@ -133,16 +135,16 @@ permalink: /writing/
   &middot; [trawlerman](http://failingevenbetter.blogspot.com/2014/05/finished-past-master-not-review.html) (2014)
   &middot;&nbsp;[MPorcius](http://mporcius.blogspot.com/2014/01/past-master-by-r-lafferty.html)  (2014)
   &middot;&nbsp;[George Kelly](http://georgekelley.org/forgotten-books-160-past-master-by-r-a-lafferty/) (2012)
+  &middot;&nbsp;[Hieronymopolis](http://hieronymopolis.wordpress.com/2010/06/24/raphael-aloysius-laffertys-burlesqued-black-mass-in-his-book-past-master/)  (2010)
   &middot;&nbsp;[John Hertz](http://web.archive.org/web/20110728190613/http://collectingsf.com/hertz/past_master.html) (2009)
   &middot;&nbsp;[Robert&nbsp;Bee](http://www.irosf.com/q/zine/article/10456) (2008)
   &middot;&nbsp;[Bill&nbsp;McClain](http://watershade.net/wmcclain/past_master.txt) (1996)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492772.Past_Master#other_reviews "23 reviews")
   &middot;&nbsp;[amazon](http://www.amazon.com/Past-Master-Ace-SF-65301/product-reviews/0441653014/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "6 reviews")
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=past+master)
-  &middot;&nbsp;[excerpt](http://hieronymopolis.wordpress.com/2010/06/24/raphael-aloysius-laffertys-burlesqued-black-mass-in-his-book-past-master/) 
   &middot;&nbsp;[library](http://www.worldcat.org/title/past-master/oclc/001693870)
   &middot;&nbsp;[preview](http://books.google.com/books?id=uXHKVdU6nA8C&printsec=frontcover#v=onepage&q&f=false) 
-  &mdash;&nbsp;*Hugo&nbsp;&&nbsp;Nebula&nbsp;Nominee* 
+  &mdash;&nbsp;*1969 Hugo&nbsp;&&nbsp;Nebula&nbsp;Nominee* 
 * <span class="btitle">The Devil is Dead</span>
   &middot; [Arthur B](http://ferretbrain.com/articles/article-240.html) (2008)
   &middot; [Steve Hooley](https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html) (2002)
@@ -182,6 +184,7 @@ permalink: /writing/
   &middot; [amazon](http://www.amazon.com/Space-Chantey-About-Earth-Double/product-reviews/B001E50QMW/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "1 review")
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=space+chantey)
   &middot;&nbsp;[library](http://www.worldcat.org/title/space-chantey/oclc/006027516)
+  &mdash;&nbsp;*2006&nbsp;Seiun&nbsp;Nominee* 
 
 
 ## Bibliography {#bibliography}
