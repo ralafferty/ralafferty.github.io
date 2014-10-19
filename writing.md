@@ -66,6 +66,10 @@ permalink: /writing/
 ## Collections {#collections}
 
 * <span class="btitle">Golden Gate and Other Stories</span>
+  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/470849.Golden_Gate_and_Other_Stories#other_reviews "1 review")
+  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=golden+gate+stories) 
+  &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"golden+gate"&_sop=15)
+  &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?15737)
   ---&nbsp;*1984&nbsp;Locus&nbsp;15<sup>th</sup>* 
 * <span class="btitle">Iron Tears</span>
   &middot; [Don Webb](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) (1993)
@@ -117,6 +121,10 @@ permalink: /writing/
   &middot;&nbsp;[library](http://www.worldcat.org/title/strange-doings/oclc/2273728/editions?start_edition=1&sd=asc&referer=di&se=yr&qt=sort_yr_asc&editionsView=true&fq=)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?33489)
 * <span class="btitle">Through Elegant Eyes</span>
+  &middot;&nbsp;[Andrew Ferguson](http://ralafferty.tumblr.com/post/90693992487/excerpt-2-austro-and-the-colors-of-heaven) (2013)
+  &middot;&nbsp;[amazon](http://www.amazon.com/Through-Elegant-Stories-Austro-Everything/dp/0911169016#customerReviews)
+  &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22through+elegant+eyes%22)
+  &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?51284)
 
 ## Novels {#novels}
 
