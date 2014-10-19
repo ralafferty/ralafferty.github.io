@@ -70,6 +70,7 @@ permalink: /writing/
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292074.Iron_Tears#other_reviews "1 review")
   &middot;&nbsp;[amazon](http://www.amazon.com/Iron-Tears-R-A-Lafferty/product-reviews/096290662X/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending "3 reviews") 
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=iron+tears) 
+  &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22iron%20tears%201992%22)
   &middot;&nbsp;[preview](http://books.google.com/books?id=wJZDoE5Hz0MC&printsec=frontcover#v=onepage&q&f=false) 
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
   &mdash;&nbsp;*Philip&nbsp;K.&nbsp;Dick&nbsp;Award&nbsp;Finalist* 
@@ -82,6 +83,7 @@ permalink: /writing/
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=nine+hundred+grandmothers)
   &middot;&nbsp;[library](http://www.worldcat.org/title/nine-hundred-grandmothers/oclc/003633426)
   &middot;&nbsp;[preview](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=frontcover#v=onepage&q&f=false) 
+  &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22nine+hundred+grandmothers+1970%22)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?24318)
 * <span class="btitle">Strange Doings</span>
   &middot;&nbsp;[Bill Crider](http://billcrider.blogspot.com/2014/10/ffb-r-lafferty-strange-doings.html) (2014)
@@ -90,6 +92,9 @@ permalink: /writing/
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/721785.Strange_Doings#other_reviews "3 reviews")
   &middot;&nbsp;[amazon](http://www.amazon.com/Strange-Doings-R-A-Lafferty/dp/0879970502 "1 review")
   &middot;&nbsp;[daisy](https://openlibrary.org/books/OL5318211M/Strange_doings/daisy)
+  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=Strange+Doings)
+  &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+strange+doings&_sop=15)
+  &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22strange+doings+1972%22)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?33489)
 
 ## Novels {#novels}
