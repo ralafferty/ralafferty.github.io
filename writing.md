@@ -132,7 +132,6 @@ permalink: /writing/
   &middot;&nbsp;[amazon](http://www.amazon.com/Through-Elegant-Stories-Austro-Everything/dp/0911169016#customerReviews)
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=Through+Elegant+Eyes)
   &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"through+elegant+eyes&_sop=15)
-  &middot;&nbsp;[google](https://www.google.com/search?&q=r.a.+lafferty+%22through+elegant+eyes%22)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?51284)
 
 ## Novels {#novels}
