@@ -19,7 +19,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 -----
 
-## Books Reviewed
+## Books Reviewed {#booksreviewed}
 
 <table>
 <tr valign="top">
@@ -234,7 +234,7 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 
 -------
 
-## Writers Cited
+## Writers Cited {#writerscited}
 
 * #### World's Second-Best Novelist [^whitaker79]
   * <span class="btitle">[Honoré de Balzac](http://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac "Due to his keen observation of detail and unfiltered representation of society, Balzac is regarded as one of the founders of realism in European literature. He is renowned for his multifaceted characters, who are morally ambiguous.")</span> (1850)

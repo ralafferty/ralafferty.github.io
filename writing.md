@@ -182,6 +182,7 @@ permalink: /writing/
   &middot;&nbsp;[preview](http://books.google.com/books?id=xk0YTotXzu0C&printsec=frontcover#v=onepage&q&f=false) 
   &mdash;&nbsp;*1972 Nebula&nbsp;Nominee, Locus 7<sup>th</sup>* 
 * <span class="btitle">The Fall of Rome</span>
+  &middot; [Clemens](http://sentent.blogspot.com/2010/05/r-lafferty-and-semitic-germans-of-300.html) (2010)
   &middot; [Martin Heavisides](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html)  (2009)
   &middot; [Lafferty letter](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402) (1993)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2806990-the-fall-of-rome#other_reviews "6 reviews")

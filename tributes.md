@@ -21,6 +21,7 @@ permalink: /tributes/
 * 2002, [Effective Arcanum](http://www.revolutionsf.com/article.php?id=1110), Don Webb
 * 2001, [Evangelical Propaganda](https://web.archive.org/web/20011025123836/http://home.earthlink.net/~cranked/the_lafferty_page.htm), Bryan Cholfin
 * 1998, [Ray's "office"](http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm), Keith Purtell
+* 1979, [A Reader's Guide to Science Fiction](http://antsofgodarequeerfish.blogspot.com/2011/08/readers-guide-to-science-fiction-on-r.html), Baird Searles et. al
 
 ## Introductions {#introductions}
 
@@ -96,7 +97,7 @@ permalink: /tributes/
 &middot; [Fellowship](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/) (1991)
 &middot; [Catalog](/archive/ump-usenet.txt) (1992)
 * Greg Ketter, [Corroboree Press](http://www.isfdb.org/cgi-bin/publisher.cgi?1544)
-* [John Betancourt](https://www.sfsite.com/10b/jb138.htm), [Wildside Press](http://www.isfdb.org/cgi-bin/publisher.cgi?140)
+* [John Betancourt](https://www.sfsite.com/10b/jb138.htm), [Wildside Press](http://www.isfdb.org/cgi-bin/publisher.cgi?140) &middot; [Michael Swanwick](http://www.michaelswanwick.com/auth/squalidansw.html)
 * Steve Pasechnick, [Edgewood Press](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
 * University of Oklahoma [Press](http://en.wikipedia.org/wiki/University_of_Oklahoma_Press)
 
@@ -110,3 +111,52 @@ permalink: /tributes/
 * 2014, [Learn The True Topography](http://laffertydoc.blogspot.com/), Andrew Mass, USA
 * 2002, [The Stone Reader](http://neglectedbooks.com/?page_id=81), Mark Moskowitz (*Fourth Mansions* is listed in the credits)
 * 1987, [Исчезатель](http://youtube.com/watch?v=YvrlbtOTPBc "Ischezatel") (inspired by *Seven-Day Terror*), [SOYUZMULTFILM](http://animator.ru/db/?p=show_film&fid=3323), Russia &nbsp; [&nbsp; &delta; &nbsp;](http://animator.ru/db/?ver=eng&p=show_film&fid=3323)
+
+--------------
+
+<br>
+*A Reader's Guide to Science Fiction* (1979) said:
+
+> "There is no one who writes like R. A. Lafferty, so if you like one of his books find some more."
+
+## Other Writers {#otherwriters}
+
+  * [Library --- Writers Cited by R. A. Lafferty](../library/#writerscited)
+  * <span class="btitle">[Cordwainer Smith](http://en.wikipedia.org/wiki/Cordwainer_Smith)</span> (1966)
+&middot; [home](http://www.cordwainer-smith.com/)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?101)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/smith_cordwainer)
+&middot; [goodreads](http://www.goodreads.com/author/show/11390.Cordwainer_Smith)
+&middot; [amazon](http://www.amazon.com/Cordwainer-Smith/e/B000APBV9Y)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22cordwainer+smith%22 "34k results")
+  * <span class="btitle">[Jorge Luis Borges](http://en.wikipedia.org/wiki/Jorge_Luis_Borges)</span> (1986)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Jorge%20Luis%20Borges)
+&middot; [goodreads](http://www.goodreads.com/author/show/500.Jorge_Luis_Borges)
+&middot; [amazon](http://www.amazon.com/Jorge-Luis-Borges/e/B000APW7C4)
+&middot; [di giovanni](http://www.digiovanni.co.uk/borges.htm)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22jorge+luis+borges%22 "33k results")
+  * <span class="btitle">[Terry Bisson](http://en.wikipedia.org/wiki/Terry_Bisson)</span>
+&middot; [home](http://www.terrybisson.com/)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Terry%20Bisson)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/bisson_terry)
+&middot; [goodreads](http://www.goodreads.com/author/show/73422.Terry_Bisson)
+&middot; [amazon](http://www.amazon.com/Terry-Bisson/e/B000AQ7052)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22terry+bisson%22 "26k results")
+  * <span class="btitle">[Howard Waldrop](http://en.wikipedia.org/wiki/Howard_Waldrop)</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Howard%20Waldrop)
+&middot; [sff](https://www.sff.net/people/waldrop/)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/waldrop_howard)
+&middot; [goodreads](http://www.goodreads.com/author/show/113942.Howard_Waldrop)
+&middot; [amazon](http://www.amazon.com/Howard-Waldrop/e/B001HCYYMA)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22howard+waldrop%22 "26k results")
+  * <span class="btitle">[Gene Wolfe](http://en.wikipedia.org/wiki/Gene_Wolfe)</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?171)
+&middot; [goodreads](http://www.goodreads.com/author/show/23069.Gene_Wolfe)
+&middot; [amazon](http://www.amazon.com/Gene-Wolfe/e/B000APBL0I)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22gene+wolfe%22 "21k results")
+  * <span class="btitle">[Neil Gaiman](http://en.wikipedia.org/wiki/Neil_Gaiman)</span>
+&middot; [home](http://www.neilgaiman.com/)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Neil%20Gaiman)
+&middot; [goodreads](http://www.goodreads.com/author/show/1221698.Neil_Gaiman)
+&middot; [amazon](http://www.amazon.com/Neil-Gaiman/e/B000AQ01G2)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22neil+gaiman%22 "6k results")
