@@ -65,6 +65,8 @@ permalink: /writing/
 
 ## Collections {#collections}
 
+* <span class="btitle">Golden Gate and Other Stories</span>
+  ---&nbsp;*1984&nbsp;Locus&nbsp;15<sup>th</sup>* 
 * <span class="btitle">Iron Tears</span>
   &middot; [Don Webb](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) (1993)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292074.Iron_Tears#other_reviews "1 review")
@@ -75,7 +77,15 @@ permalink: /writing/
   &middot;&nbsp;[library](http://www.worldcat.org/title/iron-tears/oclc/47447815/editions?referer=di&editionsView=true)
   &middot;&nbsp;[preview](http://books.google.com/books?id=wJZDoE5Hz0MC&printsec=frontcover#v=onepage&q&f=false) 
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
-  &mdash;&nbsp;*Philip&nbsp;K.&nbsp;Dick&nbsp;Award&nbsp;Finalist* 
+  &mdash;&nbsp;*1993 Philip&nbsp;K.&nbsp;Dick&nbsp;Award&nbsp;Finalist, Locus 9<sup>th</sup>* 
+* <span class="btitle">Lafferty in Orbit</span>
+  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492776.Lafferty_in_Orbit#other_reviews "3 reviews")
+  &middot;&nbsp;[amazon](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688)
+  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=lafferty+in+orbit)
+  &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"lafferty+in+orbit"&_sop=15)
+  &middot;&nbsp;[library](http://www.worldcat.org/title/lafferty-in-orbit/oclc/47089030?referer=di&ht=edition)
+  &middot;&nbsp;[preview](http://books.google.com/books?id=Oyx5Fj2XsGAC&printsec=frontcover#v=onepage&q&f=false)
+  &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?19864)
 * <span class="btitle">Nine Hundred Grandmothers</span>
   &middot; [Ted Gioia](http://conceptualfiction.com/nine_hundred_grandmothers.html) (2014)
   &middot;&nbsp;[Bill Hader](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) (2008)
@@ -100,6 +110,7 @@ permalink: /writing/
   &middot;&nbsp;[daisy](https://openlibrary.org/books/OL5318211M/Strange_doings/daisy)
   &middot;&nbsp;[library](http://www.worldcat.org/title/strange-doings/oclc/2273728/editions?start_edition=1&sd=asc&referer=di&se=yr&qt=sort_yr_asc&editionsView=true&fq=)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?33489)
+* <span class="btitle">Through Elegant Eyes</span>
 
 ## Novels {#novels}
 
@@ -113,6 +124,7 @@ permalink: /writing/
   &middot; [amazon](http://www.amazon.com/Arrive-Easterwine-autobiography-ktistec-machine/product-reviews/068412341X/ref=cm_cr_pr_btm_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending "7 reviews")
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=arrive+at+easterwine)
   &middot;&nbsp;[library](http://www.worldcat.org/title/arrive-at-easterwine-the-autobiography-of-a-ktistec-machine/oclc/000161018)
+  &mdash;&nbsp;*1972&nbsp;Locus&nbsp;14<sup>th</sup>* 
 * <span class="btitle">Fourth Mansions</span>
   &middot; [Daniel Petersen](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) (2011)
   &middot; [goodreads](http://www.goodreads.com/book/show/689957.Fourth_Mansions#other_reviews "10 reviews")
@@ -121,7 +133,7 @@ permalink: /writing/
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=fourth+mansions)
   &middot;&nbsp;[library](http://www.worldcat.org/title/fourth-mansions/oclc/005950330)
   &middot; [preview](http://books.google.com/books?id=AJ1yVXoMfkoC&printsec=frontcover&dq=fourth+mansions&hl=en&sa=X&ei=3H47VPmeCIzLsATNi4KIBg&ved=0CCsQuwUwAA#v=onepage&q=fourth%20mansions&f=false) 
-  &mdash;&nbsp;*Nebula&nbsp;Nominee* 
+  &mdash;&nbsp;*1971 Nebula&nbsp;Nominee, Locus 5<sup>th</sup>* 
 * <span class="btitle">Okla Hannali</span>
   &middot; [Josephine](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/) (2013)
   &middot;&nbsp;[Keith Purtell](http://www.keithpurtell.com/kthings/r-a-lafferty.htm) (1998)
@@ -154,7 +166,7 @@ permalink: /writing/
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+devil+is+dead)
   &middot;&nbsp;[library](http://www.worldcat.org/title/devil-is-dead/oclc/002896356)
   &middot;&nbsp;[preview](http://books.google.com/books?id=xk0YTotXzu0C&printsec=frontcover#v=onepage&q&f=false) 
-  &mdash;&nbsp;*Nebula&nbsp;Nominee* 
+  &mdash;&nbsp;*1972 Nebula&nbsp;Nominee, Locus 7<sup>th</sup>* 
 * <span class="btitle">The Fall of Rome</span>
   &middot; [Martin Heavisides](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html)  (2009)
   &middot; [Lafferty letter](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402) (1993)
