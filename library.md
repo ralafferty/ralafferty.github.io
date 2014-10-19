@@ -51,6 +51,8 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 > "This is more exciting than any of the dozens of fictional works written by this talented man."&nbsp;[^anderson93]
 
+&middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/The_Ancient_Engineers)
+&middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?831602)
 &middot;&nbsp;[kirkus](https://www.kirkusreviews.com/book-reviews/l-sprague-de-camp-14/the-ancient-engineers-2/)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1120788.The_Ancient_Engineers#other_reviews)
 &middot;&nbsp;[amazon](http://www.amazon.com/The-Ancient-Engineers-Sprague-Camp/dp/0345482875)
@@ -119,10 +121,11 @@ It appears that no inventory was taken of Lafferty's personal library before it 
   </td>
 <td markdown="1">
 
-#### *Endangered Species*, by Gene Wolfe
+#### *Endangered Species*, by Gene Wolfe, 1989
 
 > "This is the biggest and probably the best one-author collection to appear in the '80s. There are at least three stories in it that should have won Hugos, and there are no poor stories in it at all... Read it, and then read at least half of it again." [^wolfe-cover]
 
+&middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?12338)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/271578.Endangered_Species#other_reviews)
 &middot;&nbsp;[amazon](http://www.amazon.com/Endangered-Species-Gene-Wolfe/product-reviews/0765310333/)
 
@@ -138,6 +141,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 > "There are absolute delights to be found on every one of its 1701 pages."&nbsp;[^anderson93]
 
+&middot; [wikipedia](http://en.wikipedia.org/wiki/Harpers_Dictionary_of_Classical_Antiquities)
 &middot; [perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0062&redirect=true)
 &middot;&nbsp;[archive.org](https://archive.org/details/cu31924027019482)
 &middot;&nbsp;[amazon](http://www.amazon.com/Harpers-Dictionary-Classical-Literature-Antiquities/dp/B000H1D770)
@@ -151,7 +155,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
   </td>
 <td markdown="1">
 
-#### *A History of Technology*, by Charles Singer (ed.), 5 Volumes, 1954, Oxford University Press. 
+#### *A History of Technology*, by Charles Singer (ed.), 5 Volumes, 1954
 
 > "One unsuspected source that I used a lot ... Vol. 1 'From Early Times to the Fall of Ancient Empires' is a treasure trove of early and unsuspected technology."&nbsp;[^anderson93]
 
