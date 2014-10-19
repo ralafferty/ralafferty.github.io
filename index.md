@@ -70,7 +70,7 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 
 <br>
 
-[^gaiman-wapo]: R.A. Lafferty Obituary, *Washington Post*, April 4, 2002
+[^gaiman-wapo]: R.A. Lafferty obituary, *Washington Post*, April 4, 2002
 [^jabberwocky]: JABberwocky Literary Agency Inc., [Praise for R.A. Lafferty](http://awfulagent.com/jabclients/lafferty)
 [^cover-nine]: [Cover](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=backcover#v=onepage&q&f=false) blurb for *Nine Hundred Grandmothers*, 1970
 [^wikiquote]: Wikiquote, [R.A. Lafferty](http://en.wikiquote.org/wiki/R._A._Lafferty)
