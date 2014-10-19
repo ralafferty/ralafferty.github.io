@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Dedicated to writer R.A. Lafferty (1914-2002), who said:
+Dedicated to writer R.A. Lafferty (1914-2002), who told Robert J. Whitaker [^whitaker79]:
 
 > "You seem to posit a real world, but that is doubtful.  There isn't any reality except the various consensus realities.  And no two persons belong to quite the same consensus.  So the world that a person lives in is largely a world that he has fictionized, whether he is a fictioner by trade or not.  Whatever frustrations we find in the cantankerous combo-world is partly from our own inability to shape things just the way we want to.
 >
@@ -22,7 +22,7 @@ Dedicated to writer R.A. Lafferty (1914-2002), who said:
 > [vrede](http://en.wiktionary.org/wiki/vrede#Dutch "Dutch"), 
 > [frieden](http://www.collinsdictionary.com/dictionary/english-german/peace "German"), 
 > [síocháin](http://en.wiktionary.org/wiki/s%C3%ADoch%C3%A1in "Irish"),
-> [mirno](http://www.wordsense.eu/mirno "Serbo-Croatian")."&nbsp;[^whitaker79] 
+> [mirno](http://www.wordsense.eu/mirno "Serbo-Croatian")."
 
 <br>
 <a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/"><img src="{{ site.baseurl }}/images/ral_index.jpg" height="197"></a>
