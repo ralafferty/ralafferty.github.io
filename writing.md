@@ -65,6 +65,13 @@ permalink: /writing/
 
 ## Collections {#collections}
 
+* <span class="btitle">Does Anyone Else Have Something Further To Add?</span>
+  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/721745.Does_Anyone_Else_Have_Something_Further_to_Add_#other_reviews "5 reviews")
+  &middot;&nbsp;[amazon](http://www.amazon.com/Does-anyone-else-something-further/dp/0684138271#customerReviews)
+  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=does+anyone+else+have+something+further) 
+  &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"does+anyone+else+have+something"&_sop=15)
+  &middot;&nbsp;[preview](http://books.google.com/books?id=iCLjH0ujC_8C&printsec=frontcover#v=onepage&q&f=false)
+  &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?10498)
 * <span class="btitle">Golden Gate and Other Stories</span>
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/470849.Golden_Gate_and_Other_Stories#other_reviews "1 review")
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=golden+gate+stories) 

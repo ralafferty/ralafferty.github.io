@@ -92,6 +92,7 @@ permalink: /tributes/
 * Bryan Cholfin, [Broken Mirrors Press](http://www.isfdb.org/cgi-bin/publisher.cgi?788) &middot; [Evangelical Propaganda](https://web.archive.org/web/20011025123836/http://home.earthlink.net/~cranked/the_lafferty_page.htm) (2001) &middot;&nbsp;[The&nbsp;Best&nbsp;of&nbsp;CRANK!](http://www.avclub.com/review/bryan-cholfin-editor-ithe-best-of-cranki-6177)&nbsp;(2002)
 * [Centipede Press](http://www.centipedepress.com/sf/manmademodels.html) 
 &middot; [Discussion on Great SF&F](http://greatsfandf.com/forums/viewtopic.php?f=3&t=217&st=0&sk=t&sd=a) (2011-2014)
+&middot; [Michael Swanwick](http://floggingbabel.blogspot.com/2014/01/a-few-words-about-most-wonderful-writer.html) (2014)
 * [Chris Drumm](http://www.isfdb.org/cgi-bin/publisher.cgi?938) &middot; [Notes on Lafferty Estate Sale](http://cdrumm.blogspot.com/2011/03/new-directions-lafferty-developments.html) (2011)
 * Dan Knight, [United Mythologies Press](http://www.isfdb.org/cgi-bin/publisher.cgi?454) 
 &middot; [Fellowship](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/) (1991)
