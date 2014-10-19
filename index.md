@@ -68,6 +68,8 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 
 > “It is a minor miracle that a serious philosophical and speculative work should be written so colorfully and so lyrically. There is, happily, no way to categorize the book: it has elements of science fiction, of pure fantasy, of poetry, of historical fiction." ---[Judith&nbsp;Merril](http://en.wikipedia.org/wiki/Judith_Merril) [^jabberwocky]
 
+> "Some day the taxonomists, those tireless obsessives who put labels on everything, will have to categorize literature as Westerns, fantasies, romances, lafferties, science fiction, mysteries..." ---[Theodore&nbsp;Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon) [^chrysalis2]
+
 <br>
 
 [^gaiman-wapo]: R.A. Lafferty obituary, *Washington Post*, April 4, 2002
@@ -79,3 +81,4 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 [^uva-prize]: UVA Today, [Grad Student's Focus on Science Fiction Author Leads to Book-Collecting Prize](http://news.virginia.edu/node/18066?id=18066), April 12, 2012
 [^hou]: [Sortir du XXème siècle](https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https%3A%2F%2Fhouellebecqblog.wordpress.com%2Ftag%2Fr-a-lafferty%2F), Michel Houellebecq
 [^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
+[^chrysalis2]: [Introduction](http://antsofgodarequeerfish.blogspot.com/2012/02/one-of-his-eyes-is-laser-and-other-x.html) to *Quiz Ship Loose*, Chrysalis Volume 2, 1978
