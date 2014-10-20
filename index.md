@@ -44,23 +44,25 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 
 ## [Quotes](http://en.wikiquote.org/wiki/R._A._Lafferty) {#quotes}
 
-> "R. A. Lafferty&hellip; was undoubtedly the finest writer of whatever it was that he did that ever there was. He was a genius, an oddball, a madman. His stories&hellip; are without precedent." &mdash;[Neil&nbsp;Gaiman](http://en.wikipedia.org/wiki/Neil_Gaiman) &nbsp;[^gaiman-wapo]
+> "Lafferty is our unheralded American Garcia Marquez ..." ---[Terry&nbsp;Bisson](http://en.wikipedia.org/wiki/Terry_Bisson) &nbsp;[^jabberwocky]
 
 > "Lafferty has the power which sets fire behind your eyeballs. There is warmth, illumination, and a certain joy attendant upon the experience." &mdash;[Roger&nbsp;Zelazny](http://en.wikipedia.org/wiki/Roger_Zelazny) &nbsp;[^cover-nine]
 
+> "...like Gulliver's Travels, almost all of Lafferty can be read as enchanting entertainments, or as sharply-etched political cartoonery, or as analogs of a superbly thought-out philosophy concerning human nature and human conduct. In other words, you get out of Lafferty, as out of Swift, whatever you're equipped to bring in." ---[Theodore&nbsp;Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon) &nbsp;[^chrysalis3]
+
+> "R. A. Lafferty&hellip; was undoubtedly the finest writer of whatever it was that he did that ever there was. He was a genius, an oddball, a madman. His stories&hellip; are without precedent." &mdash;[Neil&nbsp;Gaiman](http://en.wikipedia.org/wiki/Neil_Gaiman) &nbsp;[^gaiman-wapo]
+
 > "Lafferty’s Stories, like Philip K. Dick’s, are not susceptible to being confused with the work of any other writer.” &mdash;[Fred&nbsp;Saberhagen](http://en.wikipedia.org/wiki/Fred_Saberhagen) &nbsp;[^cover-nine]
 
-> "He is our most original writer&hellip; Just about everything Lafferty writes is fun, is witty, is entertaining and playful. But it is not easy, for it is a mingling of allegory with myth, and of both with something more" &mdash;[Gene&nbsp;Wolfe](http://en.wikipedia.org/wiki/Gene_Wolfe) &nbsp;[^intro-episodes]
+> "He is our most original writer&hellip; Just about everything Lafferty writes is fun, is witty, is entertaining and playful. But it is not easy, for it is a mingling of allegory with myth, and of both with something more." &mdash;[Gene&nbsp;Wolfe](http://en.wikipedia.org/wiki/Gene_Wolfe) &nbsp;[^intro-episodes]
+
+> "Lafferty belongs to a select group that includes James Joyce and Amos Tutuola, of writers who have reinvented the language of literature for themselves from the ground up... Lafferty has drawn strongly from the oral tradition of the American tall tale." &mdash;[Michael&nbsp;Swanwick](http://en.wikipedia.org/wiki/Michael_Swanwick) &nbsp;[^intro-iron]
 
 > “Wild, subtle, demonic, angelic, hilarious, tragic, poetic, a thundering melodrama and quest into the depths of the human spirit… R.A. Lafferty has always been uniquely his own man.” &mdash;[Poul&nbsp;Anderson](http://en.wikipedia.org/wiki/Poul_Anderson) &nbsp;[^jabberwocky]
 
-> “As with everything the man writes, the wind of imagination blows strongly, with the happy difference that in a novel he can reach full  gale-force. Lafferty defies categorization; his work is unlike anyone else’s." &mdash;[Harlan&nbsp;Ellison](http://en.wikipedia.org/wiki/Harlan_Ellison) &nbsp;[^jabberwocky]
-
-> "Lafferty unfailingly puts us, in his own words, ‘into a different juxtaposition with all things else in the world.’ Nobody else does it better. In fact, nobody else does it at all–not like this. Lafferty is one of a kind, a magician of strange images made fleetingly recognizable, of familiar emotions made strange and new and haunting. A delight.” &mdash;[Nancy&nbsp;Kress](http://en.wikipedia.org/wiki/Nancy_Kress) &nbsp;[^jabberwocky]
-
 > “The history of the Choctaw Indians has been told before and is still being told, but it has never been told in the way Lafferty tells it…Hannali is a buffalo bull of a man who should become one of the enduring characters in the literature of the American Indian.” &mdash;[Dee&nbsp;Brown](http://en.wikipedia.org/wiki/Dee_Brown_%28writer%29) &nbsp;[^jabberwocky]
 
-> "Lafferty belongs to a select group that includes James Joyce and Amos Tutuola, of writers who have reinvented the language of literature for themselves from the ground up &hellip; Lafferty has drawn strongly from the oral tradition of the American tall tale." &mdash;[Michael&nbsp;Swanwick](http://en.wikipedia.org/wiki/Michael_Swanwick) &nbsp;[^intro-iron]
+> "Lafferty unfailingly puts us, in his own words, ‘into a different juxtaposition with all things else in the world.’ Nobody else does it better. In fact, nobody else does it at all–not like this. Lafferty is one of a kind, a magician of strange images made fleetingly recognizable, of familiar emotions made strange and new and haunting. A delight.” &mdash;[Nancy&nbsp;Kress](http://en.wikipedia.org/wiki/Nancy_Kress) &nbsp;[^jabberwocky]
 
 > "You read a few of his stories and you begin to feel him rewriting your brain and opening new possibilities of what fiction, and science fiction especially, are capable of doing." &mdash;[Andrew&nbsp;Ferguson](http://bsuva.org/wordpress/2012/09/contest-winner-places-in-national-competition/) &nbsp;[^uva-prize]
 
@@ -69,6 +71,7 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 > “It is a minor miracle that a serious philosophical and speculative work should be written so colorfully and so lyrically. There is, happily, no way to categorize the book: it has elements of science fiction, of pure fantasy, of poetry, of historical fiction." ---[Judith&nbsp;Merril](http://en.wikipedia.org/wiki/Judith_Merril) &nbsp;[^jabberwocky]
 
 > "Some day the taxonomists, those tireless obsessives who put labels on everything, will have to categorize literature as Westerns, fantasies, romances, lafferties, science fiction, mysteries..." ---[Theodore&nbsp;Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon) &nbsp;[^chrysalis2]
+
 
 <br>
 
@@ -82,3 +85,4 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 [^hou]: [Sortir du XXème siècle](https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https%3A%2F%2Fhouellebecqblog.wordpress.com%2Ftag%2Fr-a-lafferty%2F), Michel Houellebecq
 [^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
 [^chrysalis2]: [Introduction](http://antsofgodarequeerfish.blogspot.com/2012/02/one-of-his-eyes-is-laser-and-other-x.html) to *Quiz Ship Loose*, Chrysalis Volume 2, 1978
+[^chrysalis3]: [Introduction](http://antsofgodarequeerfish.blogspot.com/2011/11/there-is-nobody-there-has-never-been.html) to *Bright Flightways*, Chrysalis Volume 3, 1978
