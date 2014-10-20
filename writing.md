@@ -66,6 +66,15 @@ weight: 30
 
 ## Collections {#collections}
 
+
+* <span class="btitle">Centipede Vol 1: The Man Who Made Models</span>
+  &middot;&nbsp;[publisher](http://www.centipedepress.com/sf/manmademodels.html)
+  &middot;&nbsp;[amazon](http://www.amazon.com/The-Man-Who-Made-Models/dp/1613470460#customerReviews "4 reviews")
+  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/17675126-the-man-who-made-models#other_reviews)
+  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?&isbn=978-1613470466)
+  &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"the+man+who+made+models"&_sop=15)
+* <span class="btitle">Centipede Vol 2: The Man with the Aura</span>
+  &middot;&nbsp;[amazon](http://www.amazon.com/Collected-Short-Stories-Lafferty-Volume/dp/1613471092/)
 * <span class="btitle">Does Anyone Else Have Something Further To Add?</span>
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/721745.Does_Anyone_Else_Have_Something_Further_to_Add_#other_reviews "5 reviews")
   &middot;&nbsp;[amazon](http://www.amazon.com/Does-anyone-else-something-further/dp/0684138271#customerReviews)
@@ -111,6 +120,7 @@ weight: 30
   &middot;&nbsp;[preview](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=frontcover#v=onepage&q&f=false) 
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?24318)
 * <span class="btitle">Ringing Changes</span>
+  &middot;&nbsp;[introduction by Lafferty](http://antsofgodarequeerfish.blogspot.com/2014/10/against-grain-stories-songs-of.html)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/721747.Ringing_Changes)
   &middot;&nbsp;[amazon](http://www.amazon.com/Ringing-Changes-R-A-Lafferty/dp/0441726070#customerReviews)
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=ringing+changes) 
