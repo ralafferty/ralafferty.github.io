@@ -149,7 +149,9 @@ weight: 30
   &middot;&nbsp;[library](http://www.worldcat.org/title/arrive-at-easterwine-the-autobiography-of-a-ktistec-machine/oclc/000161018)
   &mdash;&nbsp;*1972&nbsp;Locus&nbsp;14<sup>th</sup>* 
 * <span class="btitle">Fourth Mansions</span>
+  &middot; [Simon Crook](http://thegrammarofmatter.wordpress.com/2013/10/02/darkness-in-long-hour-spent-a-gift-from-greenham-common/) (2013)
   &middot; [Daniel Petersen](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) (2011)
+  &middot; [bcy.ca](http://freemasonry.bcy.ca/fiction/lafferty.html)
   &middot; [goodreads](http://www.goodreads.com/book/show/689957.Fourth_Mansions#other_reviews "10 reviews")
   &middot; [amazon](http://www.amazon.com/FOURTH-MANSIONS-24590-R-A-Lafferty/product-reviews/B001BJ0RAM/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending "3 reviews") 
   &middot; [amazon](http://www.amazon.com/Fourth-Mansions-R-A-Lafferty/product-reviews/1557850488/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending_ "4 reviews") 
