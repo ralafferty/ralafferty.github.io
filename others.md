@@ -49,7 +49,7 @@ In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://ant
 &middot; [goodreads](http://www.goodreads.com/author/show/22694.Flannery_O_Connor)
 &middot; [amazon](http://www.amazon.com/Flannery-OConnor/e/B000APYI6W)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22flannery+o'connor%22 "10k results")
-  * <span class="btitle">[Michael Bishop](http://en.wikipedia.org/wiki/Michael_Bishop_%28author%29 "created a "body of work that stands among the most admired and influential in modern science fiction and fantasy literature"")</span>
+  * <span class="btitle">[Michael Bishop](http://en.wikipedia.org/wiki/Michael_Bishop_%28author%29 "...created a "body of work that stands among the most admired and influential in modern science fiction and fantasy literature".")</span>
 &middot; [official](http://www.sondheimguide.com/bishop/bishop.htm)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?75)
 &middot; [goodreads](http://www.goodreads.com/author/show/2844917.Michael_Bishop) 
@@ -58,7 +58,8 @@ In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://ant
 
 ## Other Writers {#otherwriters}
 
-  * <span class="btitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards")</span> (2001)
+
+  * <span class="btitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "...received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards.")</span> (2001)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?3)
 &middot; [sfe](http://www.sf-encyclopedia.com/entry/anderson_poul)
 &middot; [goodreads](http://www.goodreads.com/author/show/32278.Poul_Anderson)
@@ -71,8 +72,15 @@ In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://ant
 &middot; [goodreads](http://www.goodreads.com/author/show/8489.Robert_Sheckley)
 &middot; [amazon](http://www.amazon.com/Robert-Sheckley/e/B000APB2K2)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22robert+sheckley%22 "64k results")
+  * <span class="btitle">[Charles G. Finney](http://en.wikipedia.org/wiki/Charles_G._Finney "...was an American fantasy novelist and newspaperman... His first novel and most famous work, The Circus of Dr. Lao, won one of the inaugural National Book Awards: the Most Original Book of 1935.")</span> (1984)
+&middot; [great sf&f](http://greatsfandf.com/AUTHORS/CharlesGFinney.php)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?3792)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/finney_charles_g)
+&middot; [goodreads](http://www.goodreads.com/author/show/7048609.Charles_G_Finney)
+&middot; [amazon](http://www.amazon.com/The-Circus-Dr-Charles-Finney/dp/4871876640)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22charles+g.+finney%22 "35k results")
   * <span class="btitle">[Cordwainer Smith](http://en.wikipedia.org/wiki/Cordwainer_Smith "American author... noted East Asia scholar and expert in psychological warfare... Most of Smith's stories are set in an era starting some 14,000 years in the future...  feature strange and vivid creations...")</span> (1966)
-&middot; [home](http://www.cordwainer-smith.com/)
+&middot; [official](http://www.cordwainer-smith.com/)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?101)
 &middot; [sfe](http://www.sf-encyclopedia.com/entry/smith_cordwainer)
 &middot; [goodreads](http://www.goodreads.com/author/show/11390.Cordwainer_Smith)
@@ -99,7 +107,7 @@ In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://ant
 &middot; [amazon](http://www.amazon.com/Howard-Waldrop/e/B001HCYYMA)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22howard+waldrop%22 "26k results")
   * <span class="btitle">[Terry Bisson](http://en.wikipedia.org/wiki/Terry_Bisson "...best known for his short stories. Several of his works, including "Bears Discover Fire", have won top awards in the science fiction community, such as the Hugo and the Nebula.")</span>
-&middot; [home](http://www.terrybisson.com/)
+&middot; [official](http://www.terrybisson.com/)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Terry%20Bisson)
 &middot; [sfe](http://www.sf-encyclopedia.com/entry/bisson_terry)
 &middot; [goodreads](http://www.goodreads.com/author/show/73422.Terry_Bisson)
@@ -118,7 +126,7 @@ In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://ant
 &middot; [goodreads](http://www.goodreads.com/author/show/126502.Michael_Flynn)
 &middot; [amazon](http://www.amazon.com/Michael-Flynn/e/B000APBAJA)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22michael+flynn%22 "18k results")
-  * <span class="btitle">[Flann O'Brien](http://en.wikipedia.org/wiki/Brian_O%27Nolan "Irish novelist, playwright and satirist, considered a major figure in twentieth century Irish literature... bizarre humour and modernist metafiction")</span> (1966)
+  * <span class="btitle">[Flann O'Brien](http://en.wikipedia.org/wiki/Brian_O%27Nolan "Irish novelist, playwright and satirist, considered a major figure in twentieth century Irish literature... bizarre humour and modernist metafiction.")</span> (1966)
 &middot; [scriptorium](http://www.themodernword.com/scriptorium/obrien.html)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?5056)
 &middot; [sfe](http://www.sf-encyclopedia.com/entry/obrien_flann)
@@ -140,7 +148,7 @@ In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://ant
 &middot; [amazon](http://www.amazon.com/Georges-Perec/e/B000APSLFG)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22georges+perec%22 "8k results")
   * <span class="btitle">[Neil Gaiman](http://en.wikipedia.org/wiki/Neil_Gaiman "English author of short fiction, novels, comic books, graphic novels, audio theatre and films ... won numerous awards, including the Hugo, Nebula, and Bram Stoker awards")</span>
-&middot; [home](http://www.neilgaiman.com/)
+&middot; [official](http://www.neilgaiman.com/)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Neil%20Gaiman)
 &middot; [goodreads](http://www.goodreads.com/author/show/1221698.Neil_Gaiman)
 &middot; [amazon](http://www.amazon.com/Neil-Gaiman/e/B000AQ01G2)
