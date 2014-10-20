@@ -25,7 +25,9 @@ Dedicated to writer R. A. Lafferty (1914-2002), who told Robert J. Whitaker [^wh
 > [mirno](http://www.wordsense.eu/mirno "Serbo-Croatian")."
 
 <br>
-<a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/"><img src="{{ site.baseurl }}/images/ral_index.jpg" height="197"></a>
+<a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/">
+  <img src="{{ site.baseurl }}/images/ral_index.jpg" height="197">
+</a>
 
 ## Interviews 
 

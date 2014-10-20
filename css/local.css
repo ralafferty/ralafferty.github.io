@@ -1,7 +1,7 @@
-.TextWrapLeft {
-	clear: left
-	float: left
-	margin: 10px;
+.TextWrapRight {
+	clear: right
+	float: right
+	margin: 30px;
 }
 
 .bookcover {

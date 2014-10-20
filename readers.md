@@ -7,7 +7,7 @@ weight: 15
 
 
 <a href="http://manybooks.net/authors/laffertyr.html">
-  <img src="{{ site.baseurl }}/images/readers.jpg" height="197">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/readers.jpg" height="197">
 </a>
 
 ## Social {#social}

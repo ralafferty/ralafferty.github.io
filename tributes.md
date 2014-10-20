@@ -5,9 +5,9 @@ permalink: /tributes/
 weight: 25
 ---
 
-<a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/"><img src="{{ site.baseurl }}/images/tribute.jpg" height="197"></a>
-<br>
-<br>
+<a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/tribute.jpg" height="197">
+</a>
 
 * 2014, [The secret sci-fi genius more than ready for a comeback](http://www.theguardian.com/books/booksblog/2014/aug/13/ra-lafferty-secret-sci-fi-genius-poised-for-comeback), David Barnett, The Guardian
 * 2014, [Gaiman Touts Lafferty](http://blogs.wsj.com/speakeasy/2014/07/23/gaiman-touts-lafferty-obrien-while-discussing-the-thirteen-clocks/), Wall St. Journal

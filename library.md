@@ -5,7 +5,9 @@ permalink: /library/
 weight: 55
 ---
 
-<a href="http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm"><img src="{{ site.baseurl }}/images/library.jpg"></a>
+<a href="http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm">
+ <img src="{{ site.baseurl }}/images/library.jpg">
+</a>
 
 <br>
 R. A. Lafferty on his personal library: 

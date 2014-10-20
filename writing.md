@@ -5,9 +5,11 @@ permalink: /writing/
 weight: 30
 ---
 
-<a href="http://www.centipedepress.com/authors/lafferty.html"><img src="{{ site.baseurl }}/images/works.jpg" height="197"></a>
+<a href="http://www.centipedepress.com/authors/lafferty.html">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/works.jpg" height="197">
+</a>
 
-## Short Stories {#shortstories}
+## Short&nbsp;Stories {#shortstories}
 
 * 1973, <span class="btitle">[Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22)</span>
 &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) (2013)
