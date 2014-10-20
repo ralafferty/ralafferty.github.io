@@ -2,6 +2,7 @@
 layout: page
 title: Writing
 permalink: /writing/
+weight: 30
 ---
 
 <a href="http://www.centipedepress.com/authors/lafferty.html"><img src="{{ site.baseurl }}/images/works.jpg" height="197"></a>

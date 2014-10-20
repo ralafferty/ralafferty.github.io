@@ -2,6 +2,7 @@
 layout: page
 title: Readers
 permalink: /readers/
+weight: 15
 ---
 
 
