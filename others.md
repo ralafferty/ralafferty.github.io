@@ -17,6 +17,13 @@ In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://ant
 
 ## Christian Writers {#otherwriters}
 
+  * <span class="btitle">[Walter M. Miller, Jr.](http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr. "...was an American science fiction writer... primarily known for A Canticle for Leibowitz, the only novel he published in his lifetime. Prior to its publication he was a prolific writer of short stories.")</span> (1996)
+&middot; [quotes](http://en.wikiquote.org/wiki/Walter_M._Miller,_Jr.)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?41)
+&middot; [sfe](http://sf-encyclopedia.com/entry/miller_walter_m)
+&middot; [goodreads](http://www.goodreads.com/author/show/6025722.Walter_M_Miller_Jr_)
+&middot; [amazon](http://www.amazon.com/Walter-M.-Miller-Jr./e/B001IGWZ0S)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22walter+m.+miller%22 "30k results")
   * <span class="btitle">[Tim Powers](http://en.wikipedia.org/wiki/Tim_Powers "... won the World Fantasy Award twice ...he uses actual, documented historical events featuring famous people, but shows another view of them in which occult or supernatural factors heavily influence the motivations and actions of the characters.") </span>
 &middot; [quotes](http://en.wikiquote.org/wiki/Tim_Powers)
 &middot; [works](http://www.theworksoftimpowers.com/)
