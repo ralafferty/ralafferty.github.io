@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Readers
-permalink: /readers/
+title: Fans
+permalink: /fans/
 weight: 15
 ---
 
