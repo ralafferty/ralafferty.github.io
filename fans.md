@@ -10,6 +10,22 @@ weight: 15
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/readers.jpg" height="197">
 </a>
 
+## Pastiche {#pastiche}
+
+* 2011, <span class="btitle">Sunbird</span>, [Neil Gaiman](http://www.newyorker.com/magazine/2010/01/25/kid-goth) &middot; [quotes](http://www.theintrepidreader.com/2011/12/weekend-cooking-sunbird-by-neil-gaiman.html)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?460731)
+&middot; [amazon](http://www.amazon.com/Fragile-Things-Short-Fictions-Wonders/dp/0060515236#customerReviews)
+&middot; [amazon](http://www.amazon.com/Years-Best-Fantasy-David-Hartwell/dp/1892391376)
+* 2003, [A Letter from Epiktistes](http://web.archive.org/web/20091017222531/http://www.theedwardsociety.com/epiktistes.php), Daniel Petersen
+
+## Art {#art}
+
+  * 2012, [Eurema's Dam](http://jorib.deviantart.com/art/Albert-291776659), JoriB
+  * 2012, [Gizmoids In The Back](http://laemeur.blogspot.com/2011/02/b2l-s.html), Laemeur
+  * 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
+  * 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
+  * 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
+
 ## Social {#social}
 
 * Facebook, Group: [East of Laughter](https://www.facebook.com/groups/586744968045210/) &middot; Page: [ralaffertyfans](https://www.facebook.com/ralaffertyfans)
@@ -53,16 +69,4 @@ weight: 15
   * 2008, [En las distancias cortas: "Ginny envuelta en el sol"](http://ambargris.blogspot.com/2008/08/en-las-distancias-cortas-ginny-envuelta.html), Grandfather Igor [&nbsp; &delta; &nbsp;](http://translate.google.com/translate?hl=en&sl=es&u=http://ambargris.blogspot.com/2008/08/en-las-distancias-cortas-ginny-envuelta.html&prev=/search%3Fq%3Dra%2Blafferty%26start%3D50%26lr%3Dlang_es%26sa%3DN%26hl%3Den%26as_qdr%3Dall%26biw%3D1079%26bih%3D1253%26tbs%3Dlr:lang_1es)
   * 2008, [La región de los grandes caballos](http://www.arealibros.es/otros/la-region-de-los-grandes-caballos-de-r-a-lafferty.html), Gonzalo Valdivia Dávila [&nbsp; &delta; &nbsp;](http://translate.google.com/translate?hl=en&sl=es&u=http://www.arealibros.es/otros/la-region-de-los-grandes-caballos-de-r-a-lafferty.html&prev=/search%3Fq%3Dra%2Blafferty%26start%3D50%26lr%3Dlang_es%26sa%3DN%26hl%3Den%26as_qdr%3Dall%26biw%3D1079%26bih%3D1253%26tbs%3Dlr:lang_1es)
   * 2006, [Los saltamundos](http://loslibrosloslibros.blogspot.com/2006/03/ralafferty-los-saltamundos.html),  Daniel Contarelli [&nbsp; &delta; &nbsp;](http://translate.google.com/translate?hl=en&sl=es&u=http://loslibrosloslibros.blogspot.com/2006/03/ralafferty-los-saltamundos.html&prev=/search%3Fq%3Dra%2Blafferty%26start%3D40%26lr%3Dlang_es%26sa%3DN%26hl%3Den%26as_qdr%3Dall%26biw%3D1079%26bih%3D1253%26tbs%3Dlr:lang_1es)
-
-## Fiction {#fiction}
-
-* 2003, [A Letter from Epiktistes](http://web.archive.org/web/20091017222531/http://www.theedwardsociety.com/epiktistes.php), Daniel Petersen
-
-## Art {#art}
-
-  * 2012, [Eurema's Dam](http://jorib.deviantart.com/art/Albert-291776659), JoriB
-  * 2012, [Gizmoids In The Back](http://laemeur.blogspot.com/2011/02/b2l-s.html), Laemeur
-  * 2010, [Past Master Beer](http://travissouza.com/1352071), Travis Souza (click on slide show)
-  * 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
-  * 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
 
