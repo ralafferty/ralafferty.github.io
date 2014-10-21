@@ -12,10 +12,9 @@ weight: 5
 ## Bibliography {#bibliography}
 
 * <span class="btitle">Complete Listing</span>: [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
-* <span class="btitle">United Mythologies Press</span>
-  &middot; [Catalog](/archive/ump-usenet.txt) (1992)
-* <span class="btitle">Unpublished Lafferty</span>
-  &middot; [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
+* <span class="btitle">United Mythologies Press</span>: [Catalog](/archive/ump-usenet.txt) (1992)
+* <span class="btitle">Unpublished Lafferty</span>:
+  [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
   &middot;&nbsp;[buy review article](http://www.nyrsf.com/2012/01/)
 * [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
 * [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
