@@ -1,15 +1,31 @@
 ---
 layout: page
-title: Writing
-permalink: /writing/
-weight: 30
+title: Works
+permalink: /works/
+weight: 5
 ---
 
 <a href="http://www.centipedepress.com/authors/lafferty.html">
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/works.jpg" height="197">
 </a>
 
+## Bibliography {#bibliography}
+
+* <span class="btitle">Complete Listing</span>: [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
+* <span class="btitle">United Mythologies Press</span>
+  &middot; [Catalog](/archive/ump-usenet.txt) (1992)
+* <span class="btitle">Unpublished Lafferty</span>
+  &middot; [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
+  &middot;&nbsp;[buy review article](http://www.nyrsf.com/2012/01/)
+* [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
+* [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
+* Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) &middot; [Books in Japan](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
+* [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty) &middot; [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty) &middot; [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RALafferty)
+
+
 ## Short&nbsp;Stories {#shortstories}
+
+This is a partial and in-progress list, a complete list is available at [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?36).
 
 * 1973, <span class="btitle">[Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22)</span>
 &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) (2013)
@@ -68,6 +84,7 @@ weight: 30
 
 ## Collections {#collections}
 
+This is a partial and in-progress list, a complete list is available at [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?36).
 
 * <span class="btitle">Centipede Vol 1: The Man Who Made Models</span>
   &middot;&nbsp;[publisher](http://www.centipedepress.com/sf/manmademodels.html)
@@ -148,6 +165,8 @@ weight: 30
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?51284)
 
 ## Novels {#novels}
+
+This is a partial and in-progress list, a complete list is available at [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?36).
 
 * <span class="btitle">Archipelago</span>
   &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) (2013)
@@ -236,21 +255,6 @@ weight: 30
   &middot;&nbsp;[library](http://www.worldcat.org/title/space-chantey/oclc/006027516)
   &mdash;&nbsp;*2006&nbsp;Seiun&nbsp;Nominee* 
 
-
-## Bibliography {#bibliography}
-
-* <span class="btitle">United Mythologies Press</span>
-  &middot; [Catalog](/archive/ump-usenet.txt) (1992)
-* <span class="btitle">Unpublished Lafferty</span>
-  &middot; [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
-  &middot;&nbsp;[buy review article](http://www.nyrsf.com/2012/01/)
-* [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
-* [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
-* [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
-* Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) &middot; [Lafferty Books in Japan](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
-* [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RALafferty)
-* [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty)
-* [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty)
 
 ### Search {#search}
 

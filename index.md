@@ -2,7 +2,39 @@
 layout: page
 ---
 
-Dedicated to writer R. A. Lafferty (1914-2002), who told Robert J. Whitaker [^whitaker79]:
+Dedicated to writer [R. A. Lafferty](https://www.google.com/search?q=R.+A.+Lafferty), about whom the NY Times [said](http://www.nytimes.com/2002/03/29/us/rafael-a-lafferty-87-science-fiction-writer.html):
+
+> "...a prolific science fiction writer best known for his short stories and his fresh, eccentric style ...had a strong, satirical style and pushed the limits of his genre. One story asked what would happen if everyone on earth had a gun, and another created a world in which fads were created, peaked and died all in a day. A Roman Catholic, he was known for the theological content of his writing.
+> 
+> He wrote more than 200 short stories and 21 novels -- historical novels as well as science fiction. Mr. Lafferty received the Hugo Award from the World Science Fiction Society in 1973 for his short story 'Eurema's Dam.'"
+
+<center>
+<a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/">
+  <img src="{{ site.baseurl }}/images/ral_index.jpg" height="197">
+</a>
+</center>
+
+## [Excerpts](http://en.wikiquote.org/wiki/R._A._Lafferty) {#excerpts}
+
+From [Slow Tuesday Night](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm) (1960):
+
+> "It had been a slow Tuesday night. A few hundred new products had run their course on the markets. There had been a score of dramatic hits, three-minute and five-minute capsule dramas, and several of the six-minute long-play affairs. Night Street Nine—a solidly sordid offering—seemed to be in as the drama of the night unless there should be a late hit.
+>
+> Hundred-storied buildings had been erected, occupied, obsoleted, and demolished again to make room for more contemporary structures. Only the mediocre would use a building that had been left over from the Day-Flies or the Dawners, or even the Nyctalops of the night before. The city was rebuilt pretty completely at least three times during an eight-hour period." &nbsp;[...&nbsp;more](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm)
+
+From [The Six Fingers of Time](http://www.gutenberg.org/files/31663/31663-h/31663-h.htm) (1960):
+
+> "In the street there was no motion, no real motion. A truck, first seeming at rest, moved very slowly. There was no gear in which it could move so slowly. And there was a taxi which crept along, but Charles Vincent had to look at it carefully for some time to be sure that it was in motion. Then he received a shock. He realized by the early morning light that the driver of it was dead. Dead with his eyes wide open!
+> 
+> Slowly as it was going, and by whatever means it was moving, it should really be stopped. He walked over to it, opened the door, and pulled on the brake. Then he looked into the eyes of the dead man. Was he really dead? It was hard to be sure. He felt warm. But, even as Vincent looked, the eyes of the dead man had begun to close. And close they did and open again in a matter of about twenty seconds.
+> 
+> This was weird. The slowly closing and opening eyes sent a chill through Vincent. And the dead man had begun to lean forward in his seat. Vincent put a hand in the middle of the man’s chest to hold him upright, but he found the forward pressure as relentless as it was slow. He was unable to keep the dead man up." [...&nbsp;more](http://www.gutenberg.org/files/31663/31663-h/31663-h.htm)
+
+In a 1973 interview with *Alien Critic*, Lafferty [told](http://en.wikiquote.org/wiki/R._A._Lafferty) Paul Walker:
+
+> "I write as clearly as I am able to. I sometimes tackle ideas and notions that are relatively complex, and it is very difficult to be sure that I am conveying them in the best way. Anyone who goes beyond cliche phrases and cliche ideas will have this trouble."
+
+In a 1979 interview, Lafferty [told](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) Robert J. Whitaker [^whitaker79]:
 
 > "You seem to posit a real world, but that is doubtful.  There isn't any reality except the various consensus realities.  And no two persons belong to quite the same consensus.  So the world that a person lives in is largely a world that he has fictionized, whether he is a fictioner by trade or not.  Whatever frustrations we find in the cantankerous combo-world is partly from our own inability to shape things just the way we want to.
 >
@@ -24,27 +56,9 @@ Dedicated to writer R. A. Lafferty (1914-2002), who told Robert J. Whitaker [^wh
 > [síocháin](http://en.wiktionary.org/wiki/s%C3%ADoch%C3%A1in "Irish"),
 > [mirno](http://www.wordsense.eu/mirno "Serbo-Croatian")."
 
-<br>
-<a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/">
-  <img src="{{ site.baseurl }}/images/ral_index.jpg" height="197">
-</a>
+For a list of stories and novels written by R. A. Lafferty, see his [Works](/works/).
 
-## Interviews 
-
-* [1990](http://www.isfdb.org/cgi-bin/pl.cgi?304652),
-D. Schweitzer & R.J. Whitaker, *Cranky Old Man from Tulsa* 
-* 1987, Ron Wolfe, "Counting Grandmothers", *American Fantasy*
-* 1983, Darrel Schweitzer
-&middot; [excerpt](http://hieronymopolis.wordpress.com/2010/12/09/r-a-lafferty-on-secular-liberalism-the-religion-that-is-not-called-a-religion/) 
-&middot; [preview](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
-* 1979, Robert J. Whitaker, [*At The Sleepy Sailor*](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) 
-* [1979](http://www.isfdb.org/cgi-bin/title.cgi?717449), 
-[The Day After the World Ended](http://web.archive.org/web/20090327154715/http://www.prairienet.org/~almahu/after.htm), *It's Down the Slippery Cellar Stairs*
-* 1973, Paul Walker, *Alien Critic #6*
-* [1970](http://www.worldcat.org/title/ra-lafferty-the-man-and-his-work/oclc/70161171),
-P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3* 
-
-## [Quotes](http://en.wikiquote.org/wiki/R._A._Lafferty) {#quotes}
+## Quotes {#quotes}
 
 > "Lafferty is our unheralded American Garcia Marquez ..." ---[Terry&nbsp;Bisson](http://en.wikipedia.org/wiki/Terry_Bisson) &nbsp;[^jabberwocky]
 
