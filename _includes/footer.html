@@ -4,7 +4,7 @@
 
     <div class="footer-col-wrapper">
 
-      <div class="footer-col  footer-col-2">
+      <div class="footer-col">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -55,6 +55,23 @@
           </li>
           {% endif %}
 
+          <li>
+              <span class="username"><a href="/">Home</a></span>
+		&nbsp;&mdash;&nbsp; 
+		<span class="username"><a href="/works">Works</a></span>
+		&nbsp;&mdash;&nbsp; 
+              	<span class="username"><a href="/tributes">Tributes</a></span>
+		&nbsp;&mdash;&nbsp; 
+              	<span class="username"><a href="/readers">Readers</a></span>
+		&nbsp;&mdash;&nbsp; 
+              	<span class="username"><a href="/library">Library</a></span>
+		&nbsp;&mdash;&nbsp; 
+              	<span class="username"><a href="/related">Related</a></span>
+		<br>
+		<br>
+		<center><span class="text">{{ site.description }}</span></center>
+          </li>
+
           {% if site.twitter_username %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -70,11 +87,6 @@
           </li>
           {% endif %}
         </ul>
-      </div>
-
-
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
       </div>
     </div>
 
