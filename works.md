@@ -48,12 +48,12 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 &middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html) 
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54132)
 * 1966, <span class="btitle">[Narrow Valley](https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html)</span>
-&middot;&nbsp;[Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) (2013)
-&middot;&nbsp;[MPorcius](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) (2013)
-&middot;&nbsp;[DRB](http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html) (2005)
-&middot;&nbsp;[Ron Ginzler](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) (1999)
-&middot;&nbsp;[Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) 
-&middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?53936)
+  &middot;&nbsp;[Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) (2013)
+  &middot;&nbsp;[MPorcius](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) (2013)
+  &middot;&nbsp;[DRB](http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html) (2005)
+  &middot;&nbsp;[Ron Ginzler](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) (1999)
+  &middot;&nbsp;[Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) 
+  &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?53936)
 * 1965, <span class="btitle">[Guesting Time](http://www.baenebooks.com/chapters/9781625791191/9781625791191___3.htm)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54089)
 * 1965, <span class="btitle">[In Our Block](https://www.google.com/search?&q=r.a.+lafferty+%22in+our+block%22)</span>
@@ -127,8 +127,9 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?19864)
 * <span class="btitle">Nine Hundred Grandmothers</span>
   &middot; [Ted Gioia](http://conceptualfiction.com/nine_hundred_grandmothers.html) (2014)
+  &middot;&nbsp;[Jed Hartman](http://www.sfsignal.com/archives/2010/06/mind_meld_what_single-author_short_fiction_collections_should_be_in_every_fans_library_2/) (2010)
   &middot;&nbsp;[Bill Hader](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) (2008)
-  &middot;&nbsp;[Ann Cecil](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) (2007)
+  &middot;&nbsp;[Ann&nbsp;Cecil](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) (2007)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492773.Nine_Hundred_Grandmothers#other_reviews "27 reviews")
   &middot;&nbsp;[amazon](http://www.amazon.com/Nine-Hundred-Grandmothers-R-Lafferty/product-reviews/0441580513/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending "18 reviews")
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=nine+hundred+grandmothers)
@@ -147,6 +148,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 * <span class="btitle">Strange Doings</span>
   &middot;&nbsp;[Bill Crider](http://billcrider.blogspot.com/2014/10/ffb-r-lafferty-strange-doings.html) (2014)
   &middot;&nbsp;[Vintage45](http://vintage45.wordpress.com/2010/09/20/strange-doings-r-a-lafferty/) (2010)
+  &middot;&nbsp;[Elizabeth Bear](http://www.sfsignal.com/archives/2010/06/mind_meld_what_single-author_short_fiction_collections_should_be_in_every_fans_library_2/) (2010)
   &middot;&nbsp;[Kirkus](https://www.kirkusreviews.com/book-reviews/r-a-lafferty-2/strange-doings/) (1972)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/721785.Strange_Doings#other_reviews "3 reviews")
   &middot;&nbsp;[amazon](http://www.amazon.com/Strange-Doings-R-A-Lafferty/dp/0879970502 "1 review")
