@@ -10,5 +10,5 @@ RALafferty.org is a fan-created site to introduce new readers to the writing and
 
 The site was created by [@dotpeople](http://twitter.com/dotpeople) in October 2014, and improved by contributions from members of [East of Laughter](https://www.facebook.com/groups/586744968045210/).  It is archived at [Github](http://github.com/ralafferty).  
 
-Feedback and contributions are welcome by email to *&lt;feedback @ this-domain&gt;*. 
+Please send feedback and contributions by email to *&lt;feedback @ this-domain&gt;*. 
 
