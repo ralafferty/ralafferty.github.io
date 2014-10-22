@@ -7,7 +7,7 @@ redirect_from: "/writing/"
 ---
 
 <a href="http://www.centipedepress.com/authors/lafferty.html">
-  <img hspace="30" align="right" src="{{ site.baseurl }}/images/works.jpg" height="197">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/works.jpg" height="230">
 </a>
 
 ## Bibliography {#bibliography}
@@ -16,7 +16,7 @@ redirect_from: "/writing/"
 * <span class="btitle">United Mythologies Press</span>: [Catalog](/archive/ump-usenet.txt) (1992)
 * <span class="btitle">Unpublished Lafferty</span>:
   [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
-  &middot;&nbsp;[buy review article](http://www.nyrsf.com/2012/01/)
+  &middot;&nbsp;[buy article](http://www.nyrsf.com/2012/01/)
 * [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
 * [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
 * Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) &middot; [Books in Japan](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
