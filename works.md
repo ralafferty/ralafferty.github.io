@@ -127,7 +127,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?19864)
 * <span class="btitle">Nine Hundred Grandmothers</span>
   &middot; [Ted Gioia](http://conceptualfiction.com/nine_hundred_grandmothers.html) (2014)
-  &middot;&nbsp;[Jed Hartman](http://www.sfsignal.com/archives/2010/06/mind_meld_what_single-author_short_fiction_collections_should_be_in_every_fans_library_2/) (2010)
+  &middot;&nbsp;[Jed Hartman](http://www.sfsignal.com/archives/2010/06/mind_meld_what_single-author_short_fiction_collections_should_be_in_every_fans_library_2/#more-44295) (2010)
   &middot;&nbsp;[Bill Hader](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) (2008)
   &middot;&nbsp;[Ann&nbsp;Cecil](http://www.cs.cmu.edu/afs/cs/usr/roboman/www/sigma/review/900grannies.html) (2007)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/492773.Nine_Hundred_Grandmothers#other_reviews "27 reviews")
