@@ -13,11 +13,28 @@ redirect_from: "/readers/"
 
 ## Pastiche {#pastiche}
 
-* 2011, <span class="btitle">Sunbird</span>, [Neil Gaiman](http://www.newyorker.com/magazine/2010/01/25/kid-goth) &middot; [quotes](http://www.theintrepidreader.com/2011/12/weekend-cooking-sunbird-by-neil-gaiman.html)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?460731)
-&middot; [amazon](http://www.amazon.com/Fragile-Things-Short-Fictions-Wonders/dp/0060515236#customerReviews)
-&middot; [amazon](http://www.amazon.com/Years-Best-Fantasy-David-Hartwell/dp/1892391376)
-* 2003, [A Letter from Epiktistes](http://web.archive.org/web/20091017222531/http://www.theedwardsociety.com/epiktistes.php), Daniel Petersen
+* 2011, <span class="btitle">Sunbird</span>, [Neil Gaiman](http://www.newyorker.com/magazine/2010/01/25/kid-goth) 
+  &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?460731)
+  &middot; [quotes](http://www.theintrepidreader.com/2011/12/weekend-cooking-sunbird-by-neil-gaiman.html)
+  &middot; [amazon](http://www.amazon.com/Fragile-Things-Short-Fictions-Wonders/dp/0060515236#customerReviews)
+  &middot; [amazon](http://www.amazon.com/Years-Best-Fantasy-David-Hartwell/dp/1892391376)
+  &middot; [critique](http://www.academia.edu/4487275/The_Order_of_the_Phoenix_Homage_Pastiche_and_Neil_Gaiman_s_Sunbird_)
+* 2003, <span class="btitle">[A Letter from Epiktistes](http://web.archive.org/web/20091017222531/http://www.theedwardsociety.com/epiktistes.php)</span>, [Daniel Petersen](http://antsofgodarequeerfish.blogspot.com/)
+* 1999, <span class="btitle">Has Anybody Seen Junie Moon?</span>, [Gene Wolfe](http://en.wikipedia.org/wiki/Gene_Wolfe)
+ &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?332871)
+ &middot; [analysis](http://www.wolfewiki.com/pmwiki/pmwiki.php?n=Stories.HasAnybodySeenJunieMoon?)
+ &middot; [goodreads](http://www.goodreads.com/book/show/4395088-the-best-of-gene-wolfe#other_reviews)
+ &middot; [amazon](http://www.amazon.com/The-Best-Gene-Wolfe-Retrospective/dp/B00A18G2Q2#customerReviews)
+ &middot; [used](http://used.addall.com/SuperRare/submitRare.cgi?&isbn=076532136X)
+* 1980, <span class="btitle">Of Crystalline Labyrinths and the New Creation</span>, [Michael&nbsp;Bishop](http://en.wikipedia.org/wiki/Michael_Bishop_%28author%29)
+ &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?67803)
+ &middot; [goodreads](http://www.goodreads.com/book/show/875815.Brighten_to_Incandescence#other_reviews)
+ &middot; [amazon](http://www.amazon.com/Brighten-Incandescence-Stories-Michael-Bishop/dp/1930846169#customerReviews)
+ &middot; [used](http://used.addall.com/SuperRare/submitRare.cgi?author=michael+bishop&title=Brighten+to+Incandescence%3A+17+Stories)
+* 1976, <span class="btitle">Sic Transit...?, A Shaggy Hairless-Dog Story</span>, 
+ [Steven Utley](http://en.wikipedia.org/wiki/Steven_Utley) & 
+ [Howard Waldrop](http://en.wikipedia.org/wiki/Howard_Waldrop)
+ &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?93386)
 
 ## Art {#art}
 
