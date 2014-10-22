@@ -10,7 +10,7 @@ Dedicated to writer [R. A. Lafferty](https://www.google.com/search?q=R.+A.+Laffe
 
 <center>
 <a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/">
-  <img src="{{ site.baseurl }}/images/ral_index.jpg" height="197">
+  <img src="{{ site.baseurl }}/images/ral_index.jpg" >
 </a>
 </center>
 
