@@ -58,7 +58,7 @@ In a 1979 interview, R. A. Lafferty [told](http://hieronymopolis.wordpress.com/2
 
 Lafferty's list of sixteen non-English words concluded his 1979 interview. 
 
-Hover your mouse pointer over each word to see the language name, or click the word.  Lafferty knew the Latin, French, Spanish, Italian, German and Dutch language well, with a reading or speaking knowledge of Greek, Gaelic, Malay, Tagalog, Hebrew, Arabic and Slavic languages. [^ferguson2014]
+To see the language name, you can hover your mouse pointer over each word, or click the word.  Lafferty knew the Latin, French, Spanish, Italian, German and Dutch language well, with a reading or speaking knowledge of Greek, Gaelic, Malay, Tagalog, Hebrew, Arabic and Slavic languages. [^ferguson2014]
 
 For a list of stories and novels written by R. A. Lafferty, see his [Works](/works/) and [quotes](http://en.wikiquote.org/wiki/R._A._Lafferty).
 
