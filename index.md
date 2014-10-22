@@ -56,7 +56,7 @@ In a 1979 interview, R. A. Lafferty [told](http://hieronymopolis.wordpress.com/2
 > [síocháin](http://en.wiktionary.org/wiki/s%C3%ADoch%C3%A1in "Irish"),
 > [mirno](http://www.wordsense.eu/mirno "Serbo-Croatian")."
 
-Lafferty's list of non-English terms concluded the 1979 interview. Hover your mouse pointer on each word to see the language name, or click the word.  Lafferty knew Latin, French, Spanish, Italian, German and Dutch well, with a reading or speaking knowledge of Greek, Gaelic, Malay, Tagalog, Hebrew, Arabic and Slavic languages.
+Lafferty's list of non-English words concluded the 1979 interview. Hover your mouse pointer over each word to see the language name, or click the word.  Lafferty knew Latin, French, Spanish, Italian, German and Dutch well, with a reading or speaking knowledge of Greek, Gaelic, Malay, Tagalog, Hebrew, Arabic and Slavic languages. [^ferguson2014]
 
 For a list of stories and novels written by R. A. Lafferty, see his [Works](/works/) and [quotes](http://en.wikiquote.org/wiki/R._A._Lafferty).
 
@@ -104,3 +104,4 @@ For a list of stories and novels written by R. A. Lafferty, see his [Works](/wor
 [^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
 [^chrysalis2]: [Introduction](http://antsofgodarequeerfish.blogspot.com/2012/02/one-of-his-eyes-is-laser-and-other-x.html) to *Quiz Ship Loose*, Chrysalis Volume 2, 1978
 [^chrysalis3]: [Introduction](http://antsofgodarequeerfish.blogspot.com/2011/11/there-is-nobody-there-has-never-been.html) to *Bright Flightways*, Chrysalis Volume 3, 1978
+[^ferguson2014]: Andrew Ferguson, [Twitter](https://twitter.com/jacksontom/status/521665782338449409), Oct 2014
