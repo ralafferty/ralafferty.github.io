@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Dedicated to writer [R. A. Lafferty](https://www.google.com/search?q=R.+A.+Lafferty), about whom the NY Times [said](http://www.nytimes.com/2002/03/29/us/rafael-a-lafferty-87-science-fiction-writer.html):
+Dedicated to writer [R. A. Lafferty](https://www.google.com/search?q=R.+A.+Lafferty) (1914-2002), about whom the NY Times [said](http://www.nytimes.com/2002/03/29/us/rafael-a-lafferty-87-science-fiction-writer.html):
 
 > "...a prolific science fiction writer best known for his short stories and his fresh, eccentric style ...had a strong, satirical style and pushed the limits of his genre. One story asked what would happen if everyone on earth had a gun, and another created a world in which fads were created, peaked and died all in a day. A Roman Catholic, he was known for the theological content of his writing.
 > 
