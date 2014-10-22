@@ -3,6 +3,7 @@ layout: page
 title: Biography
 permalink: /biography/
 weight: 10
+redirect_from: "/tributes"
 ---
 
 ## Profiles {#profiles}
