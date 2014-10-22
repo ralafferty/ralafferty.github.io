@@ -3,7 +3,7 @@ layout: page
 title: Fans
 permalink: /fans/
 weight: 15
-redirect_from: "/readers"
+redirect_from: "/readers/"
 ---
 
 

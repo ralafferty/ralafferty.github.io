@@ -3,7 +3,7 @@ layout: page
 title: Works
 permalink: /works/
 weight: 5
-redirect_from: "/writing"
+redirect_from: "/writing/"
 ---
 
 <a href="http://www.centipedepress.com/authors/lafferty.html">

@@ -3,7 +3,7 @@ layout: page
 title: Related
 permalink: /related/
 weight: 60
-redirect_from: "/others"
+redirect_from: "/others/"
 ---
 
 <a href="http://joribolton.tumblr.com/post/19759288280/albert-an-illustration-for-r-a-laffertys">
