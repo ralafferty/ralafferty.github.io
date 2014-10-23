@@ -10,6 +10,8 @@ redirect_from: "/writing/"
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/works.jpg" height="230">
 </a>
 
+> "Though my short stories are the more readable, my novels do have more to say; and they will, if anyone has the patience for it, repay a rereading." ---[R. A. Lafferty](http://en.wikiquote.org/wiki/R._A._Lafferty)
+
 ## Bibliography {#bibliography}
 
 * <span class="btitle">Complete Listing</span>: [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
