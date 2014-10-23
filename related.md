@@ -7,7 +7,7 @@ redirect_from: "/others/"
 ---
 
 <a href="http://joribolton.tumblr.com/post/19759288280/albert-an-illustration-for-r-a-laffertys">
-  <img hspace="30" align="right" src="{{ site.baseurl }}/images/jori-bolton-euremas-dam.jpg" height="197">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/jori-bolton-euremas-dam.jpg" height="190">
 </a>
 
 > "There is no one who writes like R.&nbsp;A.&nbsp;Lafferty, so if you like one of his books find some more." ---[Baird Searles](http://antsofgodarequeerfish.blogspot.com/2011/08/readers-guide-to-science-fiction-on-r.html)
@@ -15,10 +15,11 @@ redirect_from: "/others/"
 
 
 <br>
+<br>
 
 ## Writers {#writers}
 
-These writers were selected for uniqueness and similarity in style or theme to Lafferty's writing.  They are ordered by co-occurrence with *R.A. Lafferty* on web pages.  This results from co-publication, articles or reader discussion.  Please email your suggestions to *&lt;related @ this-domain&gt;*.
+These writers were selected for uniqueness and similarity in style or theme to Lafferty's writing.  They are ordered by co-occurrence with *R.A. Lafferty* on web pages.  This results from co-publication, articles or reader discussion.  Please email your suggestions to *&lt;related&nbsp;@&nbsp;this-domain&gt;*.
 
   * <span class="btitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "...received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards.")</span> (2001)
 &middot; [quotes](http://en.wikiquote.org/wiki/Poul_Anderson)
