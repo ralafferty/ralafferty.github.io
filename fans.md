@@ -11,6 +11,8 @@ redirect_from: "/readers/"
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/readers.jpg" height="197">
 </a>
 
+> "In its flexibility and in its wide-open opportunities, this is the total Utopia. Anything that you can conceive of, you can do in this non-world. Nothing can stop you except a total bankruptcy of creativity. The seedbed is waiting. All the circumstances stand ready. The fructifying minerals are literally jumping out of the ground. And nothing grows. And nothing grows. And nothing grows. Well, why doesn't it? " ---[R.A.&nbsp;Lafferty](http://en.wikiquote.org/wiki/R._A._Lafferty)
+
 ## Pastiche {#pastiche}
 
 * 2011, <span class="btitle">Sunbird</span>, [Neil Gaiman](http://www.newyorker.com/magazine/2010/01/25/kid-goth) 
