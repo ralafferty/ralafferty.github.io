@@ -350,10 +350,10 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 
 ## Notes
 
-[^anderson93]: [Lafferty to Charlotte Anderson](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402), August 3, 1993
+[^anderson93]: [R. A. Lafferty to Charlotte Anderson](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402), August 3, 1993
 
 [^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
 
-[^wolfe-cover]: Cover blurb, [Endangered Species](http://books.google.com/books?id=4AVYhTiMiawC&pg=PP3&lpg=PP3&dq=%22This+is+the+biggest+and+probably+the+best+one-author+collection%22&source=bl&ots=p3cI6H7GX9&sig=vjlXYMvIm65X1qcbrWiHGNr2B0U&hl=en&sa=X&ei=krtAVLqIJ9fesAS5mYLQCw&ved=0CCQQ6AEwAQ#v=onepage&q=%22This%20is%20the%20biggest%20and%20probably%20the%20best%20one-author%20collection%22&f=false), Gene Wolfe
+[^wolfe-cover]: Cover blurb by R. A. Lafferty, [Endangered Species](http://books.google.com/books?id=4AVYhTiMiawC&pg=PP3&lpg=PP3&dq=%22This+is+the+biggest+and+probably+the+best+one-author+collection%22&source=bl&ots=p3cI6H7GX9&sig=vjlXYMvIm65X1qcbrWiHGNr2B0U&hl=en&sa=X&ei=krtAVLqIJ9fesAS5mYLQCw&ved=0CCQQ6AEwAQ#v=onepage&q=%22This%20is%20the%20biggest%20and%20probably%20the%20best%20one-author%20collection%22&f=false), Gene Wolfe
 
 [^stairs84]: [It's Down the Slippery Cellar Stairs](http://www.isfdb.org/cgi-bin/title.cgi?717449), R. A. Lafferty

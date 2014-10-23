@@ -92,4 +92,5 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 * [Locus Online](http://www.locusmag.com/2002/Reviews/Lalumiere06_PastMasters.html)
 * [Science Fiction Writers of America](http://www.sfwa.org/archive/news/lafferty.htm)
 * [SFX Magazine](http://www.ansible.co.uk/sfx/sfx092.html)
+* [Chad Love](http://mallardofdiscontent.blogspot.com/2011/07/re-visiting-some-old-stuff.html)
 
