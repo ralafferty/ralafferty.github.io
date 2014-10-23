@@ -48,7 +48,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 &middot;&nbsp;[Living the Geek Life](https://livingthegeeklife.wordpress.com/2014/01/05/short-story-saturday-thus-we-frustrate-charlemagne/) (2014)
 &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52255)
 * 1966, <span class="btitle">[Nine Hundred Grandmothers](https://web.archive.org/web/20080124051430/http://www.scifi.com/scifiction/classics/classics_archive/lafferty/lafferty1.html)</span>
-&middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html) 
+&middot; [Andrew Ferguson](http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html) 
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54132)
 * 1966, <span class="btitle">[Narrow Valley](https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html)</span>
   &middot;&nbsp;[Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) (2013)
@@ -264,6 +264,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 
 * [AddAll](http://used.addall.com/), International (Amazon, Abe, Biblio, Alibris, Powells & more)
 * [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006)
+* [Antiqbook](http://www.antiqbook.com/search.php?action=search&&author=r.+a.+lafferty&page_num=1&sort_order=usd_price&sort_type=desc&submit=Sort+now)
 * [b. brown & Associates](http://www.bbrownandassoc.net/?&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
 * [Cold Tonnage](http://www.coldtonnage.com/?CLSN_3127=14130129523127d347f7707db112357e&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search), UK
 * [DreamHaven](http://www.dreamhavenbooks.com/search.php?quicksearch=lafferty&submit=SEARCH+%C2%BB)
