@@ -260,10 +260,18 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 
 ### Search {#search}
 
-* [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006), US
-* [Broken Mirrors Press](http://smallbeerpress.com/smallbeer/2009/08/03/broken-mirrors-press/)
+* [AddAll](http://used.addall.com/), International (Amazon, Abe, Biblio, Alibris, Powells & more)
+* [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006)
+* [b. brown & Associates](http://www.bbrownandassoc.net/?&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
 * [Cold Tonnage](http://www.coldtonnage.com/?CLSN_3127=14130129523127d347f7707db112357e&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search), UK
-* [eBay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xr.a.+lafferty&_nkw=r.a.+lafferty&_sacat=0), US
+* [DreamHaven](http://www.dreamhavenbooks.com/search.php?quicksearch=lafferty&submit=SEARCH+%C2%BB)
+* [eBay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xr.a.+lafferty&_nkw=r.a.+lafferty&_sacat=0)
 * [Fantastic Fiction](http://www.fantasticfiction.co.uk/l/r-a-lafferty/)
-* [Half.com](http://search.half.ebay.com/r-a-lafferty_W0QQ_trksidZp3030Q2em1446Q2el2686QQqueryZrQ2eaQ2eQ20laffertyQQmZbooks), US
-* [Top 25 bookstores](http://used.addall.com/), International
+* [Fantastic Collectibles](http://oldsfbooks.com/pbhr.html)
+* [Half.com](http://search.half.ebay.com/r-a-lafferty_W0QQ_trksidZp3030Q2em1446Q2el2686QQqueryZrQ2eaQ2eQ20laffertyQQmZbooks)
+* [HPB](http://www.hpbmarketplace.com/search/books/author/R.-A.-Lafferty)
+* [L.W. Currey](http://www.lwcurrey.com/advSearchResults.php?action=search&orderBy=relevance&keywordsField=lafferty)
+* [MyUnicorn](http://www.myunicorn.com/cgi-bin/bookstore.cgi?ACTION=ENTER&ORDER_ID=!ORDERID!&thispage=page001.html)
+* [TomFolio Indie](http://www.tomfolio.com/SearchResults.asp?Title=&Aut=lafferty&Pub=&Key=&ISBN=&Att=&BID=0&PriceH=&PriceL=&SDate=0&memid=&catid=&subid=&Con=True&QkSrch=0&TightSrch=1&Ord=&page=1)
+* [WhiteUnicornBooks](http://www.whiteunicornbooks.com/?&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
+* [Ziesings](http://www.ziesings.com/advSearchResults.php?action=search&pageName=Search&category_id=0&authorField=&titleField=&orderBy=relevance&keywordsField=lafferty)

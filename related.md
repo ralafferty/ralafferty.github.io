@@ -10,9 +10,9 @@ redirect_from: "/others/"
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/jori-bolton-euremas-dam.jpg" height="197">
 </a>
 
-In *A Reader's Guide to Science Fiction* (1979), Baird Searles [said](http://antsofgodarequeerfish.blogspot.com/2011/08/readers-guide-to-science-fiction-on-r.html): 
+> "There is no one who writes like R.&nbsp;A.&nbsp;Lafferty, so if you like one of his books find some more." ---[Baird Searles](http://antsofgodarequeerfish.blogspot.com/2011/08/readers-guide-to-science-fiction-on-r.html)
 
-> "There is no one who writes like R.&nbsp;A.&nbsp;Lafferty, so if you like one of his books find some more."
+
 
 <br>
 
@@ -173,6 +173,12 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/15248.Flann_O_Brien)
 &middot; [amazon](http://www.amazon.com/Flann-OBrien/e/B001H6GK50)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22flann+o'brien%22 "10k results")
+  * <span class="btitle">[François Rabelais](http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais "...was a major French Renaissance writer, doctor, Renaissance humanist, monk and Greek scholar. He has historically been regarded as a writer of fantasy, satire, the grotesque, bawdy jokes and songs.")</span> (1553)
+&middot; [quotes](http://en.wikiquote.org/wiki/Fran%C3%A7ois_Rabelais)
+&middot; [manybooks](http://manybooks.net/authors/rabelais.html)
+&middot; [goodreads](http://www.goodreads.com/author/show/11029.Fran_ois_Rabelais)
+&middot; [amazon](http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Fran%C3%A7ois+Rabelais&search-alias=books&text=Fran%C3%A7ois+Rabelais&sort=relevancerank)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22rabelais%22 "9k results")
   * <span class="btitle">[Don Webb](http://en.wikipedia.org/wiki/Don_Webb_%28writer%29 "American science fiction and mystery writer, and former High Priest of the Temple of Set.")</span>
 &middot; [arcanum](http://www.revolutionsf.com/article.php?id=1110)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?1177)
@@ -222,10 +228,12 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22amos+tutuola%22 "4k results")
   * <span class="btitle">[Ray Vukcevich](http://en.wikipedia.org/wiki/Ray_Vukcevich "...a writer of fantasy and literary fiction. His loopy, sometimes surreal stories have been compared to the works of R. A. Lafferty, George Saunders, and David Sedaris.")</span>
 &middot; [official](http://www.rayvuk.com/)
+&middot; [interview](http://smallbeerpress.com/authors/2009/07/20/ray-vukcevich-interview/)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Ray_Vukcevich)
 &middot; [goodreads](https://www.goodreads.com/author/show/466971.Ray_Vukcevich)
 &middot; [amazon](http://www.amazon.com/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3ARay%20Vukcevich)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22ray+vukcevich%22 "2k results")
+
 
 <br>
 See also [goodreads](http://www.goodreads.com/author/similar/4471254.R_A_Lafferty), 

@@ -6,6 +6,8 @@ weight: 10
 redirect_from: /tributes/
 ---
 
+> "As to  biographical stuff, I am an anonymous maker of medieval miracle plays.  Being anonymous, that's all the biographical stuff I can generate." ---[R. A. Lafferty](http://antsofgodarequeerfish.blogspot.com/2013/04/throw-out-pseudoserious-abominations.html)
+
 ## Profiles {#profiles}
 
 * [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty) 
