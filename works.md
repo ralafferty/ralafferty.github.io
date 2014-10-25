@@ -14,14 +14,20 @@ redirect_from: "/writing/"
 
 ## Bibliography {#bibliography}
 
-* <span class="btitle">Complete Listing</span>: [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
+* <span class="btitle">Comprehensive</span>: [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
+* <span class="btitle">International:</span>
+ [Dutch](http://www.deboekenplank.nl/naslag/aut/l/lafferty_r.htm)
+  &middot; [French](http://www.noosfere.org/icarus/livres/auteur.asp?NumAuteur=311)
+  &middot; [German](http://de.wikipedia.org/wiki/Raphael_Aloysius_Lafferty#Werke_.28deutsch.29)
+  &middot; [Japanese](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
+  &middot; [Spanish](http://es.wikipedia.org/wiki/R._A._Lafferty#Bibliograf.C3.ADa_en_castellano)
 * <span class="btitle">United Mythologies Press</span>: [Catalog](/archive/ump-usenet.txt) (1992)
 * <span class="btitle">Unpublished Lafferty</span>:
   [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
   &middot;&nbsp;[buy article](http://www.nyrsf.com/2012/01/)
 * [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
 * [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
-* Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) &middot; [Books in Japan](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
+* Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) 
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty) &middot; [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty) &middot; [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RALafferty)
 
 
