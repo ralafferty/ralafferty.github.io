@@ -27,6 +27,7 @@ redirect_from: /tributes/
 * 2014, [The secret sci-fi genius more than ready for a comeback](http://www.theguardian.com/books/booksblog/2014/aug/13/ra-lafferty-secret-sci-fi-genius-poised-for-comeback), David Barnett, The Guardian
 * 2014, [Gaiman Touts Lafferty](http://blogs.wsj.com/speakeasy/2014/07/23/gaiman-touts-lafferty-obrien-while-discussing-the-thirteen-clocks/), Wall St. Journal
 * [A Few Words About R.A. Lafferty](http://greatsfandf.com/AUTHORS/RALafferty.php), Eric Walker
+* 2014, [The Key to Reading Lafferty Revealed](http://www.amazon.com/review/RV2VJQK6E754D/ref=cm_cr_dp_title?ie=UTF8&ASIN=0441726070), k wolf
 * 2012, [Secret Crocodiles and Strange Doings](https://grantvillegazette.com/wp/article/publish-516/), Bud Webster
 * 2011, [Saved from Drowning](http://floggingbabel.blogspot.com/2011/04/r-lafferty-saved-from-drowning.html), Michael Swanwick
 * 2011, [An Attempt at an Appreciation](http://www.blackgate.com/2011/03/27/ra-lafferty-an-attempt-at-an-appreciation/), Matthew Surridge
