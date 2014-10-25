@@ -81,6 +81,11 @@ redirect_from: "/readers/"
   * [S―Fマガジン２０１４年１２月号 &mdash; Lafferty Centennial](http://hayakawa-online.co.jp/product/books/721412.html)
 [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhayakawa-online.co.jp%2Fproduct%2Fbooks%2F721412.html&edit-text=)
 
+* #### Portugese
+  * [wikipedia](http://pt.wikipedia.org/wiki/R._A._Lafferty)
+  * [Mundo Fantasmo](http://mundofantasmo.blogspot.com.br/search/label/R.%20A.%20Lafferty), Braulio Tavares
+[&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=pt&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fmundofantasmo.blogspot.com.br%2Fsearch%2Flabel%2FR.%2520A.%2520Lafferty&edit-text=)
+
 * #### Spanish
   * Bibliography, [Tercera](http://www.tercerafundacion.net/biblioteca/ver/persona/306) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.tercerafundacion.net%2Fbiblioteca%2Fver%2Fpersona%2F306&edit-text=) --- &nbsp; [Lecturalia](http://www.lecturalia.com/autor/13364/r-a-lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.lecturalia.com%2Fautor%2F13364%2Fr-a-lafferty&edit-text=) --- &nbsp; [wikipedia](http://es.wikipedia.org/wiki/R._A._Lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FR._A._Lafferty&edit-text=)
   * 2013, [Las recetas contra la solemnidad de R.A. Lafferty](http://www.lapazmundial.com/blog/2013/02/21/las-recetas-contra-la-solemnidad-de-r-a-lafferty/ "Recipes from the solemnity of R.A. Lafferty"), La Paz Mundial [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.lapazmundial.com%2Fblog%2F2013%2F02%2F21%2Flas-recetas-contra-la-solemnidad-de-r-a-lafferty%2F&edit-text=)
