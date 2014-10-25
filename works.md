@@ -38,7 +38,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 * 1973, <span class="btitle">[Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22)</span>
 &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) (2013)
 &middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html) (2012)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41531)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41432)
 ---&nbsp;*1973&nbsp;Hugo&nbsp;<b>Winner</b>, Locus 16<sup>th</sup>*, 1975 Seiun Winner
 * 1971, <span class="btitle">[Sky](https://www.google.com/search?&q=r.a.+lafferty+"sky")</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?40938)
