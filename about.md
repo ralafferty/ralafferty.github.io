@@ -9,7 +9,7 @@ RALafferty.org is a fan-created site to introduce readers to the writing and lif
 
 The site was created by [@dotpeople](http://twitter.com/dotpeople) in October 2014, and improved by contributions from members of [East of Laughter](https://www.facebook.com/groups/586744968045210/).  It is archived at [Github](http://github.com/ralafferty) --- pull requests are welcome.  
 
-Please send feedback and contributions by email to *&lt;feedback&nbsp;@&nbsp;this-domain&gt;*, or comment below. 
+You can send feedback by email to *&lt;feedback&nbsp;@&nbsp;this-domain&gt;*, or comment below. 
 
 <br>
 
