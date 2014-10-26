@@ -1,0 +1,148 @@
+{
+	"_comment": "Copyright (c) 2014, Rich Persaud, All Rights Reserved",
+	"consensus":[
+	{
+	"id":"1972-eurema",
+	"title":"Eurema's Dam",
+	"author":"R. A. Lafferty",
+	"year":"1972",
+	"type":"ss",
+	"class":"tech",
+	"summary":"He was about the last of them.  What ? The last of the great individualists ? The last of the true creative geniuses of the century ? The last of the sheer precursors ? No. No. He was the last of the dolts.  Kids were being born smarter all the time when he came along, and they would be so forever more. He was about the last dumb kid ever born. ",
+	"awards":[	
+	 	{
+			"place":"Winner",
+			"year":"1973",
+			"award":"Hugo",
+			"category":"Best Short Story",
+		},
+		{
+			"place":"16<sup>th</sup>",
+			"year":"1973",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+		{
+			"place":"Winner",
+			"year":"1975",
+			"award":"Seiun",
+			"category":"Best Foreign Short Story",
+		},
+	  ],
+	},
+	{
+	"id":"1971-sky",
+	"title":"Sky",
+	"author":"R. A. Lafferty",
+	"year":"1971",
+	"type":"ss",
+	"class":"other",
+	"summary": "The  five  underground levels  had  been  parking  places  for motor  vehicles when  those  were  still  common,  but now  these depths were  turned into  warrens  and  hovels.  The  Sky-Seller lurked  and  lived  in  the  lowest  and  smallest  and  meanest  of them  all.  He  came  out  only  at  night.  Daylight  would  have  killed  him: he  knew that.  He  sold  out  of  the  darkest  shadows  of  the night.  He  had  only  a  few  (though  oddly  select) clients,  and  nobody knew  who  his  supplier  was.  He  said that  he  had  no  supplier, that he  gathered  and  made  the  stuff  himself.  Welkin Alauda,  a  full-bodied  but light-moving  girl (it  was said that  her  bones  were  hollow and  filled  with  air),  came to the  Sky-Seller just  before first  light,  just  when he  had  become highly  nervous  but  had not  yet  bolted to  his underground.",
+	"awards":[	
+	 	{
+			"place":"Nominee",
+			"year":"1972",
+			"award":"Hugo",
+			"category":"Best Short Story",
+		}
+	  ],
+	},
+	{
+	"id":"1970-entire",
+	"title":"Entire and Perfect Chrysolite",
+	"author":"R. A. Lafferty",
+	"year":"1971",
+	"type":"ss",
+	"class":"alt-hist",
+	"summary": "Should there by another reason, Shackleton? Well, there is; but we go about it awkwardly and without knowing what we're doing. The thing about humans which nobody apparently wishes to notice, is that we're a species which has never had an adult culture. We feel that lack more and more as we become truly adult in other ways. It grows tedious to stretch out a childhood forever. The easy enjoyments, the easy rationality, the easy governments and sciences, are really childish things. We master them while we are yet children, and we look beyond. But there isn't anything beyond the childishness, Shackleton. We must find a deeper view somehow. We are looking for that something deeper here.",
+	"awards":[	
+	 	{
+			"place":"Nominee",
+			"year":"1971",
+			"award":"Hugo",
+			"category":"Best Short Story",
+		},
+		{
+			"place":"Nominee",
+			"year":"1971",
+			"award":"Nebula",
+			"category":"Best Short Story",
+		}
+	  ],
+	},
+	{
+	"id":"1976-assault",
+	"title":"Assault on Fat Mountain",
+	"author":"R. A. Lafferty",
+	"year":"1976",
+	"type":"ss",
+	"class":"alt-hist",
+	"timeline":"1795",
+	"summary": "Did  you know that  the future  of  our  great  land  of Appalachia once hung  in  the  balance,  that  it  once depended  on  the  flip  of  a  coin? This  was  in  the  year 1788 when the  frontier  State  of  Franklin,  of  which  our Appalachia  is  the  overgrown  child,  was  threatered  with extinction.  The  state had endured  for  four  years. Then the traitor  John  Tipton  tried  to  betray  the  state back into  the  hands  of  North  Carolina. Had he  succeeded, our  own  fat  Appalachia might now be  thin  and  starving."
+	},
+	{
+	"id":"1970-interurban",
+	"title":"Interurban Queen",
+	"author":"R. A. Lafferty",
+	"year":"1970",
+	"type":"ss",
+	"class":"alt-hist tech",
+	"timeline":"1896",
+	"summary":"And I will tell you another thing, boy: There is no future for the automobile. We cannot  let  there  be!  Consider the  man on  horseback,  and  I  have been  a  man  on  horseback  for  most of  my  life.  Well,  mostly  he  is  a  good  man, but there  is  a  change in  him  as  soon as he  mounts.  Every  man on horseback  is  an arrogant man, however  gentle  he may  be  on  foot.  I  know  this in  myself  and  in  others. He was  necessary  in his own  time, and  I  believe  that  time  is  ending.  There  was  always  extreme danger  from the  man  on horseback."
+	},
+	{
+	"id":"1961-rainbird",
+	"title":"Rainbird",
+	"author":"R. A. Lafferty",
+	"year":"1961",
+	"type":"ss",
+	"class":"alt-hist tech",
+	"timeline":"1785",
+	"summary":"For he pioneered the dynamo, the steam automobile, the steel industry, ferro-concrete construction, the internal combustion engine, electric illumination and power, the wireless, the televox, the petroleum and petrochemical industries, monorail transportation, air travel, worldwide monitoring, fissionable power, space travel, group telepathy, political and economic balance; he built a retrogressor; and he made great advances towards corporal immortality and the apotheosis of mankind. It would seem unfair that all this is unknown of him.",
+	},
+	{
+	"id":"1967-charlemagne",
+	"title":"Thus We Frustrate Charlemagne",
+	"author":"R. A. Lafferty",
+	"year":"1967",
+	"type":"ss",
+	"class":"alt-hist imp-sci",
+	"timeline":"778",
+	"summary":"And what a head he chose! It was a sea-serpent head, a dragon head, five feet long and copied from an old carnival float. Epikt had also given himself human speech of a sort, a blend of Irish and Jewish and Dutch comedian patter from ancient vaudeville. Epikt was a comic to his last para-DNA relay when he rested his huge, boggle-eyed, crested head on the table there and smoked the biggest stogies ever born.",
+	},
+	{
+	"id":"1970-continued",
+	"title":"Continued on the Next Rock",
+	"author":"R. A. Lafferty",
+	"year":"1970",
+	"type":"ss",
+	"class":"other",
+	"summary":"The chimney rock is only a little older than mankind, only a little younger than grass. Its formation had been up-thrust and then eroded away again, all but such harder parts as itself and other chimneys and blocks.  A party of five persons came to this place where the chimney rock had fallen against a still newer hill. The people of the party did not care about the deep lime­ stone below: they were not geologists. They  did  care about the newer hill  ( it was man-made )  and they did care a little about the rock chimney; they were archeologists.  Here was time heaped up, bulging out in casing and accumulation, and not in line sequence. And here also was striated and banded time, grown tall, and then shattered and broken.",
+	"awards":[	
+	 	{
+			"place":"Nominee",
+			"year":"1971",
+			"award":"Hugo",
+			"category":"Best Short Story",
+		},
+		{
+			"place":"Nominee",
+			"year":"1971",
+			"award":"Nebula",
+			"category":"Best Short Story",
+		},
+		{
+			"place":"Nominee",
+			"year":"1972",
+			"award":"Ditmar",
+		},
+		{
+			"place":"3<sup>rd</sup>",
+			"year":"1970",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+	]
+	},
+  ]
+}

@@ -1,0 +1,61 @@
+{
+	"_comment": "Copyright (c) 2014, Rich Persaud, All Rights Reserved",
+	"reviewers":[
+	{
+		"id":"aferguson",
+		"name":"Andrew Ferguson",
+		"url":"http://ralafferty.tumblr.com",
+		"country":"USA",
+	},
+	{
+		"id":"dpetersen",
+		"name":"Daniel Petersen",
+		"url":"http://antsofgodarequeerfish.blogspot.com",
+		"country":"Scotland",
+	},
+	{
+		"id":"bmunro",
+		"name":"Bruce Munro",
+		"url":"http://quantumbranching.deviantart.com/",
+		"country":"USA",
+	},
+	{
+		"id":"farhim",
+		"name":"Matan Farhi",
+		"url":"http://farhifarhi.blogspot.com/",
+		"country":"USA",
+	},
+	{
+		"id":"kwolf",
+		"name":"K. Wolf",
+		"url":"http://www.amazon.com/gp/pdp/profile/A2D7FZE78VO960/ref=cm_cr_pr_pdp",
+		"country":"USA",
+	},
+	{
+		"id":"egahr",
+		"name":"Elton Gahr",
+		"url":"https://app.heliumnetwork.com/heliumnetwork/viewPublicUserBio.sc?userNumber=482356",
+		"country":"USA",
+	},
+	{
+		"id":"pkincaid",
+		"name":"Paul Kincaid",
+		"url":"http://ttdlabyrinth.wordpress.com",
+		"country":"UK",
+	},
+	{
+		"id":"livinggeek",
+		"name":"Living the Geek",
+		"url": "https://livingthegeeklife.wordpress.com",
+		"country":"USA",
+	},
+	{
+		"id":"srudnicki",
+		"name":"Stefan Rudnicki",
+		"url": "http://www.audiofilemagazine.com/narrators/stefan-rudnicki/",
+		"interview": "https://www.sfsite.com/04a/st125.htm",
+		"imdb": "http://www.imdb.com/name/nm0748880/",
+		"country":"UK",
+	},
+   ]
+}
