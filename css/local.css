@@ -15,3 +15,15 @@
 .btitle {
 	font-variant: small-caps;
 }
+
+.work-li {
+	margin-bottom: 10px;
+}
+
+.work-award {
+	font-variant: normal;
+}
+
+.work-menu {
+	margin: 5px;
+}
