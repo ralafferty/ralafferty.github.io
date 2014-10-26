@@ -250,6 +250,7 @@ and the list of [writers cited](../library/#writerscited) by R. A. Lafferty.
 * 2014, [Learn The True Topography](http://laffertydoc.blogspot.com/), Andrew Mass, USA
 * 2002, [The Stone Reader](http://neglectedbooks.com/?page_id=81), Mark Moskowitz (*Fourth Mansions* is listed in the credits)
 * 1987, [Исчезатель](http://youtube.com/watch?v=YvrlbtOTPBc "Ischezatel") (inspired by *Seven-Day Terror*), [SOYUZMULTFILM](http://animator.ru/db/?p=show_film&fid=3323), Russia &nbsp; [&nbsp; &delta; &nbsp;](http://animator.ru/db/?ver=eng&p=show_film&fid=3323)
+* 1971, [Four-Day Wonder](http://forums.abebooks.co.uk/discussions/AbeBookscouk_BookSleuth/Science_Fiction/Disappearer/abesleuthuk/81.1?redirCnt=1&nav=messages&mobile=y), CBC, Canada (inspired by *Seven-Day Terror*)
 
 <br>
 
