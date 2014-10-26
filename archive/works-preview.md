@@ -127,11 +127,11 @@ function f_subset( className )
 			items[i].style.display = 'none';
 	}
 
-	items = document.getElementsByClassName ( 'work-summary' );
-	for (i=0; i < items.length; i++)
-	{
-		items[i].style.display = '';
-	}
+	// items = document.getElementsByClassName ( 'work-summary' );
+	// for (i=0; i < items.length; i++)
+	// {
+	// 	items[i].style.display = '';
+	// }
 
 	if ( typeof u_config.subset == 'undefined' )
 		u_config.subset = {};
