@@ -1,6 +1,50 @@
 {
 	"_comment": "Copyright (c) 2014, Rich Persaud, All Rights Reserved",
-	"stories":[
+	"tag":[
+	{
+		"id":"1",
+		"reviewer":"dpetersen", 
+		"definition": [
+			{ 	"id":"ah", 	"title":"Alternate&nbsp;History", 		"detail":""	},
+			{ 	"id":"ai", 	"title":"Alien&nbsp;Visitation", 	"detail":"to Earth" },
+			{ 	"id":"an", 	"title":"Anthropology", 		"detail":""	},
+			{ 	"id":"ar", 	"title":"Archaeology",			"detail":""	},
+			{ 	"id":"bi", 	"title":"Biology",			"detail":""	},
+			{ 	"id":"co", 	"title":"Cons",				"detail":""	},
+			{ 	"id":"dn", 	"title":"Dreams&nbsp;&&nbsp;Nightmares", 		"detail":""	},
+			{ 	"id":"dp", 	"title":"Doubled&nbsp;or&nbsp;Diminished", "detail":"people with multiple identities/bodies/lives; ontologically 'thick' and 'thin' people; tiny, large, or strangely shaped people, etc."		},
+			{ 	"id":"dy", 	"title":"Dystopias", 			"detail":""	},
+			{ 	"id":"ec", 	"title":"Ecology", 			"detail":""	},
+			{ 	"id":"ex", 	"title":"Experiments",			"detail":""	},
+			{ 	"id":"ge", 	"title":"Geography",			"detail":""	},
+			{ 	"id":"gs", 	"title":"Geology & Earth&nbsp;Sciences","detail":"" },
+			{ 	"id":"gc", 	"title":"Gifted & Strange&nbsp;Children", 	"detail":""	},
+			{ 	"id":"ho", 	"title":"Horror",					"detail":"ghosts, monsters, dark violence, terror, sinister menace & murder, bizarre and disturbing grotesqueries"	},
+			{ 	"id":"ma", 	"title":"Magic", 					"detail":""	},
+			{ 	"id":"ml", 	"title":"Myth, Legend & Folklore", 	"detail":""	},
+			{ 	"id":"mm", 	"title":"Mass&nbsp;Media & Pop&nbsp;Culture",	"detail":""	},
+			{ 	"id":"re", 	"title":"Memoir",					"detail":""	},
+			{ 	"id":"mu", 	"title":"Murder&nbsp;Mysteries", 	"detail":""	},
+			{ 	"id":"na", 	"title":"Native&nbsp;Americans", 	"detail":""	},
+			{ 	"id":"np", 	"title":"New Powers & Mutation", 	"detail":""	},
+			{ 	"id":"op", 	"title":"Other&nbsp;People", 		"detail":"talking beasts, australopithecines, neanderthals, hidden races, mythological beings, angelic/demonic beings, etc."	},
+			{ 	"id":"ph", 	"title":"Para-History", 			"detail":"sort of an ontic struggle for which version of history will obtain"	},
+			{ 	"id":"pc", 	"title":"Perspective & Communication", 	"detail":""	},
+			{ 	"id":"pf", 	"title":"Planetfall",				"detail":"1st/early visits to non-Earth planets" },
+			{ 	"id":"py", 	"title":"Psychology & Subconscious","detail":""	},
+			{ 	"id":"rc", 	"title":"Robots & Computers", 		"detail":"thinking machines"	},
+			{ 	"id":"sa", 	"title":"Scientists & Academics",	"detail":"... Inventors, Philosophers, Theorists, Professors"	},
+			{ 	"id":"sh", 	"title":"Secret&nbsp;History", 		"detail":""	},
+			{ 	"id":"sr", 	"title":"Secret&nbsp;Resistance", 	"detail":""	},
+			{ 	"id":"ss", 	"title":"Secret&nbsp;Societies", 	"detail":"... and Secret Places"	},
+			{ 	"id":"is", 	"title":"Space&nbsp;Travel","		detail":"Earth's long-term interaction with other planets, aliens and space-faring" },
+			{ 	"id":"sb", 	"title":"Spatial&nbsp;Bending",		"detail":"trans/para-physics with size, volume, location, motion, etc." },
+			{ 	"id":"tb", 	"title":"Temporal&nbsp;Bending",		"detail":"accelerated, decelerated, big bang, eons, etc." },
+			{ 	"id":"te", 	"title":"Technology", 			"detail":""	},
+			{ 	"id":"tr", 	"title":"Traveler's&nbsp;Yarns",		"detail":"... and Tall Tales"	},
+			{ 	"id":"tt", 	"title":"Time&nbsp;Travel",			"detail":""	},
+		],
+		"map": [
 			{	"id":"1959-wagons",	"tags": "" },
 			{	"id":"1960-adam",	"tags": "sh op" },
 			{	"id":"1960-dreamer",	"tags": "" },
@@ -18,21 +62,7 @@
 			{	"id":"1961-aloys",	"tags": "sa" },
 			{	"id":"1961-garden",	"tags": "pf" },
 			{	"id":"1961-polite",	"tags": "is" },
-	{
-		"id":"1961-rainbird",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41022",
-		"search":"https://www.google.com/search?&q=r.a.+lafferty+%22rainbird%22",
-		"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffrainbi",
-		"quotes":"http://scifi.stackexchange.com/questions/36404/looking-for-a-story-about-a-time-traveler-talking-to-young-himself",
-		"reviews":[
-		{
-			"id": "2009-egahr-rainbird",
-		},
-		{
-			"id": "2013-aferguson-rainbird",
-		},
-		],
-	},
+			{	"id":"1961-rainbird",	"tags": "tt sa te" },
 			{	"id":"1961-weirdest",	"tags": "ai" },
 			{	"id":"1962-dream",	"tags": "ph ho" },
 			{	"id":"1962-seven-terror","tags": "sb gc" },
@@ -53,20 +83,7 @@
 			{	"id":"1966-primary",	"tags": "is" },
 			{	"id":"1966-trabant",	"tags": "is" },
 			{	"id":"1967-camels",	"tags": "dp ho" },
-	{
-		"id":"1967-charlemagne",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52255",
-		"search":"https://www.google.com/search?&q=r.a.+lafferty+%22thus+we+frustrate+charlemagne%22",
-		"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffthuswe",
-		"reviews":[
-		{
-			"id":"2014-pkincaid-charlemagne",
-		},
-		{
-			"id":"2014-livinggeek-charlemagne",
-		},
-		]
-	},
+			{	"id":"1967-charlemagne","tags": "tt ex ah" },
 			{	"id":"1967-creature",	"tags": "is" },
 			{	"id":"1967-ginny",	"tags": "gc" },
 			{	"id":"1967-hole",	"tags": "sb dp dn py" },
@@ -83,39 +100,12 @@
 			{	"id":"1969-north",	"tags": "ge ss dn py" },
 			{	"id":"1970-all",	"tags": "dp" },
 			{	"id":"1970-cliff-climbers",	"tags": "ar an" },
+			{	"id":"1970-continued",	"tags": "ar py" },
 			{	"id":"1970-crocodile",	"tags": "rc" },
+			{	"id":"1970-entire",	"tags": "pc py" },
 			{	"id":"1970-frog",	"tags": "is" },
 			{	"id":"1970-hands",	"tags": "is co" },
-	{
-		"id":"1970-interurban",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?43998",
-		"search":"https://www.google.com/search?&q=r.a.+lafferty+%22interurban+queen%22",
-		"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffinteru",
-		"reviews":[
-		{
-			"id": "2014-kwolf-interurban",
-		},
-		{
-			"id": "2010-farhim-interurban",
-		},
-		]
-	},
-	{
-		"id":"1970-entire",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41436",
-		"search":"https://www.google.com/search?&q=r.a.+lafferty+%22entire+and+perfect+chrysolite%22",
-		"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
-	},
-	{
-		"id":"1970-continued",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41531",
-		"search":"https://www.google.com/search?q=Continued+on+the+Next+Rock&ie=utf-8&oe=utf-8#channel=fs&q=r.a.+lafferty+%22Continued+on+the+Next+Rock%22",
-		"reviews":[
-		{
-			"id":"2004-srudnicki-contd",
-		},
-		]
-	},
+			{	"id":"1970-interurban",	"tags": "ah te" },
 			{	"id":"1970-long",	"tags": "tb ex op" },
 			{	"id":"1970-old",	"tags": "is an dy" },
 			{	"id":"1970-ride",	"tags": "is ml an" },
@@ -124,35 +114,19 @@
 			{	"id":"1971-barrens",	"tags": "dy sr" },
 			{	"id":"1971-boomer",	"tags": "gs op" },
 			{	"id":"1971-bubbles",	"tags": "ex" },
+			{	"id":"1971-groaning",	"tags": "" },
 			{	"id":"1971-hinges",	"tags": "gs sh an" },
 			{	"id":"1971-islands",	"tags": "gs ss" },
 			{	"id":"1971-lands",	"tags": "" },
 			{	"id":"1971-rind",	"tags": "ec" },
-	{
-		"id":"1971-sky",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?40938",
-		"search":"https://www.google.com/search?&q=r.a.+lafferty+%22sky%22",
-	},
+			{	"id":"1971-sky",	"tags": "sb ho" },
 			{	"id":"1971-terrible",	"tags": "" },
 			{	"id":"1971-underneath",	"tags": "ma dp ho" },
 			{	"id":"1971-words",	"tags": "ai pc" },
 			{	"id":"1971-world",	"tags": "gs" },
 			{	"id":"1972-aranea",	"tags": "pf ho" },
 			{	"id":"1972-dorg",	"tags": "ec" },
-
-	{
-		"id":"1972-eurema",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41432",
-		"search":"https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22",
-		"reviews":[
-		{
-			"id":"2013-aferguson-eurema",
-		},
-		{
-			"id":"2012-dpetersen-eurema",
-		},
-		]
-	},
+			{	"id":"1972-eurema",	"tags": "rc te gc sa" },
 			{	"id":"1972-rang",	"tags": "" },
 			{	"id":"1972-summit",	"tags": "ex np pc sa" },
 			{	"id":"1972-walk",	"tags": "ma dy sr" },
@@ -192,17 +166,7 @@
 			{	"id":"1975-skinny",	"tags": "dp" },
 			{	"id":"1975-thunder",	"tags": "ph" },
 			{	"id":"1975-wolf",	"tags": "ml ho" },
-	{
-		"id":"1976-assault",
-		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?97872",
-		"search":"https://www.google.com/search?&q=r.a.+lafferty+%22assault+on+fat+mountain%22",
-		"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffassaul",
-		"reviews":[
-		{
-			"id":"2009-bmunro-assault",
-		},
-		]
-	},
+			{	"id":"1976-assault",	"tags": "ge ah" },
 			{	"id":"1976-berryhill",	"tags": "dp ho" },
 			{	"id":"1976-cabrito",	"tags": "pc" },
 			{	"id":"1976-fog",	"tags": "ex ho" },
@@ -307,5 +271,7 @@
 			{	"id":"1995-goldfish",	"tags": "" },
 			{	"id":"1997-shoestrings","tags": "dp" },
 			{	"id":"2003-me",	"tags": "" },
+		]
+	},
    ]
 }

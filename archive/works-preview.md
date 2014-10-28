@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /works-preview/
+permalink: /test/works-preview/
+noindex: true
 weight: 4
 ---
 
@@ -11,10 +12,13 @@ weight: 4
 <script src="{{ site.baseurl }}/js/store+json2.min.js"></script>
 <script type="text/javascript">
 
-// Globals
+/* Globals */
 var u_annote;
 var u_config;
-var APIver = "20141026_";
+var APIver = "20141026_";  /* any change to this value requires migration of client data */
+var j_stories;
+var sz_headline = "";
+var a_tags = {};
 
 function init() 
 {
@@ -29,21 +33,30 @@ function init()
 	var keys = [];
 	var obj = {};
 	for ( var key in u_annote )
-	{
 		if ( obj = document.getElementById( key ))
 			f_star_img ( obj );
-	}
 
 	for ( var key in u_config.span )
-	{
 		display_span (key, u_config.span [key] );
-	}
 
+	var menu = document.getElementById( 'alltags' );
+	var items = menu.getElementsByClassName ( 'work-menu' );
+	for (i=0; i < items.length; i++)
+		a_tags [ items[i].id ] = items[i].innerHTML;
+
+	var subset_found = false;
 	for ( var key in u_config.subset )
 	{
 		if ( u_config.subset [key] )
+		{
 			f_subset (key);
+			subset_found = true;	
+			break;
+		}
 	}
+
+	if (!subset_found)
+		reset_filter();
 }
 
 function printObj ( testObj )
@@ -92,19 +105,39 @@ function f_star_img ( obj )
 	}
 }
 
+
+function fast_class_swap ()
+{
+	var elem = document.getElementsByTagName('div')[0];
+	elem.className = elem.className.replace('otherClass', 'newClass');
+}
+
 function reset_filter ()
 {
-	var items = document.getElementsByClassName ( 'work-menu' );
+	/* var items = document.getElementsByClassName ( 'work-menu' );
 	for (i=0; i < items.length; i++)
-		items[i].style.textDecoration = 'none';;
+		items[i].style.textDecoration = 'none'; */
 
-	var items = document.getElementsByClassName ( 'work-li' );
+	var ulist = document.getElementById( 'work-ul' );
+	var items = ulist.getElementsByClassName ( 'work-li' );
 	for (i=0; i < items.length; i++)
-		items[i].style.display = '';;
+	{
+		var el =  items[i];
+		var tagspan = el.getElementsByClassName ( 'work-tags' );
+		tagspan[0].innerHTML = '';
 
-	items = document.getElementsByClassName ( 'work-summary' );
-	for (i=0; i < items.length; i++)
-		items[i].style.display = 'none';;
+		for (var j=0; j < el.classList.length; j++)
+		{
+			var testClass = el.classList.item(j);
+			if ( testClass != 'work-li') 
+				tagspan[0].innerHTML += '&middot;&nbsp;<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a>';
+		}
+		el.style.display = '';
+	}
+
+	minimize_summary (); 
+
+	document.getElementById("headline").innerHTML = 'All Stories';
 
 	if ( typeof u_config.subset == 'undefined' )
 		u_config.subset = {};
@@ -113,36 +146,68 @@ function reset_filter ()
 		u_config.subset [key] = 0;
 
 	store.set ( APIver + 'config' , u_config );
+	return false;
+}
+
+function minimize_summary ()
+{
+	items = document.getElementsByClassName ( 'work-summary' );
+	for (i=0; i < items.length; i++)
+		items[i].style.display = 'none';;
+}
+
+function log(param){
+    setTimeout(function(){
+        throw new Error("Debug: "+param)
+    },0)
 }
 
 function f_subset( className )
 {
-	var text = document.getElementById( className );
-	text.style.textDecoration = 'underline';
+	minimize_summary (); 
 
-	var items = document.getElementsByClassName ( 'work-li' );
+	var text = document.getElementById( className );
+	/* text.style.textDecoration = 'underline'; */
+
+	var ulist = document.getElementById( 'work-ul' );
+	var items = ulist.getElementsByClassName ( 'work-li' );
 	for (i=0; i < items.length; i++)
 	{
-		if ( ! items[i].classList.contains(  className  ) )
-			items[i].style.display = 'none';
+		var el =  items[i];
+		if ( ! el.classList.contains(  className  ) )
+			el.style.display = 'none';
+		else
+		{
+			var tagspan = el.getElementsByClassName ( 'work-tags' );
+			tagspan[0].innerHTML = '';
+
+			for (var j=0; j < el.classList.length; j++)
+			{
+				var testClass = el.classList.item(j);
+
+			/* log ("\n" + '1: testClass = ' + testClass);
+			log ("\n" + '2: a_tags = ' + a_tags );   */
+
+				if ( testClass != 'work-li' && testClass != className )
+					tagspan[0].innerHTML += '&middot;&nbsp;<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a>';
+			}
+			el.style.display = '';
+		}
 	}
 
-	// items = document.getElementsByClassName ( 'work-summary' );
-	// for (i=0; i < items.length; i++)
-	// {
-	// 	items[i].style.display = '';
-	// }
+	document.getElementById("headline").innerHTML = text.text;
 
 	if ( typeof u_config.subset == 'undefined' )
 		u_config.subset = {};
 
 	u_config.subset [className] = 1;
 	store.set ( APIver + 'config' , u_config );
+	return false;
 }
 
 function toggle_story ( node )
 {
-	var gp = node.parentNode.parentNode; // <li>
+	var gp = node.parentNode.parentNode; /* <li> */
 	var items = gp.getElementsByClassName ( 'work-summary' );
 
 	for (i=0; i < items.length; i++)
@@ -150,6 +215,7 @@ function toggle_story ( node )
 		es = items[i].style;
 		es.display = es.display == 'none'? '' : 'none';
 	}
+	return false;
 }
 
 function toggle_span( className )
@@ -167,67 +233,141 @@ function toggle_span( className )
 	u_config.span [className] = es.display == 'none' ? 0 : 1;
 
 	var text = document.getElementById( 'menu-' + className);
-	text.style.textDecoration = u_config.span [className]? 'underline' : 'none';
+	/* text.style.textDecoration = u_config.span [className]? 'underline' : 'none'; */
+	text.classList.toggle('pure-button-active');
 
 	store.set ( APIver + 'config' , u_config );
+	return false;
 }
 
 function display_span (className, arg)
 {
 	var text  = document.getElementById( 'menu-' + className );
-	text.style.textDecoration = arg? 'underline' : 'none';
+	/* text.style.textDecoration = arg? 'underline' : 'none'; */
+	if (arg)
+		text.classList.add('pure-button-active');
+	else
+		text.classList.remove('pure-button-active');
 
 	var items = document.getElementsByClassName ( className );
 	for (i=0; i < items.length; i++)
 	{
 		items[i].style.display = arg? '' : 'none';
 	}
+	return false;
 }
+
+/*
+function loadJSON(path, success, error)
+{
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function()
+    {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status === 200) {
+                if (success)
+                    success(JSON.parse(xhr.responseText));
+            } else {
+                if (error)
+                    error(xhr);
+            }
+        }
+    };
+    xhr.open("GET", path, true);
+    xhr.send();
+}
+
+// Register the handler for any event we might receive
+if (document.addEventListener) {
+        document.addEventListener("DOMContentLoaded", init, false);
+        document.addEventListener("readystatechange", init, false);
+        window.addEventListener("load", init, false);
+}
+else if (document.attachEvent) {
+        document.attachEvent("onreadystatechange", init);
+        window.attachEvent("onload", init);
+}
+
+loadJSON('{{ site.baseurl }}/archive/test-json.txt', 
+         function(data) { j_stories = data; alert (printObj(data.stories[0])); },
+         function(xhr) { console.error(xhr); } 
+); 
+
+*/
 
 </script>
 
 <div>
-<b>Toggle</b>: 
-  <a id="menu-work-award" href="#" onClick="toggle_span('work-award');">Awards</a>
-| <a id="menu-work-review" href="#" onClick="toggle_span('work-review');">Reviews</a>
-| <a id="menu-work-search" href="#" onClick="toggle_span('work-search');">Search</a>
-| <a id="menu-work-annote" href="#" onClick="toggle_span('work-annote');">Annotations</a>
+
+<button class="button-small pure-button" id="menu-work-tags" onClick="toggle_span('work-tags');"><i class="fa fa-tag"></i> Tags</button>
+&nbsp;&nbsp;
+<button class="button-small pure-button"  id="menu-work-award" href="javascript:void(0);" onClick="toggle_span('work-award');"><i class="fa fa-trophy"></i> Awards</button>
+&nbsp;&nbsp;
+<button class="button-small pure-button" id="menu-work-review" href="javascript:void(0);" onClick="toggle_span('work-review');"><i class="fa fa-thumbs-up"></i> Reviews</button>
+&nbsp;&nbsp;
+<button class="button-small pure-button" id="menu-work-search" href="javascript:void(0);" onClick="toggle_span('work-search');"><i class="fa fa-search"></i> Search</button>
+&nbsp;&nbsp;
+<button class="button-small pure-button" id="menu-work-annote" href="javascript:void(0);" onClick="toggle_span('work-annote');"><i class="fa fa-star"></i> Star</button>
+
 <br>
 <br>
+
 <b>Show:</b>
-<a id="all" class='work-menu' href="#" onclick="reset_filter();">&nbsp;Index&nbsp;</a>
- | <a id="alt-hist" class='work-menu' href="#" onclick="reset_filter(); f_subset('alt-hist');">Alternate History</a>
- | <a id="tech" class='work-menu' href="#" onclick="reset_filter(); f_subset('tech');">Technology</a>
- | <a id="other" class='work-menu' href="#" onclick="reset_filter(); f_subset('other');">Other</a>
+<a id="all" class='work-menu' href="javascript:void(0);" onclick="reset_filter();">&nbsp;ALL STORIES&nbsp;</a> 
+
+<span id="alltags">
+{% for tag in site.data.reviewer-tags.tag %}
+	{% for definition in tag.definition %}
+	&nbsp;&middot;&nbsp;<a id="{{ definition.id }}" href="javascript:void(0);" onclick="f_subset('{{ definition.id }}');"  
+		class='work-menu' title="{{ definition.detail }}">{{ definition.title }}</a>
+	{% endfor %}
+{% endfor %}
+</span>
+
 </div>
 
-<br>
+<h2><span id="headline">All Stories</span></h2>
 
-<ul style="list-style-type: none;" class="work-ul">
+<ul style="list-style-type: none;" id="work-ul" class="work-ul">
 	{% for story in site.data.stories.stories %}
 	  	{% for story_details in site.data.consensus.consensus %}
-			{% if story.id == story_details.id %}
 
-				<li id="li-{{ story.id }}" class="work-li {{ story_details.class }}">
+			{% if story.id == story_details.id %}
+				<li id="li-{{ story.id }}" class="work-li 
+
+					{% for tag in site.data.reviewer-tags.tag %}
+						{% for map in tag.map %}
+							{% if story.id == map.id %}
+								{{ map.tags }}
+							{% endif %}
+						{% endfor %}
+					{% endfor %}
+				">
 
 				<img id="img-{{ story.id }}" style="display:none" class="work-annote" onClick="f_star(this);" src="{{ base.siteurl }}/images/star-empty.png">
+
 				&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;
 				<span class="btitle">
-				<a href="#" onclick="toggle_story(this);">
-				{{ story_details.title }}
-				</a>
+					{% if story_details.excerpt %}
+						<a href="javascript:void(0);" onclick="toggle_story(this);">
+					{% endif %}
+
+					{{ story_details.title }}
+
+					{% if story_details.excerpt %}
+						</a>
+					{% endif %}
 				</span>
+
 				({{ story_details.year }})
 
 				<span style="display:none" class="work-search">
 				{% if story.isfdb %}
 					&middot; <a href="{{ story.isfdb }}">isfdb</a>
 				{% endif %}
-		
 				{% if story.uchronia %}
 					&middot; <a href="{{ story.uchronia }}">uchronia</a>
 				{% endif %}
-
 				{% if story.search %}
 					&middot; <a href="{{ story.search }}">search</a>
 				{% endif %}
@@ -249,7 +389,7 @@ function display_span (className, arg)
 				{% endfor %}
 				</span>
 
-				<span style="display: none" class="work-award">
+				<span style="display: none;" class="work-award">
 				{% for award in story_details.awards %}
 					{% if forloop.first %}&mdash;<i>{% endif %}
 					{{ award.year }} {{ award.award }} {{ award.place }}
@@ -257,10 +397,13 @@ function display_span (className, arg)
 				{% endfor %}
 				</span>
 
-				{% if story_details.summary %}
+				<span id="work-tags" class="work-tags">
+				</span>
+
+				{% if story_details.excerpt %}
 				<ul style="display:none" class="work-summary"><blockquote>
 					{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
-					"{{ story_details.summary }}"
+					"{{ story_details.excerpt }}"
 				</blockquote></ul>
 				{% endif %}
 
@@ -272,5 +415,6 @@ function display_span (className, arg)
 
 
 <script type="text/javascript">
-	init();
+init(); 
+
 </script>
