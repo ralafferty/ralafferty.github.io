@@ -117,6 +117,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   ---&nbsp;*1984&nbsp;Locus&nbsp;15<sup>th</sup>* 
 * <span class="btitle">Iron Tears</span>
   &middot; [Don Webb](https://groups.google.com/forum/#!topic/rec.arts.sf.reviews/rnfAKdj_XWQ) (1993)
+  &middot; [Roelof Goudriaan](http://greatsfandf.com/AUTHORS/LAFFERTY/albedoLafferty.html) (1993)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292074.Iron_Tears#other_reviews "1 review")
   &middot;&nbsp;[amazon](http://www.amazon.com/Iron-Tears-R-A-Lafferty/product-reviews/096290662X/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending "3 reviews") 
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=iron+tears) 
