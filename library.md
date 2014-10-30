@@ -235,7 +235,7 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 
 -------
 
-## Books in Photos {#booksinphotos}
+## Books Photographed {#booksphotographed}
 
 <table>
 <tr valign="top">
