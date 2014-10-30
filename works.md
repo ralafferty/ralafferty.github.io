@@ -191,6 +191,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[library](http://www.worldcat.org/title/arrive-at-easterwine-the-autobiography-of-a-ktistec-machine/oclc/000161018)
   &mdash;&nbsp;*1972&nbsp;Locus&nbsp;14<sup>th</sup>* 
 * <span class="btitle">Fourth Mansions</span>
+  &middot; [David Pringle](http://books.google.com/books?id=lDmKBAAAQBAJ&pg=PA45&lpg=PA45&dq=%22american+fantasy%22+lafferty&source=bl&ots=NqfthfHeRK&sig=DKXWLADVu9ZzTw-5BeJWHuCiJ-A&hl=en&sa=X&ei=-shRVJ67GtLesAT9kIGwCg&ved=0CD4Q6AEwBg#v=onepage&q=%22american%20fantasy%22%20lafferty&f=false) (2014)
   &middot; [Simon Crook](http://thegrammarofmatter.wordpress.com/2013/10/02/darkness-in-long-hour-spent-a-gift-from-greenham-common/) (2013)
   &middot; [Daniel Petersen](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) (2011)
   &middot; [bcy.ca](http://freemasonry.bcy.ca/fiction/lafferty.html)
