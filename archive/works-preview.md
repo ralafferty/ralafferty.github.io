@@ -3,6 +3,7 @@ layout: page
 permalink: /test/works-preview/
 noindex: true
 weight: 4
+redirect_from: "/works-preview/"
 ---
 
 [//]: # (---------------------------------------------------)

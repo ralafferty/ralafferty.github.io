@@ -33,7 +33,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *Adventures in Time and Space*, by Raymond J. Healy & J. Francis McComas, 1946
 
-> "I had read the Healy and McComas anthology ... my reaction to that was that it was wonderful.  My reaction when I began to look for other good science fiction stories was that there weren't any other good ones..."&nbsp;[^whitaker79]
+> "I had read the Healy and McComas anthology ... my reaction to that was that it was wonderful.  My reaction when I began to look for other good science fiction stories was that there weren't any other good ones..." ---R.A.L.&nbsp;[^whitaker79]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/Adventures_in_Time_and_Space)
 &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?245825)
@@ -52,7 +52,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Ancient Engineers*, by L. Sprague De Camp, 1963 
 
-> "This is more exciting than any of the dozens of fictional works written by this talented man."&nbsp;[^anderson93]
+> "This is more exciting than any of the dozens of fictional works written by this talented man." ---R.A.L.&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/The_Ancient_Engineers)
 &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?831602)
@@ -73,7 +73,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Catholic Encyclopedia*, 15 Volumes & Index, 1913
 
-> "There's lots of information on its 12,000 pages.  When I wonder 'What was it really like?' I look up the key city of a place.  If it had a Bishop, it had a history.  There are entries as droll as tales out of Chaucer.  The color and flavor are to be found everywhere."&nbsp;[^anderson93]
+> "There's lots of information on its 12,000 pages.  When I wonder 'What was it really like?' I look up the key city of a place.  If it had a Bishop, it had a history.  There are entries as droll as tales out of Chaucer.  The color and flavor are to be found everywhere." ---R.A.L.&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/Catholic_Encyclopedia)
 &middot;&nbsp;[oce](http://oce.catholic.com)
@@ -89,7 +89,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The City of God*, by St. Augustine, 426
 
-> "It's all there, even if in a sort of code."&nbsp;[^anderson93]
+> "It's all there, even if in a sort of code." ---R.A.L.&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/City_of_God_%28book%29)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/25673.City_of_God#other_reviews)
@@ -107,7 +107,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The Decline of the West*, by Oswald Spangler, 1922 
 
-> "... don't forget the strange work ... by the strange genius Oswald Spengler.  Once you have read that, everything in the world has a different color to it."&nbsp;[^anderson93]
+> "... don't forget the strange work ... by the strange genius Oswald Spengler.  Once you have read that, everything in the world has a different color to it." ---R.A.L.&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/The_Decline_of_the_West)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/801754.The_Decline_of_the_West#other_reviews)
@@ -126,7 +126,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *Endangered Species*, by Gene Wolfe, 1989
 
-> "This is the biggest and probably the best one-author collection to appear in the '80s. There are at least three stories in it that should have won Hugos, and there are no poor stories in it at all... Read it, and then read at least half of it again." [^wolfe-cover]
+> "This is the biggest and probably the best one-author collection to appear in the '80s. There are at least three stories in it that should have won Hugos, and there are no poor stories in it at all... Read it, and then read at least half of it again." ---R.A.L.&nbsp;[^wolfe-cover]
 
 &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?12338)
 &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/271578.Endangered_Species#other_reviews)
@@ -142,7 +142,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *Harper's Dictionary of Classical Literature and Antiquities*, by Harry&nbsp;Thurston&nbsp;Peck (ed.), 1963 
 
-> "There are absolute delights to be found on every one of its 1701 pages."&nbsp;[^anderson93]
+> "There are absolute delights to be found on every one of its 1701 pages." ---R.A.L.&nbsp;[^anderson93]
 
 &middot; [wikipedia](http://en.wikipedia.org/wiki/Harpers_Dictionary_of_Classical_Antiquities)
 &middot; [perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0062&redirect=true)
@@ -160,7 +160,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *A History of Technology*, by Charles Singer (ed.), 5 Volumes, 1954
 
-> "One unsuspected source that I used a lot ... Vol. 1 'From Early Times to the Fall of Ancient Empires' is a treasure trove of early and unsuspected technology."&nbsp;[^anderson93]
+> "One unsuspected source that I used a lot ... Vol. 1 'From Early Times to the Fall of Ancient Empires' is a treasure trove of early and unsuspected technology." ---R.A.L.&nbsp;[^anderson93]
 
 &middot;&nbsp;[archive.org](https://archive.org/details/shorthistoryofsc007407mbp) (abridged) 
 &middot;&nbsp;[amazon](http://www.amazon.com/History-Technology-Early-Ancient-Empires/dp/019858105X/#customerReviews)
@@ -177,7 +177,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *The History of the Decline and Fall of the Roman Empire*, by Edward&nbsp;Gibbon, 1776 
 
-> "There were numerous 'Histories of Rome' which cover the subject but most of them lack real excitement.  Well, all of them lack it except Gibbons.  Gibbons is sometimes inaccurate, but not very often.  He is sometimes prejudiced, and sometimes his fine sense of proportion fails him (but only for a little while and not seriously).  But he is always exciting, he is a wonder, he has a true touch of magic, even if he sometimes uses too broad a brush with it."&nbsp;[^anderson93]
+> "There were numerous 'Histories of Rome' which cover the subject but most of them lack real excitement.  Well, all of them lack it except Gibbons.  Gibbons is sometimes inaccurate, but not very often.  He is sometimes prejudiced, and sometimes his fine sense of proportion fails him (but only for a little while and not seriously).  But he is always exciting, he is a wonder, he has a true touch of magic, even if he sometimes uses too broad a brush with it." ---R.A.L.&nbsp;[^anderson93]
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire)
 &middot;&nbsp;[manybooks](http://manybooks.net/authors/gibboned.html) 
@@ -197,7 +197,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 #### *Plutarch's Lives*, 1st century
 
-> "Plutarch invented the novel as well as the biography in this.  There were really fifty short-or-medium-length novels here (the degree of fiction can't be determined now), and they are good.  He really invented narration as distinguished from rhetoric and a few other things.  He was the world's best novelist (Balzac comes in second) and nineteen hundred years haven't done him any harm at all."&nbsp;[^whitaker79]
+> "Plutarch invented the novel as well as the biography in this.  There were really fifty short-or-medium-length novels here (the degree of fiction can't be determined now), and they are good.  He really invented narration as distinguished from rhetoric and a few other things.  He was the world's best novelist (Balzac comes in second) and nineteen hundred years haven't done him any harm at all." ---R.A.L.&nbsp;[^whitaker79]
 
 
 &middot;&nbsp;[wikipedia](http://en.wikipedia.org/wiki/Parallel_Lives)
@@ -213,7 +213,7 @@ It appears that no inventory was taken of Lafferty's personal library before it 
 
 -------
 
-## Books Cited
+## Books Cited {#bookscited}
 
 <table>
 <tr valign="top">
@@ -221,7 +221,6 @@ It appears that no inventory was taken of Lafferty's personal library before it 
     <img src="../images/bow-in-the-clouds.jpg" class="bookcover">
   </td>
 <td markdown="1">
-
 #### *The Bow in the Clouds*, by E.I. Watkin, 1931
 
 In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html) and [2014](http://ralafferty.tumblr.com/post/90693992487/excerpt-2-austro-and-the-colors-of-heaven), Andrew Ferguson reviewed the influence of [E.I.&nbsp;Watkin](http://supremacyandsurvival.blogspot.com/2013/04/ei-watkins-friend-of-christopher-dawson.html) on stories in *Through Elegant Eyes*. [Gregorio](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogrification.html?showComment=1318520489020#c1038800607588431769) noted that Lafferty quoted Watkin in *Tales of Midnight*.
@@ -231,6 +230,91 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 
   </td>
 </tr>
+</table>
+<br>
+
+-------
+
+## Books in Photos {#booksinphotos}
+
+<table>
+<tr valign="top">
+  <td>
+    <img src="../images/samuel-pepys-diary.jpg" class="bookcover">
+  </td>
+<td markdown="1">
+#### *The Diary of Samuel Pepys*, by Samuel Pepys, 1669  [^ferguson1014]
+&middot; [Latham monograph](http://www.magd.cam.ac.uk/samuel-pepys/)
+&middot; [wikipedia](http://en.wikipedia.org/wiki/Samuel_Pepys)
+&middot; [about](http://www.pepysdiary.com/about/text/)
+&middot; [ebook](http://manybooks.net/titles/pepyssametext03sp85g10.html)
+&middot; [goodreads](http://www.goodreads.com/book/show/420481.The_Diary_of_Samuel_Pepys#other_reviews)
+&middot; [kindle](http://www.amazon.com/Diary-Samuel-Pepys-Complete-ebook/product-reviews/B004TS74VW/ref=dp_top_cm_cr_acr_txt?ie=UTF8&showViewpoints=1)
+
+  </td>
+</tr>
+</table>
+
+<br>
+
+-------
+
+## Books Sold {#bookssold}
+
+<table>
+<tr valign="top">
+  <td><img src="../images/emmanuel-burden-belloc.jpg" class="bookcover"></td>
+  <td markdown="1">
+#### *Emmanuel Burden, Merchant, of Thames St., in the city of London, exporter of hardware: a record of his lineage, speculations, last day and death*, by Hilaire Belloc, 1904 [^tulsabooks14]
+
+Includes 34 illustrations by G.K. Chesterton.
+
+&middot; [archive.org](https://archive.org/details/emmanuelburdenme00belluoft)
+</td></tr>
+<tr valign="top">
+  <td><img src="../images/end-of-the-affair.jpg" class="bookcover"></td>
+  <td markdown="1">
+#### *The End of the Affair*, by Graham Greene, 1951 [^tulsabooks14]
+
+&middot; [nytimes](http://www.nytimes.com/1951/10/28/books/greene51-affair.html?_r=0)
+&middot; [wikipedia](http://en.wikipedia.org/wiki/The_End_of_the_Affair)
+&middot; [goodreads](http://www.goodreads.com/book/show/29641.The_End_of_the_Affair#other_reviews "2000+ reviews!")
+&middot; [amazon](http://www.amazon.com/Affair-Penguin-Classics-Deluxe-Edition/dp/0142437980#customerReviews)
+</td></tr>
+<tr valign="top">
+  <td><img src="../images/literary-distractions.jpg" class="bookcover"></td>
+  <td markdown="1">
+#### *Literary Distractions*, by R. A. Knox, 1958 [^tulsabooks14]
+
+&middot; [wikipedia](http://en.wikipedia.org/wiki/Ronald_Knox)
+&middot; [society](http://www.ronaldknoxsociety.com/)
+&middot; [the point](http://catholicism.org/problem-knox.html)
+&middot; [archive.org](https://archive.org/search.php?query=creator%3A%22Knox%2C+Ronald+Arbuthnott)
+&middot; [amazon](http://www.amazon.com/Literary-distractions-Ronald-Arbuthnott-Knox/dp/B002C0904I)
+&middot; [amazon](http://www.amazon.com/Ronald-Arbuthnott-Knox/e/B001IXRX6W)
+</td></tr>
+<tr valign="top">
+  <td><img src="../images/medusa-and-the-snail.jpg" class="bookcover"></td>
+  <td markdown="1">
+#### *The Medusa and the Snail: More Notes of a Biology Watcher*, by Lewis Thomas, 1979 [^tulsabooks14]
+
+&middot; [kirkus](https://www.kirkusreviews.com/book-reviews/lewis-thomas/the-medusa-and-the-snail/)
+&middot; [nytimes](http://www.nytimes.com/1993/12/04/obituaries/lewis-thomas-whose-essays-clarified-the-mysteries-of-biology-is-dead-at-80.html)
+&middot; [wikipedia](http://en.wikipedia.org/wiki/Lewis_Thomas)
+&middot; [goodreads](http://www.goodreads.com/book/show/317278.The_Medusa_and_the_Snail#other_reviews)
+&middot; [amazon](http://www.amazon.com/The-Medusa-Snail-Biology-Watcher/dp/0140243194#customerReviews)
+</td></tr>
+<tr valign="top">
+  <td><img src="../images/niv-triglot-old-testament.jpg" class="bookcover"></td>
+  <td markdown="1">
+#### *The NIV triglot Old Testament*, by John R. Kohlenberger, 1981&nbsp;[^tulsabooks14]
+
+Interlinear Greek-Hebrew-English Old Testament.
+
+&middot; [amazon](http://www.amazon.com/exec/obidos/tg/detail/-/0310438209/qid=1086401644/)
+&middot; [used](http://used.addall.com/SuperRare/submitRare.cgi?author=&title=The+NIV+triglot+Old+Testament)
+&middot; [sample page](http://abramkj.com/2014/09/27/from-the-study-books-for-sale/)
+</td></tr>
 </table>
 
 <br>
@@ -245,9 +329,10 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 &middot; [manybooks](http://manybooks.net/authors/balzacho.html) 
 &middot; [goodreads](https://www.goodreads.com/shelf/show/balzac)
 
-* #### Early Influences [^whitaker79]
+* #### Early Influences [^whitaker79] {#earlyinfluences}
   * <span class="btitle">[Hilaire Belloc](http://en.wikipedia.org/wiki/Hilaire_Belloc "writer, orator, poet, sailor, satirist, man of letters, soldier and political activist")</span> (1953)
 &middot; [manybooks](http://manybooks.net/authors/bellochi.html)
+&middot; [upenn](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Belloc%2C%20Hilaire%2C%201870-1953)
 &middot; [goodreads](http://www.goodreads.com/author/show/4025.Hilaire_Belloc)
 &middot; [amazon](http://www.amazon.com/Hilaire-Belloc/e/B000AP5E1U)
   * <span class="btitle">[Donn Byrne](http://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne "was firmly of the neo-Romantic view of the mythical and pastoral beauty of Irish history.")</span> (1928)
@@ -295,7 +380,7 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 &middot; [goodreads](http://www.goodreads.com/author/show/1244.Mark_Twain)
 &middot; [amazon](http://www.amazon.com/Mark-Twain/e/B000APWHJ2)
 
-* #### Science Fiction [^whitaker79]
+* #### Science Fiction [^whitaker79] {#sciencefiction}
 
   * <span class="btitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards")</span> (2001)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?3)
@@ -343,17 +428,47 @@ In [2011](http://antsofgodarequeerfish.blogspot.com/2011/10/laffertian-transmogr
 &middot; [amazon](http://www.amazon.com/A.-E.-van-Vogt/e/B000AQ21WE)
  
 
- 
+* #### Catholic Social Teaching [^ellison14] {#catholicsocialteaching} 
+
+  * <span class="btitle">[Philippe Buchez](http://en.wikipedia.org/wiki/Philippe_Buchez "... French historian, sociologist, and politician. He was the founder of the newspaper, L'Atelier ...")</span> (1865)
+  * <span class="btitle">Charles-Francois Cheve (1875)</span>
+  * <span class="btitle">[William Cobbett](http://en.wikipedia.org/wiki/William_Cobbett)</span> (1835)
+&middot; [quotes](http://en.wikiquote.org/wiki/William_Cobbett)
+&middot; [society](http://www.williamcobbett.org.uk/)
+&middot; [free books](http://manybooks.net/authors/cobbettw.html)
+  * <span class="btitle">[Richard Cobden](http://en.wikipedia.org/wiki/Richard_Cobden)</span> (1865)
+&middot; [society](http://www.cobdencentre.org/)
+&middot; [archive.org](https://archive.org/details/politicalwritingimg01cobduoft)
+  * <span class="btitle">[Frédéric Ozanam](http://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Ozanam "... founded with fellow students the Conference of Charity, later known as the Society of Saint Vincent de Paul.")</span> (1853)
+&middot; [quotes](http://vinformation.famvin.org/vincentian-formation-resources/prayers-celebrations-seasonal/door-of-faith-frederic-ozanam/)
+&middot; [50m video](http://vimeo.com/81188301 "... outlines the principles of Catholic social teaching and demonstrates that the writings and thoughts of Frederic Ozanam captured those ideals almost a century before...")
+&middot; [Letters](https://archive.org/details/lettersoffred00ozanuoft)
+&middot; [Bio](https://archive.org/details/fredericozanampr00omea)
+&middot; [St. Vincent](https://archive.org/details/lettersoffred00ozanuoft)
+  * <span class="btitle">[Vincent Pecci, Pope Leo XIII](http://en.wikipedia.org/wiki/Pope_Leo_XIII)</span> (1903)
+&middot; [encyclopedia](http://www.newadvent.org/cathen/09169a.htm)
+&middot; [Rerum Novarum](http://en.wikipedia.org/wiki/Rerum_Novarum)
+
+
 
 
 -------
 
 ## Notes
 
+<!---
+[^ellison14]: John Ellison, "Some notes on play, time and Catholic Social Teaching in R.A. Lafferty", *Feast of Laughter #1*, 2014, citing page 52, *The Flame is Green*, Corroboree Press,1985
+--->
+
+[^ellison14]: Page 52, *The Flame is Green*, Corroboree Press,1985
+
 [^anderson93]: [R. A. Lafferty to Charlotte Anderson](http://www.mulle-kybernetik.com/RAL/messageboard/viewtopic.php?p=402#p402), August 3, 1993
 
 [^whitaker79]: Interview by Robert J. Whitaker, [At The Sleepy Sailor](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/), The Sons of the Sand, 1979
 
-[^wolfe-cover]: Cover blurb by R. A. Lafferty, [Endangered Species](http://books.google.com/books?id=4AVYhTiMiawC&pg=PP3&lpg=PP3&dq=%22This+is+the+biggest+and+probably+the+best+one-author+collection%22&source=bl&ots=p3cI6H7GX9&sig=vjlXYMvIm65X1qcbrWiHGNr2B0U&hl=en&sa=X&ei=krtAVLqIJ9fesAS5mYLQCw&ved=0CCQQ6AEwAQ#v=onepage&q=%22This%20is%20the%20biggest%20and%20probably%20the%20best%20one-author%20collection%22&f=false), Gene Wolfe
+[^wolfe-cover]: Cover blurb by R. A. Lafferty, for [Endangered Species](http://books.google.com/books?id=4AVYhTiMiawC&pg=PP3&lpg=PP3&dq=%22This+is+the+biggest+and+probably+the+best+one-author+collection%22&source=bl&ots=p3cI6H7GX9&sig=vjlXYMvIm65X1qcbrWiHGNr2B0U&hl=en&sa=X&ei=krtAVLqIJ9fesAS5mYLQCw&ved=0CCQQ6AEwAQ#v=onepage&q=%22This%20is%20the%20biggest%20and%20probably%20the%20best%20one-author%20collection%22&f=false), Gene Wolfe
 
 [^stairs84]: [It's Down the Slippery Cellar Stairs](http://www.isfdb.org/cgi-bin/title.cgi?717449), R. A. Lafferty
+
+[^ferguson1014]: Photo, A.F. report, 2014
+[^tulsabooks14]: Bookstore [listing](http://web.archive.org/web/20141030091347/http://www.tulsabooksinc.com/?CLSN_2673=1414650973267314e01e670254bed58c&keyword=a+lafferty+r&searchby=description&page=shop%2Fbrowse&fsb=1&Search=Search), Tulsa, 2014
