@@ -92,9 +92,12 @@ For a list of stories and novels written by R. A. Lafferty, see his [Works](/wor
 
 > "Some day the taxonomists, those tireless obsessives who put labels on everything, will have to categorize literature as Westerns, fantasies, romances, lafferties, science fiction, mysteries..." ---[Theodore&nbsp;Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon) &nbsp;[^chrysalis2]
 
+> "To the memory of Raphael A. Lafferty, The elf from Oklahoma, Who could do things with words that most writers can only do with dreams." ---[Alan Dean Foster](http://en.wikipedia.org/wiki/Alan_Dean_Foster) &nbsp;[^foster02]
+
 
 <br>
 
+[^foster02]: Alan Dean Foster, Dedication, *Impossible Places*, 2002
 [^gaiman-wapo]: R.A. Lafferty obituary, *Washington Post*, April 4, 2002
 [^jabberwocky]: JABberwocky Literary Agency Inc., [Praise for R.A. Lafferty](http://awfulagent.com/jabclients/lafferty)
 [^cover-nine]: [Cover](http://books.google.com/books?id=Y_FoU_KMOmkC&printsec=backcover#v=onepage&q&f=false) blurb for *Nine Hundred Grandmothers*, 1970
