@@ -62,6 +62,7 @@ redirect_from: "/readers/"
 * [The Pleasure of Reading R. A. Lafferty](http://efanzines.com/SFC/ScratchPad/scrat023.pdf) (pdf), Elaine Cochrane, Australia
 * [MPorcius Fiction Log](http://mporcius.blogspot.com/search/label/Lafferty), MPorcius, USA
 * [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL), Nat, Germany
+* [R.J. Wizard](http://rjwizard.wordpress.com/tag/r-a-lafferty/), USA
 * [The Ants of God are Queer Fish](http://antsofgodarequeerfish.blogspot.com), Daniel Petersen, Scotland
 * [Yet Another Lafferty Blog](http://www.yetanotherlaffertyblog.com/), Kevin Cheek, USA
 

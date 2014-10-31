@@ -268,7 +268,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &mdash;&nbsp;*2006&nbsp;Seiun&nbsp;Nominee* 
 
 
-### Search {#search}
+### Buy {#buy}
 
 * [AddAll](http://used.addall.com/), International (Amazon, Abe, Biblio, Alibris, Powells & more)
 * [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006)
