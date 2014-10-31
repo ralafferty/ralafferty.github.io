@@ -77,8 +77,9 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 * 1991, Shortlist, U of Kansas, [Theodore Sturgeon Award](http://en.wikipedia.org/wiki/Theodore_Sturgeon_Award), [Best Short Story](http://www.locusmag.com/SFAwards/Db/Sturgeon1991.html), *Episodes of the Argo*
 * 1990, Winner, World Fantasy Convention, [Lifetime Achievement Award](http://www.worldfantasy.org/awards/awardslist.html)
 * 1983, Finalist, [Philip K. Dick Award](http://en.wikipedia.org/wiki/Philip_K._Dick_Award), [Best Original SF Paperback](http://www.sfadb.com/Philip_K_Dick_Award_1983), *Aurelia*
+* 1979, Guest of Honor, [DeepSouthCon](http://www.smithuel.net/sfchb/hbp2dsc.html)
+  &middot; [chapbook](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/)
 * 1978, Guest of Honor, [Okcon](http://fancyclopedia.org/okon-78) 
-&middot; [DSC](http://www.smithuel.net/sfchb/hbp2dsc.html)
 * 1975, Winner, [Seiun Award](http://en.wikipedia.org/wiki/Seiun_Award) (Japan), [Foreign Short Story](http://www.sfadb.com/Seiun_Awards_1975), *Eurema's Dam*
 * 1973, Winner, [Hugo Award, Best Short Story](http://www.sfadb.com/Hugo_Awards_1973), *Eurema's Dam*
 * 1972, Winner, [The Elves, Gnomes and Little Men’s Science Fiction, Chowder and Marching Society](http://file770.com/?p=8781&cpage=1#comment-90596), [The Invisible Little Man Award](http://fancyclopedia.org/invisible-little-man-award) 
