@@ -24,6 +24,7 @@ redirect_from: /tributes/
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/tribute.jpg" height="197">
 </a>
 
+* 2014, [Lafferty Lost and Found](http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete), Natasha Ball, This Land Press
 * 2014, [The secret sci-fi genius more than ready for a comeback](http://www.theguardian.com/books/booksblog/2014/aug/13/ra-lafferty-secret-sci-fi-genius-poised-for-comeback), David Barnett, The Guardian
 * 2014, [Gaiman Touts Lafferty](http://blogs.wsj.com/speakeasy/2014/07/23/gaiman-touts-lafferty-obrien-while-discussing-the-thirteen-clocks/), Wall St. Journal
 * [A Few Words About R.A. Lafferty](http://greatsfandf.com/AUTHORS/RALafferty.php), Eric Walker
