@@ -59,7 +59,7 @@ redirect_from: "/readers/"
 * [Futuramen](http://www.lawrenceperson.com/?tag=r-a-lafferty), Lawrence Person, USA
 * [Hieronymopolis](http://hieronymopolis.wordpress.com/category/laffertyana/)
 * [I Want A Death and Resurrection of the Thing](http://failingevenbetter.blogspot.com/), trawlerman, USA
-* [The Pleasure of Reading R. A. Lafferty](http://efanzines.com/SFC/ScratchPad/scrat023.pdf) (pdf), Elaine Cochrane, Australia
+* [La Explanada de Avente](http://explanadadeavente.blogspot.com/search/label/Lafferty), Daniel Diaz, USA
 * [MPorcius Fiction Log](http://mporcius.blogspot.com/search/label/Lafferty), MPorcius, USA
 * [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL), Nat, Germany
 * [R.J. Wizard](http://rjwizard.wordpress.com/tag/r-a-lafferty/), USA

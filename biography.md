@@ -39,6 +39,7 @@ redirect_from: /tributes/
 * 2002, [Effective Arcanum](http://www.revolutionsf.com/article.php?id=1110), Don Webb
 * 2001, [Evangelical Propaganda](https://web.archive.org/web/20011025123836/http://home.earthlink.net/~cranked/the_lafferty_page.htm), Bryan Cholfin
 * 1998, [Ray's "office"](http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm), Keith Purtell
+* 1992, [The Pleasure of Reading R. A. Lafferty](http://efanzines.com/SFC/ScratchPad/scrat023.pdf) (pdf), Elaine Cochrane
 * 1979, [A Reader's Guide to Science Fiction](http://antsofgodarequeerfish.blogspot.com/2011/08/readers-guide-to-science-fiction-on-r.html), Baird Searles et. al
 
 ## Introductions {#introductions}
