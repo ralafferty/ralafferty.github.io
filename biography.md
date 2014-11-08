@@ -57,7 +57,7 @@ redirect_from: /tributes/
 
 * [1990](http://www.isfdb.org/cgi-bin/pl.cgi?304652),
 D. Schweitzer & R.J. Whitaker, *Cranky Old Man from Tulsa* 
-* 1987, Ron Wolfe, "Counting Grandmothers", *American Fantasy*
+* [1987](http://www.locusmag.com/index/t150.htm#A8865), Ron Wolfe, "Counting Grandmothers", *American Fantasy*
 * 1983, Darrel Schweitzer
 &middot; [excerpt](http://hieronymopolis.wordpress.com/2010/12/09/r-a-lafferty-on-secular-liberalism-the-religion-that-is-not-called-a-religion/) 
 &middot; [preview](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
@@ -72,6 +72,7 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 
 * 2003, Memorial Guest of Honor, [Readercon](http://readercon.org/) [15](http://web.archive.org/web/20061201153039/http://www.prairienet.org/~almahu/aickman.htm)
 * 2002, Winner, [Cordwainer Smith Foundation](http://www.cordwainer-smith.com/foundation.htm), ["Rediscovery" Award](http://www.cordwainer-smith.com/lafferty.htm)
+ &middot; [Scott Edelman](http://web.archive.org/web/20030203101118/http://www.scottedelman.com/cordwainersmith.html)
 * 1995, Winner, Oklahoma Dept. of Libraries, [Arrell Gibson Lifetime Achievement Award](https://web.archive.org/web/20091027093656/http://geocities.com/konstiantin/osfw/authors/RAL_sinor_tribute.html), Brad Sinor 
 * 1993, Finalist, [Philip K. Dick Award](http://en.wikipedia.org/wiki/Philip_K._Dick_Award), [Best Original SF Paperback](http://www.sfadb.com/Philip_K_Dick_Award_1993), *Iron Tears*
 * 1993, Winner, [Seiun Award](http://en.wikipedia.org/wiki/Seiun_Award) (Japan), [Foreign Short Fiction](http://www.sfadb.com/Seiun_Awards_1993), *Groaning Hinges of the World*
