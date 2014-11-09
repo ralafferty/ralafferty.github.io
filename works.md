@@ -282,8 +282,6 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 * <span class="btitle">Centipede Vol 2: The Man with the Aura</span>
   &middot;&nbsp;[amazon](http://www.amazon.com/Collected-Short-Stories-Lafferty-Volume/dp/1613471092/)
 * <span class="btitle">Okla Hannali</span>
-  &middot; [Josephine](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/) (2013)
-  &middot;&nbsp;[Keith Purtell](http://www.keithpurtell.com/kthings/r-a-lafferty.htm) (1998)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/667700.Okla_Hannali#other_reviews "9 reviews")
   &middot;&nbsp;[amazon](http://www.amazon.com/Okla-Hannali-R-Lafferty/product-reviews/0806123494/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "16 reviews")
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=okla+hannali)
