@@ -91,12 +91,13 @@ redirect_from: "/readers/"
   * 2010, Les Quatriemes Demeures: [belial](http://www.belial.fr/blog/les-quatriemes-demeures "Fourth Mansions") [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.belial.fr%2Fblog%2Fles-quatriemes-demeures&edit-text=) --- &nbsp; [crepuscule](http://songes-du-crepuscule.naturalforum.net/t2239-les-quatriemes-demeures-raphael-aloysius-lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fsonges-du-crepuscule.naturalforum.net%2Ft2239-les-quatriemes-demeures-raphael-aloysius-lafferty&edit-text=)
   * 2003, [listes.sf Biography](http://web.archive.org/web/20030408031523/http://perso.wanadoo.fr/listes.sf/lafferty/bio.htm) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20030408031523%2Fhttp%3A%2F%2Fperso.wanadoo.fr%2Flistes.sf%2Flafferty%2Fbio.htm&edit-text=) 
   * [East of Lafferty](http://www.eastoflafferty.com/) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.eastoflafferty.com%2F&edit-text=)
+<br>
 * #### Japanese
-   * [とりあえず、ラファティ&mdash; Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Kenji Matsuzaki 
-[&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhc2.seikyou.ne.jp%2Fhome%2FDrBr%2Findex.html&edit-text=)
 <a href="http://ralafferty.tumblr.com/post/101900921217/hayakawa-sf-lafferty-centennial-issue">
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/hayakawa-sf.jpg" title="Hayakawa SF Lafferty Centennial - 2014" width="96">
 </a>
+   * [とりあえず、ラファティ&mdash; Japanese Laffertian Page](http://hc2.seikyou.ne.jp/home/DrBr/index.html), Kenji Matsuzaki 
+[&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhc2.seikyou.ne.jp%2Fhome%2FDrBr%2Findex.html&edit-text=)
   * [S―Fマガジン２０１４年１２月号 &mdash; Lafferty Centennial](http://hayakawa-online.co.jp/product/books/721412.html)
 [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=ja&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fhayakawa-online.co.jp%2Fproduct%2Fbooks%2F721412.html&edit-text=)
 
