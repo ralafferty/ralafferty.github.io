@@ -1,28 +1,30 @@
 ---
 layout: page
 title: Works
+seo_description: R.A. Lafferty wrote 200+ short stories and 20+ novels, on science, history, mythology, philosophy, technology, space/time travel, dystopias, magic and mystery.
 permalink: /works/
 weight: 5
 redirect_from: "/writing/"
 ---
 
-<a href="http://www.centipedepress.com/authors/lafferty.html">
-  <img hspace="30" align="right" src="{{ site.baseurl }}/images/works.jpg" height="230">
+<a href="http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete">
+  <img hspace="30" align="right" title="Lafferty's Door - This Land Press - 2014" src="{{ site.baseurl }}/images/lafferty-door-small.png"> 
 </a>
 
 > "Though my short stories are the more readable, my novels do have more to say; and they will, if anyone has the patience for it, repay a rereading." ---[R. A. Lafferty](http://en.wikiquote.org/wiki/R._A._Lafferty)
 
+
 ## Bibliography {#bibliography}
 
-* <span class="btitle">Comprehensive</span>: [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
-* <span class="btitle">International:</span>
+* <span class="stitle">Comprehensive</span>: [Internet Speculative Fiction DB](http://www.isfdb.org/cgi-bin/ea.cgi?36)
+* <span class="stitle">International:</span>
  [Dutch](http://www.deboekenplank.nl/naslag/aut/l/lafferty_r.htm)
   &middot; [French](http://www.noosfere.org/icarus/livres/auteur.asp?NumAuteur=311)
   &middot; [German](http://de.wikipedia.org/wiki/Raphael_Aloysius_Lafferty#Werke_.28deutsch.29)
   &middot; [Japanese](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
   &middot; [Spanish](http://es.wikipedia.org/wiki/R._A._Lafferty#Bibliograf.C3.ADa_en_castellano)
-* <span class="btitle">United Mythologies Press</span>: [Catalog](/archive/ump-usenet.txt) (1992)
-* <span class="btitle">Unpublished Lafferty</span>:
+* <span class="stitle">United Mythologies</span>: [Catalog](/archive/ump-usenet.txt) (1992)
+* <span class="stitle">Unpublished</span>:
   [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
   &middot;&nbsp;[buy article](http://www.nyrsf.com/2012/01/)
 * [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) &middot; [40 Covers](http://sf-encyclopedia.co.uk/gallery.php?link=lafferty_r_a)
@@ -268,7 +270,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &mdash;&nbsp;*2006&nbsp;Seiun&nbsp;Nominee* 
 
 
-### Buy {#buy}
+### Buy Books {#buybooks}
 
 * [AddAll](http://used.addall.com/), International (Amazon, Abe, Biblio, Alibris, Powells & more)
 * [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006)

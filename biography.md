@@ -6,6 +6,10 @@ weight: 10
 redirect_from: /tributes/
 ---
 
+<a href="http://www.centipedepress.com/authors/lafferty.html">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/works.jpg" height="230">
+</a>
+
 > "As to  biographical stuff, I am an anonymous maker of medieval miracle plays.  Being anonymous, that's all the biographical stuff I can generate." ---[R. A. Lafferty](http://antsofgodarequeerfish.blogspot.com/2013/04/throw-out-pseudoserious-abominations.html)
 
 ## Profiles {#profiles}
@@ -19,10 +23,6 @@ redirect_from: /tributes/
 
 
 ## Tributes {#tributes}
-
-<a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/">
-  <img hspace="30" align="right" src="{{ site.baseurl }}/images/tribute.jpg" height="197">
-</a>
 
 * 2014, [Lafferty Lost and Found](http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete), Natasha Ball, This Land Press
 * 2014, [The secret sci-fi genius more than ready for a comeback](http://www.theguardian.com/books/booksblog/2014/aug/13/ra-lafferty-secret-sci-fi-genius-poised-for-comeback), David Barnett, The Guardian
@@ -101,3 +101,9 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 * [SFX Magazine](http://www.ansible.co.uk/sfx/sfx092.html)
 * [Chad Love](http://mallardofdiscontent.blogspot.com/2011/07/re-visiting-some-old-stuff.html)
 
+## 1984 Portrait
+<center>
+<a href="https://www.google.com/search?&q=patti+perret+faces+of+science+fiction">
+  <img src="{{ site.baseurl }}/images/ral_index.jpg" title="Patti Perret - The Faces of Science Fiction">
+</a>
+</center>

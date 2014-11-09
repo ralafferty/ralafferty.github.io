@@ -10,7 +10,7 @@ Dedicated to writer [R. A. Lafferty](https://www.google.com/search?q=R.+A.+Laffe
 
 <center>
 <a href="http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/">
-  <img src="{{ site.baseurl }}/images/ral_index.jpg" >
+  <img src="{{ site.baseurl }}/images/lafferty-cg.jpg" title="Counting Grandmothers, Ron Wolfe Interview, American Fantasy, Summer 1987">
 </a>
 </center>
 

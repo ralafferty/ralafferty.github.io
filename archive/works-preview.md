@@ -131,7 +131,7 @@ function reset_filter ()
 		{
 			var testClass = el.classList.item(j);
 			if ( testClass != 'work-li') 
-				tagspan[0].innerHTML += '&middot;&nbsp;<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a>';
+				tagspan[0].innerHTML += '<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a> ';
 		}
 		el.style.display = '';
 	}
@@ -168,7 +168,6 @@ function f_subset( className )
 	minimize_summary (); 
 
 	var text = document.getElementById( className );
-	/* text.style.textDecoration = 'underline'; */
 
 	var ulist = document.getElementById( 'work-ul' );
 	var items = ulist.getElementsByClassName ( 'work-li' );
@@ -186,11 +185,8 @@ function f_subset( className )
 			{
 				var testClass = el.classList.item(j);
 
-			/* log ("\n" + '1: testClass = ' + testClass);
-			log ("\n" + '2: a_tags = ' + a_tags );   */
-
 				if ( testClass != 'work-li' && testClass != className )
-					tagspan[0].innerHTML += '&middot;&nbsp;<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a>';
+					tagspan[0].innerHTML += '<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a> ';
 			}
 			el.style.display = '';
 		}
@@ -319,8 +315,8 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 <span id="alltags">
 {% for tag in site.data.reviewer-tags.tag %}
 	{% for definition in tag.definition %}
-	&nbsp;&middot;&nbsp;<a id="{{ definition.id }}" href="javascript:void(0);" onclick="f_subset('{{ definition.id }}');"  
-		class='work-menu' title="{{ definition.detail }}">{{ definition.title }}</a>
+	&nbsp;<a id="{{ definition.id }}" href="javascript:void(0);" onclick="f_subset('{{ definition.id }}');"  
+		class='work-menu' title="{{ definition.detail }}">#{{ definition.title }}</a>
 	{% endfor %}
 {% endfor %}
 </span>
@@ -398,8 +394,9 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 				{% endfor %}
 				</span>
 
-				<span id="work-tags" class="work-tags">
-				</span>
+				<ul class="taglist" style="list-style-type: none;">
+					<li id="work-tags" class="work-tags">
+				</li></ul>
 
 				{% if story_details.excerpt %}
 				<ul style="display:none" class="work-summary"><blockquote>

@@ -14,6 +14,11 @@
 
 .btitle {
 	font-variant: small-caps;
+	font-size: 1.2em;
+}
+
+.stitle {
+	font-variant: small-caps;
 }
 
 .work-li {
@@ -36,3 +41,6 @@
         font-size: 85%;
 }
 
+.taglist {
+	margin: 0;
+}

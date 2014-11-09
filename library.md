@@ -6,7 +6,7 @@ weight: 55
 ---
 
 <a href="http://web.archive.org/web/20050828204624/http://www.keithpurtell.com/kthings/body_lafferty.htm">
- <img src="{{ site.baseurl }}/images/library.jpg">
+ <img title="Keith Purtell Photo - 1998" src="{{ site.baseurl }}/images/library.jpg">
 </a>
 
 <br>
@@ -324,105 +324,105 @@ Interlinear Greek-Hebrew-English Old Testament.
 ## Writers Cited {#writerscited}
 
 * #### World's Second-Best Novelist [^whitaker79]
-  * <span class="btitle">[Honoré de Balzac](http://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac "Due to his keen observation of detail and unfiltered representation of society, Balzac is regarded as one of the founders of realism in European literature. He is renowned for his multifaceted characters, who are morally ambiguous.")</span> (1850)
+  * <span class="stitle">[Honoré de Balzac](http://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac "Due to his keen observation of detail and unfiltered representation of society, Balzac is regarded as one of the founders of realism in European literature. He is renowned for his multifaceted characters, who are morally ambiguous.")</span> (1850)
 &middot; [archive.org](https://archive.org/details/lacomedie33balz)
 &middot; [manybooks](http://manybooks.net/authors/balzacho.html) 
 &middot; [goodreads](https://www.goodreads.com/shelf/show/balzac)
 
 * #### Early Influences [^whitaker79] {#earlyinfluences}
-  * <span class="btitle">[Hilaire Belloc](http://en.wikipedia.org/wiki/Hilaire_Belloc "writer, orator, poet, sailor, satirist, man of letters, soldier and political activist")</span> (1953)
+  * <span class="stitle">[Hilaire Belloc](http://en.wikipedia.org/wiki/Hilaire_Belloc "writer, orator, poet, sailor, satirist, man of letters, soldier and political activist")</span> (1953)
 &middot; [manybooks](http://manybooks.net/authors/bellochi.html)
 &middot; [upenn](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Belloc%2C%20Hilaire%2C%201870-1953)
 &middot; [goodreads](http://www.goodreads.com/author/show/4025.Hilaire_Belloc)
 &middot; [amazon](http://www.amazon.com/Hilaire-Belloc/e/B000AP5E1U)
-  * <span class="btitle">[Donn Byrne](http://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne "was firmly of the neo-Romantic view of the mythical and pastoral beauty of Irish history.")</span> (1928)
+  * <span class="stitle">[Donn Byrne](http://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne "was firmly of the neo-Romantic view of the mythical and pastoral beauty of Irish history.")</span> (1928)
 &middot; [manybooks](http://manybooks.net/authors/donn-byrneb.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/958600.Donn_Byrne)
 &middot; [amazon](http://www.amazon.com/Donn-Byrne/e/B001KI6CLW)
-  * <span class="btitle">[J.B. Cabell](http://en.wikipedia.org/wiki/James_Branch_Cabell "saw art as an escape from life, but once the artist creates his ideal world, he finds that it is made up of the same elements that make the real one")</span> (1958)
+  * <span class="stitle">[J.B. Cabell](http://en.wikipedia.org/wiki/James_Branch_Cabell "saw art as an escape from life, but once the artist creates his ideal world, he finds that it is made up of the same elements that make the real one")</span> (1958)
 &middot; [manybooks](http://manybooks.net/authors/cabellja.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/92665.James_Branch_Cabell)
 &middot; [amazon](http://www.amazon.com/James-Branch-Cabell/e/B000AP5SHU)
-  * <span class="btitle">[G.K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton "writer, lay theologian, poet, philosopher, dramatist, journalist, orator, literary and art critic, biographer, and Christian apologist")</span> (1936)
+  * <span class="stitle">[G.K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton "writer, lay theologian, poet, philosopher, dramatist, journalist, orator, literary and art critic, biographer, and Christian apologist")</span> (1936)
 &middot; [manybooks](http://manybooks.net/authors/chestert.html)
 &middot; [goodreads](https://www.goodreads.com/author/show/7014283.G_K_Chesterton)
 &middot; [amazon](http://www.amazon.com/G.K.-Chesterton/e/B000APF848)
-  * <span class="btitle">[Charles Dickens](http://en.wikipedia.org/wiki/Charles_Dickens "generally regarded as the greatest novelist of the Victorian period")</span> (1870)
+  * <span class="stitle">[Charles Dickens](http://en.wikipedia.org/wiki/Charles_Dickens "generally regarded as the greatest novelist of the Victorian period")</span> (1870)
 &middot; [manybooks](http://manybooks.net/authors/dickensc.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/239579.Charles_Dickens)
 &middot; [amazon](http://www.amazon.com/Charles-Dickens/e/B000APYNYE)
-  * <span class="btitle">[Graham Greene](http://en.wikipedia.org/wiki/Graham_Greene "Combining literary acclaim with widespread popularity, Greene acquired a reputation as a great writer, both of serious Catholic novels and of thrillers")</span> (1991)
+  * <span class="stitle">[Graham Greene](http://en.wikipedia.org/wiki/Graham_Greene "Combining literary acclaim with widespread popularity, Greene acquired a reputation as a great writer, both of serious Catholic novels and of thrillers")</span> (1991)
 &middot; [goodreads](http://www.goodreads.com/author/show/2533.Graham_Greene)
 &middot; [amazon](http://www.amazon.com/Graham-Greene/e/B000APVBKI)
-  * <span class="btitle">[Bret Harte](http://en.wikipedia.org/wiki/Bret_Harte "best remembered for his short fiction featuring miners, gamblers, and other romantic figures of the California Gold Rush")</span> (1902)
+  * <span class="stitle">[Bret Harte](http://en.wikipedia.org/wiki/Bret_Harte "best remembered for his short fiction featuring miners, gamblers, and other romantic figures of the California Gold Rush")</span> (1902)
 &middot; [manybooks](http://manybooks.net/authors/hartebre.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/10889.Bret_Harte)
 &middot; [amazon](http://www.amazon.com/Bret-Harte/e/B001IZPNVC)
-  * <span class="btitle">[Lafcadio Hearn](http://en.wikipedia.org/wiki/Lafcadio_Hearn "known best for his books about Japan, especially his collections of Japanese legends and ghost stories")</span> (1904)
+  * <span class="stitle">[Lafcadio Hearn](http://en.wikipedia.org/wiki/Lafcadio_Hearn "known best for his books about Japan, especially his collections of Japanese legends and ghost stories")</span> (1904)
 &middot; [Kwaidan](http://en.wikipedia.org/wiki/Kwaidan:_Stories_and_Studies_of_Strange_Things)
 &middot; [manybooks](http://manybooks.net/titles/hearnlafetext98kwidn10.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/35238.Lafcadio_Hearn)
 &middot; [amazon](http://www.amazon.com/Lafcadio-Hearn/e/B001ITXE0A)
-  * <span class="btitle">[W. Somerset Maugham](http://en.wikipedia.org/wiki/W._Somerset_Maugham "British playwright, novelist and short story writer. He was among the most popular writers of his era and reputedly the highest paid author during the 1930s.")</span> (1965)
+  * <span class="stitle">[W. Somerset Maugham](http://en.wikipedia.org/wiki/W._Somerset_Maugham "British playwright, novelist and short story writer. He was among the most popular writers of his era and reputedly the highest paid author during the 1930s.")</span> (1965)
 &middot; [manybooks](http://manybooks.net/authors/maughamw.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/4176632.W_Somerset_Maugham)
 &middot; [amazon](http://www.amazon.com/W.-Somerset-Maugham/e/B00B5C2NJ8)
-  * <span class="btitle">[Herman Melville](http://en.wikipedia.org/wiki/Herman_Melville "Best known for his whaling novel Moby-Dick")</span> (1891)
+  * <span class="stitle">[Herman Melville](http://en.wikipedia.org/wiki/Herman_Melville "Best known for his whaling novel Moby-Dick")</span> (1891)
 &middot; [manybooks](http://manybooks.net/authors/melville.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/1624.Herman_Melville)
 &middot; [amazon](http://www.amazon.com/Herman-Melville/e/B000AQ29JY)
-  * <span class="btitle">[Robert Louis Stevenson](http://en.wikipedia.org/wiki/Robert_Louis_Stevenson "most famous works are Treasure Island, Kidnapped, and Strange Case of Dr Jekyll and Mr Hyde.")</span> (1894)
+  * <span class="stitle">[Robert Louis Stevenson](http://en.wikipedia.org/wiki/Robert_Louis_Stevenson "most famous works are Treasure Island, Kidnapped, and Strange Case of Dr Jekyll and Mr Hyde.")</span> (1894)
 &middot; [manybooks](http://manybooks.net/authors/stevensonro.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson)
 &middot; [amazon](http://www.amazon.com/Robert-Louis-Stevenson/e/B000AQ0JI2)
-  * <span class="btitle">[Mark Twain](http://en.wikipedia.org/wiki/Mark_Twain "lauded as the "greatest American humorist of his age"")</span> (1910)
+  * <span class="stitle">[Mark Twain](http://en.wikipedia.org/wiki/Mark_Twain "lauded as the "greatest American humorist of his age"")</span> (1910)
 &middot; [manybooks](http://manybooks.net/authors/twainmar.html)
 &middot; [goodreads](http://www.goodreads.com/author/show/1244.Mark_Twain)
 &middot; [amazon](http://www.amazon.com/Mark-Twain/e/B000APWHJ2)
 
 * #### Science Fiction [^whitaker79] {#sciencefiction}
 
-  * <span class="btitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards")</span> (2001)
+  * <span class="stitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards")</span> (2001)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?3)
 &middot; [goodreads](http://www.goodreads.com/author/show/32278.Poul_Anderson)
 &middot; [amazon](http://www.amazon.com/Poul-Anderson/e/B00456UFBO)
-  * <span class="btitle">[Michael Bishop](http://en.wikipedia.org/wiki/Michael_Bishop_%28author%29 "created a "body of work that stands among the most admired and influential in modern science fiction and fantasy literature"")</span>
+  * <span class="stitle">[Michael Bishop](http://en.wikipedia.org/wiki/Michael_Bishop_%28author%29 "created a "body of work that stands among the most admired and influential in modern science fiction and fantasy literature"")</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?75)
 &middot; [goodreads](http://www.goodreads.com/author/show/2844917.Michael_Bishop) 
 &middot; [amazon](http://www.amazon.com/Michael-Bishop/e/B000AP7TLS) 
-  * <span class="btitle">[John Brunner](http://en.wikipedia.org/wiki/John_Brunner_%28novelist%29 "novels have been called the "Club of Rome Quartet", named after the Club of Rome whose 1972 report "The Limits to Growth" warned of the dire effects of overpopulation") (1995)</span>
+  * <span class="stitle">[John Brunner](http://en.wikipedia.org/wiki/John_Brunner_%28novelist%29 "novels have been called the "Club of Rome Quartet", named after the Club of Rome whose 1972 report "The Limits to Growth" warned of the dire effects of overpopulation") (1995)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?11)
 &middot; [goodreads](http://www.goodreads.com/author/show/23113.John_Brunner)
 &middot; [amazon](http://www.amazon.com/John-Brunner/e/B000AQ26P6)
-  * <span class="btitle">[Arthur C. Clarke](http://en.wikipedia.org/wiki/Arthur_C._Clarke "most famous for being co-writer of the screenplay for the movie 2001: A Space Odyssey, widely considered to be one of the most influential films of all time") (2008)</span>
+  * <span class="stitle">[Arthur C. Clarke](http://en.wikipedia.org/wiki/Arthur_C._Clarke "most famous for being co-writer of the screenplay for the movie 2001: A Space Odyssey, widely considered to be one of the most influential films of all time") (2008)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?17)
 &middot; [goodreads](http://www.goodreads.com/author/show/7779.Arthur_C_Clarke)
 &middot; [amazon](http://www.amazon.com/Arthur-C.-Clarke/e/B000APF21M)
-  * <span class="btitle">[Jack Dann](http://en.wikipedia.org/wiki/Jack_Dann "work, which includes fiction in the science fiction, fantasy, horror, magical realism and historical and alternative history genres, has been compared to Jorge Luis Borges, Roald Dahl, Lewis Carroll, J.G. Ballard and Philip K. Dick")</span>
+  * <span class="stitle">[Jack Dann](http://en.wikipedia.org/wiki/Jack_Dann "work, which includes fiction in the science fiction, fantasy, horror, magical realism and historical and alternative history genres, has been compared to Jorge Luis Borges, Roald Dahl, Lewis Carroll, J.G. Ballard and Philip K. Dick")</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?274)
 &middot; [goodreads](http://www.goodreads.com/author/show/142717.Jack_Dann)
 &middot; [amazon](http://www.amazon.com/Jack-Dann/e/B000APG6E4)
-  * <span class="btitle">[Larry Niven](http://en.wikipedia.org/wiki/Larry_Niven "best-known work is Ringworld (1970), which received Hugo, Locus, Ditmar, and Nebula awards. His work is primarily hard science fiction")</span>
+  * <span class="stitle">[Larry Niven](http://en.wikipedia.org/wiki/Larry_Niven "best-known work is Ringworld (1970), which received Hugo, Locus, Ditmar, and Nebula awards. His work is primarily hard science fiction")</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?42)
 &middot; [goodreads](http://www.goodreads.com/author/show/12534.Larry_Niven)
 &middot; [amazon](http://www.amazon.com/Larry-Niven/e/B000APNCCI)
-  * <span class="btitle">[Barry Malzberg](http://en.wikipedia.org/wiki/Barry_N._Malzberg "work has been widely praised by critics, while being attacked by proponents of hard science fiction for its pessimistic, anti-Campbellian tenor. The dystopian and metafictional elements of Malzberg's work have led to numerous parodies inside science fiction")</span>
+  * <span class="stitle">[Barry Malzberg](http://en.wikipedia.org/wiki/Barry_N._Malzberg "work has been widely praised by critics, while being attacked by proponents of hard science fiction for its pessimistic, anti-Campbellian tenor. The dystopian and metafictional elements of Malzberg's work have led to numerous parodies inside science fiction")</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?534)
 &middot; [goodreads](http://www.goodreads.com/author/show/76288.Barry_N_Malzberg)
 &middot; [amazon](http://www.amazon.com/Barry-N.-Malzberg/e/B001HOHKU6)
-  * <span class="btitle">[Jerry Pournelle](http://en.wikipedia.org/wiki/Jerry_Pournelle "American science fiction writer, essayist and journalist who contributed for many years to the computer magazine Byte")</span>
+  * <span class="stitle">[Jerry Pournelle](http://en.wikipedia.org/wiki/Jerry_Pournelle "American science fiction writer, essayist and journalist who contributed for many years to the computer magazine Byte")</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?1067)
 &middot; [goodreads](http://www.goodreads.com/author/show/39099.Jerry_Pournelle) 
 &middot; [amazon](http://www.amazon.com/Jerry-Pournelle/e/B0034OKX1A)
-  * <span class="btitle">[Theodore Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon "American science fiction and horror writer and critic. The Internet Speculative Fiction Database credits him with about 400 reviews and more than 200 stories") (1985)</span>
+  * <span class="stitle">[Theodore Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon "American science fiction and horror writer and critic. The Internet Speculative Fiction Database credits him with about 400 reviews and more than 200 stories") (1985)</span>
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?56)
 &middot; [goodreads](http://www.goodreads.com/author/show/12531.Theodore_Sturgeon)
 &middot; [amazon](http://www.amazon.com/Theodore-Sturgeon/e/B000AP7VDY)
-  * <span class="btitle">[Steven Utley](http://en.wikipedia.org/wiki/Steven_Utley "employs a variety of literary techniques in recounting the adventures and misadventures of a scientific expedition in the Paleozoic Era and also addresses some implications of the "many-worlds" hypothesis in quantum physics")</span> (2013)
+  * <span class="stitle">[Steven Utley](http://en.wikipedia.org/wiki/Steven_Utley "employs a variety of literary techniques in recounting the adventures and misadventures of a scientific expedition in the Paleozoic Era and also addresses some implications of the "many-worlds" hypothesis in quantum physics")</span> (2013)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?247)
 &middot; [goodreads](http://www.goodreads.com/author/show/544860.Steven_Utley)
 &middot; [amazon](http://www.amazon.com/Steven-Utley/e/B0034NJAA6)
-  * <span class="btitle">[A.E. van Vogt](http://en.wikipedia.org/wiki/A._E._van_Vogt "regarded as one of the most popular, influential and complex[1] science fiction writers of the mid-twentieth century")</span> (2000)
+  * <span class="stitle">[A.E. van Vogt](http://en.wikipedia.org/wiki/A._E._van_Vogt "regarded as one of the most popular, influential and complex[1] science fiction writers of the mid-twentieth century")</span> (2000)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?58)
 &middot; [goodreads](http://www.goodreads.com/author/show/1293688.A_E_van_Vogt)
 &middot; [amazon](http://www.amazon.com/A.-E.-van-Vogt/e/B000AQ21WE)
@@ -430,22 +430,22 @@ Interlinear Greek-Hebrew-English Old Testament.
 
 * #### Catholic Social Teaching [^ellison14] {#catholicsocialteaching} 
 
-  * <span class="btitle">[Philippe Buchez](http://en.wikipedia.org/wiki/Philippe_Buchez "... French historian, sociologist, and politician. He was the founder of the newspaper, L'Atelier ...")</span> (1865)
-  * <span class="btitle">Charles-Francois Cheve (1875)</span>
-  * <span class="btitle">[William Cobbett](http://en.wikipedia.org/wiki/William_Cobbett)</span> (1835)
+  * <span class="stitle">[Philippe Buchez](http://en.wikipedia.org/wiki/Philippe_Buchez "... French historian, sociologist, and politician. He was the founder of the newspaper, L'Atelier ...")</span> (1865)
+  * <span class="stitle">Charles-Francois Cheve (1875)</span>
+  * <span class="stitle">[William Cobbett](http://en.wikipedia.org/wiki/William_Cobbett)</span> (1835)
 &middot; [quotes](http://en.wikiquote.org/wiki/William_Cobbett)
 &middot; [society](http://www.williamcobbett.org.uk/)
 &middot; [free books](http://manybooks.net/authors/cobbettw.html)
-  * <span class="btitle">[Richard Cobden](http://en.wikipedia.org/wiki/Richard_Cobden)</span> (1865)
+  * <span class="stitle">[Richard Cobden](http://en.wikipedia.org/wiki/Richard_Cobden)</span> (1865)
 &middot; [society](http://www.cobdencentre.org/)
 &middot; [archive.org](https://archive.org/details/politicalwritingimg01cobduoft)
-  * <span class="btitle">[Frédéric Ozanam](http://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Ozanam "... founded with fellow students the Conference of Charity, later known as the Society of Saint Vincent de Paul.")</span> (1853)
+  * <span class="stitle">[Frédéric Ozanam](http://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Ozanam "... founded with fellow students the Conference of Charity, later known as the Society of Saint Vincent de Paul.")</span> (1853)
 &middot; [quotes](http://vinformation.famvin.org/vincentian-formation-resources/prayers-celebrations-seasonal/door-of-faith-frederic-ozanam/)
 &middot; [50m video](http://vimeo.com/81188301 "... outlines the principles of Catholic social teaching and demonstrates that the writings and thoughts of Frederic Ozanam captured those ideals almost a century before...")
 &middot; [Letters](https://archive.org/details/lettersoffred00ozanuoft)
 &middot; [Bio](https://archive.org/details/fredericozanampr00omea)
 &middot; [St. Vincent](https://archive.org/details/lettersoffred00ozanuoft)
-  * <span class="btitle">[Vincent Pecci, Pope Leo XIII](http://en.wikipedia.org/wiki/Pope_Leo_XIII)</span> (1903)
+  * <span class="stitle">[Vincent Pecci, Pope Leo XIII](http://en.wikipedia.org/wiki/Pope_Leo_XIII)</span> (1903)
 &middot; [encyclopedia](http://www.newadvent.org/cathen/09169a.htm)
 &middot; [Rerum Novarum](http://en.wikipedia.org/wiki/Rerum_Novarum)
 
