@@ -77,7 +77,7 @@ redirect_from: "/readers/"
 ## International {#international}
 
 <a href="http://www.deboekenplank.nl/naslag/aut/l/lafferty_r.htm">
-  <img hspace="30" align="right" src="{{ site.baseurl }}/images/bruggehoofd_1971.jpg" title="de boekenplank">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/bruggehoofd_1971.jpg" title="de boekenplank" vspace="5">
 </a>
 
 * ####Dutch
@@ -85,7 +85,7 @@ redirect_from: "/readers/"
 <br><br><br>
 * #### French
 <a href="http://www.noosfere.org/icarus/livres/auteur.asp?NumAuteur=311">
-  <img hspace="30" align="right" src="{{ site.baseurl }}/images/tous-a-estrevin.jpg" title="noosfere" height="160">
+  <img hspace="30" align="right" src="{{ site.baseurl }}/images/tous-a-estrevin.jpg" title="noosfere" height="160" vspace="5">
 </a>
   * Bibliography: [noosfere](http://www.noosfere.org/icarus/livres/auteur.asp?NumAuteur=311) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=http%3A%2F%2Fwww.noosfere.org%2Ficarus%2Flivres%2Fauteur.asp%3FNumAuteur%3D311) --- &nbsp; [perso](http://web.archive.org/web/20030408031523/http://perso.wanadoo.fr/listes.sf/lafferty/bibliof.htm) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20030408031523%2Fhttp%3A%2F%2Fperso.wanadoo.fr%2Flistes.sf%2Flafferty%2Fbibliof.htm&edit-text=) --- &nbsp; [EoL](http://www.eastoflafferty.com/#!lafferty-bibliographie/c1fk "East of Laughter") [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.eastoflafferty.com%2F%23!lafferty-bibliographie%2Fc1fk&edit-text=) --- &nbsp; [wikipedia](http://fr.wikipedia.org/wiki/R._A._Lafferty) [&nbsp; &delta;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FR._A._Lafferty&edit-text=)
   * 2010, Les Quatriemes Demeures: [belial](http://www.belial.fr/blog/les-quatriemes-demeures "Fourth Mansions") [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.belial.fr%2Fblog%2Fles-quatriemes-demeures&edit-text=) --- &nbsp; [crepuscule](http://songes-du-crepuscule.naturalforum.net/t2239-les-quatriemes-demeures-raphael-aloysius-lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fsonges-du-crepuscule.naturalforum.net%2Ft2239-les-quatriemes-demeures-raphael-aloysius-lafferty&edit-text=)

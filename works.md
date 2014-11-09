@@ -32,6 +32,8 @@ redirect_from: "/writing/"
 * Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) 
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty) &middot; [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty) &middot; [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RALafferty)
 
+<br>
+<br>
 
 ## Short&nbsp;Stories {#shortstories}
 
@@ -137,7 +139,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[library](http://www.worldcat.org/title/lafferty-in-orbit/oclc/47089030?referer=di&ht=edition)
   &middot;&nbsp;[preview](http://books.google.com/books?id=Oyx5Fj2XsGAC&printsec=frontcover#v=onepage&q&f=false)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?19864)
-* <span class="btitle">Nine Hundred Grandmothers</span>
+* <span class="btitle">**Nine Hundred Grandmothers**</span>
   &middot; [Ted Gioia](http://conceptualfiction.com/nine_hundred_grandmothers.html) (2014)
   &middot;&nbsp;[Jed Hartman](http://www.sfsignal.com/archives/2010/06/mind_meld_what_single-author_short_fiction_collections_should_be_in_every_fans_library_2/#more-44295) (2010)
   &middot;&nbsp;[Bill Hader](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) (2008)
@@ -204,7 +206,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[library](http://www.worldcat.org/title/fourth-mansions/oclc/005950330)
   &middot; [preview](http://books.google.com/books?id=AJ1yVXoMfkoC&printsec=frontcover&dq=fourth+mansions&hl=en&sa=X&ei=3H47VPmeCIzLsATNi4KIBg&ved=0CCsQuwUwAA#v=onepage&q=fourth%20mansions&f=false) 
   &mdash;&nbsp;*1971 Nebula&nbsp;Nominee, Locus 5<sup>th</sup>* 
-* <span class="btitle">Okla Hannali</span>
+* <span class="btitle">**Okla Hannali**</span>
   &middot; [Josephine](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/) (2013)
   &middot;&nbsp;[Keith Purtell](http://www.keithpurtell.com/kthings/r-a-lafferty.htm) (1998)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/667700.Okla_Hannali#other_reviews "9 reviews")
@@ -268,23 +270,65 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=space+chantey)
   &middot;&nbsp;[library](http://www.worldcat.org/title/space-chantey/oclc/006027516)
   &mdash;&nbsp;*2006&nbsp;Seiun&nbsp;Nominee* 
+<br>
+<br>
 
 
-### Buy Books {#buybooks}
+---------------
+*Where can Lafferty's works be found?* 
 
-* [AddAll](http://used.addall.com/), International (Amazon, Abe, Biblio, Alibris, Powells & more)
+### Books in Print {#booksinprint}
+
+* <span class="btitle">Centipede Vol 2: The Man with the Aura</span>
+  &middot;&nbsp;[amazon](http://www.amazon.com/Collected-Short-Stories-Lafferty-Volume/dp/1613471092/)
+* <span class="btitle">Okla Hannali</span>
+  &middot; [Josephine](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/) (2013)
+  &middot;&nbsp;[Keith Purtell](http://www.keithpurtell.com/kthings/r-a-lafferty.htm) (1998)
+  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/667700.Okla_Hannali#other_reviews "9 reviews")
+  &middot;&nbsp;[amazon](http://www.amazon.com/Okla-Hannali-R-Lafferty/product-reviews/0806123494/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "16 reviews")
+  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=okla+hannali)
+  &middot;&nbsp;[excerpt](https://web.archive.org/web/20070927011811/http://www.prairienet.org/~almahu/hannali.htm) 
+  &middot;&nbsp;[library](http://www.worldcat.org/title/okla-hannali/oclc/000389556)
+  &middot;&nbsp;[preview](http://books.google.com/books?id=JEcdwFYa3boC&printsec=frontcover#v=onepage&q&f=false) 
+
+### Books out of Print {#booksoutofprint}
+
+* [AddAll](http://used.addall.com/), international metasearch:  Amazon, Abe, Biblio, Alibris, Powells & more
 * [Amazon](http://www.amazon.com/s/ref=la_B004LPUKIW_B004LPUKIW_sr?rh=i%3Abooks&field-author=R.A+Lafferty&sort=relevance&ie=UTF8&qid=1413013006)
-* [Antiqbook](http://www.antiqbook.com/search.php?action=search&&author=r.+a.+lafferty&page_num=1&sort_order=usd_price&sort_type=desc&submit=Sort+now)
-* [b. brown & Associates](http://www.bbrownandassoc.net/?&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
-* [Cold Tonnage](http://www.coldtonnage.com/?CLSN_3127=14130129523127d347f7707db112357e&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search), UK
-* [DreamHaven](http://www.dreamhavenbooks.com/search.php?quicksearch=lafferty&submit=SEARCH+%C2%BB)
-* [eBay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xr.a.+lafferty&_nkw=r.a.+lafferty&_sacat=0)
-* [Fantastic Fiction](http://www.fantasticfiction.co.uk/l/r-a-lafferty/)
-* [Fantastic Collectibles](http://oldsfbooks.com/pbhr.html)
-* [Half.com](http://search.half.ebay.com/r-a-lafferty_W0QQ_trksidZp3030Q2em1446Q2el2686QQqueryZrQ2eaQ2eQ20laffertyQQmZbooks)
-* [HPB](http://www.hpbmarketplace.com/search/books/author/R.-A.-Lafferty)
-* [L.W. Currey](http://www.lwcurrey.com/advSearchResults.php?action=search&orderBy=relevance&keywordsField=lafferty)
-* [MyUnicorn](http://www.myunicorn.com/cgi-bin/bookstore.cgi?ACTION=ENTER&ORDER_ID=!ORDERID!&thispage=page001.html)
-* [TomFolio Indie](http://www.tomfolio.com/SearchResults.asp?Title=&Aut=lafferty&Pub=&Key=&ISBN=&Att=&BID=0&PriceH=&PriceL=&SDate=0&memid=&catid=&subid=&Con=True&QkSrch=0&TightSrch=1&Ord=&page=1)
-* [WhiteUnicornBooks](http://www.whiteunicornbooks.com/?&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
-* [Ziesings](http://www.ziesings.com/advSearchResults.php?action=search&pageName=Search&category_id=0&authorField=&titleField=&orderBy=relevance&keywordsField=lafferty)
+  &middot; [eBay](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR11.TRC1.A0.H0.Xr.a.+lafferty&_nkw=r.a.+lafferty&_sacat=0)
+ &middot; [Half.com](http://search.half.ebay.com/r-a-lafferty_W0QQ_trksidZp3030Q2em1446Q2el2686QQqueryZrQ2eaQ2eQ20laffertyQQmZbooks)
+* Indie: [Antiqbook](http://www.antiqbook.com/search.php?action=search&&author=r.+a.+lafferty&page_num=1&sort_order=usd_price&sort_type=desc&submit=Sort+now)
+  &middot; [b. brown & Associates](http://www.bbrownandassoc.net/?&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
+  &middot; [Cold Tonnage (UK)](http://www.coldtonnage.com/?CLSN_3127=14130129523127d347f7707db112357e&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
+ &middot; [DreamHaven](http://www.dreamhavenbooks.com/search.php?quicksearch=lafferty&submit=SEARCH+%C2%BB)
+ &middot; [Fantastic Fiction](http://www.fantasticfiction.co.uk/l/r-a-lafferty/)
+ &middot; [Fantastic Collectibles](http://oldsfbooks.com/pbhr.html)
+ &middot; [HPB](http://www.hpbmarketplace.com/search/books/author/R.-A.-Lafferty)
+ &middot; [L.W. Currey](http://www.lwcurrey.com/advSearchResults.php?action=search&orderBy=relevance&keywordsField=lafferty)
+ &middot; [MyUnicorn](http://www.myunicorn.com/cgi-bin/bookstore.cgi?ACTION=ENTER&ORDER_ID=!ORDERID!&thispage=page001.html)
+ &middot; [TomFolio Indie](http://www.tomfolio.com/SearchResults.asp?Title=&Aut=lafferty&Pub=&Key=&ISBN=&Att=&BID=0&PriceH=&PriceL=&SDate=0&memid=&catid=&subid=&Con=True&QkSrch=0&TightSrch=1&Ord=&page=1)
+ &middot; [Tulsa Books](http://www.tulsabooksinc.com/?CLSN_2673=14155436112673bf50f2334359056340&keyword=r.a.+lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
+ &middot; [WhiteUnicornBooks](http://www.whiteunicornbooks.com/?&keyword=lafferty&searchby=author&page=shop%2Fbrowse&fsb=1&Search=Search)
+ &middot; [Ziesings](http://www.ziesings.com/advSearchResults.php?action=search&pageName=Search&category_id=0&authorField=&titleField=&orderBy=relevance&keywordsField=lafferty)
+
+### Archives {#archives}
+
+
+<ul style="list-style-type: none;">
+<li><i class="fa fa-paypal"></i> &nbsp;
+<a href="http://lsff.net">Make a Donation</a> --- to Locus Foundation, literary custodian for R.A. Lafferty
+<li><i class="fa fa-search"></i> &nbsp;
+<a href="https://www.google.com/search?&q=r.a.+lafferty+%22the%20man%20who%20talled%20tales%22">Short Stories</a> &mdash; <a href="https://www.google.com/search?&q=r.a.+lafferty+%22science+fiction+novels+and+stories%22">Novels</a>
+</li>
+<li><i class="fa fa-bank"></i> &nbsp;
+<a href="http://www.torontopubliclibrary.ca/search.jsp?N=38532&Ntt=r.+a.+lafferty">Merril Collection of Science Fiction</a>, <a href="http://www.torontopubliclibrary.ca/merril/">Toronto, Canada</a>
+</li>
+<li><i class="fa fa-bank"></i> &nbsp;
+<a href="http://catalog.loc.gov/vwebv/search?searchArg=r.a.+lafferty&searchCode=GKEY^*&searchType=0&recCount=25&sk=en_US"> Library of Congress</a>, Washington, DC, USA
+</li>
+<li><i class="fa fa-bank"></i> &nbsp;
+<a href="http://www.utulsa.edu/mcfarlin/speccoll/collections/lafferty">McFarlin Research Library</a>, University of Tulsa, Oklahoma, USA
+</li>
+</ul>
+
+
