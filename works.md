@@ -314,7 +314,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 
 <ul style="list-style-type: none;">
 <li><i class="fa fa-paypal"></i> &nbsp;
-<a href="http://lsff.net">Make a Donation</a> --- to Locus Foundation, literary custodian for R.A. Lafferty
+<a href="http://lsff.net">Make a Donation</a> &mdash; to Locus Foundation, literary custodian for R.A. Lafferty
 <li><i class="fa fa-search"></i> &nbsp;
 <a href="https://www.google.com/search?&q=r.a.+lafferty+%22the%20man%20who%20talled%20tales%22">Short Stories</a> &mdash; <a href="https://www.google.com/search?&q=r.a.+lafferty+%22science+fiction+novels+and+stories%22">Novels</a>
 </li>
