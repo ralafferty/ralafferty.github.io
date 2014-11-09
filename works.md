@@ -322,10 +322,10 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 <a href="http://www.torontopubliclibrary.ca/search.jsp?N=38532&Ntt=r.+a.+lafferty">Merril Collection of Science Fiction</a>, <a href="http://www.torontopubliclibrary.ca/merril/">Toronto, Canada</a>
 </li>
 <li><i class="fa fa-bank"></i> &nbsp;
-<a href="http://catalog.loc.gov/vwebv/search?searchArg=r.a.+lafferty&searchCode=GKEY^*&searchType=0&recCount=25&sk=en_US"> Library of Congress</a>, Washington, DC, USA
+<a href="http://www.utulsa.edu/mcfarlin/speccoll/collections/lafferty">McFarlin Research Library</a>, University of Tulsa, Oklahoma, USA
 </li>
 <li><i class="fa fa-bank"></i> &nbsp;
-<a href="http://www.utulsa.edu/mcfarlin/speccoll/collections/lafferty">McFarlin Research Library</a>, University of Tulsa, Oklahoma, USA
+<a href="http://catalog.loc.gov/vwebv/search?searchArg=r.a.+lafferty&searchCode=GKEY^*&searchType=0&recCount=25&sk=en_US"> Library of Congress</a>, Washington, DC, USA
 </li>
 </ul>
 
