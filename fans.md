@@ -82,7 +82,7 @@ redirect_from: "/readers/"
 
 * ####Dutch
   * Bibliography: [de boekenplank](http://www.deboekenplank.nl/naslag/aut/l/lafferty_r.htm) [&nbsp; &delta; &nbsp;](http://translate.google.com/translate?hl=en&sl=nl&u=http://www.deboekenplank.nl/naslag/aut/l/lafferty_r.htm&prev=/search%3Fq%3Dra%2Blafferty%26lr%3Dlang_nl%26hl%3Den%26as_qdr%3Dall%26tbs%3Dlr:lang_1nl) --- &nbsp; [wikipedia](http://nl.wikipedia.org/wiki/R.A._Lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=nl&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FR.A._Lafferty&edit-text=)
-<br><br>
+<br><br><br>
 * #### French
 <a href="http://www.noosfere.org/icarus/livres/auteur.asp?NumAuteur=311">
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/tous-a-estrevin.jpg" title="noosfere" height="160">
@@ -91,7 +91,7 @@ redirect_from: "/readers/"
   * 2010, Les Quatriemes Demeures: [belial](http://www.belial.fr/blog/les-quatriemes-demeures "Fourth Mansions") [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.belial.fr%2Fblog%2Fles-quatriemes-demeures&edit-text=) --- &nbsp; [crepuscule](http://songes-du-crepuscule.naturalforum.net/t2239-les-quatriemes-demeures-raphael-aloysius-lafferty) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fsonges-du-crepuscule.naturalforum.net%2Ft2239-les-quatriemes-demeures-raphael-aloysius-lafferty&edit-text=)
   * 2003, [listes.sf Biography](http://web.archive.org/web/20030408031523/http://perso.wanadoo.fr/listes.sf/lafferty/bio.htm) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20030408031523%2Fhttp%3A%2F%2Fperso.wanadoo.fr%2Flistes.sf%2Flafferty%2Fbio.htm&edit-text=) 
   * [East of Lafferty](http://www.eastoflafferty.com/) [&nbsp; &delta; &nbsp;](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.eastoflafferty.com%2F&edit-text=)
-<br>
+<br><br>
 * #### Japanese
 <a href="http://ralafferty.tumblr.com/post/101900921217/hayakawa-sf-lafferty-centennial-issue">
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/hayakawa-sf.jpg" title="Hayakawa SF Lafferty Centennial - 2014" width="96">
