@@ -5,8 +5,10 @@ weight: 4
 seo_description: Critiques of the literature and science fiction of R.A. Lafferty, with topics including mythology, ancient history, technology, philosophy, magic and mystery.
 ---
 
-<img hspace="10" height="135" align="right" src="{{ site.baseurl }}/images/wm-pd-boy-writing.jpg">
-<br>
+
+<a href="http://manybooks.net/authors/laffertyr.html">
+  <img hspace="30" align="right" title="Project Gutenberg ebooks" src="{{ site.baseurl }}/images/readers.jpg" height="120">
+</a>
 
 ### Blog Posts
 
