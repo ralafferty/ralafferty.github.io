@@ -7,7 +7,7 @@ seo_description: Critiques of the literature and science fiction of R.A. Laffert
 
 
 <a href="http://manybooks.net/authors/laffertyr.html">
-  <img hspace="30" align="right" title="Project Gutenberg ebooks" src="{{ site.baseurl }}/images/readers.jpg" height="120">
+  <img hspace="30" align="right" title="Project Gutenberg ebooks" src="{{ site.baseurl }}/images/readers.jpg" height="110">
 </a>
 
 ### Blog Posts
