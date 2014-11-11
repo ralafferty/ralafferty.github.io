@@ -13,11 +13,19 @@ redirect_from: "/readers/"
 
 > "In its flexibility and in its wide-open opportunities, this is the total Utopia. Anything that you can conceive of, you can do in this non-world. Nothing can stop you except a total bankruptcy of creativity. The seedbed is waiting. All the circumstances stand ready. The fructifying minerals are literally jumping out of the ground. And nothing grows. And nothing grows. And nothing grows. Well, why doesn't it? " ---[R.A.&nbsp;Lafferty](http://en.wikiquote.org/wiki/R._A._Lafferty)
 
-## Pastiche {#pastiche}
+## Social {#social}
 
 <a href="http://feastoflaughter.org">
   <img hspace="30" align="right" src="{{ site.baseurl }}/images/daysofgrass-lisanne-lake.jpg" title="Feast of Laughter 1 - Ktistec Press - 2014" height="197">
 </a>
+
+* Facebook: group, [East of Laughter](https://www.facebook.com/groups/eastoflaughter/) &middot; page, [ralaffertyfans](https://www.facebook.com/ralaffertyfans) &middot;&nbsp;fanzine,&nbsp;[Feast of Laughter](http://feastoflaughter.org)
+* Blogs: [index of posts](/blogs) (2006-2014)
+* Twitter: search, [R.A. Lafferty](https://twitter.com/search?q=r.a.%20lafferty&src=typd) &middot; [#RALafferty](https://twitter.com/hashtag/RALafferty?src=hash) &middot; quotes,&nbsp;[@RALaffertyTweet](https://twitter.com/RALaffertyTweet)
+* Forums: [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL/messageboard/viewforum.php?f=1) &middot; [Vault of Evil](http://vaultofevil.proboards.com/thread/4740/lafferty) &middot;&nbsp;[Forum&nbsp;Romanum](http://5622.forumromanum.com/member/forum/forum.php?action=std_tindex&USER=user_5622&onsearch=1&threadid=2)&nbsp;(2003)
+* Disqus: [John Ellison](https://disqus.com/home/user/johnellison)
+
+## Pastiche {#pastiche}
 
 * 2011, <span class="stitle">Sunbird</span>, [Neil Gaiman](http://www.newyorker.com/magazine/2010/01/25/kid-goth) 
   &middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?460731)
@@ -54,16 +62,8 @@ redirect_from: "/readers/"
   * 2010, [Epiktistes The Ktistec Machine](http://aegiandyad.deviantart.com/art/Epiktistes-The-Ktistec-Machine-161498193), aegiandyad
   * 2009, [Assault on Fat Mountain](http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681), QuantumBranching
 
-## Social {#social}
-
-* Facebook, Group: [East of Laughter](https://www.facebook.com/groups/586744968045210/) &middot; Page: [ralaffertyfans](https://www.facebook.com/ralaffertyfans)
-* Forums, [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL/messageboard/viewforum.php?f=1) &middot; [Vault of Evil](http://vaultofevil.proboards.com/thread/4740/lafferty) &middot; [Forum Romanum](http://5622.forumromanum.com/member/forum/forum.php?action=std_tindex&USER=user_5622&onsearch=1&threadid=2) (2003)
-* Twitter, Search: [R.A. Lafferty](https://twitter.com/search?q=r.a.%20lafferty&src=typd) &middot; [#RALafferty](https://twitter.com/hashtag/RALafferty?src=hash) &middot; Lafferty Quotes: [@RALaffertyTweet](https://twitter.com/RALaffertyTweet)
-* Disqus, [John Ellison](https://disqus.com/home/user/johnellison)
-
 ## English {#english}
 
-* [Index of Blog Posts](/blogs)
 * [Continued on Next Rock](http://ralafferty.tumblr.com) &middot; [Writing](http://ralafferty.tumblr.com/post/74655381463/how-lafferty-wrote) &middot; [Contest](http://news.virginia.edu/node/18066?id=18066) &middot; [Thesis](http://www.academia.edu/329007/Lafferty_and_His_World) &middot; [Wiki](http://lafferty.wikidot.com/), Andrew Ferguson, USA
 * [Futuramen](http://www.lawrenceperson.com/?tag=r-a-lafferty), Lawrence Person, USA
 * [Hieronymopolis](http://hieronymopolis.wordpress.com/category/laffertyana/)
