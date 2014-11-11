@@ -23,7 +23,7 @@ English-language discussion about the literature of R.&nbsp;A.&nbsp;Lafferty.
   <tr>
     <td><img src="{{ blog.image }}" width="40" title="{{ blog.author }}"></td>
     <td><a href="{{ blog.link }}">{{ blog.title }}</a></td>
-    <td width="120" style="color:gray;" valign="top">{{ blog.date }}</td>
+    <td width="120" style="color:gray;">{{ blog.date }}</td>
   </tr>
 {% endfor %}
 </table>
