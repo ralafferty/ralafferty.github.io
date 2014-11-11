@@ -5,9 +5,12 @@ weight: 4
 seo_description: Critiques of the literature and science fiction of R.A. Lafferty, with topics including mythology, ancient history, technology, philosophy, magic and mystery.
 ---
 
+<img hspace="10" height="135" align="right" src="{{ site.baseurl }}/images/wm-pd-boy-writing.jpg">
+<br>
+
 ### Blog Posts
 
-English-language discussion about the literature of R. A. Lafferty. 
+English-language discussion about the literature of R.&nbsp;A.&nbsp;Lafferty. 
 <br>
 <br>
 
