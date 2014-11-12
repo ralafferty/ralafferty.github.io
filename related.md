@@ -193,6 +193,12 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/15923.Georges_Perec)
 &middot; [amazon](http://www.amazon.com/Georges-Perec/e/B000APSLFG)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22georges+perec%22 "8k results")
+  * <span class="stitle">[Richard Brautigan](https://en.wikipedia.org/wiki/Richard_Brautigan "...his work often employs black comedy, parody, and satire. He is best known for his 1967 novel Trout Fishing in America.") (1984)</span>
+&middot; [bio](http://www.poetryfoundation.org/bio/richard-brautigan)
+&middot; [fansite](http://www.brautigan.net)
+&middot; [goodreads](http://www.goodreads.com/author/show/7970.Richard_Brautigan)
+&middot; [amazon](http://www.amazon.com/Richard-Brautigan/e/B000AQ48CA)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22richard+brautigan%22 "8k results")
   * <span class="stitle">[Michael Bishop](http://en.wikipedia.org/wiki/Michael_Bishop_%28author%29 "...created a "body of work that stands among the most admired and influential in modern science fiction and fantasy literature".")</span>
 &middot; [quotes](http://en.wikiquote.org/wiki/Michael_Bishop)
 &middot; [official](http://www.sondheimguide.com/bishop/bishop.htm)
@@ -234,6 +240,8 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](https://www.goodreads.com/author/show/466971.Ray_Vukcevich)
 &middot; [amazon](http://www.amazon.com/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3ARay%20Vukcevich)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22ray+vukcevich%22 "2k results")
+
+
 
 
 <br>
