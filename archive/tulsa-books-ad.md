@@ -20,7 +20,7 @@ Many of his books had contact tape on their spine (see photo).
 
 Have you seen a Lafferty-owned book in Tulsa, OK?  
 
-Please email <a href="mailto:tulsabook@ralafferty.org">tulsabook@ralafferty.org</a> or comment, with:
+Please email <a href="mailto:tulsabook@ralafferty.org">tulsabook@ralafferty.org</a> or comment below:
 
  * *Book*: title, author
  * *Annotation*: signature, label on spine, ..?
