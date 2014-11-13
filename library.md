@@ -19,7 +19,7 @@ Keith Purtell (who took the above photo in 1998) [described the library](http://
 
 > "Ray opened a plain door and I followed him between two long book shelves that towered above my head. They ran most the length of the room, leaving only enough space for a left turn near the far wall. The shelves were packed with hundreds of books. We turned left and I saw another narrow corridor framed by high, full book shelves on the right and several book-lined avenues radiating off to the left, each disappearing into dim recesses. We walked straight along the wall to the far corner and made another left turn, whereupon our final destination was in sight; Ray's "office." He told me this was where he did all his writing. He gestured to a rickety little table and a manual typewriter. A simple gooseneck lamp hovered expectantly over the typewriter."
 
-It appears that no inventory was taken of Lafferty's personal library before it was dismantled.  However, some of his letters and interviews included commentary on books.  As these are identified, they will be added to this page, along with a Lafferty quote if available.
+It appears that no inventory was taken of Lafferty's personal library before it was dismantled.  However, some of his letters and interviews included commentary on books.  As these are [identified](/tulsa-books), they will be added to this page, along with a Lafferty quote if available.
 
 -----
 
