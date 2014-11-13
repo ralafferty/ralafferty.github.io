@@ -5,7 +5,7 @@ permalink: /ad/tulsa-books/
 weight: 4
 ---
 
-<img src="{{site.baseurl }}/images/lafferty-cg.jpg">
+<img src="{{site.baseurl }}/images/lafferty-cg.jpg" height="280">
 
 <br>
 R. A. Lafferty was a [Tulsa science-fiction writer](http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete) who wrote more than 200 stories and 20 novels. 
