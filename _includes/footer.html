@@ -10,12 +10,12 @@
 
           <li>
         	{% for page in sortedpages %}
-				{% if page.title %}
+				{% if page.site_menu %}
           			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 				{% endif %}
 
 
-				{% if forloop.last == false and page.title %}
+				{% if forloop.last == false and page.site_menu %}
 					&nbsp;&mdash;&nbsp; 
 				{% endif %}
 
