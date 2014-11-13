@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Save Tulsa Literary History!
+seo_description: Science-fiction writer Lafferty's lost Tulsa books are critical for literary scholars. Have you seen a Lafferty-owned book from Tulsa?
 permalink: /tulsa-books/
 weight: 4
 ---
