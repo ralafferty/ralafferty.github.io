@@ -8,7 +8,7 @@ weight: 4
 <img src="{{site.baseurl }}/images/lafferty-cg.jpg" height="280">
 
 <br>
-R. A. Lafferty was a [Tulsa science-fiction writer](http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete) who wrote more than 200 stories and 20 novels. 
+R. A. Lafferty was a [Tulsa science-fiction writer](http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete) who wrote more than 200 stories and 20 novels.  
 
 Hailed as a [genius](/#quotes) by his peers, no one has since matched his unique writing style.
 
@@ -18,7 +18,7 @@ The names of Lafferty's lost books are important to literary scholars.
 
 Many of his books had contact tape on their spine (see photo).
 
-Have you seen a Lafferty-owned book in Tulsa, OK?  
+**Have you seen a Lafferty-owned book from Tulsa?**
 
 Please email <a href="mailto:tulsabooks@ralafferty.org">tulsabooks@ralafferty.org</a> or comment below:
 
