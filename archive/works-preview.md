@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /test/works-preview/
+title: Explore
 noindex: true
 weight: 4
 redirect_from: "/works-preview/"
@@ -125,13 +126,21 @@ function reset_filter ()
 	{
 		var el =  items[i];
 		var tagspan = el.getElementsByClassName ( 'work-tags' );
-		tagspan[0].innerHTML = '';
+		var init = 0;
 
 		for (var j=0; j < el.classList.length; j++)
 		{
 			var testClass = el.classList.item(j);
 			if ( testClass != 'work-li') 
+			{
+				if (!init)
+				{
+					init = 1;
+					tagspan[0].innerHTML = '<i style="color:#ADADAD;" class="fa fa-tag"></i> &nbsp;';
+				}
+				
 				tagspan[0].innerHTML += '<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a> ';
+			}
 		}
 		el.style.display = '';
 	}
@@ -179,14 +188,20 @@ function f_subset( className )
 		else
 		{
 			var tagspan = el.getElementsByClassName ( 'work-tags' );
-			tagspan[0].innerHTML = '';
+			var init = 0;
 
 			for (var j=0; j < el.classList.length; j++)
 			{
 				var testClass = el.classList.item(j);
-
 				if ( testClass != 'work-li' && testClass != className )
+				{
+					if (!init)
+					{
+						init = 1;
+						tagspan[0].innerHTML = '<i style="color:#ADADAD;" class="fa fa-tag"></i> &nbsp;';
+					}
 					tagspan[0].innerHTML += '<a id="' + testClass + '" href="javascript:void(0);" onclick="f_subset(' + "'" + testClass + "'" + ');" class="work-menu">' + a_tags [ testClass ] + '</a> ';
+				}
 			}
 			el.style.display = '';
 		}
@@ -230,7 +245,6 @@ function toggle_span( className )
 	u_config.span [className] = es.display == 'none' ? 0 : 1;
 
 	var text = document.getElementById( 'menu-' + className);
-	/* text.style.textDecoration = u_config.span [className]? 'underline' : 'none'; */
 	text.classList.toggle('pure-button-active');
 
 	store.set ( APIver + 'config' , u_config );
@@ -240,7 +254,9 @@ function toggle_span( className )
 function display_span (className, arg)
 {
 	var text  = document.getElementById( 'menu-' + className );
-	/* text.style.textDecoration = arg? 'underline' : 'none'; */
+
+	if ( !text )
+		return false;
 	if (arg)
 		text.classList.add('pure-button-active');
 	else
@@ -294,29 +310,26 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 
 </script>
 
+## The Short Stories of R. A. Lafferty
+
 <div>
-
-<button class="button-small pure-button" id="menu-work-tags" onClick="toggle_span('work-tags');"><i class="fa fa-tag"></i> Tags</button>
+<b>Toggle On/Off:&nbsp;</b>
+<button class="button-small pure-button" id="menu-work-tags" onClick="toggle_span('work-tags');"><i style="color:#ADADAD;" class="fa fa-tag"></i> Tags</button>
 &nbsp;&nbsp;
-<button class="button-small pure-button"  id="menu-work-award" href="javascript:void(0);" onClick="toggle_span('work-award');"><i class="fa fa-trophy"></i> Awards</button>
+<button class="button-small pure-button" id="menu-work-review" href="javascript:void(0);" onClick="toggle_span('work-review');"><i style="color:#ADADAD;" class="fa fa-thumbs-up"></i> Reviews</button>
 &nbsp;&nbsp;
-<button class="button-small pure-button" id="menu-work-review" href="javascript:void(0);" onClick="toggle_span('work-review');"><i class="fa fa-thumbs-up"></i> Reviews</button>
-&nbsp;&nbsp;
-<button class="button-small pure-button" id="menu-work-search" href="javascript:void(0);" onClick="toggle_span('work-search');"><i class="fa fa-search"></i> Search</button>
-&nbsp;&nbsp;
-<button class="button-small pure-button" id="menu-work-annote" href="javascript:void(0);" onClick="toggle_span('work-annote');"><i class="fa fa-star"></i> Star</button>
+<button class="button-small pure-button" id="menu-work-annote" href="javascript:void(0);" onClick="toggle_span('work-annote');"><i style="color:#ADADAD;" class="fa fa-star"></i> Star</button>
 
 <br>
 <br>
-
-<b>Show:</b>
+<b>Filter by Tag:</b>
 <a id="all" class='work-menu' href="javascript:void(0);" onclick="reset_filter();">&nbsp;ALL STORIES&nbsp;</a> 
 
 <span id="alltags">
 {% for tag in site.data.reviewer-tags.tag %}
 	{% for definition in tag.definition %}
 	&nbsp;<a id="{{ definition.id }}" href="javascript:void(0);" onclick="f_subset('{{ definition.id }}');"  
-		class='work-menu' title="{{ definition.detail }}">#{{ definition.title }}</a>
+		class='work-menu' title="{{ definition.detail }}">&middot;&nbsp;{{ definition.title }}</a>
 	{% endfor %}
 {% endfor %}
 </span>
@@ -341,9 +354,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 					{% endfor %}
 				">
 
-				<img id="img-{{ story.id }}" style="display:none" class="work-annote" onClick="f_star(this);" src="{{ base.siteurl }}/images/star-empty.png">
-
-				&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;
+				&nbsp;&nbsp;
 				<span class="btitle">
 					{% if story_details.excerpt %}
 						<a href="javascript:void(0);" onclick="toggle_story(this);">
@@ -356,54 +367,85 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 					{% endif %}
 				</span>
 
-				({{ story_details.year }})
-
-				<span style="display:none" class="work-search">
 				{% if story.isfdb %}
-					&middot; <a href="{{ story.isfdb }}">isfdb</a>
+					(<a href="{{ story.isfdb }}">{{ story_details.year }}</a>)
+				{% else %}
+					({{ story_details.year }})
 				{% endif %}
-				{% if story.uchronia %}
-					&middot; <a href="{{ story.uchronia }}">uchronia</a>
-				{% endif %}
-				{% if story.search %}
-					&middot; <a href="{{ story.search }}">search</a>
-				{% endif %}
-				</span>
 
-				<span style="display: none" class="work-review">
+				&nbsp;&nbsp;&nbsp;&nbsp;
+				<img id="img-{{ story.id }}" style="display:none" class="work-annote" onClick="f_star(this);" src="{{ base.siteurl }}/images/star-empty.png">
+
 	  			{% for review in story.reviews %}
 					{% for review_details in site.data.reviews.reviews %}
 						{% if review.id == review_details.id %}
+							{% if review_details.summary %}
+								<ul style="display: none;" class="work-review taglist">
+								<em>{{ review_details.summary }}
+								<br>&nbsp;&nbsp;&nbsp;
+								{{ review_details.rating }}
+								&mdash;
+								{% for reviewer in site.data.reviewers.reviewers %}
+									{% if reviewer.id == review_details.reviewer %}
+										{{ reviewer.name }}, {{ review_details.year }}
+									{% endif %}
+								{% endfor %}
+								</em></ul>
+							{% endif %}
+
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+
+				{% if story_details.excerpt %}
+				<ul style="display:none" class="work-summary"><blockquote>
+					{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
+					"{{ story_details.excerpt }}" &nbsp;&mdash;R. A. Lafferty
+				</blockquote></ul>
+				{% endif %}
+
+				<ul class="work-award taglist">
+				{% for award in story_details.awards %}
+					{% if forloop.first %} 
+					<i style="color:#ADADAD;" class="fa fa-trophy"></i> &nbsp;
+					{% endif %}
+					&middot; {{ award.year }} {{ award.award }} {{ award.place }}
+					{% if forloop.last %}{% else %}&nbsp;&nbsp;{% endif %}
+				{% endfor %}
+				</ul>
+
+				<ul class="work-review taglist">
+
+	  			{% for review in story.reviews %}
+						{% if forloop.first %} 
+							{% assign hdr = '1' %}
+						{% endif %}
+					{% for review_details in site.data.reviews.reviews %}
+
+						{% if review.id == review_details.id %}
+						{% if review_details.url %}
+
+						{% if hdr == '1' %}
+							<i style="color:#ADADAD;" class="fa fa-thumbs-up"></i> &nbsp;
+							{% assign hdr = '0' %}
+						{% endif %}
+
 						&middot; <a href="{{ review_details.url }}">
 	  					{% for reviewer in site.data.reviewers.reviewers %}
 							{% if reviewer.id == review_details.reviewer %}
 								{{ reviewer.name }}
 							{% endif %}
 	  					{% endfor %}
-						</a> ({{ review_details.year }})
+						</a> ({{ review_details.year }}) &nbsp;
+						{% endif %}
 						{% endif %}
 					{% endfor %}
 				{% endfor %}
-				</span>
-
-				<span style="display: none;" class="work-award">
-				{% for award in story_details.awards %}
-					{% if forloop.first %}&mdash;<i>{% endif %}
-					{{ award.year }} {{ award.award }} {{ award.place }}
-					{% if forloop.last %}</i>{% else %},{% endif %}
-				{% endfor %}
-				</span>
+				</ul>
 
 				<ul class="taglist" style="list-style-type: none;">
 					<li id="work-tags" class="work-tags">
 				</li></ul>
-
-				{% if story_details.excerpt %}
-				<ul style="display:none" class="work-summary"><blockquote>
-					{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
-					"{{ story_details.excerpt }}"
-				</blockquote></ul>
-				{% endif %}
 
 			{% endif %}
   		{% endfor %}

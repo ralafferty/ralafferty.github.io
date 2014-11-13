@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+site_menu: true
 permalink: /about/
 weight: 70
 ---

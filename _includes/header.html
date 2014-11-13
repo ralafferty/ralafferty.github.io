@@ -18,7 +18,7 @@
 
       <div class="trigger">
         {% for page in sortedpages %}
-          {% if page.title %}
+          {% if page.site_menu %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}

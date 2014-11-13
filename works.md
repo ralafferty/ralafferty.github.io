@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Works
+site_menu: true
 seo_description: R.A. Lafferty wrote 200+ short stories and 20+ novels, on science, history, mythology, philosophy, technology, space/time travel, dystopias, magic and mystery.
 permalink: /works/
 weight: 5

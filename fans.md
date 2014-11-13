@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fans
+site_menu: true
 permalink: /fans/
 weight: 15
 redirect_from: "/readers/"

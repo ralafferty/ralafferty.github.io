@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Biography
+site_menu: true
 permalink: /biography/
 weight: 10
 redirect_from: /tributes/

@@ -7,7 +7,7 @@
 	<meta name="robots" content="noindex" />
     {% endif %}
 
-    <title>{% if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ site.title }} - {{ page.title }} - {{ site.banner }}{% else %}{{ site.title }} - {{ site.banner }}{% endif %}</title>
     <meta name="description" content="{% if page.seo_description %}{{ page.seo_description }}{% else %}{{ site.seo_description }}{% endif %}">
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">

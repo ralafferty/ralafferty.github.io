@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Related
+site_menu: true
 permalink: /related/
 weight: 60
 redirect_from: "/others/"

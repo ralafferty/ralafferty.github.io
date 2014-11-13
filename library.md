@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Library
+site_menu: true
 permalink: /library/
 weight: 55
 ---

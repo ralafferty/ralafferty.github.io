@@ -61,5 +61,21 @@
 		"url":"http://ralafferty.tumblr.com/post/57501490930/55-rainbird",
 		"year":"2013",
 	},
+	{
+		"id":"2014-vjbayne-jack",
+		"reviewer":"vjbayne",
+		"year":"2014",
+		"license":"CC-BY-4.0",
+		"rating":"8/10",
+		"summary":"Humanity stands on the cusp of its next mutation. We observe as the absurd unfolds in a small diner along with a scientist and a chimp who knows a lot about probability.",
+	},
+	{
+		"id":"2014-vjbayne-words",
+		"reviewer":"vjbayne",
+		"year":"2014",
+		"license":"CC-BY-4.0",
+		"rating":"6/10",
+		"summary":"Scientists hard at work on a machine that will connect all forms of language have a breakthrough when they make contact with an eager-to-communicate extra-terrestrial.",
+	},
    ]
 }
