@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Save Tulsa Literary History!
-permalink: /ad/tulsa-books/
+permalink: /tulsa-books/
 weight: 4
 ---
 
