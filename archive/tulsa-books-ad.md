@@ -23,7 +23,7 @@ Many of his books had contact tape on their spine (see photo).
 Please email <a href="mailto:tulsabooks@ralafferty.org">tulsabooks@ralafferty.org</a> or comment below:
 
  * *Book*: title, author
- * *Annotation*: signature, label on spine, ..?
+ * *Annotation*: signature, label on spine
  * *Edition*: publisher, date
  * *Purchase*: year, month 
 
