@@ -21,6 +21,7 @@ redirect_from: /tributes/
 * [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
 * [listes.sf](http://web.archive.org/web/20030408031523/http://perso.wanadoo.fr/listes.sf/lafferty/bio.htm) (French), [translation](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20030408031523%2Fhttp%3A%2F%2Fperso.wanadoo.fr%2Flistes.sf%2Flafferty%2Fbio.htm&edit-text=) 
 * [Lafferty and His World](http://www.academia.edu/329007/Lafferty_and_His_World), Andrew Ferguson
+* [How Lafferty Wrote](http://ralafferty.tumblr.com/post/74655381463/how-lafferty-wrote), Andrew Ferguson
 
 
 ## Tributes {#tributes}
