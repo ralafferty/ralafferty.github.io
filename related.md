@@ -129,7 +129,7 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [quotes](http://en.wikiquote.org/wiki/Philip_K._Dick)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?23)
 &middot; [sfe](http://www.sf-encyclopedia.com/entry/dick_philip_k)
-&middot; [fans](http://www.philipkdickfans.com/)
+&middot; [fansite](http://www.philipkdickfans.com/)
 &middot; [goodreads](http://www.goodreads.com/author/show/4764.Philip_K_Dick)
 &middot; [amazon](http://www.amazon.com/Philip-K.-Dick/e/B00BRTKOEA)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22philip+k.+dick%22 "19k results")
@@ -139,6 +139,13 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/126502.Michael_Flynn)
 &middot; [amazon](http://www.amazon.com/Michael-Flynn/e/B000APBAJA)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22michael+flynn%22 "18k results")
+  * <span class="stitle">[Franz Kafka](http://en.wikipedia.org/wiki/Franz_Kafka "... a German-language writer of novels and short stories, regarded by critics as one of the most influential authors of the 20th century. ")</span>
+&middot; [fansite](http://www.kafka.org/)
+&middot; [fansite](http://www.kafka-online.info/)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?15578)
+&middot; [goodreads](http://www.goodreads.com/author/show/5223.Franz_Kafka)
+&middot; [amazon](http://www.amazon.com/Franz-Kafka/e/B002DPABLS)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22franz+kafka%22 "17k results")
   * <span class="stitle">[Gabriel García Márquez](http://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez "...was a Colombian novelist, short-story writer, screenwriter and journalist... Considered one of the most significant authors of the 20th century, he was awarded the 1972 Neustadt International Prize for Literature and the 1982 Nobel Prize in Literature.")</span> (2014)
 &middot; [quotes](http://en.wikiquote.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)
 &middot; [themodernword](http://www.themodernword.com/gabo/)
@@ -241,6 +248,7 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](https://www.goodreads.com/author/show/466971.Ray_Vukcevich)
 &middot; [amazon](http://www.amazon.com/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3ARay%20Vukcevich)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22ray+vukcevich%22 "2k results")
+
 
 
 
