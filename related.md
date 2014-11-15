@@ -289,7 +289,7 @@ and the list of [writers cited](../library/#writerscited) by R. A. Lafferty.
 * [Chris Drumm](http://www.isfdb.org/cgi-bin/publisher.cgi?938) &middot; [Notes on Lafferty Estate Sale](http://cdrumm.blogspot.com/2011/03/new-directions-lafferty-developments.html) (2011)
 * Dan Knight, [United Mythologies Press](http://www.isfdb.org/cgi-bin/publisher.cgi?454) 
 &middot; [Fellowship](http://hieronymopolis.wordpress.com/2012/03/11/dan-knights-introduction-to-the-first-issue-of-his-short-lived-extremely-scarce-and-very-awesome-magazine-in-tribute-to-r-a-lafferty-the-boomer-flats-gazette/) (1991)
-&middot; [Catalog](/archive/ump-usenet.txt) (1992)
+&middot; [Catalog](/archive/1992/ump-usenet.txt) (1992)
 * Greg Ketter, [Corroboree Press](http://www.isfdb.org/cgi-bin/publisher.cgi?1544)
 * [John Betancourt](https://www.sfsite.com/10b/jb138.htm), [Wildside Press](http://www.isfdb.org/cgi-bin/publisher.cgi?140) &middot; [Michael Swanwick](http://www.michaelswanwick.com/auth/squalidansw.html)
 * Steve Pasechnick, [Edgewood Press](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
