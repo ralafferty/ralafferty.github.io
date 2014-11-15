@@ -46,6 +46,7 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [amazon](http://www.amazon.com/Robert-Sheckley/e/B000APB2K2)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22robert+sheckley%22 "64k results")
   * <span class="stitle">[Alfred Bester](http://en.wikipedia.org/wiki/Alfred_Bester "...was an American science fiction author, TV and radio scriptwriter, magazine editor and scripter for comic strips and comic books.")</span> (1987)
+&middot; [interview](http://www.challzine.net/25/25alfie.html)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?6)
 &middot; [sfe](http://www.sf-encyclopedia.com/entry/bester_alfred)
 &middot; [goodreads](http://www.goodreads.com/author/show/10992.Alfred_Bester)
