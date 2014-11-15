@@ -34,7 +34,7 @@ redirect_from: /tributes/
 * 2012, [Secret Crocodiles and Strange Doings](https://grantvillegazette.com/wp/article/publish-516/), Bud Webster
 * 2011, [Saved from Drowning](http://floggingbabel.blogspot.com/2011/04/r-lafferty-saved-from-drowning.html), Michael Swanwick
 * 2011, [An Attempt at an Appreciation](http://www.blackgate.com/2011/03/27/ra-lafferty-an-attempt-at-an-appreciation/), Matthew Surridge
-* 2010, [Remembering Ray Lafferty (pdf)](http://efanzines.com/Challenger/Challenger-32.pdf), Joseph L. Green
+* 2010, [Remembering Ray Lafferty](http://efanzines.com/Challenger/Challenger-32.pdf) (pdf), Joseph L. Green
 * 2009, [Great but Forgotten](http://greatbutforgotten.blogspot.com/2009/05/r-lafferty-author.html), Chuck Rothman
 * 2003, [And They Took the Sky Off at Night](http://greatsfandf.com/AUTHORS/LAFFERTY/CholfinOnLafferty.html), Bryan Cholfin
 * 2003, [Essay Draft](/archive/2003/bcholfin/bcholfin-2003-09.txt), Bryan Cholfin
