@@ -146,7 +146,7 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/126502.Michael_Flynn)
 &middot; [amazon](http://www.amazon.com/Michael-Flynn/e/B000APBAJA)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22michael+flynn%22 "18k results")
-  * <span class="stitle">[Franz Kafka](http://en.wikipedia.org/wiki/Franz_Kafka "... a German-language writer of novels and short stories, regarded by critics as one of the most influential authors of the 20th century. ")</span>
+  * <span class="stitle">[Franz Kafka](http://en.wikipedia.org/wiki/Franz_Kafka "... a German-language writer of novels and short stories, regarded by critics as one of the most influential authors of the 20th century. ") (1924) </span>
 &middot; [fansite](http://www.kafka.org/)
 &middot; [fansite](http://www.kafka-online.info/)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?15578)
