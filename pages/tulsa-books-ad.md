@@ -15,7 +15,7 @@ Hailed as a [genius](/#quotes) by his peers, no one has since matched his unique
 
 His [personal library](/library) of 8,000 books was sold without being cataloged. 
 
-The names of Lafferty's lost books are critical for [literary scholars](). 
+The names of Lafferty's lost books are critical for [literary scholars](http://ralafferty.tumblr.com/post/50714796965/27-golden-gate). 
 
 Many of his books had contact tape on their spine (see photo).
 
