@@ -199,6 +199,13 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/1730.Umberto_Eco)
 &middot; [amazon](http://www.amazon.com/Umberto-Eco/e/B000APW210)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22umberto+eco%22 "10k results")
+  * <span class="stitle">[James Blaylock](http://en.wikipedia.org/wiki/James_Blaylock "American fantasy author ... noted for a distinctive, humorous style, as well as being one of the pioneers of the steampunk genre of science fiction.")</span>
+&middot; [official](http://jamespblaylock.com/)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?177)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/blaylock_james_p)
+&middot; [goodreads](http://www.goodreads.com/author/show/86475.James_P_Blaylock)
+&middot; [amazon](http://www.amazon.com/James-P.-Blaylock/e/B000APVTF0)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22james+blaylock%22 "10k results")
   * <span class="stitle">[François Rabelais](http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais "...was a major French Renaissance writer, doctor, Renaissance humanist, monk and Greek scholar. He has historically been regarded as a writer of fantasy, satire, the grotesque, bawdy jokes and songs.")</span> (1553)
 &middot; [quotes](http://en.wikiquote.org/wiki/Fran%C3%A7ois_Rabelais)
 &middot; [manybooks](http://manybooks.net/authors/rabelais.html)
