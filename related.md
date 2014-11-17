@@ -22,6 +22,7 @@ redirect_from: "/others/"
 
 These writers were selected for uniqueness and similarity in style or theme to Lafferty's writing.  They are ordered by co-occurrence with *R.A. Lafferty* on web pages.  This results from co-publication, articles or reader discussion.  Please email your suggestions to *&lt;related&nbsp;@&nbsp;this-domain&gt;*.
 
+
   * <span class="stitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "...received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards.")</span> (2001)
 &middot; [quotes](http://en.wikiquote.org/wiki/Poul_Anderson)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?3)
@@ -189,6 +190,15 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/15248.Flann_O_Brien)
 &middot; [amazon](http://www.amazon.com/Flann-OBrien/e/B001H6GK50)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22flann+o'brien%22 "10k results")
+  * <span class="stitle">[Umberto Eco](http://en.wikipedia.org/wiki/Umberto_Eco "Italian semiotician, essayist, philosopher, literary critic, and novelist ... best known for his groundbreaking 1980 historical mystery novel Il nome della rosa (The Name of the Rose)")</span>
+&middot; [official](http://www.umbertoeco.com/en/)
+&middot; [interview](http://www.theparisreview.org/interviews/5856/the-art-of-fiction-no-197-umberto-eco)
+&middot; [quotes](http://en.wikiquote.org/wiki/Umberto_Eco)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?Umberto_Eco)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/eco_umberto)
+&middot; [goodreads](http://www.goodreads.com/author/show/1730.Umberto_Eco)
+&middot; [amazon](http://www.amazon.com/Umberto-Eco/e/B000APW210)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22umberto+eco%22 "10k results")
   * <span class="stitle">[François Rabelais](http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais "...was a major French Renaissance writer, doctor, Renaissance humanist, monk and Greek scholar. He has historically been regarded as a writer of fantasy, satire, the grotesque, bawdy jokes and songs.")</span> (1553)
 &middot; [quotes](http://en.wikiquote.org/wiki/Fran%C3%A7ois_Rabelais)
 &middot; [manybooks](http://manybooks.net/authors/rabelais.html)
