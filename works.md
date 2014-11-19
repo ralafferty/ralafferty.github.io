@@ -162,6 +162,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"ringing+changes"&_sop=15)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?28204)
 * <span class="btitle">Strange Doings</span>
+  &middot;&nbsp;[Stephen Case](http://stephenrcase.wordpress.com/2014/11/18/strange-doings/) (2014)
   &middot;&nbsp;[Bill Crider](http://billcrider.blogspot.com/2014/10/ffb-r-lafferty-strange-doings.html) (2014)
   &middot;&nbsp;[Vintage45](http://vintage45.wordpress.com/2010/09/20/strange-doings-r-a-lafferty/) (2010)
   &middot;&nbsp;[Elizabeth Bear](http://www.sfsignal.com/archives/2010/06/mind_meld_what_single-author_short_fiction_collections_should_be_in_every_fans_library_2/) (2010)
