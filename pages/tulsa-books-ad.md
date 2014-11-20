@@ -19,7 +19,7 @@ The names of Lafferty's lost books are critical for [literary scholars](http://r
 
 Many of his books were signed, or had distinctive labels with large letters on the spine (see photo).
 
-**Have you seen one of Lafferty's former books from Tulsa?**
+**Have you seen one of Mr. Lafferty's former books from Tulsa?**
 
 Please email <a href="mailto:tulsabooks@ralafferty.org">tulsabooks@ralafferty.org</a> or comment below:
 
