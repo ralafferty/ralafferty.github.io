@@ -24,7 +24,7 @@ redirect_from: "/writing/"
   &middot; [German](http://de.wikipedia.org/wiki/Raphael_Aloysius_Lafferty#Werke_.28deutsch.29)
   &middot; [Japanese](http://hc2.seikyou.ne.jp/home/DrBr/RAL/RALjap.html)
   &middot; [Spanish](http://es.wikipedia.org/wiki/R._A._Lafferty#Bibliograf.C3.ADa_en_castellano)
-* <span class="stitle">United Mythologies</span>: [Catalog](/archive/ump-usenet.txt) (1992)
+* <span class="stitle">United Mythologies</span>: [Catalog](/archive/1992/ump-usenet.txt) (1992)
 * <span class="stitle">Unpublished</span>:
   [Lawrence Person](http://www.lawrenceperson.com/?p=7400) (2012)
   &middot;&nbsp;[buy article](http://www.nyrsf.com/2012/01/)
