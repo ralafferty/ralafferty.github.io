@@ -2,7 +2,6 @@
 layout: page
 permalink: /works/stories/
 title: Explore
-noindex: true
 weight: 4
 redirect_from: "/works-preview/"
 redirect_from: "/test/works-preview/"
