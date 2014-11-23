@@ -48,10 +48,10 @@
 			{	"id":"1965-slow",	"tags": "tb mm kci" },
 			{	"id":"1966-grandmothers","tags": "pf an dp" },
 			{	"id":"1966-hairy",	"tags": "sh" },
-			{	
+			{
 				"id":"1966-narrow",	
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?53936",
-				"tags": "sb ma na kci" 
+				"tags": "sb ma na kci",
 				"reviews":[
 				{
 					"id":"2013-kcheek-narrow",
@@ -62,6 +62,7 @@
 				{
 					"id":"1999-rginzler-narrow",
 				},
+				]
 			},
 			{	"id":"1966-primary",	"tags": "is" },
 			{	"id":"1966-trabant",	"tags": "is" },
