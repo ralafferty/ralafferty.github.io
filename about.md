@@ -20,7 +20,7 @@ You can send feedback by email to *&lt;feedback&nbsp;@&nbsp;this-domain&gt;*, or
 
 <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'theophiler'; /* required: replace example with your forum shortname */
+        var disqus_shortname = '{{ site.disqus_shortname }}'; /* required: replace example with your forum shortname */
 
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function() {
