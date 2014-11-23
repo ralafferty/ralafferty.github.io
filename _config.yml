@@ -12,6 +12,7 @@ jira_url:
 github_username:  
 github_wikipath: 
 googlegroup: 
+disqus_shortname: lafferty
 
 # Build settings
 # markdown: RDiscount

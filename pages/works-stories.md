@@ -481,7 +481,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 <script type="text/javascript">
 init(); 
 
-var disqus_shortname = 'theophiler'; 
+var disqus_shortname = '{{ site.disqus_shortname }}';
 var disqus_identifier = '';
 var disqus_url = '';
 
