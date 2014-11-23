@@ -10,6 +10,7 @@
     <title>{% if page.title %}{{ site.title }} - {{ page.title }} - {{ site.banner }}{% else %}{{ site.title }} - {{ site.banner }}{% endif %}</title>
     <meta name="description" content="{% if page.seo_description %}{{ page.seo_description }}{% else %}{{ site.seo_description }}{% endif %}">
 
+    <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/pure-min.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/local.css" | prepend: site.baseurl }}">

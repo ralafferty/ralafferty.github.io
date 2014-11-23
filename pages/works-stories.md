@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /test/works-preview/
+permalink: /works/stories/
 title: Explore
 noindex: true
 weight: 4
 redirect_from: "/works-preview/"
+redirect_from: "/test/works-preview/"
 ---
 
 [//]: # (---------------------------------------------------)
@@ -271,6 +272,25 @@ function display_span (className, arg)
 }
 
 /*
+function f_comments (storyid)
+{
+	var idName = 'd-story-' + storyid;
+
+	var items = document.getElementsByClassName ( 'd-cmnt' );
+	for (i=0; i < items.length; i++)
+	{
+		var el =  items[i];
+
+		if (el.id == idName)
+			el.innerHTML = '<div id="disqus_thread"></div>';
+		else
+			el.innerHTML = '';
+	}
+	disqus_identifier = idName;
+	loadDisqus();
+	return false;
+}
+
 function loadJSON(path, success, error)
 {
     var xhr = new XMLHttpRequest();
@@ -444,9 +464,13 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 				</ul>
 
 				<ul class="taglist" style="list-style-type: none;">
-					<li id="work-tags" class="work-tags">
-				</li></ul>
+					<li id="work-tags" class="work-tags"></li>
+					<li><i style="color:#ADADAD;" class="fa fa-comment"></i> 
+					&nbsp; &middot; <a class="disqus-comment-count" data-disqus-identifier="d-story-{{ story.id }}" href="{{ site.baseurl }}/works/stories/{{ story_details.url }}">Comments</a>
+					</li>
+				</ul>
 
+	
 			{% endif %}
   		{% endfor %}
 	</li>
@@ -457,4 +481,16 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 <script type="text/javascript">
 init(); 
 
+var disqus_shortname = 'theophiler'; 
+var disqus_identifier = '';
+var disqus_url = '';
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true; s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+
 </script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

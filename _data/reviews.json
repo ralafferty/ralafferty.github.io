@@ -77,5 +77,23 @@
 		"rating":"6/10",
 		"summary":"Scientists hard at work on a machine that will connect all forms of language have a breakthrough when they make contact with an eager-to-communicate extra-terrestrial.",
 	},
+	{
+		"id":"2013-kcheek-narrow",
+		"reviewer":"kcheek",
+		"url":"http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html",
+		"year":"2013",
+	},
+	{
+		"id":"2013-mporcius-narrow",
+		"reviewer":"mporcius",
+		"url":"http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html",
+		"year":"2013",
+	},
+	{
+		"id":"1999-rginzler-narrow",
+		"reviewer":"rginzler",
+		"url":"http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688",
+		"year":"1999",
+	},
    ]
 }

@@ -40,7 +40,7 @@ redirect_from: "/writing/"
 
 This is a partial and in-progress list, a complete list is available at [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?36).
 
-* ([explorer](/test/works-preview) beta)
+* ([explorer](/works/stories) beta)
 * 1973, <span class="btitle">[Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22)</span>
 &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) (2013)
 &middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html) (2012)

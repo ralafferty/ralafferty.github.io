@@ -21,7 +21,6 @@
 			{
 				"id":"1961-rainbird",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41022",
-				"search":"https://www.google.com/search?&q=r.a.+lafferty+%22rainbird%22",
 				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffrainbi",
 				"quotes":"http://scifi.stackexchange.com/questions/36404/looking-for-a-story-about-a-time-traveler-talking-to-young-himself",
 				"reviews":[
@@ -49,14 +48,27 @@
 			{	"id":"1965-slow",	"tags": "tb mm kci" },
 			{	"id":"1966-grandmothers","tags": "pf an dp" },
 			{	"id":"1966-hairy",	"tags": "sh" },
-			{	"id":"1966-narrow",	"tags": "sb ma na kci" },
+			{	
+				"id":"1966-narrow",	
+				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?53936",
+				"tags": "sb ma na kci" 
+				"reviews":[
+				{
+					"id":"2013-kcheek-narrow",
+				},
+				{
+					"id":"2013-mporcius-narrow",
+				},
+				{
+					"id":"1999-rginzler-narrow",
+				},
+			},
 			{	"id":"1966-primary",	"tags": "is" },
 			{	"id":"1966-trabant",	"tags": "is" },
 			{	"id":"1967-camels",	"tags": "dp ho" },
 			{
 				"id":"1967-charlemagne",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52255",
-				"search":"https://www.google.com/search?&q=r.a.+lafferty+%22thus+we+frustrate+charlemagne%22",
 				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffthuswe",
 				"reviews":[
 				{
@@ -89,7 +101,6 @@
 			{
 				"id":"1970-interurban",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?43998",
-				"search":"https://www.google.com/search?&q=r.a.+lafferty+%22interurban+queen%22",
 				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffinteru",
 				"reviews":[
 				{
@@ -103,13 +114,11 @@
 			{
 				"id":"1970-entire",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41436",
-				"search":"https://www.google.com/search?&q=r.a.+lafferty+%22entire+and+perfect+chrysolite%22",
 				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
 			},
 			{
 				"id":"1970-continued",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41531",
-				"search":"https://www.google.com/search?q=Continued+on+the+Next+Rock&ie=utf-8&oe=utf-8#channel=fs&q=r.a.+lafferty+%22Continued+on+the+Next+Rock%22",
 				"reviews":[
 				{
 					"id":"2004-srudnicki-contd",
@@ -131,7 +140,6 @@
 			{
 				"id":"1971-sky",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?40938",
-				"search":"https://www.google.com/search?&q=r.a.+lafferty+%22sky%22",
 			},
 			{	"id":"1971-terrible",	"tags": "" },
 			{	"id":"1971-underneath",	"tags": "ma dp ho" },
@@ -151,7 +159,6 @@
 			{
 				"id":"1972-eurema",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41432",
-				"search":"https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22",
 				"reviews":[
 				{
 					"id":"2013-aferguson-eurema",
@@ -203,7 +210,6 @@
 			{
 				"id":"1976-assault",
 				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?97872",
-				"search":"https://www.google.com/search?&q=r.a.+lafferty+%22assault+on+fat+mountain%22",
 				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffassaul",
 				"reviews":[
 				{

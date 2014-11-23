@@ -4,6 +4,7 @@
 	{
 	"id":"1972-eurema",
 	"title":"Eurema's Dam",
+	"url":"euremas-dam",
 	"author":"R. A. Lafferty",
 	"year":"1972",
 	"type":"ss",
@@ -33,6 +34,7 @@
 	{
 	"id":"1971-sky",
 	"title":"Sky",
+	"url":"sky",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -50,6 +52,7 @@
 	{
 	"id":"1970-entire",
 	"title":"Entire and Perfect Chrysolite",
+	"url":"entire-and-perfect-chrysolite",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -73,6 +76,7 @@
 	{
 	"id":"1976-assault",
 	"title":"Assault on Fat Mountain",
+	"url":"assault-on-fat-mountain",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -83,6 +87,7 @@
 	{
 	"id":"1970-interurban",
 	"title":"Interurban Queen",
+	"url":"interurban-queen",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -93,6 +98,7 @@
 	{
 	"id":"1961-rainbird",
 	"title":"Rainbird",
+	"url":"rainbird",
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
@@ -103,6 +109,7 @@
 	{
 	"id":"1967-charlemagne",
 	"title":"Thus We Frustrate Charlemagne",
+	"url":"thus-we-frustrate-charlemagne",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -113,6 +120,7 @@
 	{
 	"id":"1970-continued",
 	"title":"Continued on the Next Rock",
+	"url":"continued-on-the-next-rock",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -147,6 +155,7 @@
 	{
 	"id":"1981-bank",
 	"title":"Bank and Shoal of Time",
+	"url":"bank-and-shoal-of-time",
 	"author":"R. A. Lafferty",
 	"year":"1981",
 	"type":"ss",
@@ -154,6 +163,7 @@
 	{
 	"id":"1965-slow",
 	"title":"Slow Tuesday Night",
+	"url":"slow-tuesday-night",
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
@@ -161,6 +171,7 @@
 	{
 	"id":"1960-six-fingers",
 	"title":"Six Fingers of Time",
+	"url":"six-fingers-of-time",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -168,6 +179,7 @@
 	{
 	"id":"1983-end",
 	"title":"The End of Outward",
+	"url":"the-end-of-outward",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -175,6 +187,7 @@
 	{
 	"id":"1986-inventions",
 	"title":"Inventions Bright and New",
+	"url":"inventions-bright-and-new",
 	"author":"R. A. Lafferty",
 	"year":"1986",
 	"type":"ss",
@@ -182,6 +195,7 @@
 	{
 	"id":"1973-clock",
 	"title":"Barnaby's Clock",
+	"url":"barnabys-clock",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -189,6 +203,7 @@
 	{
 	"id":"1970-long",
 	"title":"Been a Long, Long Time",
+	"url":"been-a-long-long-time",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -196,6 +211,7 @@
 	{
 	"id":"1965-block",
 	"title":"In Our Block",
+	"url":"in-our-block",
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
@@ -203,6 +219,7 @@
 	{
 	"id":"1964-speckled",
 	"title":"The Man with the Speckled Eyes",
+	"url":"the-man-with-the-speckled-eyes",
 	"author":"R. A. Lafferty",
 	"year":"1964",
 	"type":"ss",
@@ -210,6 +227,7 @@
 	{
 	"id":"1973-grass",
 	"title":"Days of Grass, Days of Straw",
+	"url":"days-of-grass-days-of-straw",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -217,6 +235,7 @@
 	{
 	"id":"1975-picketwire",
 	"title":"For All Poor Folks at Picketwire",
+	"url":"for-all-poor-folks-at-picketwire",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -224,6 +243,7 @@
 	{
 	"id":"1968-marvels",
 	"title":"McGruder's Marvels",
+	"url":"mcgruders-marvels",
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
@@ -231,6 +251,7 @@
 	{
 	"id":"1965-honey",
 	"title":"Hog-Belly Honey",
+	"url":"hog-belly-honey",
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
@@ -238,6 +259,7 @@
 	{
 	"id":"1962-seven-terror",
 	"title":"Seven-Day Terror",
+	"url":"seven-day-terror",
 	"author":"R. A. Lafferty",
 	"year":"1962",
 	"type":"ss",
@@ -261,6 +283,7 @@
 	{
 	"id":"1966-narrow",
 	"title":"Narrow Valley",
+	"url":"narrow-valley",
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
@@ -268,6 +291,7 @@
 	{
 	"id":"1967-hole",
 	"title":"The Hole on the Corner",
+	"url":"the-hole-on-the-corner",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -275,6 +299,7 @@
 	{
 	"id":"1982-ifrit",
 	"title":"Ifrit",
+	"url":"ifrit",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -282,6 +307,7 @@
 	{
 	"id":"1976-funny",
 	"title":"Funnyfingers",
+	"url":"funnyfingers",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -289,6 +315,7 @@
 	{
 	"id":"1971-world",
 	"title":"World Abounding",
+	"url":"world-abounding",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -296,6 +323,7 @@
 	{
 	"id":"1967-horses",
 	"title":"Land of the Great Horses",
+	"url":"land-of-the-great-horses",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -303,6 +331,7 @@
 	{
 	"id":"1960-glacier",
 	"title":"Day of the Glacier",
+	"url":"day-of-the-glacier",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -310,6 +339,7 @@
 	{
 	"id":"1971-boomer",
 	"title":"Boomer Flats",
+	"url":"boomer-flats",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -317,6 +347,7 @@
 	{
 	"id":"1976-springs",
 	"title":"Love Affair With Ten Thousand Springs",
+	"url":"love-affair-with-ten-thousand-springs",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -324,6 +355,7 @@
 	{
 	"id":"1977-pebble",
 	"title":"Fall of Pebble-Stones",
+	"url":"fall-of-pebble-stones",
 	"author":"R. A. Lafferty",
 	"year":"1977",
 	"type":"ss",
@@ -331,6 +363,7 @@
 	{
 	"id":"1969-north",
 	"title":"Configuration of the North Shore",
+	"url":"configuration-of-the-north-shore",
 	"author":"R. A. Lafferty",
 	"year":"1969",
 	"type":"ss",
@@ -338,6 +371,7 @@
 	{
 	"id":"1970-cliff-climbers",
 	"title":"The Cliff Climbers",
+	"url":"the-cliff-climbers",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -345,6 +379,7 @@
 	{
 	"id":"1960-worm",
 	"title":"McGonigal's Worm",
+	"url":"mcgonigals-worm",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -352,6 +387,7 @@
 	{
 	"id":"1960-through",
 	"title":"Through Other Eyes", 
+	"url":"through-other-eyes",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -359,6 +395,7 @@
 	{
 	"id":"1976-fog",
 	"title":"Fog in My Throat",
+	"url":"fog-in-my-throat",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -366,6 +403,7 @@
 	{
 	"id":"1970-statue",
 	"title":"Condillac's Statue, or Wrens in His Head",
+	"url":"condillacs-statue-or-wrens-in-his-head",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -373,6 +411,7 @@
 	{
 	"id":"1972-summit",
 	"title":"A Special Condition in Summit City",
+	"url":"a-special-condition-in-summit-city",
 	"author":"R. A. Lafferty",
 	"year":"1972",
 	"type":"ss",
@@ -380,6 +419,7 @@
 	{
 	"id":"1971-bubbles",
 	"title":"Bubbles When They Burst",
+	"url":"bubbles-when-they-burst",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -387,6 +427,7 @@
 	{
 	"id":"1985-slippery",
 	"title":"Slippery",
+	"url":"slippery",
 	"author":"R. A. Lafferty",
 	"year":"1985",
 	"type":"ss",
@@ -394,6 +435,7 @@
 	{
 	"id":"1960-snuffles",
 	"title":"Snuffles",
+	"url":"snuffles",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -401,6 +443,7 @@
 	{
 	"id":"1961-garden",
 	"title":"In the Garden",
+	"url":"in-the-garden",
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
@@ -408,6 +451,7 @@
 	{
 	"id":"1972-aranea",
 	"title":"Once on Aranea",
+	"url":"once-on-aranea",
 	"author":"R. A. Lafferty",
 	"year":"1972",
 	"type":"ss",
@@ -415,6 +459,7 @@
 	{
 	"id":"1964-snake",
 	"title":"Name of the Snake",
+	"url":"name-of-the-snake",
 	"author":"R. A. Lafferty",
 	"year":"1964",
 	"type":"ss",
@@ -422,6 +467,7 @@
 	{
 	"id":"1966-grandmothers",
 	"title":"Nine Hundred Grandmothers",
+	"url":"nine-hundred-grandmothers",
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
@@ -429,6 +475,7 @@
 	{
 	"id":"1965-pani",
 	"title":"The Pani Planet",
+	"url":"the-pani-planet",
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
@@ -436,6 +483,7 @@
 	{
 	"id":"1978-quiz",
 	"title":"Quiz Ship Loose",
+	"url":"quiz-ship-loose",
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
@@ -443,6 +491,7 @@
 	{
 	"id":"1981-glass",
 	"title":"In Deepest Glass",
+	"url":"in-deepest-glass",
 	"author":"R. A. Lafferty",
 	"year":"1981",
 	"type":"ss",
@@ -450,6 +499,7 @@
 	{
 	"id":"1984-models",
 	"title":"The Man Who Made Models",
+	"url":"the-man-who-made-models",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -457,6 +507,7 @@
 	{
 	"id":"1964-pokey",
 	"title":"Pig in a Pokey",
+	"url":"pig-in-a-pokey",
 	"author":"R. A. Lafferty",
 	"year":"1964",
 	"type":"ss",
@@ -464,6 +515,7 @@
 	{
 	"id":"1967-creature",
 	"title":"The Ultimate Creature",
+	"url":"the-ultimate-creature",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -471,6 +523,7 @@
 	{
 	"id":"1980-island",
 	"title":"The Forty-Seventh Island",
+	"url":"the-forty-seventh-island",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -478,6 +531,7 @@
 	{
 	"id":"1966-trabant",
 	"title":"Golden Trabant",
+	"url":"golden-trabant",
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
@@ -485,6 +539,7 @@
 	{
 	"id":"1961-polite",
 	"title":"The Polite People of Pudibundia",
+	"url":"the-polite-people-of-pudibundia",
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
@@ -492,6 +547,7 @@
 	{
 	"id":"1970-frog",
 	"title":"Frog on the Mountain",
+	"url":"frog-on-the-mountain",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -499,6 +555,7 @@
 	{
 	"id":"1983-astronomer",
 	"title":"The Last Astronomer",
+	"url":"the-last-astronomer",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -506,6 +563,7 @@
 	{
 	"id":"1976-smoe",
 	"title":"Smoe and the Implicit Clay",
+	"url":"smoe-and-the-implicit-clay",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -513,6 +571,7 @@
 	{
 	"id":"1970-hands",
 	"title":"Hands of the Man",
+	"url":"hands-of-the-man",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -520,6 +579,7 @@
 	{
 	"id":"1970-ride",
 	"title":"Ride a Tin Can",
+	"url":"ride-a-tin-can",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -527,6 +587,7 @@
 	{
 	"id":"1970-old",
 	"title":"Old Foot Forgot",
+	"url":"old-foot-forgot",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -534,6 +595,7 @@
 	{
 	"id":"1973-parthen",
 	"title":"Parthen",
+	"url":"parthen",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -541,6 +603,7 @@
 	{
 	"id":"1965-guesting",
 	"title":"Guesting Time",
+	"url":"guesting-time",
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
@@ -548,6 +611,7 @@
 	{
 	"id":"1986-rich",
 	"title":"Something Rich and Strange",
+	"url":"something-rich-and-strange",
 	"author":"R. A. Lafferty",
 	"year":"1986",
 	"type":"ss",
@@ -555,6 +619,7 @@
 	{
 	"id":"1961-weirdest",
 	"title":"The Weirdest World",
+	"url":"the-weirdest-world",
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
@@ -562,6 +627,7 @@
 	{
 	"id":"1971-words",
 	"title":"All But the Words",
+	"url":"all-but-the-words",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -569,6 +635,7 @@
 	{
 	"id":"1961-all-people",
 	"title":"All the People",
+	"url":"all-the-people",
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
@@ -576,6 +643,7 @@
 	{
 	"id":"1970-river-shore",
 	"title":"All Pieces of a River Shore",
+	"url":"all-pieces-of-a-river-shore",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -583,6 +651,7 @@
 	{
 	"id":"1964-tigers",
 	"title":"The Transcendent Tigers",
+	"url":"the-transcendent-tigers",
 	"author":"R. A. Lafferty",
 	"year":"1964",
 	"type":"ss",
@@ -590,6 +659,7 @@
 	{
 	"id":"1973-seashore",
 	"title":"By the Seashore",
+	"url":"by-the-seashore",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -597,6 +667,7 @@
 	{
 	"id":"1962-texas",
 	"title":"Sodom and Gomorrah, Texas",
+	"url":"sodom-and-gomorrah-texas",
 	"author":"R. A. Lafferty",
 	"year":"1962",
 	"type":"ss",
@@ -604,6 +675,7 @@
 	{
 	"id":"1970-crocodile",
 	"title":"About a Secret Crocodile",
+	"url":"about-a-secret-crocodile",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -611,6 +683,7 @@
 	{
 	"id":"1964-man",
 	"title":"Mad Man",
+	"url":"mad-man",
 	"author":"R. A. Lafferty",
 	"year":"1964",
 	"type":"ss",
@@ -618,6 +691,7 @@
 	{
 	"id":"1968-carcass",
 	"title":"This Grand Carcass",
+	"url":"this-grand-carcass",
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
@@ -625,6 +699,7 @@
 	{
 	"id":"1973-symposium",
 	"title":"Symposium",
+	"url":"symposium",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -632,6 +707,7 @@
 	{
 	"id":"1980-skies",
 	"title":"And All the Skies Are Full of Fish",
+	"url":"and-all-the-skies-are-full-of-fish",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -639,6 +715,7 @@
 	{
 	"id":"1972-walk",
 	"title":"And Walk Now Gently Through the Fire",
+	"url":"and-walk-now-gently-through-the-fire",
 	"author":"R. A. Lafferty",
 	"year":"1972",
 	"type":"ss",
@@ -646,6 +723,7 @@
 	{
 	"id":"1973-violet",
 	"title":"Mud Violet",
+	"url":"mud-violet",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -653,6 +731,7 @@
 	{
 	"id":"1979-eve",
 	"title":"St. Poleander's Eve",
+	"url":"st-poleanders-eve",
 	"author":"R. A. Lafferty",
 	"year":"1979",
 	"type":"ss",
@@ -660,6 +739,7 @@
 	{
 	"id":"1971-underneath",
 	"title":"The Man Underneath",
+	"url":"the-man-underneath",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -667,6 +747,7 @@
 	{
 	"id":"1974-hamadryad",
 	"title":"Mr. Hamadryad",
+	"url":"mr-hamadryad",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -674,6 +755,7 @@
 	{
 	"id":"1976-freeze",
 	"title":"Oh Tell Me Will It Freeze Tonight",
+	"url":"oh-tell-me-will-it-freeze-tonight",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -681,6 +763,7 @@
 	{
 	"id":"1975-wolf",
 	"title":"Three Shadows of the Wolf",
+	"url":"three-shadows-of-the-wolf",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -688,6 +771,7 @@
 	{
 	"id":"1982-matagorda",
 	"title":"Tongues of the Matagorda",
+	"url":"tongues-of-the-matagorda",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -695,6 +779,7 @@
 	{
 	"id":"1977-brain",
 	"title":"Brain Fever Season",
+	"url":"brain-fever-season",
 	"author":"R. A. Lafferty",
 	"year":"1977",
 	"type":"ss",
@@ -702,6 +787,7 @@
 	{
 	"id":"1981-new",
 	"title":"New People",
+	"url":"new-people",
 	"author":"R. A. Lafferty",
 	"year":"1981",
 	"type":"ss",
@@ -709,6 +795,7 @@
 	{
 	"id":"1967-never-was",
 	"title":"The Man Who Never Was",
+	"url":"the-man-who-never-was",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -716,6 +803,7 @@
 	{
 	"id":"1980-torpedo",
 	"title":"Lord Torpedo, Lord Gyroscope",
+	"url":"lord-torpedo-lord-gyroscope",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -723,6 +811,7 @@
 	{
 	"id":"1974-aura",
 	"title":"The Man with the Aura",
+	"url":"the-man-with-the-aura",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -730,6 +819,7 @@
 	{
 	"id":"1978-bequest",
 	"title":"Bequest of Wings",
+	"url":"bequest-of-wings",
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
@@ -737,6 +827,7 @@
 	{
 	"id":"1982-eyes-big",
 	"title":"Make Sure the Eyes Are Big Enough",
+	"url":"make-sure-the-eyes-are-big-enough",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -744,6 +835,7 @@
 	{
 	"id":"1983-jack",
 	"title":"Jack Bang's Eyes",
+	"url":"jack-bangs-eyes",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -751,6 +843,7 @@
 	{
 	"id":"1978-cracks",
 	"title":"The Man Who Walked Through Cracks",
+	"url":"the-man-who-walked-through-cracks",
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
@@ -758,6 +851,7 @@
 	{
 	"id":"1976-cabrito",
 	"title":"Cabrito",
+	"url":"cabrito",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -765,6 +859,7 @@
 	{
 	"id":"1967-polity",
 	"title":"Polity and Custom of the Camiroi",
+	"url":"polity-and-custom-of-the-camiroi",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -772,6 +867,7 @@
 	{
 	"id":"1966-primary",
 	"title":"Primary Education of the Camiroi",
+	"url":"primary-education-of-the-camiroi",
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
@@ -779,6 +875,7 @@
 	{
 	"id":"1978-bright",
 	"title":"Bright Flightways",
+	"url":"bright-flightways",
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
@@ -786,6 +883,7 @@
 	{
 	"id":"1978-ghosts",
 	"title":"Selenium Ghosts of the Eighteen Seventies",
+	"url":"selenium-ghosts-of-the-eighteen-seventies",
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
@@ -793,6 +891,7 @@
 	{
 	"id":"1971-hinges",
 	"title":"Groaning Hinges of the World",
+	"url":"groaning-hinges-of-the-world",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -800,6 +899,7 @@
 	{
 	"id":"1966-hairy",
 	"title":"Among the Hairy Earthmen",
+	"url":"among-the-hairy-earthmen",
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
@@ -807,6 +907,7 @@
 	{
 	"id":"1960-adam",
 	"title":"Adam Had Three Brothers",
+	"url":"adam-had-three-brothers",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -814,6 +915,7 @@
 	{
 	"id":"1975-thunder",
 	"title":"From the Thunder Colt's Mouth",
+	"url":"from-the-thunder-colts-mouth",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -821,6 +923,7 @@
 	{
 	"id":"1974-rivers",
 	"title":"Rivers of Damascus",
+	"url":"rivers-of-damascus",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -828,6 +931,7 @@
 	{
 	"id":"1983-outward",
 	"title":"The End of Outward",
+	"url":"the-end-of-outward",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -835,6 +939,7 @@
 	{
 	"id":"1983-wail",
 	"title":"And You Did Not Wail",
+	"url":"and-you-did-not-wail",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -842,6 +947,7 @@
 	{
 	"id":"1983-bird",
 	"title":"Bird-Master",
+	"url":"bird-master",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -849,6 +955,7 @@
 	{
 	"id":"1983-faith",
 	"title":"Faith Sufficient",
+	"url":"faith-sufficient",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -856,6 +963,7 @@
 	{
 	"id":"1983-turpentine",
 	"title":"In the Turpentine Trees",
+	"url":"in-the-turpentine-trees",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -863,6 +971,7 @@
 	{
 	"id":"1983-pine",
 	"title":"Pine Castle",
+	"url":"pine-castle",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -870,6 +979,7 @@
 	{
 	"id":"1984-two",
 	"title":"Two For Four Ninety-Five",
+	"url":"two-for-four-ninety-five",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -877,6 +987,7 @@
 	{
 	"id":"1984-laughter",
 	"title":"Of Laughter and the Love of Friends",
+	"url":"of-laughter-and-the-love-of-friends",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -884,6 +995,7 @@
 	{
 	"id":"1984-effigy",
 	"title":"The Effigy Histories",
+	"url":"the-effigy-histories",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -891,6 +1003,7 @@
 	{
 	"id":"1984-done",
 	"title":"I'll See It Done and Then I'll Die",
+	"url":"ill-see-it-done-and-then-ill-die",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -898,6 +1011,7 @@
 	{
 	"id":"1984-cubicle",
 	"title":"The Ninety-Ninth Cubicle",
+	"url":"the-ninety-ninth-cubicle",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -905,6 +1019,7 @@
 	{
 	"id":"1984-velvet",
 	"title":"And Some in Velvet Gowns",
+	"url":"and-some-in-velvet-gowns",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -912,6 +1027,7 @@
 	{
 	"id":"1984-door",
 	"title":"The Doggone Highly Scientific Door",
+	"url":"the-doggone-highly-scientific-door",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -919,6 +1035,7 @@
 	{
 	"id":"1984-well",
 	"title":"Oh Whatta You Do When the Well Runs Dry?",
+	"url":"oh-whatta-you-do-when-the-well-runs-dry",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -926,6 +1043,7 @@
 	{
 	"id":"1984-salt",
 	"title":"John Salt",
+	"url":"john-salt",
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
@@ -933,6 +1051,7 @@
 	{
 	"id":"1985-hollow",
 	"title":"All Hollow Though You Be",
+	"url":"all-hollow-though-you-be",
 	"author":"R. A. Lafferty",
 	"year":"1985",
 	"type":"ss",
@@ -940,6 +1059,7 @@
 	{
 	"id":"1985-lamb",
 	"title":"Ewe Lamb",
+	"url":"ewe-lamb",
 	"author":"R. A. Lafferty",
 	"year":"1985",
 	"type":"ss",
@@ -947,6 +1067,7 @@
 	{
 	"id":"1985-magazine",
 	"title":"Magazine Section",
+	"url":"magazine-section",
 	"author":"R. A. Lafferty",
 	"year":"1985",
 	"type":"ss",
@@ -954,6 +1075,7 @@
 	{
 	"id":"1985-arrow",
 	"title":"Flaming Arrow",
+	"url":"flaming-arrow",
 	"author":"R. A. Lafferty",
 	"year":"1985",
 	"type":"ss",
@@ -961,6 +1083,7 @@
 	{
 	"id":"1986-junkyard",
 	"title":"Junkyard Thoughts",
+	"url":"junkyard-thoughts",
 	"author":"R. A. Lafferty",
 	"year":"1986",
 	"type":"ss",
@@ -968,6 +1091,7 @@
 	{
 	"id":"1986-fault",
 	"title":"Along the San Pennatus Fault",
+	"url":"along-the-san-pennatus-fault",
 	"author":"R. A. Lafferty",
 	"year":"1986",
 	"type":"ss",
@@ -975,6 +1099,7 @@
 	{
 	"id":"1987-ghost",
 	"title":"Gray Ghost: A Reminescence",
+	"url":"gray-ghost-a-reminescence",
 	"author":"R. A. Lafferty",
 	"year":"1987",
 	"type":"ss",
@@ -982,6 +1107,7 @@
 	{
 	"id":"1988-force",
 	"title":"Task Force Fifty Eight and One Half",
+	"url":"task-force-fifty-eight-and-one-falf",
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
@@ -989,6 +1115,7 @@
 	{
 	"id":"1988-mountain",
 	"title":"Rain Mountain",
+	"url":"rain-mountain",
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
@@ -996,6 +1123,7 @@
 	{
 	"id":"1988-rainy",
 	"title":"Rainy Day in Halicarnassus",
+	"url":"rainy-day-in-halicarnassus",
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
@@ -1003,6 +1131,7 @@
 	{
 	"id":"1988-goats",
 	"title":"Promontory Goats",
+	"url":"promontory-goats",
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
@@ -1010,6 +1139,7 @@
 	{
 	"id":"1988-sport",
 	"title":"Le Hot Sport",
+	"url":"le-hot-sport",
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
@@ -1017,6 +1147,7 @@
 	{
 	"id":"1989-magic",
 	"title":"The Man Who Lost His Magic",
+	"url":"the-man-who-lost-his-magic",
 	"author":"R. A. Lafferty",
 	"year":"1989",
 	"type":"ss",
@@ -1024,6 +1155,7 @@
 	{
 	"id":"1990-woman",
 	"title":"Holy Woman",
+	"url":"holy-woman",
 	"author":"R. A. Lafferty",
 	"year":"1990",
 	"type":"ss",
@@ -1031,6 +1163,7 @@
 	{
 	"id":"1990-morning",
 	"title":"Maleficent Morning",
+	"url":"maleficent-morning",
 	"author":"R. A. Lafferty",
 	"year":"1990",
 	"type":"ss",
@@ -1038,6 +1171,7 @@
 	{
 	"id":"1990-passage",
 	"title":"Apocryphal Passage of the Last Night of Count Finnegan On Galveston Island",
+	"url":"apocryphal-passage-of-the-last-night-of-count-finnegan-on-galveston-island",
 	"author":"R. A. Lafferty",
 	"year":"1990",
 	"type":"ss",
@@ -1045,6 +1179,7 @@
 	{
 	"id":"1990-machine",
 	"title":"The Casey Machine",
+	"url":"the-casey-machine",
 	"author":"R. A. Lafferty",
 	"year":"1990",
 	"type":"ss",
@@ -1052,6 +1187,7 @@
 	{
 	"id":"1990-episodes",
 	"title":"Episodes of the Argo",
+	"url":"episodes-of-the-argo",
 	"author":"R. A. Lafferty",
 	"year":"1990",
 	"type":"ss",
@@ -1059,6 +1195,7 @@
 	{
 	"id":"1991-brains",
 	"title":"Buckets Full of Brains",
+	"url":"buckets-full-of-brains",
 	"author":"R. A. Lafferty",
 	"year":"1991",
 	"type":"ss",
@@ -1066,6 +1203,7 @@
 	{
 	"id":"1991-ear",
 	"title":"Hound Dog's Ear",
+	"url":"hound-dogs-ear",
 	"author":"R. A. Lafferty",
 	"year":"1991",
 	"type":"ss",
@@ -1073,6 +1211,7 @@
 	{
 	"id":"1992-anamnesis",
 	"title":"Anamnesis",
+	"url":"anamnesis",
 	"author":"R. A. Lafferty",
 	"year":"1992",
 	"type":"ss",
@@ -1080,6 +1219,7 @@
 	{
 	"id":"1994-cows",
 	"title":"I Don't Care Who Keeps the Cows",
+	"url":"i-dont-care-who-keeps-the-cows",
 	"author":"R. A. Lafferty",
 	"year":"1994",
 	"type":"ss",
@@ -1087,6 +1227,7 @@
 	{
 	"id":"1995-bottoms",
 	"title":"Happening in Chosky Bottoms",
+	"url":"happening-in-chosky-bottoms",
 	"author":"R. A. Lafferty",
 	"year":"1995",
 	"type":"ss",
@@ -1094,6 +1235,7 @@
 	{
 	"id":"1995-goldfish",
 	"title":"Goldfish",
+	"url":"goldfish",
 	"author":"R. A. Lafferty",
 	"year":"1996",
 	"type":"ss",
@@ -1101,6 +1243,7 @@
 	{
 	"id":"1997-shoestrings",
 	"title":"The Emperor's Shoestrings",
+	"url":"the-emperors-shoestrings",
 	"author":"R. A. Lafferty",
 	"year":"1997",
 	"type":"ss",
@@ -1108,6 +1251,7 @@
 	{
 	"id":"2003-me",
 	"title":"There'll Always Be Another Me",
+	"url":"therell-always-be-another-me",
 	"author":"R. A. Lafferty",
 	"year":"2003",
 	"type":"ss",
@@ -1115,6 +1259,7 @@
 	{
 	"id":"1962-dream",
 	"title":"Dream",
+	"url":"dream",
 	"author":"R. A. Lafferty",
 	"year":"1962",
 	"type":"ss",
@@ -1122,6 +1267,7 @@
 	{
 	"id":"1968-town",
 	"title":"What's the Name of That Town?",
+	"url":"whats-the-name-of-that-town",
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
@@ -1129,6 +1275,7 @@
 	{
 	"id":"1974-ducks",
 	"title":"Flaming Ducks and Giant Bread",
+	"url":"flaming-ducks-and-giant-bread",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -1136,6 +1283,7 @@
 	{
 	"id":"1975-great-day",
 	"title":"Great Day in the Morning",
+	"url":"great-day-in-the-morning",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -1143,6 +1291,7 @@
 	{
 	"id":"1967-ginny",
 	"title":"Ginny Wrapped in the Sun",
+	"url":"ginny-wrapped-in-the-sun",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -1150,6 +1299,7 @@
 	{
 	"id":"1976-horns",
 	"title":"Horns on Their Heads",
+	"url":"horns-on-their-heads",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -1157,6 +1307,7 @@
 	{
 	"id":"1972-dorg",
 	"title":"Dorg",
+	"url":"dorg",
 	"author":"R. A. Lafferty",
 	"year":"1972",
 	"type":"ss",
@@ -1164,6 +1315,7 @@
 	{
 	"id":"1973-seat",
 	"title":"Scorner's Seat",
+	"url":"scorners-seat",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1171,6 +1323,7 @@
 	{
 	"id":"1973-fair",
 	"title":"Animal Fair",
+	"url":"animal-fair",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1178,6 +1331,7 @@
 	{
 	"id":"1971-rind",
 	"title":"Encased in Ancient Rind",
+	"url":"encased-in-ancient-rind",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -1185,6 +1339,7 @@
 	{
 	"id":"1969-cliffs",
 	"title":"Cliffs That Laughed",
+	"url":"cliffs-that-laughed",
 	"author":"R. A. Lafferty",
 	"year":"1969",
 	"type":"ss",
@@ -1192,6 +1347,7 @@
 	{
 	"id":"1961-aloys",
 	"title":"Aloys",
+	"url":"aloys",
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
@@ -1199,6 +1355,7 @@
 	{
 	"id":"1973-mice",
 	"title":"The Ungodly Mice of Doctor Drakos",
+	"url":"the-ungodly-mice-of-doctor-drakos",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1206,6 +1363,7 @@
 	{
 	"id":"1973-world",
 	"title":"The Wooly World of Barnaby Sheen",
+	"url":"the-wooly-world-of-barnaby-sheen",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1213,6 +1371,7 @@
 	{
 	"id":"1960-remember",
 	"title":"Try to Remember",
+	"url":"try-to-remember",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -1220,6 +1379,7 @@
 	{
 	"id":"1978-coins",
 	"title":"Bright Coins in Never-Ending Stream",
+	"url":"bright-coins-in-never-ending-stream",
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
@@ -1227,6 +1387,7 @@
 	{
 	"id":"1968-gave",
 	"title":"How They Gave It Back",
+	"url":"how-they-gave-it-back",
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
@@ -1234,6 +1395,7 @@
 	{
 	"id":"1971-barrens",
 	"title":"Ishmael Into the Barrens",
+	"url":"ishmael-into-the-barrens",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -1241,6 +1403,7 @@
 	{
 	"id":"1973-will",
 	"title":"The World as Will and Wallpaper",
+	"url":"the-world-as-will-and-wallpaper",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1248,6 +1411,7 @@
 	{
 	"id":"1980-crocodile",
 	"title":"Crocodile",
+	"url":"crocodile",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -1255,6 +1419,7 @@
 	{
 	"id":"1980-secret-croc",
 	"title":"Memoir (About a Secret Crocodile)",
+	"url":"memoir-about-a-secret-crocodile",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"es",
@@ -1262,6 +1427,7 @@
 	{
 	"id":"1974-bears",
 	"title":"And Mad Undancing Bears",
+	"url":"and-mad-undancing-bears",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -1269,6 +1435,7 @@
 	{
 	"id":"1976-hand",
 	"title":"The Hand with One Hundred Fingers",
+	"url":"the-hand-with-one-hundred-fingers",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -1276,6 +1443,7 @@
 	{
 	"id":"1968-jones",
 	"title":"Maybe Jones and the City",
+	"url":"maybe-jones-and-the-city",
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
@@ -1283,6 +1451,7 @@
 	{
 	"id":"1971-islands",
 	"title":"Nor Limestone Islands",
+	"url":"nor-limestone-islands",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -1290,6 +1459,7 @@
 	{
 	"id":"1981-cant-go",
 	"title":"You Can't Go Back",
+	"url":"you-cant-go-back",
 	"author":"R. A. Lafferty",
 	"year":"1981",
 	"type":"ss",
@@ -1297,6 +1467,7 @@
 	{
 	"id":"1974-name",
 	"title":"And Name My Name",
+	"url":"and-name-my-name",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -1304,6 +1475,7 @@
 	{
 	"id":"1974-lines",
 	"title":"And Read the Flesh Between the Lines",
+	"url":"and-read-the-flesh-between-the-lines",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -1311,6 +1483,7 @@
 	{
 	"id":"1974-licorice",
 	"title":"Royal Licorice",
+	"url":"royal-licorice",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -1318,6 +1491,7 @@
 	{
 	"id":"1974-species",
 	"title":"Endangered Species",
+	"url":"endangered-species",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -1325,6 +1499,7 @@
 	{
 	"id":"1975-ducks",
 	"title":"Or Little Ducks Each Day",
+	"url":"or-little-ducks-each-day",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -1332,6 +1507,7 @@
 	{
 	"id":"1975-heart",
 	"title":"Heart Grow Fonder",
+	"url":"heart-grow-fonder",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -1339,6 +1515,7 @@
 	{
 	"id":"1975-skinny",
 	"title":"The Skinny People of Leptophlebo Street",
+	"url":"the-skinny-people-of-leptophlebo-street",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -1346,6 +1523,7 @@
 	{
 	"id":"1976-puddle",
 	"title":"Puddle on the Floor",
+	"url":"puddle-on-the-floor",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
@@ -1353,13 +1531,15 @@
 	{
 	"id":"1976-berryhill",
 	"title":"Berryhill",
+	"url":"berryhill",
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
 	},
 	{
 	"id":"1980-phoenic",
-	"title":"Phoenic'",
+	"title":"Phoenic",
+	"url":"phoenic'",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -1367,6 +1547,7 @@
 	{
 	"id":"1977-eyes",
 	"title":"Oh, Those Trepidatious Eyes!",
+	"url":"oh-those-trepidatious-eyes!",
 	"author":"R. A. Lafferty",
 	"year":"1977",
 	"type":"ss",
@@ -1374,6 +1555,7 @@
 	{
 	"id":"1977-wall",
 	"title":"Thou Whited Wall",
+	"url":"thou-whited-wall",
 	"author":"R. A. Lafferty",
 	"year":"1977",
 	"type":"ss",
@@ -1381,6 +1563,7 @@
 	{
 	"id":"1980-murders",
 	"title":"The Funny Face Murders",
+	"url":"the-funny-face-murders",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -1388,6 +1571,7 @@
 	{
 	"id":"1978-splinters",
 	"title":"Splinters",
+	"url":"splinters",
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
@@ -1395,6 +1579,7 @@
 	{
 	"id":"1980-almost",
 	"title":"Almost Perfect",
+	"url":"almost-perfect",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -1402,6 +1587,7 @@
 	{
 	"id":"1980-tune",
 	"title":"The Only Tune That He Could Play",
+	"url":"the-only-tune-that-he-could-play",
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
@@ -1409,6 +1595,7 @@
 	{
 	"id":"1982-golden",
 	"title":"Golden Gate",
+	"url":"golden-gate",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1416,6 +1603,7 @@
 	{
 	"id":"1982-leagues",
 	"title":"Six Leagues From Lop",
+	"url":"six-leagues-from-lop",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1423,6 +1611,7 @@
 	{
 	"id":"1982-fool",
 	"title":"Great Tom Fool or The Conundrum of the Calais Customhouse Coffers",
+	"url":"great-tom-fool-or-the-conundrum-of-the-calais-customhouse-coffers",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1430,6 +1619,7 @@
 	{
 	"id":"1982-bear",
 	"title":"Thieving Bear Planet",
+	"url":"thieving-bear-planet",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1437,6 +1627,7 @@
 	{
 	"id":"1982-square",
 	"title":"Square and Above Board",
+	"url":"square-and-above-board",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1444,6 +1635,7 @@
 	{
 	"id":"1982-pauper",
 	"title":"Calamities of the Last Pauper",
+	"url":"calamities-of-the-last-pauper",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1451,6 +1643,7 @@
 	{
 	"id":"1982-bird",
 	"title":"One-Eyed Mocking-Bird",
+	"url":"one-eyed-mocking-bird",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1458,6 +1651,7 @@
 	{
 	"id":"1982-marsilia",
 	"title":"Marsilia V",
+	"url":"marsilia-v",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1465,6 +1659,7 @@
 	{
 	"id":"1982-itch",
 	"title":"This Boding Itch",
+	"url":"this-boding-itch",
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
@@ -1472,6 +1667,7 @@
 	{
 	"id":"1983-wings",
 	"title":"Company in the Wings",
+	"url":"company-in-the-wings",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1479,6 +1675,7 @@
 	{
 	"id":"1983-tears",
 	"title":"What Big Tears the Dinosaur's",
+	"url":"what-big-tears-the-dinosaur's",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1486,6 +1683,7 @@
 	{
 	"id":"1983-adventure",
 	"title":"Unique Adventure Gone",
+	"url":"unique-adventure-gone",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1493,6 +1691,7 @@
 	{
 	"id":"1983-snake",
 	"title":"Snake in his Bosom",
+	"url":"snake-in-his-bosom",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1500,6 +1699,7 @@
 	{
 	"id":"1983-analytics",
 	"title":"Posterior Analytics",
+	"url":"posterior-analytics",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1507,6 +1707,7 @@
 	{
 	"id":"1983-palaces",
 	"title":"Pleasures and Palaces",
+	"url":"pleasures-and-palaces",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1514,6 +1715,7 @@
 	{
 	"id":"1983-haruspex",
 	"title":"Haruspex",
+	"url":"haruspex",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1521,6 +1723,7 @@
 	{
 	"id":"1983-stone",
 	"title":"Heart of Stone, Dear",
+	"url":"heart-of-stone-dear",
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
@@ -1528,6 +1731,7 @@
 	{
 	"id":"1959-wagons",
 	"title":"The Wagons",
+	"url":"the-wagons",
 	"author":"R. A. Lafferty",
 	"year":"1959",
 	"type":"ss",
@@ -1535,6 +1739,7 @@
 	{
 	"id":"1960-sea",
 	"title":"The Ugly Sea",
+	"url":"the-ugly-sea",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -1542,6 +1747,7 @@
 	{
 	"id":"1960-saturday",
 	"title":"Saturday You Die",
+	"url":"saturday-you-die",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -1549,6 +1755,7 @@
 	{
 	"id":"1960-moon",
 	"title":"Other Side of the Moon",
+	"url":"other-side-of-the-moon",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -1556,6 +1763,7 @@
 	{
 	"id":"1960-teeth",
 	"title":"Long Teeth",
+	"url":"long-teeth",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -1563,6 +1771,7 @@
 	{
 	"id":"1960-dreamer",
 	"title":"Beautiful Dreamer",
+	"url":"beautiful-dreamer",
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
@@ -1570,6 +1779,7 @@
 	{
 	"id":"1967-camels",
 	"title":"Camels and Dromedaries, Clem",
+	"url":"camels-and-dromedaries-clem",
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
@@ -1577,6 +1787,7 @@
 	{
 	"id":"1968-time",
 	"title":"One at a Time",
+	"url":"one-at-a-time",
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
@@ -1584,6 +1795,7 @@
 	{
 	"id":"1971-lands",
 	"title":"When All the Lands Pour Out Again",
+	"url":"when-all-the-lands-pour-out-again",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -1591,6 +1803,7 @@
 	{
 	"id":"1971-terrible",
 	"title":"Enfant Terrible",
+	"url":"enfant-terrible",
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
@@ -1598,6 +1811,7 @@
 	{
 	"id":"1972-rang",
 	"title":"Rang Dang Kaloof",
+	"url":"rang-dang-kaloof",
 	"author":"R. A. Lafferty",
 	"year":"1972",
 	"type":"ss",
@@ -1605,6 +1819,7 @@
 	{
 	"id":"1973-stone",
 	"title":"In Outraged Stone",
+	"url":"in-outraged-stone",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1612,6 +1827,7 @@
 	{
 	"id":"1973-infinity",
 	"title":"Four Sides of Infinity",
+	"url":"four-sides-of-infinity",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1619,6 +1835,7 @@
 	{
 	"id":"1973-lion",
 	"title":"The Two-Headed Lion of Cris Benedetti",
+	"url":"the-two-headed-lion-of-cris-benedetti",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1626,6 +1843,7 @@
 	{
 	"id":"1973-rocket",
 	"title":"The Hellaceous Rocket of Harry O'Donovan",
+	"url":"the-hellaceous-rocket-of-harry-odonovan",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1633,6 +1851,7 @@
 	{
 	"id":"1973-raft",
 	"title":"Rogue Raft",
+	"url":"rogue-raft",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1640,6 +1859,7 @@
 	{
 	"id":"1973-ghost",
 	"title":"Ghost in the Corn Crib",
+	"url":"ghost-in-the-corn-crib",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1647,6 +1867,7 @@
 	{
 	"id":"1973-seven",
 	"title":"Seven Story Dream",
+	"url":"seven-story-dream",
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
@@ -1654,6 +1875,7 @@
 	{
 	"id":"1974-story",
 	"title":"The Most Forgetable Story in the World",
+	"url":"the-most-forgetable-story-in-the-world",
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
@@ -1661,6 +1883,7 @@
 	{
 	"id":"1970-all",
 	"title":"The All-At-Once Man",
+	"url":"the-all-at-once-man",
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
@@ -1668,6 +1891,7 @@
 	{
 	"id":"1975-guna",
 	"title":"Old Halloweens on the Guna Slopes",
+	"url":"old-halloweens-on-the-guna-slopes",
 	"author":"R. A. Lafferty",
 	"year":"1975",
 	"type":"ss",
@@ -1675,6 +1899,7 @@
 	{
 	"id":"1988-briar",
 	"title":"The Story of Little Briar-Rose, A Scholarly Study",
+	"url":"the-story-of-little-briar-rose-a-scholarly-study",
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
