@@ -171,7 +171,15 @@
 			},
 			{	"id":"1972-rang",	"tags": "" },
 			{	"id":"1972-summit",	"tags": "ex np pc sa" },
-			{	"id":"1972-walk",	"tags": "ma dy sr" },
+			{	"id":"1972-walk",	
+				"tags": "ma dy sr",
+				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?60185",
+				"reviews":[
+				{
+					"id":"2009-dpetersen-walk",
+				},
+				]
+			},
 			{	"id":"1973-clock",	"tags": "tb gs" },
 			{	"id":"1973-fair",	"tags": "ec" },
 			{	"id":"1973-ghost",	"tags": "" },

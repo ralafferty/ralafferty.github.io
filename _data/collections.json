@@ -1,0 +1,19 @@
+{
+	"_comment": "Copyright (c) 2014, Rich Persaud, All Rights Reserved",
+	"collections":[
+	{
+		"id":"1972-walk",
+		"title":"And Walk Now Gently Through The Fire",
+		"year":"1972",
+		"img":"NDWLKNWGNT1973.jpg",
+		"url":"http://www.isfdb.org/cgi-bin/pl.cgi?2639",
+	},
+	{
+		"id":"1991-sacred",
+		"title":"Sacred Visions",
+		"year":"1991",
+		"img":"SCRDVSNSGS1991.jpg",
+		"url":"http://www.isfdb.org/cgi-bin/pl.cgi?191085",
+	},
+   ]
+}

@@ -719,6 +719,11 @@
 	"author":"R. A. Lafferty",
 	"year":"1972",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"1972-walk" 	},
+		{ "id":"1991-sacred" 	},
+	  ],
+	"excerpt":"The Queer Fish claim that Gaea (Earth) is the most anciently peopled of the worlds and that they themselves are the most ancient people. But they set their own first appearance in quite late times, and they contradict the true ancientness of humans and proto-humans. The Queer Fish have been bloody and warlike in their times. They have been Oceanic as well as Sky-Faring, in some cases beyond ourselves in that phase. They have even been, in several peculiar contexts, creative.",
 	},
 	{
 	"id":"1973-violet",

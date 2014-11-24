@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /works/stories/
-title: Explore
+title: 
 weight: 4
 redirect_from: "/works-preview/"
 redirect_from: "/test/works-preview/"
@@ -329,7 +329,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 
 </script>
 
-## The Short Stories of R. A. Lafferty
+## The Short Stories of R.A. Lafferty
 
 <div>
 <b>Toggle On/Off:&nbsp;</b>
@@ -470,6 +470,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 				</ul>
 
 	
+			{% break %}
 			{% endif %}
   		{% endfor %}
 	</li>

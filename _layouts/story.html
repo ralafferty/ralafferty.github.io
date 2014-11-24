@@ -2,20 +2,17 @@
 layout: default
 ---
 
-<article class="post-content">
-	{{ content }}
-</article>
-
 <div class="post">
 
 	{% for story in site.data.stories.stories %}
+		{% if story.id == page.story_id %}
 	  	{% for story_details in site.data.consensus.consensus %}
 
 			{% if story.id == page.story_id and story.id == story_details.id %}
 
-				  <header class="post-header">
-					<h1 class="post-title">{{ story_details.title }}</h1>
-				  </header>
+				<header class="post-header">
+					<h3 class="post-title"><em>{{ story_details.title }}</em><br><span style="font-size: 70%">&mdash;<a href="/works/stories/">R. A.&nbsp;Lafferty</a></span></h3>
+				</header>
 
 				<ul style="list-style-type: none;" id="work-ul" class="work-ul">
 				<li id="li-{{ story.id }}" class="work-li">
@@ -37,16 +34,10 @@ layout: default
 								</em></ul>
 							{% endif %}
 
+						{% break %}
 						{% endif %}
 					{% endfor %}
 				{% endfor %}
-
-				{% if story_details.excerpt %}
-				<ul style="display:none" class="work-summary"><blockquote>
-					{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
-					"{{ story_details.excerpt }}" &nbsp;&mdash;R. A. Lafferty
-				</blockquote></ul>
-				{% endif %}
 
 				<br>
 				<ul class="work-award taglist">
@@ -58,6 +49,15 @@ layout: default
 						{{ story_details.year }}
 					{% endif %}
 				</ul>
+
+				{% if story_details.excerpt %}
+				<i style="color:#ADADAD;" class="fa fa-file-text-o"></i> &nbsp;
+				&middot; <a href="javascript:void(0);" onclick="toggle_story(this);">Excerpt</a>
+				<ul style="display:none" class="work-summary"><blockquote>
+					{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
+					"{{ story_details.excerpt }}" &nbsp;&mdash;R. A. Lafferty 
+				</blockquote></ul>
+				{% endif %}
 
 				<ul class="work-award taglist">
 				{% for award in story_details.awards %}
@@ -72,9 +72,9 @@ layout: default
 				<ul class="work-review taglist">
 
 	  			{% for review in story.reviews %}
-						{% if forloop.first %} 
-							{% assign hdr = '1' %}
-						{% endif %}
+					{% if forloop.first %} 
+						{% assign hdr = '1' %}
+					{% endif %}
 					{% for review_details in site.data.reviews.reviews %}
 
 						{% if review.id == review_details.id %}
@@ -101,20 +101,69 @@ layout: default
 				<ul class="taglist" style="list-style-type: none;">
 					<li id="work-tags" class="work-tags"></li>
 				</ul>
-				<br><br><div id="disqus_thread"></div>
-
 				</li>
 			</ul>
+
+			{% assign var_idx_story_details = forloop.index0 %}
+			{% break %}
 			{% endif %}
   		{% endfor %}
+
+		{% assign var_idx_story = forloop.index0 %}
+		{% break %}
+		{% endif %}
 	{% endfor %}
+
+  <br>
+  <div class="pure-g">
+
+		{% if site.data.consensus.consensus[var_idx_story_details].collections.size > 0 %}
+			<div class="pure-u-1 pure-u-md-4-5" id="disqus_thread"></div>
+			{% assign show_sidebar = true %}
+		{% endif %}
+
+		{% if show_sidebar %}
+		<div class="pure-u-0 pure-u-md-1-5">
+		<center>
+		<div class="l-box">
+		{% for item in site.data.consensus.consensus[var_idx_story_details].collections %}
+			{% for collection in site.data.collections.collections %}
+				{% if item.id == collection.id  %}
+					<a href="{{ collection.url }}"><img hspace="5" vspace="7" width="100px" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"><img></a>
+				{% break %}
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+		</div>
+		</div>
+
+		{% else %}
+			<div class="pure-u-1" id="disqus_thread"></div>
+		{% endif %}
+
+	</div>
 </div>
 
-<p><b>Copyright & Licensing</b>: If you submit a comment, you agree to license the original text of your comment as <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>, allowing others to share and adapt your comment for any purpose, even commercially, as long as attribution is given and changes are indicated.  Please see the full <a href="https://creativecommons.org/licenses/by/4.0/legalcode">license</a>.</p>
+<br>
+<br>
+<p class="post-content"><b>Copyright & Licensing</b>: If you submit a comment, you agree to license the original text of your comment as <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>, allowing others to share and adapt your comment for any purpose, even commercially, as long as attribution is given and changes are indicated.  Please see the full <a href="https://creativecommons.org/licenses/by/4.0/legalcode">license</a>.</p>
 
-<p>Literary criticism of Lafferty has historically been sparse and valuable essays remain out of print due to unclear license or estate status. The CC-BY-4.0 license provides Lafferty scholars with an option to republish and critique your writing, and enables Lafferty archivists to migrate your comments to future technology platforms and media.</p>
+<p class="post-content">Literary criticism of Lafferty has been sparse, and valuable essays remain out of print due to unclear license or estate status. The CC-BY license provides Lafferty scholars with an option to republish and critique your writing, and enables Lafferty archivists to migrate comments to future platforms and media.</p>
 
 <script type="text/javascript">
+
+function toggle_story ( node )
+{
+	var gp = node.parentNode.parentNode; /* <li> */
+	var items = gp.getElementsByClassName ( 'work-summary' );
+
+	for (i=0; i < items.length; i++)
+	{
+		es = items[i].style;
+		es.display = es.display == 'none'? '' : 'none';
+	}
+	return false;
+}
 
 var disqus_shortname = '{{ site.disqus_shortname }}';
 var disqus_identifier = 'd-story-{{ page.story_id }}';
