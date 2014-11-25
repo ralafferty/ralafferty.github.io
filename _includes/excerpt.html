@@ -1,0 +1,6 @@
+{% if story_details.excerpt %}
+<ul style="display:none" class="work-summary"><blockquote>
+	{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
+	"{{ story_details.excerpt }}" &nbsp;&mdash;R.&nbsp;A.&nbsp;Lafferty
+</blockquote></ul>
+{% endif %}

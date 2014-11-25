@@ -404,12 +404,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 
 				{% include ratings.html %}
 
-				{% if story_details.excerpt %}
-				<ul style="display:none" class="work-summary"><blockquote>
-					{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
-					"{{ story_details.excerpt }}" &nbsp;&mdash;R. A. Lafferty
-				</blockquote></ul>
-				{% endif %}
+				{% include excerpt.html %}
 
 				{% include read-online.html %}
 
