@@ -2,41 +2,67 @@
 layout: default
 ---
 
-<span class="btitle"><a href="/works/stories/">Short Stories</a></span>
+
+<span class="btitle">Collection</span>
 <header class="post-header">
 	<h3 class="post-title"><em>{{ page.title }}</em><br><span style="font-size: 70%">&mdash;R.&nbsp;A.&nbsp;Lafferty</span></h3>
 </header>
 
 <div class="post">
 
-	{% for story in site.data.stories.stories %}
-		{% if story.id == page.story_id %}
-	  	{% for story_details in site.data.consensus.consensus %}
+<ul style="list-style-type: none;" id="work-ul" class="work-ul">
 
-			{% if story.id == page.story_id and story.id == story_details.id %}
+	{% for collection in site.data.collections.collections %}
+	{% if collection.id == page.collection_id %}
 
-				<ul style="list-style-type: none;" id="work-ul" class="work-ul">
+		{% if collection.img %}
+		<img width="140px" align="right" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"></img>
+		{% endif %}
+
+		<br>
+		{% if collection.year %}
+		<ul class="work-award taglist">
+			<i style="color:#ADADAD;" class="fa fa-calendar"></i> &nbsp;
+			&middot; 
+			{% if collection.isfdb %}
+				<a href="{{ collection.isfdb }}">{{ collection.year }}</a>
+			{% else %}
+				{{ collection.year }}
+			{% endif %}
+		</ul>
+		<br><br>
+		{% endif %}
+
+		{% for story in collection.stories %}
+			{% for story_details in site.data.consensus.consensus %}
+			{% if story.id == story_details.id %}
 				<li id="li-{{ story.id }}" class="work-li">
+
+				&nbsp;&nbsp;
+				<span class="btitle">
+					{% if story_details.excerpt %}
+						<a href="javascript:void(0);" onclick="toggle_story(this);">
+					{% endif %}
+
+					{{ story_details.title }}
+
+					{% if story_details.excerpt %}
+						</a>
+					{% endif %}
+				</span>
+
+				{% if story_details.isfdb %}
+					(<a href="{{ story_details.isfdb }}">{{ story_details.year }}</a>)
+				{% else %}
+					({{ story_details.year }})
+				{% endif %}
 
 				{% include ratings.html %}
 
-				<br>
-				<ul class="work-award taglist">
-					<i style="color:#ADADAD;" class="fa fa-calendar"></i> &nbsp;
-					&middot; 
-					{% if story_details.isfdb %}
-						<a href="{{ story_details.isfdb }}">{{ story_details.year }}</a>
-					{% else %}
-						{{ story_details.year }}
-					{% endif %}
-				</ul>
-
 				{% if story_details.excerpt %}
-				<i style="color:#ADADAD;" class="fa fa-file-text-o"></i> &nbsp;
-				&middot; <a href="javascript:void(0);" onclick="toggle_story(this);">Excerpt</a>
-				<ul style="display:block" class="work-summary"><blockquote>
+				<ul style="display:none" class="work-summary"><blockquote>
 					{% if story_details.timeline %}({{ story_details.timeline }} A.D.){% endif %}
-					"{{ story_details.excerpt }}" &nbsp;&mdash;R. A. Lafferty 
+					"{{ story_details.excerpt }}" &nbsp;&mdash;R. A. Lafferty
 				</blockquote></ul>
 				{% endif %}
 
@@ -47,50 +73,26 @@ layout: default
 				{% include reviews.html %}
 
 				<ul class="taglist" style="list-style-type: none;">
-					<li id="work-tags" class="work-tags"></li>
+				    <li id="work-tags" class="work-tags"></li>
+				    <li><i style="color:#ADADAD;" class="fa fa-comment"></i>
+				    &nbsp; &middot; <a class="disqus-comment-count" data-disqus-identifier="d-story-{{ story.id }}" href="{{ site.baseurl }}/works/stories/{{ story_details.url }}">Comments</a>
+				    </li>
 				</ul>
-				</li>
-			</ul>
 
-			{% assign var_idx_story_details = forloop.index0 %}
 			{% break %}
 			{% endif %}
-  		{% endfor %}
-
-		{% assign var_idx_story = forloop.index0 %}
-		{% break %}
-		{% endif %}
+			{% endfor %}
+			</li>
+		{% endfor %}
+		</ul>
+	{% break %}
+	{% endif %}
 	{% endfor %}
 
-  <br>
-  <div class="pure-g">
-
-		{% if site.data.consensus.consensus[var_idx_story_details].collections.size > 0 %}
-			<div class="pure-u-1 pure-u-md-4-5" id="disqus_thread"></div>
-			{% assign show_sidebar = true %}
-		{% endif %}
-
-		{% if show_sidebar %}
-		<div class="pure-u-0 pure-u-md-1-5">
-		<center>
-		<div class="l-box">
-		{% for item in site.data.consensus.consensus[var_idx_story_details].collections %}
-			{% for collection in site.data.collections.collections %}
-				{% if item.id == collection.id  %}
-					<a href="{{ collection.isfdb }}"><img hspace="5" vspace="7" width="100px" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"><img></a>
-				{% break %}
-				{% endif %}
-			{% endfor %}
-		{% endfor %}
-		</div>
-		</div>
-
-		{% else %}
-			<div class="pure-u-1" id="disqus_thread"></div>
-		{% endif %}
-
-	</div>
 </div>
+
+<br><br>
+<div id="disqus_thread"></div>
 
 <br>
 <br>
@@ -114,8 +116,17 @@ function toggle_story ( node )
 }
 
 var disqus_shortname = '{{ site.disqus_shortname }}';
-var disqus_identifier = 'd-story-{{ page.story_id }}';
+var disqus_identifier = '';
 var disqus_url = '';
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true; s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+
+var disqus_identifier = 'd-collection-{{ page.collection_id }}';
 
 /* * * DON'T EDIT BELOW THIS LINE * * */
 (function() {

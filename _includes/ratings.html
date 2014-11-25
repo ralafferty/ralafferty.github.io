@@ -1,0 +1,24 @@
+
+{% for review in story_details.reviews %}
+	{% for review_details in site.data.reviews.reviews %}
+		{% if review.id == review_details.id %}
+			{% if review_details.summary %}
+
+				<ul style="display: block;" class="work-review taglist">
+				<em>{{ review_details.summary }}
+				<br>&nbsp;&nbsp;&nbsp;
+				{{ review_details.rating }}
+				&mdash;
+				{% for reviewer in site.data.reviewers.reviewers %}
+					{% if reviewer.id == review_details.reviewer %}
+						{{ reviewer.name }}, {{ review_details.year }}
+					{% endif %}
+				{% endfor %}
+				</em></ul>
+
+			{% endif %}
+
+		{% break %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}

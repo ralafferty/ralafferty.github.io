@@ -77,5 +77,30 @@
 		"name":"Ron Ginzler",
 		"country":"USA",
 	},
+	{
+		"id":"darkroastedblend",
+		"name":"DRB",
+		"url":"http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html",
+	},
+	{
+		"id":"mathfiction",
+		"name":"Math Fiction",
+		"url":"http://kasmana.people.cofc.edu/MATHFICT",
+	},
+	{
+		"id":"happinessisfree",
+		"name":"D.S.",
+		"url":"http://happinessisfreesf.blogspot.com",
+	},
+	{
+		"id":"pdamien",
+		"name":"Peter Damien",
+		"url":"http://www.sfsignal.com/archives/author/pete/",
+	},
+	{
+		"id":"gschmidt",
+		"name":"Gil Schmidt",
+		"url":"http://gilthejenius.blogspot.com",
+	},
    ]
 }

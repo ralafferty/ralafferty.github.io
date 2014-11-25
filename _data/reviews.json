@@ -8,6 +8,36 @@
 		"year":"2013",
 	},
 	{
+		"id":"2013-aferguson-rainbird",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/57501490930/55-rainbird",
+		"year":"2013",
+	},
+	{
+		"id":"2011-aferguson-grandmothers", 
+		"reviewer":"aferguson",
+		"url":"http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html",
+		"year":"2011",
+	},
+	{
+		"id":"2013-aferguson-tigers", 
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/65026598841/75-the-transcendent-tigers",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-texas", 
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-six-fingers", 
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time",
+		"year":"2013",
+	},
+	{
 		"id":"2012-dpetersen-eurema",
 		"reviewer":"dpetersen",
 		"url":"http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html",
@@ -56,16 +86,16 @@
 		"year":"2014",
 	},
 	{
+		"id":"2014-livinggeek-never-was",
+		"reviewer":"livinggeek",
+		"url":"https://livingthegeeklife.wordpress.com/2014/03/02/short-story-saturday-the-man-who-never-was/",
+		"year":"2014",
+	},
+	{
 		"id":"2004-srudnicki-contd",
 		"reviewer":"srudnicki",
 		"url":"http://www.greenmanreview.com/book/book_rudnicki_imaginings.html",
 		"year":"2004",
-	},
-	{
-		"id":"2013-aferguson-rainbird",
-		"reviewer":"aferguson",
-		"url":"http://ralafferty.tumblr.com/post/57501490930/55-rainbird",
-		"year":"2013",
 	},
 	{
 		"id":"2014-vjbayne-jack",
@@ -100,6 +130,40 @@
 		"reviewer":"rginzler",
 		"url":"http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688",
 		"year":"1999",
+	},
+	{
+		"id":"2006-darkroastedblend-narrow",
+		"reviewer":"darkroastedblend",
+		"url":"http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html",
+		"year":"2006",
+	},
+	{
+		"id":"mathfiction-narrow",
+		"reviewer":"mathfiction",
+		"url":"http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733",
+	},
+	{
+		"id":"2012-hif-slow",
+		"reviewer":"happinessisfree",
+		"url":"http://happinessisfreesf.blogspot.com/2012/12/slow-tuesday-night-by-r-lafferty.html",
+		"year":"2012",
+	},
+	{
+		"id":"2010-pdamien-slow",
+		"reviewer":"pdamien",
+		"url":"http://www.sfsignal.com/archives/2010/02/slow_tuesday_night/",
+		"year":"2010",
+	},
+	{
+		"id":"2007-gschmidt-slow",
+		"reviewer":"gschmidt",
+		"url":"http://gilthejenius.blogspot.com/2007/02/web-wonder.html",
+		"year":"2007",
+	},
+	{
+		"id":"2005-edatlow-tigers",
+		"reviewer":"edatlow",
+		"url":"http://edsfproject.blogspot.com/2005/11/transcendent-tigers-by-ra-lafferty.html",
 	},
    ]
 }

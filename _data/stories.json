@@ -18,20 +18,7 @@
 			{	"id":"1961-aloys",	"tags": "sa" },
 			{	"id":"1961-garden",	"tags": "pf" },
 			{	"id":"1961-polite",	"tags": "is" },
-			{
-				"id":"1961-rainbird",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41022",
-				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffrainbi",
-				"quotes":"http://scifi.stackexchange.com/questions/36404/looking-for-a-story-about-a-time-traveler-talking-to-young-himself",
-				"reviews":[
-				{
-					"id": "2009-egahr-rainbird",
-				},
-				{
-					"id": "2013-aferguson-rainbird",
-				},
-				],
-			},
+			{	"id":"1961-rainbird", 	"tags": ""	},
 			{	"id":"1961-weirdest",	"tags": "ai" },
 			{	"id":"1962-dream",	"tags": "ph ho" },
 			{	"id":"1962-seven-terror","tags": "sb gc" },
@@ -41,6 +28,7 @@
 			{	"id":"1964-snake",	"tags": "" },
 			{	"id":"1964-speckled",	"tags": "sb" },
 			{	"id":"1964-tigers",	"tags": "ai gc" },
+			{	"id":"1964-town",	"tags": "ph" },
 			{	"id":"1965-block",	"tags": "sb" },
 			{	"id":"1965-guesting",	"tags": "ai dp" },
 			{	"id":"1965-honey",	"tags": "sb te" },
@@ -48,38 +36,11 @@
 			{	"id":"1965-slow",	"tags": "tb mm kci" },
 			{	"id":"1966-grandmothers","tags": "pf an dp" },
 			{	"id":"1966-hairy",	"tags": "sh" },
-			{
-				"id":"1966-narrow",	
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?53936",
-				"tags": "sb ma na kci",
-				"reviews":[
-				{
-					"id":"2013-kcheek-narrow",
-				},
-				{
-					"id":"2013-mporcius-narrow",
-				},
-				{
-					"id":"1999-rginzler-narrow",
-				},
-				]
-			},
+			{ 	"id":"1966-narrow",	"tags": "sb ma na kci" },
 			{	"id":"1966-primary",	"tags": "is" },
 			{	"id":"1966-trabant",	"tags": "is" },
 			{	"id":"1967-camels",	"tags": "dp ho" },
-			{
-				"id":"1967-charlemagne",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52255",
-				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffthuswe",
-				"reviews":[
-				{
-					"id":"2014-pkincaid-charlemagne",
-				},
-				{
-					"id":"2014-livinggeek-charlemagne",
-				},
-				]
-			},
+			{ 	"id":"1967-charlemagne", },
 			{	"id":"1967-creature",	"tags": "is" },
 			{	"id":"1967-ginny",	"tags": "gc" },
 			{	"id":"1967-hole",	"tags": "sb dp dn py" },
@@ -91,7 +52,6 @@
 			{	"id":"1968-jones",	"tags": "ss" },
 			{	"id":"1968-marvels",	"tags": "sb" },
 			{	"id":"1968-time",	"tags": "dp tr" },
-			{	"id":"1968-town",	"tags": "ph" },
 			{	"id":"1969-cliffs",	"tags": "an tr" },
 			{	"id":"1969-north",	"tags": "ge ss dn py" },
 			{	"id":"1970-all",	"tags": "dp" },
@@ -99,33 +59,9 @@
 			{	"id":"1970-crocodile",	"tags": "rc" },
 			{	"id":"1970-frog",	"tags": "is" },
 			{	"id":"1970-hands",	"tags": "is co" },
-			{
-				"id":"1970-interurban",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?43998",
-				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffinteru",
-				"reviews":[
-				{
-					"id": "2014-kwolf-interurban",
-				},
-				{
-					"id": "2010-farhim-interurban",
-				},
-				]
-			},
-			{
-				"id":"1970-entire",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41436",
-				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
-			},
-			{
-				"id":"1970-continued",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41531",
-				"reviews":[
-				{
-					"id":"2004-srudnicki-contd",
-				},
-				]
-			},
+			{ 	"id":"1970-interurban", },
+			{ 	"id":"1970-entire", },
+			{	"id":"1970-continued", },
 			{	"id":"1970-long",	"tags": "tb ex op" },
 			{	"id":"1970-old",	"tags": "is an dy" },
 			{	"id":"1970-ride",	"tags": "is ml an" },
@@ -138,48 +74,17 @@
 			{	"id":"1971-islands",	"tags": "gs ss" },
 			{	"id":"1971-lands",	"tags": "" },
 			{	"id":"1971-rind",	"tags": "ec" },
-			{
-				"id":"1971-sky",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?40938",
-			},
+			{ 	"id":"1971-sky", },
 			{	"id":"1971-terrible",	"tags": "" },
 			{	"id":"1971-underneath",	"tags": "ma dp ho" },
-			{
-				"id":"1971-words",
-				"tags":"ai pc",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?51928",
-				"reviews":[
-				{
-					"id": "2014-vjbayne-words",
-				},
-				],
-			},
+			{ 	"id":"1971-words", "tags":"ai pc", },
 			{	"id":"1971-world",	"tags": "gs" },
 			{	"id":"1972-aranea",	"tags": "pf ho" },
 			{	"id":"1972-dorg",	"tags": "ec" },
-			{
-				"id":"1972-eurema",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41432",
-				"reviews":[
-				{
-					"id":"2013-aferguson-eurema",
-				},
-				{
-					"id":"2012-dpetersen-eurema",
-				},
-				]
-			},
+			{ 	"id":"1972-eurema", },
 			{	"id":"1972-rang",	"tags": "" },
 			{	"id":"1972-summit",	"tags": "ex np pc sa" },
-			{	"id":"1972-walk",	
-				"tags": "ma dy sr",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?60185",
-				"reviews":[
-				{
-					"id":"2009-dpetersen-walk",
-				},
-				]
-			},
+			{	"id":"1972-walk",	"tags": "ma dy sr", },
 			{	"id":"1973-clock",	"tags": "tb gs" },
 			{	"id":"1973-fair",	"tags": "ec" },
 			{	"id":"1973-ghost",	"tags": "" },
@@ -216,16 +121,7 @@
 			{	"id":"1975-skinny",	"tags": "dp" },
 			{	"id":"1975-thunder",	"tags": "ph" },
 			{	"id":"1975-wolf",	"tags": "ml ho" },
-			{
-				"id":"1976-assault",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?97872",
-				"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffassaul",
-				"reviews":[
-				{
-					"id":"2009-bmunro-assault",
-				},
-				]
-			},
+			{ 	"id":"1976-assault", },
 			{	"id":"1976-berryhill",	"tags": "dp ho" },
 			{	"id":"1976-cabrito",	"tags": "pc" },
 			{	"id":"1976-fog",	"tags": "ex ho" },
@@ -280,16 +176,7 @@
 			{	"id":"1983-end",	"tags": "tb" },
 			{	"id":"1983-faith",	"tags": "" },
 			{	"id":"1983-haruspex",	"tags": "" },
-			{
-				"id":"1983-jack",
-				"tags":"np",
-				"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69671",
-				"reviews":[
-				{
-					"id": "2014-vjbayne-jack",
-				},
-				],
-			},
+			{ 	"id":"1983-jack", "tags":"np", },
 			{	"id":"1983-outward",	"tags": "ph" },
 			{	"id":"1983-palaces",	"tags": "" },
 			{	"id":"1983-pine",	"tags": "mu" },

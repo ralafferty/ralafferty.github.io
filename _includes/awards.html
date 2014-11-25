@@ -1,0 +1,16 @@
+<ul class="work-award taglist">
+{% for award in story_details.awards %}
+	{% if forloop.first %} 
+	<i style="color:#ADADAD;" class="fa fa-trophy"></i> &nbsp;
+	{% endif %}
+
+	{% if award.place == 'Anthology' %}
+		&middot;&nbsp;{{ award.year }} {{ award.award }}, {{ award.category }}
+	{% else %}
+		&middot;&nbsp;{{ award.year }} {{ award.award }} {{ award.place }}
+	{% endif %}
+
+	{% if forloop.last %}{% else %}&nbsp;&nbsp;{% endif %}
+{% endfor %}
+</ul>
+

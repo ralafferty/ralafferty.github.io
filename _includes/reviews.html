@@ -1,0 +1,30 @@
+<ul class="work-review taglist">
+
+{% for review in story_details.reviews %}
+	{% if forloop.first %} 
+		{% assign hdr = '1' %}
+	{% endif %}
+	{% for review_details in site.data.reviews.reviews %}
+
+		{% if review.id == review_details.id %}
+		{% if review_details.url %}
+
+		{% if hdr == '1' %}
+			<i style="color:#ADADAD;" class="fa fa-thumbs-up"></i> &nbsp;
+			{% assign hdr = '0' %}
+		{% endif %}
+
+		{% for reviewer in site.data.reviewers.reviewers %}
+			{% if reviewer.id == review_details.reviewer %}
+				&middot;&nbsp;<a href="{{ review_details.url }}">{{ reviewer.name }}</a>
+			{% break %}
+			{% endif %}
+		{% endfor %}
+		{% if review_details.year %}({{ review_details.year }}){% endif %} &nbsp;
+		{% endif %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+</ul>
+

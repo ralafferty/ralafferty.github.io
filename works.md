@@ -33,68 +33,12 @@ redirect_from: "/writing/"
 * Covers, Kenji Matsuzaki: [page I](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/covers.html) &middot; [page II](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversA.html) &middot; [page III](http://hc2.seikyou.ne.jp/home/DrBr/RAL/cover/coversM.html) 
 * [Wikiquote](http://en.wikiquote.org/wiki/R._A._Lafferty) &middot; [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty) &middot; [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Creator/RALafferty)
 
-<br>
-<br>
 
 ## Short&nbsp;Stories {#shortstories} 
 
-This is a partial and in-progress list, a complete list is available at [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?36).
-
-* ([explorer](/works/stories) beta)
-* 1973, <span class="btitle">[Eurema's Dam](https://www.google.com/search?&q=r.a.+lafferty+%22eurema%27s+dam%22)</span>
-&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam) (2013)
-&middot; [Dan Petersen](http://antsofgodarequeerfish.blogspot.com/2012/04/illustration-for-euremas-dam.html) (2012)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41432)
----&nbsp;*1973&nbsp;Hugo&nbsp;<b>Winner</b>, Locus 16<sup>th</sup>*, 1975 Seiun Winner
-* 1971, <span class="btitle">[Sky](https://www.google.com/search?&q=r.a.+lafferty+"sky")</span>
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?40938)
-&mdash;&nbsp;*1972&nbsp;Hugo Nominee* 
-* 1970, <span class="btitle">[Entire And Perfect Chrysolite](https://www.google.com/search?&q=r.a.+lafferty+%22entire+and+perfect+chrysolite%22)</span>
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41436)
-&mdash;&nbsp;*1971&nbsp;Hugo & Nebula Nominee* 
-* 1970, <span class="btitle">[Continued on the Next Rock](https://www.google.com/search?q=Continued+on+the+Next+Rock&ie=utf-8&oe=utf-8#channel=fs&q=r.a.+lafferty+%22Continued+on+the+Next+Rock%22)</span>
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41531)
-&mdash; *1971 Hugo & Nebula Nominee, Locus 3<sup>rd</sup>, 1972&nbsp;Ditmar&nbsp;Nominee*
-* 1967, <span class="btitle">[Thus We Frustrate Charlemagne](https://www.google.com/search?&q=r.a.+lafferty+"thus+we+frustrate+charlemagne")</span>
-&middot;&nbsp;[Paul Kincaid](http://ttdlabyrinth.wordpress.com/2014/08/01/reprint-thus-we-frustrate-charlemagne/) (2014)
-&middot;&nbsp;[Living the Geek Life](https://livingthegeeklife.wordpress.com/2014/01/05/short-story-saturday-thus-we-frustrate-charlemagne/) (2014)
-&middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52255)
-* 1966, <span class="btitle">[Nine Hundred Grandmothers](https://web.archive.org/web/20080124051430/http://www.scifi.com/scifiction/classics/classics_archive/lafferty/lafferty1.html)</span>
-&middot; [Andrew Ferguson](http://antsofgodarequeerfish.blogspot.com/2011/09/thoughts-on-nine-hundred-grandmothers.html) 
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54132)
-* 1966, <span class="btitle">[Narrow Valley](https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html)</span>
-  &middot;&nbsp;[Kevin Cheek](http://www.yetanotherlaffertyblog.com/2013/06/you-cant-go-back-and-narrow-valley.html) (2013)
-  &middot;&nbsp;[MPorcius](http://mporcius.blogspot.com/2013/10/narrow-valley-by-r-lafferty.html) (2013)
-  &middot;&nbsp;[DRB](http://www.scifi.darkroastedblend.com/2005/10/r-lafferty.html) (2005)
-  &middot;&nbsp;[Ron Ginzler](http://www.amazon.com/Lafferty-Orbit-R-A/product-reviews/1880448688) (1999)
-  &middot;&nbsp;[Math Fiction](http://kasmana.people.cofc.edu/MATHFICT/mfview.php?callnumber=mf733) 
-  &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/title.cgi?53936)
-* 1965, <span class="btitle">[Guesting Time](http://www.baenebooks.com/chapters/9781625791191/9781625791191___3.htm)</span>
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54089)
-* 1965, <span class="btitle">[In Our Block](https://www.google.com/search?&q=r.a.+lafferty+%22in+our+block%22)</span>
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?54099)
----&nbsp;*1966&nbsp;Nebula Nominee* 
-* 1965, <span class="btitle">[Slow Tuesday Night](http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm)</span>
-&middot; [D.S.](http://happinessisfreesf.blogspot.com/2012/12/slow-tuesday-night-by-r-lafferty.html) (2012)
-&middot; [Peter Damien](http://www.sfsignal.com/archives/2010/02/slow_tuesday_night/)  (2010)
-&middot; [Gil Schmidt](http://gilthejenius.blogspot.com/2007/02/web-wonder.html) (2007)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?52458)
----&nbsp;*1966&nbsp;Nebula&nbsp;Nominee* 
-* 1964, <span class="btitle">[The Transcendent Tigers](https://web.archive.org/web/20071230052651/www.scifi.com/scifiction/classics/classics_archive/lafferty4/lafferty41.html)</span>
-&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/65026598841/75-the-transcendent-tigers) (2013)
-&middot; [Ellen Datlow](http://edsfproject.blogspot.com/2005/11/transcendent-tigers-by-ra-lafferty.html) (2005)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?59357)
-* 1962, <span class="btitle">[Sodom and Gomorrah, Texas](http://manybooks.net/titles/laffertyr2316123161.html)</span>
-&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas) (2013)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?59221)
-* 1961, <span class="btitle">[Rainbird](https://www.google.com/search?&q=r.a.+lafferty+%22rainbird%22)</span> 
-&middot; [Elton Gahr](http://www.humanities360.com/index.php/short-story-review-rainbird-by-ra-lafferty-37045/) (2009)
-&middot; [quotes](http://scifi.stackexchange.com/questions/36404/looking-for-a-story-about-a-time-traveler-talking-to-young-himself)
-&middot; [uchronia](http://www.uchronia.net/bib.cgi/label.html?id=laffrainbi)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?41022)
-* 1960, <span class="btitle">[The Six Fingers of Time](http://www.gutenberg.org/ebooks/31663)</span>
-&middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time) (2013)
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/title.cgi?58350)
+* [All Stories](/works/stories)
+* [Online Stories](/works/collections/online-stories)
+* [Nominees & Winners](/works/collections/honors)
 
 ## Collections {#collections}
 
@@ -115,7 +59,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"does+anyone+else+have+something"&_sop=15)
   &middot;&nbsp;[preview](http://books.google.com/books?id=iCLjH0ujC_8C&printsec=frontcover#v=onepage&q&f=false)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?10498)
-* <span class="btitle">Golden Gate and Other Stories</span>
+* <span class="btitle">[Golden Gate and Other Stories](/works/collections/golden-gate-and-other-stories/)</span>
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/470849.Golden_Gate_and_Other_Stories#other_reviews "1 review")
   &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=golden+gate+stories) 
   &middot;&nbsp;[ebay](http://www.ebay.com/sch/i.html?_from=R40&_nkw=lafferty+"golden+gate"&_sop=15)
@@ -141,7 +85,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[library](http://www.worldcat.org/title/lafferty-in-orbit/oclc/47089030?referer=di&ht=edition)
   &middot;&nbsp;[preview](http://books.google.com/books?id=Oyx5Fj2XsGAC&printsec=frontcover#v=onepage&q&f=false)
   &middot;&nbsp;[isfdb](http://www.isfdb.org/cgi-bin/pl.cgi?19864)
-* <span class="btitle">**Nine Hundred Grandmothers**</span>
+* <span class="btitle">[Nine Hundred Grandmothers](/works/collections/nine-hundred-grandmothers)</span>
   &middot; [Ted Gioia](http://conceptualfiction.com/nine_hundred_grandmothers.html) (2014)
   &middot;&nbsp;[Jed Hartman](http://www.sfsignal.com/archives/2010/06/mind_meld_what_single-author_short_fiction_collections_should_be_in_every_fans_library_2/#more-44295) (2010)
   &middot;&nbsp;[Bill Hader](http://artsbeat.blogs.nytimes.com/2008/01/31/its-so-incredibly-tulsa-bill-haders-book-picks/?_php=true&_type=blogs&_r=0) (2008)

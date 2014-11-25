@@ -353,6 +353,13 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 {% endfor %}
 </span>
 
+<br><br>
+<b>Collections:</b> 
+&middot;&nbsp;<a href="/works/collections/online-stories">Online</a> &nbsp;
+&middot;&nbsp;<a href="/works/collections/honors">Honors</a> &nbsp;
+&middot;&nbsp;<a href="/works/collections/nine-hundred-grandmothers">900GM</a> &nbsp;
+&middot;&nbsp;<a href="/works/collections/golden-gate-and-other-stories">Golden Gate</a>
+
 </div>
 
 <h2><span id="headline">All Stories</span></h2>
@@ -386,8 +393,8 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 					{% endif %}
 				</span>
 
-				{% if story.isfdb %}
-					(<a href="{{ story.isfdb }}">{{ story_details.year }}</a>)
+				{% if story_details.isfdb %}
+					(<a href="{{ story_details.isfdb }}">{{ story_details.year }}</a>)
 				{% else %}
 					({{ story_details.year }})
 				{% endif %}
@@ -395,26 +402,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 				&nbsp;&nbsp;&nbsp;&nbsp;
 				<img id="img-{{ story.id }}" style="display:none" class="work-annote" onClick="f_star(this);" src="{{ base.siteurl }}/images/star-empty.png">
 
-	  			{% for review in story.reviews %}
-					{% for review_details in site.data.reviews.reviews %}
-						{% if review.id == review_details.id %}
-							{% if review_details.summary %}
-								<ul style="display: none;" class="work-review taglist">
-								<em>{{ review_details.summary }}
-								<br>&nbsp;&nbsp;&nbsp;
-								{{ review_details.rating }}
-								&mdash;
-								{% for reviewer in site.data.reviewers.reviewers %}
-									{% if reviewer.id == review_details.reviewer %}
-										{{ reviewer.name }}, {{ review_details.year }}
-									{% endif %}
-								{% endfor %}
-								</em></ul>
-							{% endif %}
-
-						{% endif %}
-					{% endfor %}
-				{% endfor %}
+				{% include ratings.html %}
 
 				{% if story_details.excerpt %}
 				<ul style="display:none" class="work-summary"><blockquote>
@@ -423,44 +411,11 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 				</blockquote></ul>
 				{% endif %}
 
-				<ul class="work-award taglist">
-				{% for award in story_details.awards %}
-					{% if forloop.first %} 
-					<i style="color:#ADADAD;" class="fa fa-trophy"></i> &nbsp;
-					{% endif %}
-					&middot; {{ award.year }} {{ award.award }} {{ award.place }}
-					{% if forloop.last %}{% else %}&nbsp;&nbsp;{% endif %}
-				{% endfor %}
-				</ul>
+				{% include read-online.html %}
 
-				<ul class="work-review taglist">
+				{% include awards.html %}
 
-	  			{% for review in story.reviews %}
-						{% if forloop.first %} 
-							{% assign hdr = '1' %}
-						{% endif %}
-					{% for review_details in site.data.reviews.reviews %}
-
-						{% if review.id == review_details.id %}
-						{% if review_details.url %}
-
-						{% if hdr == '1' %}
-							<i style="color:#ADADAD;" class="fa fa-thumbs-up"></i> &nbsp;
-							{% assign hdr = '0' %}
-						{% endif %}
-
-						&middot; <a href="{{ review_details.url }}">
-	  					{% for reviewer in site.data.reviewers.reviewers %}
-							{% if reviewer.id == review_details.reviewer %}
-								{{ reviewer.name }}
-							{% endif %}
-	  					{% endfor %}
-						</a> ({{ review_details.year }}) &nbsp;
-						{% endif %}
-						{% endif %}
-					{% endfor %}
-				{% endfor %}
-				</ul>
+				{% include reviews.html %}
 
 				<ul class="taglist" style="list-style-type: none;">
 					<li id="work-tags" class="work-tags"></li>

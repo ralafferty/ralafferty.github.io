@@ -10,6 +10,15 @@
 	"type":"ss",
 	"class":"tech",
 	"excerpt":"He was about the last of them.  What? The last of the great individualists? The last of the true creative geniuses of the century? The last of the sheer precursors? No. No. He was the last of the dolts.  Kids were being born smarter all the time when he came along, and they would be so forever more. He was about the last dumb kid ever born.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41432",
+	"collections":[	
+	 	{ "id":"co-2001-best-century"	},
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
+	"reviews":[
+		{ "id":"2013-aferguson-eurema", },
+		{ "id":"2012-dpetersen-eurema", },
+	],
 	"awards":[	
 	 	{
 			"place":"Winner",
@@ -29,6 +38,12 @@
 			"award":"Seiun",
 			"category":"Best Foreign Short Story",
 		},
+		{
+			"place":"Anthology",
+			"year":"2001",
+			"award":"Orson Scott Card",
+			"category":"<em>The Best Science Fiction of the Century</em>",
+		},
 	  ],
 	},
 	{
@@ -40,6 +55,10 @@
 	"type":"ss",
 	"class":"other",
 	"excerpt": "The  five  underground levels  had  been  parking  places  for motor  vehicles when  those  were  still  common,  but now  these depths were  turned into  warrens  and  hovels.  The  Sky-Seller lurked  and  lived  in  the  lowest  and  smallest  and  meanest  of them  all.  He  came  out  only  at  night.  Daylight  would  have  killed  him: he  knew that.  He  sold  out  of  the  darkest  shadows  of  the night.  He  had  only  a  few  (though  oddly  select) clients,  and  nobody knew  who  his  supplier  was.  He  said that  he  had  no  supplier, that he  gathered  and  made  the  stuff  himself.  Welkin Alauda,  a  full-bodied  but light-moving  girl (it  was said that  her  bones  were  hollow and  filled  with  air),  came to the  Sky-Seller just  before first  light,  just  when he  had  become highly  nervous  but  had not  yet  bolted to  his underground.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?40938",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	"awards":[	
 	 	{
 			"place":"Nominee",
@@ -58,6 +77,8 @@
 	"type":"ss",
 	"class":"alt-hist",
 	"excerpt": "Should there by another reason, Shackleton? Well, there is; but we go about it awkwardly and without knowing what we're doing. The thing about humans which nobody apparently wishes to notice, is that we're a species which has never had an adult culture. We feel that lack more and more as we become truly adult in other ways. It grows tedious to stretch out a childhood forever. The easy enjoyments, the easy rationality, the easy governments and sciences, are really childish things. We master them while we are yet children, and we look beyond. But there isn't anything beyond the childishness, Shackleton. We must find a deeper view somehow. We are looking for that something deeper here.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41436",
+	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
 	"awards":[	
 	 	{
 			"place":"Nominee",
@@ -70,6 +91,12 @@
 			"year":"1971",
 			"award":"Nebula",
 			"category":"Best Short Story",
+		},
+		{
+			"place":"Anthology",
+			"year":"1973",
+			"award":"Damon Knight",
+			"category":"<em>The Golden Road</em>",
 		}
 	  ],
 	},
@@ -82,7 +109,12 @@
 	"type":"ss",
 	"class":"alt-hist",
 	"timeline":"1795",
-	"excerpt": "Did  you know that  the future  of  our  great  land  of Appalachia once hung  in  the  balance,  that  it  once depended  on  the  flip  of  a  coin? This  was  in  the  year 1788 when the  frontier  State  of  Franklin,  of  which  our Appalachia  is  the  overgrown  child,  was  threatered  with extinction.  The  state had endured  for  four  years. Then the traitor  John  Tipton  tried  to  betray  the  state back into  the  hands  of  North  Carolina. Had he  succeeded, our  own  fat  Appalachia might now be  thin  and  starving."
+	"excerpt": "Did  you know that  the future  of  our  great  land  of Appalachia once hung  in  the  balance,  that  it  once depended  on  the  flip  of  a  coin? This  was  in  the  year 1788 when the  frontier  State  of  Franklin,  of  which  our Appalachia  is  the  overgrown  child,  was  threatered  with extinction.  The  state had endured  for  four  years. Then the traitor  John  Tipton  tried  to  betray  the  state back into  the  hands  of  North  Carolina. Had he  succeeded, our  own  fat  Appalachia might now be  thin  and  starving.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?97872",
+	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffassaul",
+	"reviews":[
+		{ "id":"2009-bmunro-assault", },
+	]
 	},
 	{
 	"id":"1970-interurban",
@@ -93,7 +125,13 @@
 	"type":"ss",
 	"class":"alt-hist tech",
 	"timeline":"1896",
-	"excerpt":"And I will tell you another thing, boy: There is no future for the automobile. We cannot  let  there  be!  Consider the  man on  horseback,  and  I  have been  a  man  on  horseback  for  most of  my  life.  Well,  mostly  he  is  a  good  man, but there  is  a  change in  him  as  soon as he  mounts.  Every  man on horseback  is  an arrogant man, however  gentle  he may  be  on  foot.  I  know  this in  myself  and  in  others. He was  necessary  in his own  time, and  I  believe  that  time  is  ending.  There  was  always  extreme danger  from the  man  on horseback."
+	"excerpt":"And I will tell you another thing, boy: There is no future for the automobile. We cannot  let  there  be!  Consider the  man on  horseback,  and  I  have been  a  man  on  horseback  for  most of  my  life.  Well,  mostly  he  is  a  good  man, but there  is  a  change in  him  as  soon as he  mounts.  Every  man on horseback  is  an arrogant man, however  gentle  he may  be  on  foot.  I  know  this in  myself  and  in  others. He was  necessary  in his own  time, and  I  believe  that  time  is  ending.  There  was  always  extreme danger  from the  man  on horseback.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?43998",
+	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffinteru",
+	"reviews":[
+		{ "id": "2014-kwolf-interurban", },
+		{ "id": "2010-farhim-interurban", },
+	]
 	},
 	{
 	"id":"1961-rainbird",
@@ -105,6 +143,13 @@
 	"class":"alt-hist tech",
 	"timeline":"1785",
 	"excerpt":"For he pioneered the dynamo, the steam automobile, the steel industry, ferro-concrete construction, the internal combustion engine, electric illumination and power, the wireless, the televox, the petroleum and petrochemical industries, monorail transportation, air travel, worldwide monitoring, fissionable power, space travel, group telepathy, political and economic balance; he built a retrogressor; and he made great advances towards corporal immortality and the apotheosis of mankind. It would seem unfair that all this is unknown of him.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41022",
+	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffrainbi",
+	"quotes":"http://scifi.stackexchange.com/questions/36404/looking-for-a-story-about-a-time-traveler-talking-to-young-himself",
+	"reviews":[
+		{ "id": "2009-egahr-rainbird", },
+		{ "id": "2013-aferguson-rainbird", },
+	],
 	},
 	{
 	"id":"1967-charlemagne",
@@ -116,6 +161,12 @@
 	"class":"alt-hist imp-sci",
 	"timeline":"778",
 	"excerpt":"And what a head he chose! It was a sea-serpent head, a dragon head, five feet long and copied from an old carnival float. Epikt had also given himself human speech of a sort, a blend of Irish and Jewish and Dutch comedian patter from ancient vaudeville. Epikt was a comic to his last para-DNA relay when he rested his huge, boggle-eyed, crested head on the table there and smoked the biggest stogies ever born.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52255",
+	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffthuswe",
+	"reviews":[
+		{ "id":"2014-pkincaid-charlemagne", },
+		{ "id":"2014-livinggeek-charlemagne", },
+	]
 	},
 	{
 	"id":"1970-continued",
@@ -126,6 +177,10 @@
 	"type":"ss",
 	"class":"other",
 	"excerpt":"The chimney rock is only a little older than mankind, only a little younger than grass. Its formation had been up-thrust and then eroded away again, all but such harder parts as itself and other chimneys and blocks.  A party of five persons came to this place where the chimney rock had fallen against a still newer hill. The people of the party did not care about the deep lime­ stone below: they were not geologists. They  did  care about the newer hill  ( it was man-made )  and they did care a little about the rock chimney; they were archeologists.  Here was time heaped up, bulging out in casing and accumulation, and not in line sequence. And here also was striated and banded time, grown tall, and then shattered and broken.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41531",
+	"reviews":[
+		{ "id":"2004-srudnicki-contd", },
+	],
 	"awards":[	
 	 	{
 			"place":"Nominee",
@@ -167,6 +222,43 @@
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
+	"excerpt":"As he went into Money Market, the panhandler passed Ildefonsa Impala, the most beautiful woman in the city.  “Will you marry me this night, Ildy?” he asked cheerfully.  “Oh, I don't believe so, Basil,” she said. “I marry you pretty often, but tonight I don't seem to have any plans at all. You may make me a gift on your first & second, however. I always like that.” But when they had parted she asked herself: “But whom will I marry tonight?” The panhandler was Basil Bagelbaker, who would be the richest man in the world within an hour and a half. He would make and lose four fortunes within eight hours; and these not the little fortunes that ordinary men acquire, but titanic things.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52458",
+	"fulltext_url":"http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
+	"reviews":[
+		{ "id":"2012-hif-slow" 		},
+		{ "id":"2010-pdamien-slow" 	},
+		{ "id":"2007-gschmidt-slow" 	},
+	  ],
+	"awards":[	
+		{
+			"place":"Anthology",
+			"year":"2010",
+			"award":"Arthur B. Evans",
+			"category":"<em>The Wesleyan Anthology of Science Fiction</em>",
+		},
+		{
+			"place":"Anthology",
+			"year":"1979",
+			"award":"James Gunn",
+			"category":"<em>The Road To Science Fiction #3</em>",
+		},
+	 	{
+			"place":"Nominee",
+			"year":"1966",
+			"award":"Nebula",
+			"category":"Nominee",
+		},
+	  ],
+	},
+	{
+	"id":"1976-assault",
+	"title":"Assault on Fat Mountain",
+	"url":"assault-on-fat-mountain",
+	"author":"R. A. Lafferty",
 	},
 	{
 	"id":"1960-six-fingers",
@@ -175,6 +267,14 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58350",
+	"fulltext_url":"http://www.gutenberg.org/files/31663/31663-h/31663-h.htm",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
+	"reviews":[
+		{ "id":"2013-aferguson-six-fingers"	},
+	  ],
 	},
 	{
 	"id":"1983-end",
@@ -199,6 +299,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
+	"excerpt":"“How old is saxophones?” “Born in the year 1840. The sire and inventor was Antoine Sax.” “How old is mice?” “Not old at all. About twenty-five million years old; almost the newest thing in animals. The first mouse, with no antecedents at all, popped out from behind a piece of baseboard quarter-round (in a cave, I suppose) just about that long ago.” “How old is Billy Dukes?”",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?67916",
+	"awards":[	
+		{
+			"place":"13<sup>th</sup>",
+			"year":"1974",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+	  ],
 	},
 	{
 	"id":"1970-long",
@@ -215,6 +325,19 @@
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
+	"excerpt":"Art Slick and Jim Boomer went to the rundown building next door. It was smaller, about a six-foot cube, and the sign said Public Stenographer . The clatter of a typewriter was coming from it, but the noise stopped when they opened the door.  A dark pretty girl was sitting in a chair before a small table. There was nothing else in the room, and no typewriter.  “I thought I heard a typewriter in here,” Art said.  “Oh that is me.” The girl smiled. “Sometimes I amuse myself make typewriter noises like a public stenographer is supposed to.”",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54099",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
+	"awards":[	
+	 	{
+			"place":"Nominee",
+			"year":"1966",
+			"award":"Nebula",
+			"category":"Nominee",
+		},
+	  ],
 	},
 	{
 	"id":"1964-speckled",
@@ -231,6 +354,19 @@
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
+	"excerpt":"Christopher Foxx was walking down a city street. No, it was a city road. It was really a city trail or path. He was walking in a fog, but the fog wasn't in the air or the ambient: it was in his head. Things were mighty odd here. There was just a little bit of something wrong about things.  Oceans of grass for one instance. Should a large and busy city (and this was clearly that) have blue-green grass belly-high in its main street? ",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58335",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
+	"awards":[	
+		{
+			"place":"Nominee",
+			"year":"1974",
+			"award":"Jupiter Awards",
+			"category":"Best Short Story",
+		},
+	  ],
 	},
 	{
 	"id":"1975-picketwire",
@@ -247,6 +383,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1965-honey",
@@ -255,6 +394,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1962-seven-terror",
@@ -263,6 +405,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1962",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	"derivatives":[	
 	 	{
 			"country":"Canada",
@@ -287,6 +432,33 @@
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
+	"excerpt":"In the year 1893, land allotments in severalty were made to the remaining eight hundred and twenty-one Pawnee Indians. Each would receive one hundred and sixty acres of land and no more, and thereafter the Pawnees would be expected to pay taxes on their land, the same as the White-Eyes did.  “Kitkehahke!” Clarence Big-Saddle cussed. “You can't kick a dog around proper on a hundred and sixty acres.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?53936",
+	"fulltext_url":"https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
+	"reviews":[
+		{ "id":"2013-kcheek-narrow" 	},
+		{ "id":"2013-mporcius-narrow" 	},
+		{ "id":"2006-darkroastedblend-narrow" 	},
+		{ "id":"1999-rginzler-narrow" 	},
+		{ "id":"mathfiction-narrow" 	},
+	],
+	"awards":[	
+		{
+			"place":"Anthology",
+			"year":"1998",
+			"award":"Robert Silverberg",
+			"category":"<em>The Fantasy Hall of Fame</em>",
+		},
+		{
+			"place":"Anthology",
+			"year":"1992",
+			"award":"Gardner Dozois",
+			"category":"<em>Modern Classics of Science Fiction</em>",
+		},
+	  ],
 	},
 	{
 	"id":"1967-hole",
@@ -295,6 +467,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1982-ifrit",
@@ -311,6 +486,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1976",
 	"type":"ss",
+	"excerpt":"“You are a little girl, Oread, a somewhat exasperating and precocious little girl.” “But I don't feel precocious. I feel like a rock-head. How can I be a little bit like papa and not anything like anyone else at all? What was the connection between myself and papa?” “There wasn't any at first, Oread, not like that. We were looking for a child since we could not have one of our own. I fell in love with you at first sight because you reminded me of Henry. And Henry fell in love with you at first sight because you reminded him of Henry.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69701",
+	"awards":[
+	 	{
+			"place":"Nominee",
+			"year":"2003",
+			"award":"Seiun",
+			"category":"Best Translated Short Story",
+		},
+	]
 	},
 	{
 	"id":"1971-world",
@@ -319,6 +504,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
+	"excerpt":"“We are on this mission because of one phrase, repeated by leaders of five different parties, and maintained in the face of vigorous courts martial,” Fairbridge Exendine, the singling leader, said with a sort of hooked wonder. “I have never been able to get that phrase out of my mind. ‘You'd never believe it’ was the phrase, and the men of the five parties, of the more than twenty parties in fact, would not elaborate on it much.”",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52549",
+	"awards":[	
+		{
+			"place":"8<sup>th</sup>",
+			"year":"1972",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+	  ],
 	},
 	{
 	"id":"1967-horses",
@@ -327,6 +522,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1960-glacier",
@@ -359,6 +557,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1977",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1969-north",
@@ -367,6 +568,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1969",
 	"type":"ss",
+	"excerpt":"“I have let my business go down,” Miller said. “My wife says that I have let her down. My sons say that I have turned into a sleepy stranger. Everybody agrees that I've lost all ambition and judgment. And yet I do have a stirring ambition. I am not able, however, to put it into words.” “We'll put it into words, Miller, either yours or mine,” Rousse said. “Slip up on it right now! Quickly, what is the stirring ambition?” “To visit the Northern Shore, and to make the visit stick.”",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69688",
+	"awards":[	
+		{
+			"place":"Anthology",
+			"year":"1997",
+			"award":"Gardner Dozois",
+			"category":"<em>Modern Classics of Fantasy</em>",
+		},
+	  ],
 	},
 	{
 	"id":"1970-cliff-climbers",
@@ -375,6 +586,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1960-worm",
@@ -391,6 +605,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1976-fog",
@@ -407,6 +624,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1972-summit",
@@ -439,6 +659,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1961-garden",
@@ -463,6 +686,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1964",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1966-grandmothers",
@@ -471,6 +697,23 @@
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
+	"excerpt":"They were down on the big asteroid Proavitus — a sphere that almost tinkled with the potential profit that might be shaken out of it. And the tough men of the Expedition knew their business. They signed big contracts on the native velvet-like bark scrolls and on their own parallel tapes. They impressed, inveigled and somewhat cowed the slight people of Proavitus. Here was a solid two-way market, enough to make them slaver. And there was a whole world of oddities that could lend themselves to the luxury trade.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54132",
+	"fulltext_url":"https://web.archive.org/web/20080124051430/http://www.scifi.com/scifiction/classics/classics_archive/lafferty/lafferty1.html",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
+	"reviews":[
+		{ "id": "2011-aferguson-grandmothers", },
+	],
+	"awards":[	
+		{
+			"place":"Anthology",
+			"year":"1993",
+			"award":"Ursula K. Le Guin & Brian Attebery",
+			"category":"<em>The Norton Book of Science Fiction</em>",
+		},
+	  ],
 	},
 	{
 	"id":"1965-pani",
@@ -551,6 +794,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1983-astronomer",
@@ -607,6 +853,11 @@
 	"author":"R. A. Lafferty",
 	"year":"1965",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54089",
+	"fulltext_url":"http://www.baenebooks.com/chapters/9781625791191/9781625791191___3.htm",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1986-rich",
@@ -631,6 +882,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?51928",
+	"reviews":[
+		{ "id": "2014-vjbayne-words", },
+	],
 	},
 	{
 	"id":"1961-all-people",
@@ -639,6 +894,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1970-river-shore",
@@ -653,8 +911,14 @@
 	"title":"The Transcendent Tigers",
 	"url":"the-transcendent-tigers",
 	"author":"R. A. Lafferty",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?59357",
+	"fulltext_url":"https://web.archive.org/web/20071230052651/www.scifi.com/scifiction/classics/classics_archive/lafferty4/lafferty41.html",
 	"year":"1964",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2013-aferguson-tigers" },
+		{ "id": "2005-edatlow-tigers" },
+	],
 	},
 	{
 	"id":"1973-seashore",
@@ -669,8 +933,13 @@
 	"title":"Sodom and Gomorrah, Texas",
 	"url":"sodom-and-gomorrah-texas",
 	"author":"R. A. Lafferty",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?59221",
+	"fulltext_url":"http://manybooks.net/titles/laffertyr2316123161.html",
 	"year":"1962",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2013-aferguson-texas" },
+	],
 	},
 	{
 	"id":"1970-crocodile",
@@ -720,10 +989,14 @@
 	"year":"1972",
 	"type":"ss",
 	"collections":[	
-	 	{ "id":"1972-walk" 	},
-		{ "id":"1991-sacred" 	},
+	 	{ "id":"co-1972-walk" 		},
+		{ "id":"co-1991-sacred" 	},
 	  ],
 	"excerpt":"The Queer Fish claim that Gaea (Earth) is the most anciently peopled of the worlds and that they themselves are the most ancient people. But they set their own first appearance in quite late times, and they contradict the true ancientness of humans and proto-humans. The Queer Fish have been bloody and warlike in their times. They have been Oceanic as well as Sky-Faring, in some cases beyond ourselves in that phase. They have even been, in several peculiar contexts, creative.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?60185",
+	"reviews":[
+		{ "id":"2009-dpetersen-walk", },
+	]
 	},
 	{
 	"id":"1973-violet",
@@ -732,6 +1005,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1973",
 	"type":"ss",
+	"excerpt":"“Properly to carry out the next assignment for this class, it will be necessary that you die,” the instructor said.  “Some of you may not want to do this. If you do not, I will have to demerit you as for any other neglected assignment. There are several straight-A students in this class, however, and I am sure that they will want to continue so. To them I say ‘Carry out this assignment.’”",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?67939",
+	"awards":[	
+		{
+			"place":"9<sup>th</sup>",
+			"year":"1974",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+	  ],
 	},
 	{
 	"id":"1979-eve",
@@ -756,6 +1039,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1976-freeze",
@@ -780,6 +1066,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1977-brain",
@@ -804,6 +1093,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58342",
+	"reviews":[
+		{ "id":"2014-livinggeek-never-was", },
+	]
 	},
 	{
 	"id":"1980-torpedo",
@@ -828,6 +1121,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1982-eyes-big",
@@ -836,6 +1132,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1983-jack",
@@ -844,6 +1143,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69671",
+	"reviews":[
+		{ "id": "2014-vjbayne-jack", },
+	],
 	},
 	{
 	"id":"1978-cracks",
@@ -868,6 +1171,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1966-primary",
@@ -876,6 +1182,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1978-bright",
@@ -892,6 +1201,14 @@
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
+	"awards":[	
+		{
+			"place":"15<sup>th</sup>",
+			"year":"1979",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+	  ],
 	},
 	{
 	"id":"1971-hinges",
@@ -900,6 +1217,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
+	"excerpt":"Eginhard wrote that the Hinges of the World are, the one of them in the Carnic Alps north of the Isarko and quite near High Glockner, and the other one in the Wangeroog in the Frisian islands off the Weser mouth and under the water of this shelf; and that these hinges are made of iron. It is the Germanies, the whole great country between these hinges that turns over, he wrote, after either a long generation or a short generation.  The only indication of the turning over is a groaning of the World Hinges too brief to terrify. That which rises out of the Earth has the same appearance in mountains and rivers and towns and people as the land that it replaces.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69724",
+	"awards":[
+	 	{
+			"place":"Winner",
+			"year":"1993",
+			"award":"Seiun",
+			"category":"Foreign Short Fiction",
+		},
+	]
 	},
 	{
 	"id":"1966-hairy",
@@ -1196,6 +1523,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1990",
 	"type":"ss",
+	"excerpt":"He, whoever he was, stirred out of a fitful sleep into a frozen and apprehensive fear of falling. He supposed that he was a man of the human sort, as he usually was when he woke up in such a turmoil.  His stirring had caused him to slip another notch and to dislodge something more of whatever was holding him up. And whatever had woke him up was the whistling of a frozen substance falling, through the frozen air, to a very great distance down. He felt insecure, and he realized that most of what he had been lying on had now vanished into space.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69676",
+	"awards":[
+	 	{
+			"place":"Winner",
+			"year":"1993",
+			"award":"Theodore Sturgeon Memorial Award",
+			"category":"Best Short Story",
+		},
+	]
 	},
 	{
 	"id":"1991-brains",
@@ -1270,12 +1607,15 @@
 	"type":"ss",
 	},
 	{
-	"id":"1968-town",
+	"id":"1964-town",
 	"title":"What's the Name of That Town?",
 	"url":"whats-the-name-of-that-town",
 	"author":"R. A. Lafferty",
-	"year":"1968",
+	"year":"1964",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1974-ducks",
@@ -1300,6 +1640,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1976-horns",
@@ -1348,6 +1691,14 @@
 	"author":"R. A. Lafferty",
 	"year":"1969",
 	"type":"ss",
+	"awards":[	
+		{
+			"place":"22<sup>nd</sup>",
+			"year":"1994",
+			"award":"Locus",
+			"category":"Best Short Story",
+		},
+	  ],
 	},
 	{
 	"id":"1961-aloys",
@@ -1404,6 +1755,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1973-will",
@@ -1484,6 +1838,14 @@
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
+	"awards":[
+	 	{
+			"place":"Nominee",
+			"year":"1995",
+			"award":"Seiun",
+			"category":"Foreign Short Story",
+		},
+	]
 	},
 	{
 	"id":"1974-licorice",
@@ -1492,6 +1854,16 @@
 	"author":"R. A. Lafferty",
 	"year":"1974",
 	"type":"ss",
+	"excerpt":"Black Red had been sixteen years at stud. This was after a strict colthood and eight years of competitive horse racing. Now he had become a very slow and undependable stud. He was one old horse.  He gnawed a clump of prickly pear. He had been a stupid and rock-headed horse from his youth, and now that his eyes were shot he would eat anything. His owner chewed on a length of big bluestem grass and contemplated him. It was too bad to sell, for nine dollars for cat meat, a horse that had earned five million dollars. But what else could be done with the old animal? But Black Red smelled a brother horse, an old flyer like himself, and he raised his head.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69690",
+	"awards":[	
+		{
+			"place":"10<sup>th</sup>",
+			"year":"1975",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+	  ],
 	},
 	{
 	"id":"1974-species",
@@ -1604,6 +1976,19 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"excerpt":"It was clear to Barnaby that Blackie was really a villain.  Not everybody knew this. A melodrama villain is only black behind the lights. Off stage he should have a heart of gold. Whether of wrestling match, or afternoon serial, or evening drama or film, or on the little stage here at the Golden Gate Bar, the villain should be — when his role is finished — kind and courteous, thoughtful and big-hearted, a prince of a fellow.",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58339",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
+	"awards":[	
+		{
+			"place":"15<sup>th</sup>",
+			"year":"1984",
+			"award":"Locus",
+			"category":"Best Short Fiction",
+		},
+	  ],
 	},
 	{
 	"id":"1982-leagues",
@@ -1652,6 +2037,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1982-marsilia",
@@ -1660,6 +2048,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1982-itch",
@@ -1668,6 +2059,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1982-golden-gate"	},
+	  ],
 	},
 	{
 	"id":"1983-wings",
@@ -1796,6 +2190,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1968",
 	"type":"ss",
+	"collections":[	
+	 	{ "id":"co-1970-grandmothers"	},
+	  ],
 	},
 	{
 	"id":"1971-lands",
