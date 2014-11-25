@@ -359,10 +359,8 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 &middot;&nbsp;<a href="/works/collections/honors">Honors</a> &nbsp;
 &middot;&nbsp;<a href="/works/collections/nine-hundred-grandmothers">900GM</a> &nbsp;
 &middot;&nbsp;<a href="/works/collections/golden-gate-and-other-stories">Golden Gate</a>
-<br>
-
 </div>
-
+<br>
 <h2><span id="headline">All Stories</span></h2>
 
 <ul style="list-style-type: none;" id="work-ul" class="work-ul">
