@@ -38,7 +38,7 @@ redirect_from: "/writing/"
 
 * [All Stories](/works/stories)
 * [Online Stories](/works/collections/online-stories)
-* [Nominees & Winners](/works/collections/honors)
+* [Award Nominees & Winners](/works/collections/honors)
 
 ## Collections {#collections}
 

@@ -2,6 +2,24 @@
 	"_comment": "Copyright (c) 2014, Rich Persaud, All Rights Reserved",
 	"reviews":[
 	{
+		"id":"2013-aferguson-holy-woman",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/52139597797/34-holy-woman",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-through",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/50977319096/28-through-other-eyes",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-tin-can",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/59275814968/64-ride-a-tin-can",
+		"year":"2013",
+	},
+	{
 		"id":"2013-aferguson-eurema",
 		"reviewer":"aferguson",
 		"url":"http://ralafferty.tumblr.com/post/62040086300/70-euremas-dam",
@@ -26,6 +44,18 @@
 		"year":"2013",
 	},
 	{
+		"id":"2013-aferguson-honey", 
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/65976895269/76-hog-belly-honey",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-polite", 
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/55135074972/48-the-polite-people-of-punibundia",
+		"year":"2013",
+	},
+	{
 		"id":"2013-aferguson-texas", 
 		"reviewer":"aferguson",
 		"url":"http://ralafferty.tumblr.com/post/63240518818/71-sodom-and-gomorrah-texas",
@@ -35,6 +65,36 @@
 		"id":"2013-aferguson-six-fingers", 
 		"reviewer":"aferguson",
 		"url":"http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-guesting",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/64176263343/73-guesting-time",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-worm",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/54889074969/47-mcgonigals-worm",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-snuffles",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/57320000546/54-snuffles",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-task-force",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/63706160210/72-task-force-fifty-eight-and-a-half",
+		"year":"2013",
+	},
+	{
+		"id":"2013-aferguson-golden-gate",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/50714796965/27-golden-gate",
 		"year":"2013",
 	},
 	{
@@ -161,9 +221,16 @@
 		"year":"2007",
 	},
 	{
-		"id":"2005-edatlow-tigers",
-		"reviewer":"edatlow",
+		"id":"2005-mmorrow-tigers",
+		"reviewer":"mmorrow",
 		"url":"http://edsfproject.blogspot.com/2005/11/transcendent-tigers-by-ra-lafferty.html",
+		"year":"2005",
+	},
+	{
+		"id":"2002-mscott-hinges",
+		"reviewer":"mscott",
+		"url":"http://www.amazon.com/review/R31CLK9TS5FTQD/",
+		"year":"2002",
 	},
    ]
 }

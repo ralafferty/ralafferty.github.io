@@ -398,6 +398,9 @@
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
+	"reviews":[
+		{ "id": "2013-aferguson-honey", },
+	],
 	},
 	{
 	"id":"1962-seven-terror",
@@ -598,6 +601,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2013-aferguson-worm", },
+	],
 	},
 	{
 	"id":"1960-through",
@@ -606,6 +612,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"reviews":[
+		{ "id":"2013-aferguson-through"	},
+	  ],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
@@ -660,6 +669,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2013-aferguson-snuffles", },
+	],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
@@ -787,6 +799,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2013-aferguson-polite", },
+	],
 	},
 	{
 	"id":"1970-frog",
@@ -830,6 +845,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2013-aferguson-ride-tin", },
+	],
 	},
 	{
 	"id":"1970-old",
@@ -860,6 +878,9 @@
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
+	"reviews":[
+		{ "id": "2013-aferguson-guesting", },
+	],
 	},
 	{
 	"id":"1986-rich",
@@ -920,7 +941,7 @@
 	"excerpt":"This was the birthday of Carnadine Thompson. She was seven years old. Thereby she left her childhood behind her, and came into the fullness of her powers. This was her own phrase, and her own idea of the importance of the milestone.  There were others, mostly adult, who thought that she was a peculiarly backward little girl in some ways, though precocious in others.  She received for her birthday four presents: a hollow, white rubber ball, a green plastic frog, a red cap and a little wire puzzle.",
 	"reviews":[
 		{ "id": "2013-aferguson-tigers" },
-		{ "id": "2005-edatlow-tigers" },
+		{ "id": "2005-mmorrow-tigers" },
 	],
 	},
 	{
@@ -960,6 +981,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1964",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?59952",
+	"reviews":[
+		{ "id": "2002-mscott-hinges", },
+	],
 	},
 	{
 	"id":"1968-carcass",
@@ -1223,6 +1248,9 @@
 	"type":"ss",
 	"excerpt":"Eginhard wrote that the Hinges of the World are, the one of them in the Carnic Alps north of the Isarko and quite near High Glockner, and the other one in the Wangeroog in the Frisian islands off the Weser mouth and under the water of this shelf; and that these hinges are made of iron. It is the Germanies, the whole great country between these hinges that turns over, he wrote, after either a long generation or a short generation.  The only indication of the turning over is a groaning of the World Hinges too brief to terrify. That which rises out of the Earth has the same appearance in mountains and rivers and towns and people as the land that it replaces.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69724",
+	"reviews":[
+		{ "id": "2002-mscott-hinges", },
+	],
 	"awards":[
 	 	{
 			"place":"Winner",
@@ -1447,6 +1475,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2013-aferguson-task-force", },
+	],
 	},
 	{
 	"id":"1988-mountain",
@@ -1495,6 +1526,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1990",
 	"type":"ss",
+	"reviews":[
+		{ "id":"2013-aferguson-holy-woman"	},
+	  ],
 	},
 	{
 	"id":"1990-morning",
@@ -1984,6 +2018,9 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58339",
 	"collections":[	
 	 	{ "id":"co-1982-golden-gate"	},
+	  ],
+	"reviews":[
+		{ "id":"2013-aferguson-golden-gate"	},
 	  ],
 	"awards":[	
 		{

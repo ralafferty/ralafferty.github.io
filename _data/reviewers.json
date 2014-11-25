@@ -102,5 +102,13 @@
 		"name":"Gil Schmidt",
 		"url":"http://gilthejenius.blogspot.com",
 	},
+	{
+		"id":"mmorrow",
+		"name":"Mike Morrow",
+	},
+	{
+		"id":"mscott",
+		"name":"Mike Scott",
+	},
    ]
 }
