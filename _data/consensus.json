@@ -166,6 +166,7 @@
 	"reviews":[
 		{ "id":"2014-pkincaid-charlemagne", },
 		{ "id":"2014-livinggeek-charlemagne", },
+		{ "id":"2005-muk-charlemagne", },
 	]
 	},
 	{
@@ -179,7 +180,8 @@
 	"excerpt":"The chimney rock is only a little older than mankind, only a little younger than grass. Its formation had been up-thrust and then eroded away again, all but such harder parts as itself and other chimneys and blocks.  A party of five persons came to this place where the chimney rock had fallen against a still newer hill. The people of the party did not care about the deep lime­ stone below: they were not geologists. They  did  care about the newer hill  ( it was man-made )  and they did care a little about the rock chimney; they were archeologists.  Here was time heaped up, bulging out in casing and accumulation, and not in line sequence. And here also was striated and banded time, grown tall, and then shattered and broken.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41531",
 	"reviews":[
-		{ "id":"2004-srudnicki-contd", },
+		{ "id":"2005-muk-continued", },
+		{ "id":"2004-srudnicki-continued", },
 	],
 	"awards":[	
 	 	{
@@ -232,6 +234,7 @@
 		{ "id":"2012-hif-slow" 		},
 		{ "id":"2010-pdamien-slow" 	},
 		{ "id":"2007-gschmidt-slow" 	},
+		{ "id":"2006-muk-slow" 		},
 	  ],
 	"awards":[	
 		{
@@ -318,6 +321,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58333",
+	"reviews":[
+		{ "id": "2004-muk-long", },
+	],
 	},
 	{
 	"id":"1965-block",
@@ -328,6 +335,9 @@
 	"type":"ss",
 	"excerpt":"Art Slick and Jim Boomer went to the rundown building next door. It was smaller, about a six-foot cube, and the sign said Public Stenographer . The clatter of a typewriter was coming from it, but the noise stopped when they opened the door.  A dark pretty girl was sitting in a chair before a small table. There was nothing else in the room, and no typewriter.  “I thought I heard a typewriter in here,” Art said.  “Oh that is me.” The girl smiled. “Sometimes I amuse myself make typewriter noises like a public stenographer is supposed to.”",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54099",
+	"reviews":[
+		{ "id": "2003-muk-block", },
+	],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
@@ -357,6 +367,9 @@
 	"type":"ss",
 	"excerpt":"Christopher Foxx was walking down a city street. No, it was a city road. It was really a city trail or path. He was walking in a fog, but the fog wasn't in the air or the ambient: it was in his head. Things were mighty odd here. There was just a little bit of something wrong about things.  Oceans of grass for one instance. Should a large and busy city (and this was clearly that) have blue-green grass belly-high in its main street? ",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58335",
+	"reviews":[
+		{ "id": "2004-muk-days-grass", },
+	],
 	"collections":[	
 	 	{ "id":"co-1982-golden-gate"	},
 	  ],
@@ -409,6 +422,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1962",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2005-muk-seven-terror", },
+	],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
@@ -446,6 +462,7 @@
 		{ "id":"2013-kcheek-narrow" 	},
 		{ "id":"2013-mporcius-narrow" 	},
 		{ "id":"2006-darkroastedblend-narrow" 	},
+		{ "id":"2004-muk-narrow" 	},
 		{ "id":"1999-rginzler-narrow" 	},
 		{ "id":"mathfiction-narrow" 	},
 	],
@@ -492,6 +509,9 @@
 	"type":"ss",
 	"excerpt":"“You are a little girl, Oread, a somewhat exasperating and precocious little girl.” “But I don't feel precocious. I feel like a rock-head. How can I be a little bit like papa and not anything like anyone else at all? What was the connection between myself and papa?” “There wasn't any at first, Oread, not like that. We were looking for a child since we could not have one of our own. I fell in love with you at first sight because you reminded me of Henry. And Henry fell in love with you at first sight because you reminded him of Henry.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69701",
+	"reviews":[
+		{ "id": "2013-kcheek-funny", },
+	],
 	"awards":[
 	 	{
 			"place":"Nominee",
@@ -510,6 +530,9 @@
 	"type":"ss",
 	"excerpt":"“We are on this mission because of one phrase, repeated by leaders of five different parties, and maintained in the face of vigorous courts martial,” Fairbridge Exendine, the singling leader, said with a sort of hooked wonder. “I have never been able to get that phrase out of my mind. ‘You'd never believe it’ was the phrase, and the men of the five parties, of the more than twenty parties in fact, would not elaborate on it much.”",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52549",
+	"reviews":[
+		{ "id": "2006-muk-abounding", },
+	],
 	"awards":[	
 		{
 			"place":"8<sup>th</sup>",
@@ -526,6 +549,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
+	"reviews":[
+		{ "id": "2005-muk-horses", },
+	],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
@@ -545,6 +571,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1971",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54478",
+	"reviews":[
+		{ "id": "2005-muk-boomer", },
+	],
 	},
 	{
 	"id":"1976-springs",
@@ -614,6 +644,7 @@
 	"type":"ss",
 	"reviews":[
 		{ "id":"2013-aferguson-through"	},
+		{ "id":"2005-muk-through"	},
 	  ],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
@@ -671,6 +702,7 @@
 	"type":"ss",
 	"reviews":[
 		{ "id": "2013-aferguson-snuffles", },
+		{ "id": "2005-muk-snuffles" 	},
 	],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
@@ -718,6 +750,7 @@
 	  ],
 	"reviews":[
 		{ "id": "2011-aferguson-grandmothers", },
+		{ "id": "2005-muk-grandmothers", },
 	],
 	"awards":[	
 		{
@@ -810,6 +843,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58338",
+	"reviews":[
+		{ "id": "2005-muk-frog", },
+	],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
@@ -1211,6 +1248,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1966",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52441",
+	"reviews":[
+		{ "id": "2006-muk-primary", },
+	  ],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
@@ -1230,6 +1271,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1978",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?67513",
+	"reviews":[
+		{ "id": "2004-muk-selenium", },
+	  ],
 	"awards":[	
 		{
 			"place":"15<sup>th</sup>",
@@ -1249,6 +1294,7 @@
 	"excerpt":"Eginhard wrote that the Hinges of the World are, the one of them in the Carnic Alps north of the Isarko and quite near High Glockner, and the other one in the Wangeroog in the Frisian islands off the Weser mouth and under the water of this shelf; and that these hinges are made of iron. It is the Germanies, the whole great country between these hinges that turns over, he wrote, after either a long generation or a short generation.  The only indication of the turning over is a groaning of the World Hinges too brief to terrify. That which rises out of the Earth has the same appearance in mountains and rivers and towns and people as the land that it replaces.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69724",
 	"reviews":[
+		{ "id": "2005-muk-hinges", },
 		{ "id": "2002-mscott-hinges", },
 	],
 	"awards":[
@@ -1275,6 +1321,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69721",
+	"reviews":[
+		{ "id": "2003-muk-adam", },
+	],
 	},
 	{
 	"id":"1975-thunder",
@@ -1403,6 +1453,10 @@
 	"author":"R. A. Lafferty",
 	"year":"1984",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58345",
+	"reviews":[
+		{ "id": "2013-kcheek-whatta", },
+	],
 	},
 	{
 	"id":"1984-salt",
@@ -1819,7 +1873,11 @@
 	"url":"memoir-about-a-secret-crocodile",
 	"author":"R. A. Lafferty",
 	"year":"1980",
-	"type":"es",
+	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?51980",
+	"reviews":[
+		{ "id": "2005-muk-crocodile", },
+	],
 	},
 	{
 	"id":"1974-bears",
@@ -2346,6 +2404,9 @@
 	"author":"R. A. Lafferty",
 	"year":"1988",
 	"type":"ss",
+	"reviews":[
+		{ "id":"2005-muk-briar" },
+	]
 	}
   ]
 }

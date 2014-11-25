@@ -94,6 +94,8 @@
 	{
 		"id":"co-2014-honors",
 		"title":"Honors",
+		"img":"lafferty-vaughn-bode.jpg",
+		"img_url":"http://www.challzine.net/archives.html",
 		"stories":[
 			{ "id":"1965-slow", 		"year":"2010" },
 			{ "id":"1976-funny", 		"year":"2003" },

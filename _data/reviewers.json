@@ -110,5 +110,10 @@
 		"id":"mscott",
 		"name":"Mike Scott",
 	},
+	{
+		"id":"muk",
+		"name":"Mulle Kybernetik",
+		"url":"http://www.mulle-kybernetik.com/RAL",
+	},
    ]
 }

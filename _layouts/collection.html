@@ -2,12 +2,6 @@
 layout: default
 ---
 
-
-<span class="btitle">Collection</span>
-<header class="post-header">
-	<h3 class="post-title"><em>{{ page.title }}</em><br><span style="font-size: 70%">&mdash;R.&nbsp;A.&nbsp;Lafferty</span></h3>
-</header>
-
 <div class="post">
 
 <ul style="list-style-type: none;" id="work-ul" class="work-ul">
@@ -16,8 +10,15 @@ layout: default
 	{% if collection.id == page.collection_id %}
 
 		{% if collection.img %}
-		<img width="140px" align="right" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"></img>
+			{% if collection.img_url %}<a href="{{ collection.img_url }}">{% endif %}
+			<img width="140px" align="right" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"></img>
+			{% if collection.img_url %}</a>{% endif %}
 		{% endif %}
+
+		<span class="btitle">Collection</span>
+		<header class="post-header">
+			<h3 class="post-title"><em>{{ page.title }}</em><br><span style="font-size: 70%">&mdash;R.&nbsp;A.&nbsp;Lafferty</span></h3>
+		</header>
 
 		<br>
 		{% if collection.year %}
