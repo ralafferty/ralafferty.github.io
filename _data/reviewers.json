@@ -115,5 +115,10 @@
 		"name":"Mulle Kybernetik",
 		"url":"http://www.mulle-kybernetik.com/RAL",
 	},
+	{
+		"id":"lafferty",
+		"name":"R.A. Lafferty",
+		"url":"http://www.ralafferty.org",
+	},
    ]
 }

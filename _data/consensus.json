@@ -20,18 +20,6 @@
 		{ "id":"2012-dpetersen-eurema", },
 	],
 	"awards":[	
-	 	{
-			"place":"Winner",
-			"year":"1973",
-			"award":"Hugo",
-			"category":"Best Short Story",
-		},
-		{
-			"place":"16<sup>th</sup>",
-			"year":"1973",
-			"award":"Locus",
-			"category":"Best Short Fiction",
-		},
 		{
 			"place":"Winner",
 			"year":"1975",
@@ -43,6 +31,18 @@
 			"year":"2001",
 			"award":"Orson Scott Card",
 			"category":"<em>The Best Science Fiction of the Century</em>",
+		},
+	 	{
+			"place":"Winner",
+			"year":"1973",
+			"award":"Hugo",
+			"category":"Best Short Story",
+		},
+		{
+			"place":"16<sup>th</sup>",
+			"year":"1973",
+			"award":"Locus",
+			"category":"Best Short Fiction",
 		},
 	  ],
 	},
@@ -80,6 +80,12 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41436",
 	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
 	"awards":[	
+		{
+			"place":"Anthology",
+			"year":"1973",
+			"award":"Damon Knight",
+			"category":"<em>The Golden Road</em>",
+		},
 	 	{
 			"place":"Nominee",
 			"year":"1971",
@@ -92,12 +98,6 @@
 			"award":"Nebula",
 			"category":"Best Short Story",
 		},
-		{
-			"place":"Anthology",
-			"year":"1973",
-			"award":"Damon Knight",
-			"category":"<em>The Golden Road</em>",
-		}
 	  ],
 	},
 	{
@@ -182,8 +182,14 @@
 	"reviews":[
 		{ "id":"2005-muk-continued", },
 		{ "id":"2004-srudnicki-continued", },
+		{ "id":"1979-lafferty-continued", },
 	],
 	"awards":[	
+		{
+			"place":"Nominee",
+			"year":"1972",
+			"award":"Ditmar",
+		},
 	 	{
 			"place":"Nominee",
 			"year":"1971",
@@ -195,11 +201,6 @@
 			"year":"1971",
 			"award":"Nebula",
 			"category":"Best Short Story",
-		},
-		{
-			"place":"Nominee",
-			"year":"1972",
-			"award":"Ditmar",
 		},
 		{
 			"place":"3<sup>rd</sup>",

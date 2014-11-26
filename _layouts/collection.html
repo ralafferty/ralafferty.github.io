@@ -11,7 +11,9 @@ layout: default
 
 		{% if collection.img %}
 			{% if collection.img_url %}<a href="{{ collection.img_url }}">{% endif %}
-			<img width="140px" align="right" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"></img>
+			<img width="140px" align="right" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"
+			{% if collection.img_title %} title="{{ collection.img_title }}"{% endif %}
+			></img>
 			{% if collection.img_url %}</a>{% endif %}
 		{% endif %}
 

@@ -16,7 +16,11 @@
 
 		{% for reviewer in site.data.reviewers.reviewers %}
 			{% if reviewer.id == review_details.reviewer %}
-				&middot;&nbsp;<a href="{{ review_details.url }}">{{ reviewer.name }}</a>
+				&middot;&nbsp;<a href="{{ review_details.url }}"
+				{% if review_details.title %} 
+					title="{{ review_details.title }}"
+				{% endif %}
+				>{{ reviewer.name }}</a>
 			{% break %}
 			{% endif %}
 		{% endfor %}
