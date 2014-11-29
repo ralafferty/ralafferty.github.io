@@ -77,6 +77,21 @@
 			{ "id":"1982-bird" },
 			{ "id":"1971-sky" },
 		],
+	},
+	{
+		"id":"co-1988-the-early-lafferty",
+		"title":"The Early Lafferty",
+		"year":"1988",
+		"img":"TERLYLAF1988.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?38978",
+		"stories":[
+			{ "id":"1988-mountain" },
+			{ "id":"1959-wagons" },
+			{ "id":"1960-moon" },
+			{ "id":"1960-teeth" },
+			{ "id":"1960-saturday" },
+			{ "id":"1988-force" },
+		],
 	}, 
 	{
 		"id":"co-2014-online-stories",

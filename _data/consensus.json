@@ -2234,6 +2234,15 @@
 	"author":"R. A. Lafferty",
 	"year":"1959",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69665",
+	"excerpt":"Jimmy was nine, and Jim was twenty years older. They both liked to camp out all summer. They traveled in a Ford pickup with an extra drum of gas in the back.  They slept on the ground in their rolls and lived on coffee and bacon and flapjacks. They fished in the holes under the cottonwoods and shot jackrabbits and prairie dogs. The father and son were very close on these trips. And they went to ground in the short grass and brush country as though they had lived there for hundreds of years.  “Did they always go west — the wagons?” “Why no, Jimmy, they couldn't always go west. They went in all directions.”",
+	"reviews":[
+		{ "id":"2014-dpetersen-wagons"},
+		{ "id":"2013-aferguson-wagons" },
+	],
+	"collections":[	
+	 	{ "id":"co-1988-the-early-lafferty" },
+	  ],
 	},
 	{
 	"id":"1960-sea",

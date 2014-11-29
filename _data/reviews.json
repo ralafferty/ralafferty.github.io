@@ -8,6 +8,12 @@
 		"year":"2013",
 	},
 	{
+		"id":"2013-aferguson-wagons",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/51625679547/32-the-wagons",
+		"year":"2013",
+	},
+	{
 		"id":"2013-aferguson-through",
 		"reviewer":"aferguson",
 		"url":"http://ralafferty.tumblr.com/post/50977319096/28-through-other-eyes",
@@ -108,6 +114,12 @@
 		"reviewer":"dpetersen",
 		"url":"http://antsofgodarequeerfish.blogspot.com/2009/11/travelogue-of-laffertian-landscape-part_4398.html",
 		"year":"2009",
+	},
+	{
+		"id":"2014-dpetersen-wagons",
+		"reviewer":"dpetersen",
+		"url":"http://antsofgodarequeerfish.blogspot.com/2014/11/another-brief-short-story-review-wagons.html",
+		"year":"2014",
 	},
 	{
 		"id":"2009-bmunro-assault",
