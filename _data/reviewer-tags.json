@@ -45,7 +45,7 @@
 			{ 	"id":"tr", 	"title":"travelersyarns",		"detail":"... and Tall Tales"	},
 		],
 		"map": [
-			{	"id":"1959-wagons",	"tags": "" },
+			{	"id":"1959-wagons",	"tags": "na ec" },
 			{	"id":"1960-adam",	"tags": "sh op" },
 			{	"id":"1960-dreamer",	"tags": "" },
 			{	"id":"1960-glacier",	"tags": "gs" },
