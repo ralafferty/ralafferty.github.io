@@ -25,6 +25,7 @@
 	{
 		"id":"co-1970-grandmothers",
 		"title":"Nine Hundred Grandmothers",
+		"url":"nine-hundred-grandmothers",
 		"year":"1970",
 		"img":"NHNDRDG19XX.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?24318",
@@ -56,6 +57,7 @@
 	{
 		"id":"co-1982-golden-gate",
 		"title":"Golden Gate and Other Stories",
+		"url":"golden-gate-and-other-stories",
 		"year":"1982",
 		"img":"GLDNGTOS1982.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?15737",
@@ -80,6 +82,7 @@
 	},
 	{
 		"id":"co-1988-the-early-lafferty",
+		"url":"the-early-lafferty",
 		"title":"The Early Lafferty",
 		"year":"1988",
 		"img":"TERLYLAF1988.jpg",

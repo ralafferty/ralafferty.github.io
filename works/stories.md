@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /works/stories/
-title: 
+title: Short Stories
 weight: 4
 redirect_from: "/works-preview/"
 redirect_from: "/test/works-preview/"
@@ -35,8 +35,10 @@ function init()
 	var keys = [];
 	var obj = {};
 	for ( var key in u_annote )
+	{
 		if ( obj = document.getElementById( key ))
 			f_star_img ( obj );
+	}
 
 	for ( var key in u_config.span )
 		display_span (key, u_config.span [key] );
@@ -47,13 +49,23 @@ function init()
 		a_tags [ items[i].id ] = items[i].innerHTML;
 
 	var subset_found = false;
-	for ( var key in u_config.subset )
+
+	var tag = getParm ('tag');
+	if (tag)
 	{
-		if ( u_config.subset [key] )
+		f_subset (tag);
+		subset_found = true;
+	}
+	else
+	{
+		for ( var key in u_config.subset )
 		{
-			f_subset (key);
-			subset_found = true;	
-			break;
+			if ( u_config.subset[key] )
+			{
+				f_subset (key);
+				subset_found = true;
+				break;
+			}
 		}
 	}
 
@@ -67,6 +79,12 @@ function printObj ( testObj )
     for ( var i in testObj )
         szObj       += 'obj[' + i + ']=' + testObj[i]           ;
     return szObj    ;
+}
+
+function getParm ( name )
+{
+	var half = window.location.search.split(name+'=')[1];
+	return half? decodeURIComponent( half.split('&')[0]) : null; 
 }
 
 function f_star ( obj )
@@ -176,7 +194,7 @@ function f_subset( className )
 {
 	minimize_summary (); 
 
-	var text = document.getElementById( className );
+	var safe_className = '';
 
 	var ulist = document.getElementById( 'work-ul' );
 	var items = ulist.getElementsByClassName ( 'work-li' );
@@ -187,6 +205,7 @@ function f_subset( className )
 			el.style.display = 'none';
 		else
 		{
+			safe_className = className;
 			var tagspan = el.getElementsByClassName ( 'work-tags' );
 			var init = 0;
 
@@ -207,13 +226,22 @@ function f_subset( className )
 		}
 	}
 
-	document.getElementById("headline").innerHTML = text.text;
+	if ( safe_className )
+	{
+		var text = document.getElementById( safe_className );
+		document.getElementById("headline").innerHTML = text.text;
 
-	if ( typeof u_config.subset == 'undefined' )
-		u_config.subset = {};
+		if ( typeof u_config.subset == 'undefined' )
+			u_config.subset = {};
 
-	u_config.subset [className] = 1;
-	store.set ( APIver + 'config' , u_config );
+		u_config.subset [safe_className] = 1;
+		store.set ( APIver + 'config' , u_config );
+	}
+	else
+	{
+		reset_filter();
+	}
+
 	return false;
 }
 
@@ -271,25 +299,6 @@ function display_span (className, arg)
 }
 
 /*
-function f_comments (storyid)
-{
-	var idName = 'd-story-' + storyid;
-
-	var items = document.getElementsByClassName ( 'd-cmnt' );
-	for (i=0; i < items.length; i++)
-	{
-		var el =  items[i];
-
-		if (el.id == idName)
-			el.innerHTML = '<div id="disqus_thread"></div>';
-		else
-			el.innerHTML = '';
-	}
-	disqus_identifier = idName;
-	loadDisqus();
-	return false;
-}
-
 function loadJSON(path, success, error)
 {
     var xhr = new XMLHttpRequest();
@@ -309,7 +318,6 @@ function loadJSON(path, success, error)
     xhr.send();
 }
 
-// Register the handler for any event we might receive
 if (document.addEventListener) {
         document.addEventListener("DOMContentLoaded", init, false);
         document.addEventListener("readystatechange", init, false);
@@ -324,12 +332,9 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
          function(data) { j_stories = data; alert (printObj(data.stories[0])); },
          function(xhr) { console.error(xhr); } 
 ); 
-
 */
 
 </script>
-
-## The Short Stories of R.A. Lafferty
 
 <div>
 <b>Toggle On/Off:&nbsp;</b>
@@ -409,15 +414,17 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 
 				{% include awards.html %}
 
+				<ul class="taglist" style="list-style-type: none;">
+					<li id="work-tags" class="work-tags"></li>
+				</ul>
+
 				{% include reviews.html %}
 
 				<ul class="taglist" style="list-style-type: none;">
-					<li id="work-tags" class="work-tags"></li>
 					<li><i style="color:#ADADAD;" class="fa fa-comment"></i> 
 					&nbsp; &middot; <a class="disqus-comment-count" data-disqus-identifier="d-story-{{ story.id }}" href="{{ site.baseurl }}/works/stories/{{ story_details.url }}">Comments</a>
 					</li>
 				</ul>
-
 	
 			{% break %}
 			{% endif %}
