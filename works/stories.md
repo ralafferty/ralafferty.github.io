@@ -212,7 +212,7 @@ function f_subset( className )
 			for (var j=0; j < el.classList.length; j++)
 			{
 				var testClass = el.classList.item(j);
-				if ( testClass != 'work-li' && testClass != className )
+				if ( testClass != 'work-li' && testClass != safe_className )
 				{
 					if (!init)
 					{
