@@ -379,6 +379,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 						{% for map in tag.map %}
 							{% if story.id == map.id %}
 								{{ map.tags }}
+							{% break %}
 							{% endif %}
 						{% endfor %}
 					{% endfor %}
