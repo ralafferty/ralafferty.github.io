@@ -21,9 +21,9 @@ English-language discussion about the literature of R.&nbsp;A.&nbsp;Lafferty.
 <table cellpadding="5">
 {% for blog in site.data.blog.entries %}
   <tr>
-    <td><img src="{{ blog.image }}" width="40" title="{{ blog.author }}"></td>
-    <td><a href="{{ blog.link }}">{{ blog.title }}</a></td>
-    <td width="120" style="color:gray;">{{ blog.date }}</td>
+    <td valign="top"><img hspace="5" vspace="5" src="{{ blog.image }}" width="40" title="{{ blog.author }}"></td>
+    <td><a href="{{ blog.link }}">{{ blog.title | truncate: 70, '...' }}</a><br><em>{{ blog.author }}</em></td>
+    <td valign="top" width="120" style="color:gray;">{{ blog.date }}</td>
   </tr>
 {% endfor %}
 </table>
