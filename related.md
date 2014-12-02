@@ -20,7 +20,7 @@ redirect_from: "/others/"
 
 ## Writers {#writers}
 
-These writers were selected for uniqueness and similarity in style or theme to Lafferty's writing.  They are ordered by co-occurrence with *R.A. Lafferty* on web pages.  This results from co-publication, articles or reader discussion.  Please email your suggestions to *&lt;related&nbsp;@&nbsp;this-domain&gt;*.
+These writers were selected for uniqueness or similarity in style or theme to Lafferty's writing.  They are ordered by co-occurrence with *R.A. Lafferty* on web pages.  This results from co-publication, articles or reader discussion.  Please email your suggestions to *&lt;related&nbsp;@&nbsp;this-domain&gt;*.
 
 
   * <span class="stitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "...received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards.")</span> (2001)
@@ -141,12 +141,6 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/4764.Philip_K_Dick)
 &middot; [amazon](http://www.amazon.com/Philip-K.-Dick/e/B00BRTKOEA)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22philip+k.+dick%22 "19k results")
-  * <span class="stitle">[Michael F. Flynn](http://en.wikipedia.org/wiki/Michael_F._Flynn "...an American statistician and science fiction author. Nearly all of Flynn's work falls under the category of hard science fiction...")</span>
-&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?78)
-&middot; [sfe](http://www.sf-encyclopedia.com/entry/flynn_michael_f)
-&middot; [goodreads](http://www.goodreads.com/author/show/126502.Michael_Flynn)
-&middot; [amazon](http://www.amazon.com/Michael-Flynn/e/B000APBAJA)
-&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22michael+flynn%22 "18k results")
   * <span class="stitle">[Franz Kafka](http://en.wikipedia.org/wiki/Franz_Kafka "... a German-language writer of novels and short stories, regarded by critics as one of the most influential authors of the 20th century. ") (1924) </span>
 &middot; [fansite](http://www.kafka.org/)
 &middot; [fansite](http://www.kafka-online.info/)
@@ -154,6 +148,12 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/5223.Franz_Kafka)
 &middot; [amazon](http://www.amazon.com/Franz-Kafka/e/B002DPABLS)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22franz+kafka%22 "17k results")
+  * <span class="stitle">[Samuel Beckett](http://en.wikipedia.org/wiki/Samuel_Beckett "Irish avant-garde novelist and playwright ... His work offers a bleak, tragicomic outlook on human nature, often coupled with black comedy and gallows humour.  Beckett is widely regarded as among the most influential writers of the 20th century.")</span> (1989)
+&middot; [quotes](http://en.wikiquote.org/wiki/Samuel_Beckett)
+&middot; [fansite](http://samuel-beckett.net/)
+&middot; [goodreads](http://www.goodreads.com/author/show/1433597.Samuel_Beckett)
+&middot; [amazon](http://www.amazon.com/Samuel-Beckett/e/B000AQ2DVS)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22samuel+beckett%22 "16k results")
   * <span class="stitle">[Gabriel García Márquez](http://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez "...was a Colombian novelist, short-story writer, screenwriter and journalist... Considered one of the most significant authors of the 20th century, he was awarded the 1972 Neustadt International Prize for Literature and the 1982 Nobel Prize in Literature.")</span> (2014)
 &middot; [quotes](http://en.wikiquote.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)
 &middot; [themodernword](http://www.themodernword.com/gabo/)
@@ -168,6 +168,18 @@ These writers were selected for uniqueness and similarity in style or theme to L
 &middot; [goodreads](http://www.goodreads.com/author/show/337.Walker_Percy)
 &middot; [amazon](http://www.amazon.com/Walker-Percy/e/B000APVFL8)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22walker+percy%22 "13k results")
+  * <span class="stitle">[Michael F. Flynn](http://en.wikipedia.org/wiki/Michael_F._Flynn "...an American statistician and science fiction author. Nearly all of Flynn's work falls under the category of hard science fiction...")</span>
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?78)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/flynn_michael_f)
+&middot; [goodreads](http://www.goodreads.com/author/show/126502.Michael_Flynn)
+&middot; [amazon](http://www.amazon.com/Michael-Flynn/e/B000APBAJA)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22michael+flynn%22 "18k results")
+  * <span class="stitle">[Søren Kierkegaard](http://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard "...Danish philosopher, theologian, poet, social critic, and religious author who is widely considered to be the first existentialist philosopher.")</span> (1855)
+&middot; [quotes](http://en.wikiquote.org/wiki/S%C3%B8ren_Kierkegaard)
+&middot; [iep](http://www.iep.utm.edu/kierkega/)
+&middot; [goodreads](http://www.goodreads.com/author/show/6172.S_ren_Kierkegaard)
+&middot; [amazon](http://www.amazon.com/Soren-Kierkegaard/e/B000APODMG)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22soren+kierkegaard%22 "18k results")
   * <span class="stitle">[G.K. Chesterton](http://en.wikipedia.org/wiki/G._K._Chesterton "...writer, lay theologian, poet, philosopher, dramatist, journalist, orator, literary and art critic, biographer, and Christian apologist. Chesterton is often referred to as the "prince of paradox.")</span> (1936)
 &middot; [quotes](http://en.wikiquote.org/wiki/G._K._Chesterton)
 &middot; [society](http://www.chesterton.org/)
