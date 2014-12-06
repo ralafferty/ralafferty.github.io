@@ -370,9 +370,9 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 
 <ul style="list-style-type: none;" id="work-ul" class="work-ul">
 	{% for story in site.data.stories.stories %}
-	  	{% for story_details in site.data.consensus.consensus %}
+	  	{% for work in site.data.consensus.consensus %}
 
-			{% if story.id == story_details.id %}
+			{% if story.id == work.id %}
 				<li id="li-{{ story.id }}" class="work-li 
 
 					{% for tag in site.data.reviewer-tags.tag %}
@@ -387,21 +387,21 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 
 				&nbsp;&nbsp;
 				<span class="btitle">
-					{% if story_details.excerpt %}
+					{% if work.excerpt %}
 						<a href="javascript:void(0);" onclick="toggle_story(this);">
 					{% endif %}
 
-					{{ story_details.title }}
+					{{ work.title }}
 
-					{% if story_details.excerpt %}
+					{% if work.excerpt %}
 						</a>
 					{% endif %}
 				</span>
 
-				{% if story_details.isfdb %}
-					(<a href="{{ story_details.isfdb }}">{{ story_details.year }}</a>)
+				{% if work.isfdb %}
+					(<a href="{{ work.isfdb }}">{{ work.year }}</a>)
 				{% else %}
-					({{ story_details.year }})
+					({{ work.year }})
 				{% endif %}
 
 				&nbsp;&nbsp;&nbsp;&nbsp;
@@ -423,7 +423,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 
 				<ul class="taglist" style="list-style-type: none;">
 					<li><i style="color:#ADADAD;" class="fa fa-comment"></i> 
-					&nbsp; &middot; <a class="disqus-comment-count" data-disqus-identifier="d-story-{{ story.id }}" href="{{ site.baseurl }}/works/stories/{{ story_details.url }}">Comments</a>
+					&nbsp; &middot; <a class="disqus-comment-count" data-disqus-identifier="d-story-{{ story.id }}" href="{{ site.baseurl }}/works/stories/{{ work.url }}">Comments</a>
 					</li>
 				</ul>
 	

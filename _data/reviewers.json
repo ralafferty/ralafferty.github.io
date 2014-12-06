@@ -14,6 +14,12 @@
 		"country":"Scotland",
 	},
 	{
+		"id":"trawlerman",
+		"name":"trawlerman",
+		"url":"http://failingevenbetter.blogspot.com",
+		"country":"USA",
+	},
+	{
 		"id":"kcheek",
 		"name":"Kevin Cheek",
 		"url":"http://www.yetanotherlaffertyblog.com/",
@@ -124,6 +130,40 @@
 		"id":"lafferty",
 		"name":"R.A. Lafferty",
 		"url":"http://www.ralafferty.org",
+	},
+	{
+		"id":"goodreads",
+		"name":"goodreads",
+		"url":"http://www.goodreads.com",
+	},
+	{
+		"id":"amazon",
+		"name":"amazon",
+		"url":"http://www.amazon.com",
+	},
+	{
+		"id":"dpringle",
+		"name":"David Pringle",
+	},
+	{
+		"id":"bcyca",
+		"name":"Grand Lodge of BC",
+		"url":"http://freemasonry.bcy.ca/fiction/lafferty.html",
+	},
+	{
+		"id":"scrook",
+		"name":"Simon Crook",
+		"url":"http://thegrammarofmatter.wordpress.com",
+	},
+	{
+		"id":"jbarberi",
+		"name":"Jacques Barberi",
+		"url":"http://www.belial.fr/jacques-barberi/",
+	},
+	{
+		"id":"milora",
+		"name":"Milora",
+		"url":"http://songes-du-crepuscule.naturalforum.net/u74",
 	},
    ]
 }

@@ -1,6 +1,6 @@
 <ul class="work-review taglist">
 
-{% for review in story_details.reviews %}
+{% for review in work.reviews %}
 	{% if forloop.first %} 
 		{% assign hdr = '1' %}
 	{% endif %}
@@ -20,11 +20,10 @@
 				{% if review_details.title %} 
 					title="{{ review_details.title }}"
 				{% endif %}
-				>{{ reviewer.name }}</a>
+				>{{ reviewer.name | replace: ' ', '&nbsp;' }}&nbsp;</a>{% if review_details.year %}({{ review_details.year }}){% endif %} &nbsp;
 			{% break %}
 			{% endif %}
 		{% endfor %}
-		{% if review_details.year %}({{ review_details.year }}){% endif %} &nbsp;
 		{% endif %}
 		{% endif %}
 	{% endfor %}

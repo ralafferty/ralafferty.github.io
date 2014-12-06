@@ -2,23 +2,18 @@
 layout: default
 ---
 
-<span class="btitle"><a href="/works/stories/">Short Stories</a></span>
+<span class="btitle"><a href="/works/#novels">Novels</a></span>
 <header class="post-header">
 	<h3 class="post-title"><em>{{ page.title }}</em><br><span style="font-size: 70%">&mdash;R.&nbsp;A.&nbsp;Lafferty</span></h3>
 </header>
 
 <div class="post">
 
-	{% for story in site.data.stories.stories %}
-		{% if story.id == page.story_id %}
-	  	{% for work in site.data.consensus.consensus %}
-
-			{% if story.id == page.story_id and story.id == work.id %}
+	{% for work in site.data.novels.novels %}
+		{% if work.id == page.novel_id %}
 
 				<ul style="list-style-type: none;" id="work-ul" class="work-ul">
 				<li id="li-{{ story.id }}" class="work-li">
-
-				{% include ratings.html %}
 
 				<br>
 				<ul class="work-award taglist">
@@ -40,47 +35,13 @@ layout: default
 				</blockquote></ul>
 				{% endif %}
 
-				{% include read-online.html %}
-
 				{% include awards.html %}
-
-					{% for tag in site.data.reviewer-tags.tag %}
-						{% for map in tag.map %}
-							{% if story.id == map.id %}
-								{% assign storytags = map.tags|split:&nbsp; %}
-								{% for storytag in storytags %}
-									{% if forloop.first %}
-										<ul class="taglist" style="list-style-type: none;">
-										<li id="work-tags" class="work-tags">
-										<i style="color:#ADADAD;" class="fa fa-tag"></i> &nbsp;
-									{% endif %}
-									{% for definition in tag.definition %}
-										{% if definition.id == storytag %}
-											&middot;&nbsp;<a href="{{ site.baseurl }}/works/stories/?tag={{ definition.id }}">{{ definition.title }}</a> &nbsp;
-										{% break %}
-										{% endif %}
-									{% endfor %}
-									{% if forloop.last %}
-										</li>
-										</ul>
-									{% endif %}
-								{% endfor %}
-							{% break %}
-							{% endif %}
-						{% endfor %}
-					{% endfor %}
-
 				{% include reviews.html %}
 
 				</li>
 			</ul>
 
-			{% assign var_idx_work = forloop.index0 %}
-			{% break %}
-			{% endif %}
-  		{% endfor %}
-
-		{% assign var_idx_story = forloop.index0 %}
+		{% assign var_idx_work = forloop.index0 %}
 		{% break %}
 		{% endif %}
 	{% endfor %}
@@ -88,29 +49,21 @@ layout: default
   <br>
   <div class="pure-g">
 
-		{% if site.data.consensus.consensus[var_idx_work].collections.size > 0 %}
+		{% if site.data.novels.novels[var_idx_work].editions.size > 0 %}
 			<div class="pure-u-1 pure-u-md-4-5" id="disqus_thread"></div>
 			{% assign show_sidebar = true %}
 		{% endif %}
 
 		{% if show_sidebar %}
-		<div class="pure-u-0 pure-u-md-1-5">
-		<center>
-		<div class="l-box">
-		{% for item in site.data.consensus.consensus[var_idx_work].collections %}
-			{% for collection in site.data.collections.collections %}
-				{% if item.id == collection.id  %}
-					{% if collection.url %}
-							<a href="{{ site.baseurl }}/works/collections/{{ collection.url }}/"><img hspace="5" vspace="7" width="100px" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"><img></a>
-					{% else %}
-							<a href="{{ collection.isfdb }}"><img hspace="5" vspace="7" width="100px" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"><img></a>
-					{% endif %}
-				{% break %}
-				{% endif %}
-			{% endfor %}
-		{% endfor %}
-		</div>
-		</div>
+			<div class="pure-u-0 pure-u-md-1-5">
+			<center>
+			<div class="l-box">
+				{% for edition in site.data.novels.novels[var_idx_work].editions %}
+				<a href="{{ edition.url }}"><img align="top" hspace="5" vspace="7" width="100px" src="{{ site.baseurl }}/images/covers/{{ edition.img }}" title="{{ edition.year }}"></a>
+				{% endfor %}
+			</div>
+			</center>
+			</div>
 
 		{% else %}
 			<div class="pure-u-1" id="disqus_thread"></div>
