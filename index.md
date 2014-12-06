@@ -74,7 +74,7 @@ For a list of stories and novels written by R. A. Lafferty, see his [Works](/wor
 
 > "He is our most original writer&hellip; Just about everything Lafferty writes is fun, is witty, is entertaining and playful. But it is not easy, for it is a mingling of allegory with myth, and of both with something more." &mdash;[Gene&nbsp;Wolfe](http://en.wikipedia.org/wiki/Gene_Wolfe) &nbsp;[^intro-episodes]
 
-> "Lafferty gives the impression of a sort of bumbling, provincial rube, but underneath the strategic humility is a steel-trap mind and a terrifying erudition." &mdash;Iao&nbsp;[^iao07]
+> "Lafferty gives the impression of a sort of bumbling, provincial rube, but underneath the strategic humility is a steel-trap mind and a terrifying erudition." &mdash;Iao &nbsp;[^iao07]
 
 > "Lafferty belongs to a select group that includes James Joyce and Amos Tutuola, of writers who have reinvented the language of literature for themselves from the ground up... Lafferty has drawn strongly from the oral tradition of the American tall tale." &mdash;[Michael&nbsp;Swanwick](http://en.wikipedia.org/wiki/Michael_Swanwick) &nbsp;[^intro-iron]
 
