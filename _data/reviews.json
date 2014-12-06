@@ -436,9 +436,15 @@
 		"url":"http://www.amazon.com/Fourth-Mansions-R-A-Lafferty/product-reviews/1557850488/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending_",
 	},
 	{
-		"id":"re-2014-trawlerman-fourth",
+		"id":"re-2014-trawlerman-fourth-1",
 		"reviewer":"trawlerman",
 		"url":"http://failingevenbetter.blogspot.com/2014/12/dammit-fat-man-i-will-ask-questions-and.html",
+		"year":"2014",
+	},
+	{
+		"id":"re-2014-trawlerman-fourth-2",
+		"reviewer":"trawlerman",
+		"url":"http://failingevenbetter.blogspot.com/2014/12/or-how-can-someone-enter-strong-mans.html",
 		"year":"2014",
 	},
 	{
