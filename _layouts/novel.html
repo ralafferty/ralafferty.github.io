@@ -7,7 +7,9 @@ layout: default
 	<h3 class="post-title"><em>{{ page.title }}</em><br><span style="font-size: 70%">&mdash;R.&nbsp;A.&nbsp;Lafferty</span></h3>
 </header>
 
-<div class="post">
+<div class="post pure-g">
+
+<div class="pure-u-1 pure-u-md-4-5">
 
 	{% for work in site.data.novels.novels %}
 		{% if work.id == page.novel_id %}
@@ -61,30 +63,21 @@ layout: default
 		{% endif %}
 	{% endfor %}
 
-  <br>
-  <div class="pure-g">
+	<br>
 
-		{% if site.data.novels.novels[var_idx_work].editions.size > 0 %}
-			<div class="pure-u-1 pure-u-md-4-5" id="disqus_thread"></div>
-			{% assign show_sidebar = true %}
-		{% endif %}
+	<div id="disqus_thread"></div>
 
-		{% if show_sidebar %}
-			<div class="pure-u-0 pure-u-md-1-5">
-			<center>
-			<div class="l-box">
-				{% for edition in site.data.novels.novels[var_idx_work].editions %}
-				<a href="{{ edition.url }}"><img align="top" hspace="5" vspace="7" width="100px" src="{{ site.baseurl }}/images/covers/{{ edition.img }}" title="{{ edition.year }}"></a>
-				{% endfor %}
-			</div>
-			</center>
-			</div>
-
-		{% else %}
-			<div class="pure-u-1" id="disqus_thread"></div>
-		{% endif %}
-
+</div>
+<div class="pure-u-0 pure-u-md-1-5">
+	<center>
+	<div class="l-box">
+		{% for edition in site.data.novels.novels[var_idx_work].editions %}
+		<a href="{{ edition.url }}"><img align="top" hspace="5" vspace="7" width="100px" src="{{ site.baseurl }}/images/covers/{{ edition.img }}" title="{{ edition.year }}"></a>
+		{% endfor %}
 	</div>
+	</center>
+</div>
+
 </div>
 
 <br>
