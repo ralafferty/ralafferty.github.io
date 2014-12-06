@@ -74,6 +74,8 @@ For a list of stories and novels written by R. A. Lafferty, see his [Works](/wor
 
 > "He is our most original writer&hellip; Just about everything Lafferty writes is fun, is witty, is entertaining and playful. But it is not easy, for it is a mingling of allegory with myth, and of both with something more." &mdash;[Gene&nbsp;Wolfe](http://en.wikipedia.org/wiki/Gene_Wolfe) &nbsp;[^intro-episodes]
 
+> "Lafferty gives the impression of a sort of bumbling, provincial rube, but underneath the strategic humility is a steel-trap mind and a terrifying erudition." &mdash;Iao&nbsp;[^iao07]
+
 > "Lafferty belongs to a select group that includes James Joyce and Amos Tutuola, of writers who have reinvented the language of literature for themselves from the ground up... Lafferty has drawn strongly from the oral tradition of the American tall tale." &mdash;[Michael&nbsp;Swanwick](http://en.wikipedia.org/wiki/Michael_Swanwick) &nbsp;[^intro-iron]
 
 > “Wild, subtle, demonic, angelic, hilarious, tragic, poetic, a thundering melodrama and quest into the depths of the human spirit… R.A. Lafferty has always been uniquely his own man.” &mdash;[Poul&nbsp;Anderson](http://en.wikipedia.org/wiki/Poul_Anderson) &nbsp;[^jabberwocky]
@@ -109,3 +111,4 @@ For a list of stories and novels written by R. A. Lafferty, see his [Works](/wor
 [^chrysalis3]: [Introduction](http://antsofgodarequeerfish.blogspot.com/2011/11/there-is-nobody-there-has-never-been.html) to *Bright Flightways*, Chrysalis Volume 3, 1978
 [^ferguson2014]: Andrew Ferguson, [Twitter](https://twitter.com/jacksontom/status/521665782338449409), Oct 2014
 [^walker73]: Interview by Paul Walker, *Alien Critic Volume 6*, 1973
+[^iao07]: Iao, [Amazon.com](http://www.amazon.com/review/R2IDQE2HTL74BM/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=1880448963) , 2007
