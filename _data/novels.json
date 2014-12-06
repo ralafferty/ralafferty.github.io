@@ -9,6 +9,20 @@
 	"year":"1969",
 	"excerpt":"There was a young man who had very good eyes but simple brains. Nobody can have everything. His name was Freddy Foley and he was arguing with a man named Tankersley who was his superior. &ldquo;Just how often do you have to make a total fool of yourself, Foley?&rdquo; Tankersley asked him sharply. Tankersley was a kind man, but he had a voice like a whip. &ldquo;An enterprising reporter should do it at least once a week, sir, or he isn't covering the ground,&rdquo; Fred Foley said seriously.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?7649",
+	"ral_comments":[
+		{
+			"title":"Challenger #16",
+			"subtitle":"Letter to Guy Lillian",
+			"year":"1969",
+			"excerpt":"It may be that you will like Fourth Mansions and you may find yourself a little bit like Freddy Foley in it, in youth and openness at least.  It was for his openness that a number of amazing worlds happened to him and can happen to you.  I have picked out four human aspects or movements in this, out of many, which are deformities and monstrosities in isolation, but which should be strengths when integrated in the person and group personality.  At least that is what I have tried to do.  Even the Patricks must have their place in the integrated personality and they must have their place in you.",
+		},
+		{
+			"title":"Lan's Lantern #39",
+			"subtitle":"Interview by Tom Jackson",
+			"year":"1991",
+			"excerpt":"... then there is the book <u>Fourth Mansions</u> which I worked into the context of <u>Las Morada</u> (<u>The Mansions</u>) of Teresa of Avila (the English version is usually called <u>The Interior Castle</u>). There are seven sets of Mansions or steps to perfection, but the Fourth Mansions is the perilous step, the midpoints where the devil and his principalities counter-attack with all their fury.  And that counter-attack, really the scenario of today's world, is the theme of my book.",
+		},
+	],
 	"editions":[
 		{	"url":"http://www.isfdb.org/cgi-bin/pl.cgi?14516",
 			"publisher":"Ace Books",
@@ -63,12 +77,14 @@
 		},
 	],
 	"reviews":[
+		{ "id":"re-2014-eastoflaughter-fourth"	},
 		{ "id":"re-2014-trawlerman-fourth-2"	},
 		{ "id":"re-2014-trawlerman-fourth-1"	},
 		{ "id":"re-2013-scrook-fourth"		},
 		{ "id":"re-2011-dpetersen-fourth"	},
 		{ "id":"re-2011-milora-fourth"		},
 		{ "id":"re-2010-jbarberi-fourth"	},
+		{ "id":"re-2006-muk-fourth"		},
 		{ "id":"re-2001-bcyca-fourth"		},
 		{ "id":"re-1988-dpringle-fourth"	},
 		{ "id":"re-goodreads-fourth"		},

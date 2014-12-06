@@ -383,6 +383,12 @@
 		"year":"2003",
 	},
 	{
+		"id":"re-2006-muk-fourth",
+		"reviewer":"muk",
+		"url":"http://www.mulle-kybernetik.com/RAL/MT/archives/2003/10/fourth-mansions.html",
+		"year":"2006",
+	},
+	{
 		"id":"2005-muk-crocodile",
 		"reviewer":"muk",
 		"url":"http://www.mulle-kybernetik.com/RAL/MT/archives/2003/07/about-a-secret.html#comments",
@@ -458,6 +464,12 @@
 		"reviewer":"milora",
 		"url":"https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fsonges-du-crepuscule.naturalforum.net%2Ft2239-les-quatriemes-demeures-raphael-aloysius-lafferty&edit-text=",
 		"year":"2011",
+	},
+	{
+		"id":"re-2014-eastoflaughter-fourth",
+		"reviewer":"eastoflaughter",
+		"url":"https://www.facebook.com/groups/eastoflaughter/permalink/753544478031924",
+		"year":"2014",
 	},
    ]
 }

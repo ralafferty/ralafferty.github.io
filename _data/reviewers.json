@@ -133,13 +133,18 @@
 	},
 	{
 		"id":"goodreads",
-		"name":"goodreads",
+		"name":"Goodreads",
 		"url":"http://www.goodreads.com",
 	},
 	{
 		"id":"amazon",
-		"name":"amazon",
+		"name":"Amazon",
 		"url":"http://www.amazon.com",
+	},
+	{
+		"id":"eastoflaughter",
+		"name":"East of Laughter",
+		"url":"https://www.facebook.com/groups/eastoflaughter/",
 	},
 	{
 		"id":"dpringle",

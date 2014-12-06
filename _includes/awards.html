@@ -7,7 +7,7 @@
 	{% if award.place == 'Anthology' %}
 		&middot;&nbsp;{{ award.year }}&nbsp;{{ award.award | replace: ' ', '&nbsp;' }},&nbsp;{{ award.category | replace: ' ', '&nbsp;' }}
 	{% else %}
-		&middot;&nbsp;{{ award.year }}&nbsp;{{ award.award }}&nbsp;{{ award.place }}
+		&middot;&nbsp;{{ award.year }}&nbsp;{{ award.award }}&nbsp;{{ award.place }}, {{ award.category | replace: ' ', '&nbsp;' }}
 	{% endif %}
 
 	{% if forloop.last %}{% else %}&nbsp;&nbsp;{% endif %}
