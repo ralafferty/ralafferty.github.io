@@ -1,5 +1,5 @@
 
-{% for review in story_details.reviews %}
+{% for review in work.reviews %}
 	{% for review_details in site.data.reviews.reviews %}
 		{% if review.id == review_details.id %}
 			{% if review_details.summary %}
