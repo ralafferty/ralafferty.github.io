@@ -23,6 +23,8 @@ layout: default
 		</header>
 
 		<br>
+		<br>
+		<br>
 		{% if collection.year %}
 		<ul class="work-award taglist">
 			<i style="color:#ADADAD;" class="fa fa-calendar"></i> &nbsp;
@@ -33,8 +35,21 @@ layout: default
 				{{ collection.year }}
 			{% endif %}
 		</ul>
-		<br><br>
 		{% endif %}
+
+		{% for comment in collection.ral_comments %}
+			{% if forloop.first %}
+				<i style="color:#ADADAD;" class="fa fa-microphone"></i> &nbsp;&nbsp;
+				&middot; Commentary
+			{% endif %}
+
+			<ul style="display:block" class="work-summary">
+			<blockquote>&ldquo;{{ comment.excerpt }}&rdquo;<ul>&mdash;R.&nbsp;A.&nbsp;Lafferty, 
+			{% if comment.subtitle %}{{ comment.subtitle | replace: ' ', '&nbsp;' }}, {% endif %}
+			{{ comment.title | replace: ' ', '&nbsp;' }}&nbsp;({{ comment.year }})</ul></blockquote>
+			</ul>
+		{% endfor %}
+		<br>
 
 		{% for story in collection.stories %}
 			{% for work in site.data.consensus.consensus %}

@@ -53,6 +53,14 @@
 			{ "id":"1968-time" },
 			{ "id":"1965-guesting" },
 		],
+		"ral_comments":[
+			{
+				"title":"Lan's Lantern #39",
+				"subtitle":"Interview by Tom Jackson",
+				"year":"1991",
+				"excerpt":"Terry Carr taught me that a story must begin with a bang ... Well, maybe all stories don't have to begin with a bang, but all Terry Carr storles had to begin with a bang of some sort. Terry also told me that 'You can lose a reader, completely and forever, in fifteen seconds. Never leave him even a fifteen-second interval without a hook to jerk him back.' Anything else Terry told me is contained in those two very good pieces of advice. On Nine Hundred Grandmothers, Terry gave me his preferences of the stories to go in the book, and asked me if I wanted to make any changes. They were all good stories, and I didn't make any changes.",
+			},
+		],
 	},
 	{
 		"id":"co-1982-golden-gate",
