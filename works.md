@@ -39,6 +39,7 @@ redirect_from: "/writing/"
 * [All Stories](/works/stories)
 * [Online Stories](/works/collections/online-stories)
 * [Award Nominees & Winners](/works/collections/honors)
+* [Lafferty's Favorites](/works/collections/favorites)
 
 ## Collections {#collections}
 

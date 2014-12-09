@@ -362,6 +362,7 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 <b>Collections:</b>&nbsp; 
 &nbsp;&nbsp;<a href="/works/collections/online-stories">Online</a> &nbsp;
 &middot;&nbsp;<a href="/works/collections/honors">Honors</a> &nbsp;
+&middot;&nbsp;<a href="/works/collections/favorites">RAL Favorites</a> &nbsp;
 &middot;&nbsp;<a href="/works/collections/nine-hundred-grandmothers">900GM</a> &nbsp;
 &middot;&nbsp;<a href="/works/collections/golden-gate-and-other-stories">Golden Gate</a>
 </div>
@@ -385,7 +386,6 @@ loadJSON('{{ site.baseurl }}/archive/test-json.txt',
 					{% endfor %}
 				">
 
-				&nbsp;&nbsp;
 				<span class="btitle">
 					{% if work.excerpt %}
 						<a href="javascript:void(0);" onclick="toggle_story(this);">

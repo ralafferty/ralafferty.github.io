@@ -144,5 +144,37 @@
 			{ "id":"1965-block", 		"year":"1966" },
 		],
 	}, 
+	{
+		"id":"co-2014-ral-favorites",
+		"title":"Favorites",
+		"img":"unicorn.jpg",
+		"ral_comments":[
+			{
+				"title":"Lan's Lantern #39",
+				"subtitle":"Interview by Tom Jackson",
+				"year":"1991",
+				"excerpt":"I am reasonably happy with what I have written and with the reception it has had. But I can't think of any work or event that makes it to the 'greatest thrill' category. It's a little bit like asking a man who has loved his breakfast eggs for sixty years to name the most thrilling egg he ever ate. He might hesitate a bit and come out with something no better than: <ul>Oh, there was a really superior egg on June 9 of 1932, and another on February 8 of 1947, And in 1951 (it was either April 4 or April 5) I had two absolutely perfect eggs. But no, it would be presumptuous of me to name the most thrilling egg I ever ate. They were all so good!",
+			},
+		],
+		"stories":[
+			{ "id":"1970-continued"		},
+			{ "id":"1968-time"		},
+			{ "id":"1970-ride"		},
+			{ "id":"1965-slow"		},
+			{ "id":"1960-snuffles"		},
+			{ "id":"1983-bird"		},
+			{ "id":"1982-bird"		},
+			{ "id":"1978-ghosts"		},
+			{ "id":"1981-cant-go"		},
+			{ "id":"1970-river-shore"	},
+			{ "id":"1966-narrow"		},
+			{ "id":"1969-north"		},
+			{ "id":"1982-golden"		},
+			{ "id":"1970-old"		},
+			{ "id":"1961-rainbird"		},
+			{ "id":"1983-faith"		},
+			{ "id":"1982-fool"		},
+		],
+	}, 
    ]
 }

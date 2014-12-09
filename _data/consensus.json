@@ -702,6 +702,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1960",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58351",
+	"excerpt":"“I always said we'd find one of them that was fun,” remarked Brian. “There's been entirely too much solemnity in the universe. Did you never panic on thinking of the multiplicity of systems?” “Never,” said Georgina.  “Not even when, having set down a fine probability for the totality of worlds, you realized suddenly that you had to raise it by a dozen powers yet?” “What's to panic?” “Not even when it comes over you, ‘This isn't a joke; this is serious; every one of them is serious’?” “ ‘Cosmic intimidation,’ Belloc called it. And it does tend to minimize a person.” “And did you never hope that out of all that prodigality of worlds, one at least should have been made for fun? One should have been made by a wild child or a mixed-up goblin just to put the rest of them in proper perspective, to deflate the pomposity of the cosmos.”",
 	"reviews":[
 		{ "id": "2013-aferguson-snuffles", },
 		{ "id": "2005-muk-snuffles" 	},
@@ -883,7 +885,9 @@
 	"url":"ride-a-tin-can",
 	"author":"R. A. Lafferty",
 	"year":"1970",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54389",
 	"type":"ss",
+	"excerpt":"Holly Harkel and myself, Vincent Vanhoosier, received funds and permission to record the lore of the Shelni through the intercession of that old correlator John Holmberg. This was unexpected. All lorists have counted John as their worst enemy. “After all, we have been at great expense to record the minutiae of pig grunts and the sound of earthworms,” Holmberg told me, “and we have records of squeakings of hundreds of species of orbital rodents. We have veritable libraries of the song and cackle of all birds and pseudo-ornins.",
 	"reviews":[
 		{ "id": "2013-aferguson-ride-tin", },
 	],
@@ -895,6 +899,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58346",
+	"excerpt":"“Dookh-Doctor, it is a sphairikos patient,” Lay Sister Moira P. T. de C. cried happily. “It is a genuine spherical alien patient. You've never had one before, not in good faith. I believe it is what you need to distract you from the—ah—happy news about yourself. It is good for a Dookh-Doctor to have a different patient sometimes.” “Thank you, lay sister. Let it, him, her, fourth case, fifth case or whatever come in. No, I've never had a sphairikos in good faith. I doubt if this one is, but I will enjoy the encounter.” The sphairikos rolled or pushed itself in. It was a big one, either a blubbery kid or a full-grown one. It rolled itself along by extruding and withdrawing pseudopods.  And it came to rest grinning, a large translucent rubbery ball of fleeting colors.",
 	},
 	{
 	"id":"1973-parthen",
@@ -967,6 +973,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?44501",
+	"excerpt":"It had been a very long and ragged and incredibly interlocked and detailed river shore. Then a funny thing happened. It had been broken up, sliced up into pieces.  Some of the pieces had been folded and compressed into bales. Some of them had been cut into still smaller pieces and used for ornaments and as Indian medicine.  Rolled and baled pieces of the shore came to rest in barns and old warehouses, in attics, in caves. Some were buried in the ground.  And yet the river itself still exists physically, as do its shores, and you may go and examine them. But the shore you will see along the river now is not quite the same as that old shore that was broken up and baled into bales and rolled onto rollers, not quite the same as the pieces you will find in attics and caves.",
 	},
 	{
 	"id":"1964-tigers",
@@ -1274,6 +1282,7 @@
 	"year":"1978",
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?67513",
+	"excerpt":"Even today, the “invention” of television is usually ascribed to Paul Nipkow of Germany, and the year is given as 1884. Nipkow used the principle of the variation in the electrical conductivity of selenium when exposed to light, and he used scanning discs as mechanical effectors. What else was there for him to use before the development of the phototube and the current-amplifying electron tube? The resolution of Nipkow's television was very poor due to the “slow light” characteristics of selenium response and the lack of amplification. There were, however, several men in the United States who transmitted a sort of television before Nipkow did so in Germany.",
 	"reviews":[
 		{ "id": "2004-muk-selenium", },
 	  ],
@@ -1367,6 +1376,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69715",
+	"excerpt":"‘There was a Cheyenne sub-chief named Whistling Elk.  There was also an animal, or a ghost-animal, in the mythology of several tribes, the Cheyennes, the Sioux, the Osages, and the Comanches. There is something spooky about this Whistling Elk in the legends, for real elks do not whistle. The Whistling Elk is an apparition, a ghost, a messenger of death. He is also the one who gives the birds the signal to migrate. They would not know when to mill and fly away, and they would perish of the cold and hunger, if the Elk didn't give them the signal. The Whistling Elk is sometimes associated with the Bird-Master, who is variously known as the ‘shape-changer’ and the ‘cloud-shaper’.",
 	},
 	{
 	"id":"1983-faith",
@@ -1375,6 +1386,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1983",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69716",
+	"excerpt":"The mouse and the handyman had a little game every day with the pecan, the mouse pushing it with all his physical strength, and the handyman pushing it with faith and telekinesis. But then the mouse would seem to double his strength, and they would play the game to a standstill.  “Brother Mus, my employers are rather overdoing this thing,” Brother Gus the handyman said. “I wonder why they have become so extravagant in their manifestations.  John Salt is likely to challenge them on the genuineness of them. He is riled by such arrogance. I may have to leave their employ as I left that of the extravagant persons at the laboratory. Oh certainly you will go with me wherever I go. You and I are one.” The mouse winked at Brother Gus and giggled, proving that he was a mouse of at least human intelligence.",
 	},
 	{
 	"id":"1983-turpentine",
@@ -1920,6 +1933,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1981",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?43108",
+	"excerpt":"One evening in the Latter Days, Helen brought over some bones and rocks that belonged to her late husband John Palmer. She brought the Moon Whistle too. And she left those things with us.  Helen had married again, and to a man who hadn't known John. And she left all those things with us. And she thought that she'd better get some of those funny old things out of her house.  “The Moon Whistle will be no good without you to blow it, Helen,” Hector O'Day said.",
 	},
 	{
 	"id":"1974-name",
@@ -2106,6 +2121,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?93726",
+	"excerpt":"How hard it is to judge the second best.  Who is the second-best scientist in the history of the world? First place goes to Isaac Newton, of course, but who is second best? There'll never be a solution; only endless quarreling over twenty-five candidates at least.  And who is the second-best writer in the history of the world? First place goes to William Shakespeare, of course— Of course.  It is odd that so little is known about Shakespeare and that so many people believe so passionately that Shakespeare wasn't Shakespeare but that someone else wrote the plays and poems attributed to the man. But if you want the Great Shakespearean Controversy raised to new pitches of madness, read this mad story.",
 	},
 	{
 	"id":"1982-bear",
@@ -2138,6 +2155,8 @@
 	"author":"R. A. Lafferty",
 	"year":"1982",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69707",
+	"excerpt":"Tobias Lamb, though not well liked, was held in high esteem by the scientific community. There were many of us who hardly liked him because — well, it was because his tricks and illusions sometimes shattered us completely. “And besides,” Alwin Garvie said of him, “he's an unlikely man.” Ah well, admit it, we were afraid of him. He was a harsh mocker; and yet he had a pleasant strain (or it was meant to be pleasant) in him. He was a hard driver. If he didn't actually hold a whip in his hand when he was working on a project, there was always a whip in his voice. He was avid, even feverish, to drive a project to success; and yet he didn't seem at all hungry for personal glory. ",
 	"collections":[	
 	 	{ "id":"co-1982-golden-gate"	},
 	  ],
@@ -2300,7 +2319,9 @@
 	"url":"one-at-a-time",
 	"author":"R. A. Lafferty",
 	"year":"1968",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58348",
 	"type":"ss",
+	"excerpt":"John Sourwine is always interested in new things, or old things returned. So John went down to Barnaby's Barn to see the Odd One.  There was no need to ask which one he was, though there were always strangers and traveling men and seamen unknown to John in the Barn. The Odd One stood out. He was a big, spare, tough fellow, and he said that his name was McSkee. He was eating and drinking with a chortling pleasure, and they all watched him in amazement.  “It's his fourth plate of spaghetti,” Smokehouse confided to Sour John, “and that is the last of two dozen eggs...”",
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],

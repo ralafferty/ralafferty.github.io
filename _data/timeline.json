@@ -74,6 +74,13 @@
 	"title":"Worked for US Government in civil service",
 	},
 	{
+	"id":"tl-1934-tulsa",
+	"year":"193?",
+	"age":"?",
+	"geography":"Tulsa, OK",
+	"title":"Took ICS Electrical Engineering correspondence course",
+	},
+	{
 	"id":"tl-1942-tulsa",
 	"year":"1942",
 	"month":"April",
@@ -190,6 +197,18 @@
 	  ]
 	},
 	{
+	"id":"tl-1968-okc",
+	"year":"1968",
+	"age":"53",
+	"geography":"Oklahoma City, OK",
+	"title":"First meeting with SF fandom (minicon)",
+	"references":[
+		{
+			"object":"U of Tulsa - Letter to Mark Shepherd",
+		},
+	  ]
+	},
+	{
 	"id":"tl-1969-nebula",
 	"year":"1969",
 	"age":"54",
@@ -220,7 +239,7 @@
 	"year":"1972",
 	"age":"57",
 	"geography":"Tulsa, OK",
-	"title":"Health: illness, no travel or writing",
+	"title":"Health: illness (heart?), no travel or writing",
 	},
 	{
 	"id":"tl-1972-invisible",
@@ -273,11 +292,15 @@
 	"id":"tl-1981-tulsa",
 	"year":"1981?2?",
 	"age":"67",
-	"geography":"Chicago, IL",
-	"title":"Health: broke both knees at World SF in Chicago?",
+	"title":"Health: injured knees",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
+			"note":"broke both knees a little over 5 years prior to leter",
+		},
+		{
+			"object":"Challenger #16 - 2002",
+			"note":"bad fall at 1991 ChiCon",
 		},
 	  ]
 	},
@@ -326,13 +349,16 @@
 	"age":"76",
 	"month":"September",
 	"geography":"Chicago, IL",
-	"title":"Attended ChiCon",
+	"title":"Attended ChiCon V (last con attended?)",
 	"references":[
 		{
 			"object":"Letter to Alan Dean Foster - Sep 22, 1991",
 		},
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
+		},
+		{
+			"object":"Challenger 16",
 		},
 	  ]
 	},

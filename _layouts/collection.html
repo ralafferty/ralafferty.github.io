@@ -11,7 +11,7 @@ layout: default
 
 		{% if collection.img %}
 			{% if collection.img_url %}<a href="{{ collection.img_url }}">{% endif %}
-			<img width="140px" align="right" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"
+			<img height="220px" align="right" src="{{ site.baseurl }}/images/covers/{{ collection.img }}"
 			{% if collection.img_title %} title="{{ collection.img_title }}"{% endif %}
 			></img>
 			{% if collection.img_url %}</a>{% endif %}
@@ -56,7 +56,6 @@ layout: default
 			{% if story.id == work.id %}
 				<li id="li-{{ story.id }}" class="work-li">
 
-				&nbsp;&nbsp;
 				<span class="btitle">
 					{% if work.excerpt %}
 						<a href="javascript:void(0);" onclick="toggle_story(this);">
