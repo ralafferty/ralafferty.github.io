@@ -180,5 +180,10 @@
 		"name":"Joachim Boaz",
 		"url":"http://sciencefictionruminations.wordpress.com",
 	},
+	{
+		"id":"wikipedia",
+		"name":"Wikipedia",
+		"url":"http://wikipedia.org",
+	},
    ]
 }
