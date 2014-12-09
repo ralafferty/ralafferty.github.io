@@ -16,6 +16,7 @@ redirect_from: /tributes/
 ## Profiles {#profiles}
 
 * [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty) 
+* [Timeline](/biography/timeline)
 * Interviews with R.A. Lafferty: [1979](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) &nbsp;&middot;&nbsp; [1983](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
 * [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) (2014)
 * [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
