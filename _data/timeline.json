@@ -202,11 +202,25 @@
 	  ]
 	},
 	{
+	"id":"tl-1970-tulsa",
+	"year":"1970",
+	"age":"55",
+	"geography":"Tulsa, OK",
+	"title":"2-year publishing streak of good stories ('70 & '71)",
+	},
+	{
 	"id":"tl-1971-tulsa",
 	"year":"1971",
 	"age":"56",
 	"geography":"Tulsa, OK",
 	"title":"Retired from electrical business",
+	},
+	{
+	"id":"tl-1972-tulsa",
+	"year":"1972",
+	"age":"57",
+	"geography":"Tulsa, OK",
+	"title":"Health: illness, no travel or writing",
 	},
 	{
 	"id":"tl-1972-invisible",
@@ -339,7 +353,7 @@
 	{
 	"id":"tl-1996-tulsa",
 	"year":"1996?",
-	"age":"82?",
+	"age":"82",
 	"geography":"Tulsa, OK",
 	"title":"Health: larger stroke? Moved to nursing home?",
 	"references":[
@@ -452,6 +466,13 @@
 	"title":"Hardcover <a href=\"http://www.amazon.co.jp/%E7%AC%AC%E5%9B%9B%E3%81%AE%E9%A4%A8-%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%96%87%E5%AD%A6-R%E3%83%BB-%E3%83%BB%E3%83%A9%E3%83%95%E3%82%A1%E3%83%86%E3%82%A3/dp/4336053227/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1418102803&sr=1-1-catcorr&keywords=Fourth+Mansions+lafferty\">translation</a> of <em>Fourth Mansions</em>",
 	},
 	{
+	"id":"tl-2014-centipede",
+	"year":"2014",
+	"month":"February",
+	"geography":"USA",
+	"title":"Centipede Press released #1 of 12 collector volumes",
+	},
+	{
 	"id":"tl-2014-nyc",
 	"year":"2014?",
 	"month":"August",
@@ -469,7 +490,8 @@
 	"id":"tl-2014-tulsa",
 	"year":"2014",
 	"month":"November",
-	"title":"Centennial Tributes<br><a href=\"http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete\">Lost and Found</a>, <em>This Land Press</em>, Tulsa, OK<br><a href=\"http://ralafferty.tumblr.com/post/102837431377/a-printable-feast\">Feast of Laughter</a>, <em>Ktistec Press</em>, AU/CAN/UK/USA<br><a href=\"http://ralafferty.tumblr.com/post/101900921217/hayakawa-sf-lafferty-centennial-issue\">Hayakawa SF</a>, Japan<br><a href=\"http://ralafferty.tumblr.com/post/102459043047/lafferty-panel-at-world-fantasy\">Panel</a> at World Fantasy, Washington, DC<br><a href=\"http://ralafferty.tumblr.com/post/102404246242/lafferty-in-locus\">November 2014</a>, <em>Locus</em>",
+	"geography":"<br>Tulsa, OK<br>AU/CA/UK/USA<br>Japan<br>Washington, DC<br>Oakland, CA",
+	"title":"Centennial Tributes<br><a href=\"http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete\">Lost and Found</a>, <em>This Land Press</em><br><a href=\"http://ralafferty.tumblr.com/post/102837431377/a-printable-feast\">Feast of Laughter</a>, <em>Ktistec Press</em><br><a href=\"http://ralafferty.tumblr.com/post/101900921217/hayakawa-sf-lafferty-centennial-issue\">Hayakawa SF</a><br><a href=\"http://ralafferty.tumblr.com/post/102459043047/lafferty-panel-at-world-fantasy\">Panel</a> at World Fantasy<br><a href=\"http://ralafferty.tumblr.com/post/102404246242/lafferty-in-locus\">November 2014</a>, <em>Locus</em>",
 	},
     ]
 }

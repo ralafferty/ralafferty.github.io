@@ -1,0 +1,50 @@
+---
+layout: page
+permalink: /biography/timeline/
+weight: 4
+title: Timeline
+seo_description: Timeline of significant events in the life and work of American writer R.A. Lafferty, winner of science-fiction and fantasy awards.
+---
+
+<table cellpadding="7">
+  <tr>
+    <td><b>Date</b></td>
+    <td><b>Age</b></td>
+    <td><b>Event</b></td>
+    <td><b>Location</b></td>
+  </tr>
+{% for event in site.data.timeline.timeline %}
+  <tr>
+    <td valign="top" style="color:gray;">{{ event.year }}&nbsp;{{ event.month | truncate: 3, '' }}<a name="{{ event.year }}"></a></td>
+    <td valign="top"><em>{{ event.age }}</em></td>
+    <td>{{ event.title }}</td>
+    <td valign="top" style="color:gray;">{{ event.geography }}</td>
+  </tr>
+{% endfor %}
+</table>
+
+<br>
+<br>
+<br>
+
+<div id="disqus_thread"></div>
+<br>
+<p class="post-content"><b>Copyright & Licensing</b>: If you submit a comment, you agree to license the original text of your comment as <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>, allowing others to share and adapt your comment for any purpose, even commercially, as long as attribution is given and changes are indicated.  Please see the full <a href="https://creativecommons.org/licenses/by/4.0/legalcode">license</a>. The CC-BY license provides an option for Lafferty scholars to republish and critique your writing, and enables Lafferty archivists to migrate comments to new platforms and media.</p>
+
+<script type="text/javascript">
+
+var disqus_shortname = '{{ site.disqus_shortname }}';
+var disqus_identifier = 'd-page-timeline';
+var disqus_url = '';
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var s = document.createElement('script'); 
+s.type = 'text/javascript'; 
+s.async = true;
+s.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+})();
+
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

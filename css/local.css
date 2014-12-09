@@ -48,3 +48,11 @@
 .l-box {
 	padding: 1em;
 }
+
+.timeline tbody tr:nth-of-type(odd) {
+	background-color: rgba(0,0,0,.04);
+}
+
+.timeline tbody tr:nth-of-type(even) {
+	background-color: rgba(0,0,0,.02);
+}
