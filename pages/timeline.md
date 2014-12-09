@@ -3,8 +3,8 @@ layout: page
 permalink: /biography/timeline/
 weight: 4
 title: Timeline
+seo_description: Timeline of significant events in the life and work of American writer R.A. Lafferty, winner of science-fiction and fantasy awards.
 ---
-
 
 <div>
 
