@@ -1,0 +1,14 @@
+{% for comment in work.ral_comments %}
+
+	{% if forloop.first %}
+		<i style="color:#ADADAD;" class="fa fa-microphone"></i> &nbsp;
+		&middot; <a href="javascript:void(0);" onclick="toggle_story(this);">Commentary</a>
+	{% endif %}
+
+	<ul style="display:block" class="work-summary">
+	<blockquote>&ldquo;{{ comment.excerpt }}&rdquo;<ul>&mdash;R.&nbsp;A.&nbsp;Lafferty, 
+	{% if comment.subtitle %}{{ comment.subtitle | replace: ' ', '&nbsp;' }}, {% endif %}
+	{{ comment.title | replace: ' ', '&nbsp;' }}&nbsp;({{ comment.year }})</ul></blockquote>
+	</ul>
+
+{% endfor %}
