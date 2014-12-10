@@ -100,12 +100,17 @@
 	"title":"Worked for US Government in civil service",
 	},
 	{
-	"id":"tl-1939-tulsa",
-	"year":"1939?",
-	"age":"24",
+	"id":"tl-1935-tulsa",
+	"year":"1935?",
+	"age":"21",
 	"geography":"Tulsa, OK",
 	"title":"Worked at Clark Electric Co.",
 	"icon":"fa-bolt",
+	"references":[
+		{
+			"object":"D. Schweitzer interview",
+		},
+	]
 	},
 	{
 	"id":"tl-1939-tulsa",
