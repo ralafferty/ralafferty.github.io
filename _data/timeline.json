@@ -53,11 +53,28 @@
 	  ]
 	},
 	{
-	"id":"tl-1924-ca",
-	"year":"1926?",
-	"age":"12?",
+	"id":"tl-1928-king",
+	"year":"1928",
+	"age":"14",
 	"geography":"Tulsa, OK",
-	"title":"Attended <a href=\"http://www.casciahall.org\">Cascia Hall</a> (Augustinian Prep School)",
+	"title":"Graduated from <em>Christ the King</em> (Grammar School)",
+	"references":[
+		{
+			"object":"U of Tulsa Papers - Series 3",
+		},
+	  ]
+	},
+	{
+	"id":"tl-1932-cascia",
+	"year":"1932",
+	"age":"18",
+	"geography":"Tulsa, OK",
+	"title":"Graduated from <a href=\"http://www.casciahall.org\"><em>Cascia Hall</em></a> (Augustinian Prep School)",
+	"references":[
+		{
+			"object":"U of Tulsa Papers - Series 3",
+		},
+	  ]
 	},
 	{
 	"id":"tl-1933-tulsa",
@@ -86,7 +103,7 @@
 	"month":"April",
 	"age":"27",
 	"geography":"Tulsa, OK",
-	"title":"Joined US Army",
+	"title":"Joined U.S. Army",
 	"references":[
 		{
 			"object":"Letter to Steve Juscik - March 10, 1992",
@@ -101,7 +118,7 @@
 	"year":"1946",
 	"age":"31",
 	"geography":"Tulsa, OK",
-	"title":"Left US Army",
+	"title":"Left U.S. Army",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
@@ -290,7 +307,7 @@
 	},
 	{
 	"id":"tl-1981-tulsa",
-	"year":"1981?2?",
+	"year":"1981?",
 	"age":"67",
 	"title":"Health: injured knees",
 	"references":[
