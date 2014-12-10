@@ -10,19 +10,20 @@
 
           <li>
         	{% for page in sortedpages %}
-				{% if page.site_menu %}
-          			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-				{% endif %}
 
+			{% if page.site_menu %}
+			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+			{% endif %}
 
-				{% if forloop.last == false and page.site_menu %}
-					&nbsp;&mdash;&nbsp; 
-				{% endif %}
+			{% if forloop.last == false and page.site_menu %}
+				&nbsp;&mdash;&nbsp; 
+			{% endif %}
 
         	{% endfor %}
-			<br>
-			<br>
-			<center><span class="text">{{ site.description }}</span></center>
+		<br>
+		<br>
+		<center><span class="text">{{ site.description }}
+		</span></center>
           </li>
 
         </ul>

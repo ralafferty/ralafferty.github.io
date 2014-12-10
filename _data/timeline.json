@@ -8,6 +8,7 @@
 	"age":"0",
 	"geography":"Neola, IA",
 	"title":"Born",
+	"icon":"fa-medkit",
 	"references":[
 		{
 			"object":"Cranky Old Man from Tulsa - R.J. Walker interview",
@@ -20,6 +21,7 @@
 	"age":"4",
 	"geography":"Perry, OK",
 	"title":"Family moved",
+	"icon":"fa-child",
 	},
 	{
 	"id":"tl-1920-tulsa",
@@ -27,6 +29,7 @@
 	"age":"6",
 	"geography":"Tulsa, OK",
 	"title":"Family moved",
+	"icon":"fa-child",
 	"references":[
 		{
 			"object":"Alien Critic interview",
@@ -39,6 +42,7 @@
 	"age":"10",
 	"geography":"Ocean Park, CA",
 	"title":"First visit to Pacific Ocean",
+	"icon":"fa-child",
 	},
 	{
 	"id":"tl-1924-tulsa",
@@ -46,6 +50,7 @@
 	"age":"10",
 	"geography":"Tulsa, OK",
 	"title":"Memorized 18-vol Groller <em>History of the World</em>",
+	"icon":"fa-graduation-cap",
 	"references":[
 		{
 			"object":"Alien Critic Interview",
@@ -58,6 +63,7 @@
 	"age":"14",
 	"geography":"Tulsa, OK",
 	"title":"Graduated from <em>Christ the King</em> (Grammar School)",
+	"icon":"fa-graduation-cap",
 	"references":[
 		{
 			"object":"U of Tulsa Papers - Series 3",
@@ -70,6 +76,7 @@
 	"age":"18",
 	"geography":"Tulsa, OK",
 	"title":"Graduated from <a href=\"http://www.casciahall.org\"><em>Cascia Hall</em></a> (Augustinian Prep School)",
+	"icon":"fa-graduation-cap",
 	"references":[
 		{
 			"object":"U of Tulsa Papers - Series 3",
@@ -78,24 +85,43 @@
 	},
 	{
 	"id":"tl-1933-tulsa",
-	"year":"1933?",
-	"age":"19?",
+	"year":"1933",
+	"age":"19",
 	"geography":"Tulsa, OK",
-	"title":"Attended U of Tulsa for one year",
+	"title":"Attended night school at U of Tulsa for two years",
+	"icon":"fa-graduation-cap",
 	},
 	{
 	"id":"tl-1934-dc",
-	"year":"1934",
+	"year":"1934?",
 	"age":"20",
 	"geography":"Washington, DC",
+	"icon":"fa-institution",
 	"title":"Worked for US Government in civil service",
 	},
 	{
-	"id":"tl-1934-tulsa",
-	"year":"193?",
-	"age":"?",
+	"id":"tl-1939-tulsa",
+	"year":"1939?",
+	"age":"24",
 	"geography":"Tulsa, OK",
-	"title":"Took ICS Electrical Engineering correspondence course",
+	"title":"Worked at Clark Electric Co.",
+	"icon":"fa-bolt",
+	},
+	{
+	"id":"tl-1939-tulsa",
+	"year":"1939?",
+	"age":"24",
+	"geography":"Tulsa, OK",
+	"title":"Worked at Tulsa newspaper?",
+	"icon":"fa-pencil",
+	},
+	{
+	"id":"tl-1941-ics",
+	"year":"1941?",
+	"age":"26",
+	"geography":"Tulsa, OK",
+	"title":"Graduated from ICS Elec. Eng. correspondence course",
+	"icon":"fa-graduation-cap",
 	},
 	{
 	"id":"tl-1942-tulsa",
@@ -103,7 +129,8 @@
 	"month":"April",
 	"age":"27",
 	"geography":"Tulsa, OK",
-	"title":"Joined U.S. Army",
+	"title":"Enlisted in U.S. Army",
+	"icon":"fa-bomb",
 	"references":[
 		{
 			"object":"Letter to Steve Juscik - March 10, 1992",
@@ -116,9 +143,10 @@
 	{
 	"id":"tl-1946-tulsa",
 	"year":"1946",
-	"age":"31",
+	"age":"32",
 	"geography":"Tulsa, OK",
-	"title":"Left U.S. Army",
+	"title":"Left U.S. Army (served as Staff Sergeant)",
+	"icon":"fa-bomb",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
@@ -129,8 +157,9 @@
 	"id":"tl-1950-oklahoma-city",
 	"year":"1950",
 	"age":"35",
-	"geography":"Oklahoma City, OK",
+	"geography":"Oklahoma City",
 	"title":"Worked for a year away from Tulsa",
+	"icon":"fa-bolt",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
@@ -139,14 +168,17 @@
 	},
 	{
 	"id":"tl-1959-tulsa",
-	"year":"1959",
-	"month":"Feb",
-	"age":"44",
+	"year":"1958",
+	"age":"43",
 	"geography":"Tulsa, OK",
-	"title":"Began writing",
+	"title":"Began writing (second phase)",
+	"icon":"fa-pencil",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
+		},
+		{
+			"object":"Andrew Ferguson - dates on unpub stories, NYRSF",
 		},
 	  ]
 	},
@@ -157,6 +189,7 @@
 	"age":"44",
 	"geography":"Tulsa, OK",
 	"title":"First story accepted",
+	"icon":"fa-pencil",
 	"references":[
 		{
 			"object":"Cranky Old Man from Tulsa - R.J. Walker interview",
@@ -170,6 +203,7 @@
 	"age":"45",
 	"geography":"Tulsa, OK",
 	"title":"First story published",
+	"icon":"fa-pencil",
 	"references":[
 		{
 			"object":"Cranky Old Man from Tulsa - R.J. Walker interview",
@@ -183,6 +217,7 @@
 	"age":"45",
 	"geography":"Tulsa, OK",
 	"title":"Signed with agent A.L. Fierst",
+	"icon":"fa-money",
 	"references":[
 		{
 			"object":"Andrew Ferguson blog",
@@ -195,6 +230,7 @@
 	"age":"47",
 	"geography":"Tulsa, OK",
 	"title":"Signed with agent Virginia Kidd",
+	"icon":"fa-money",
 	"references":[
 		{
 			"object":"Andrew Ferguson blog",
@@ -207,6 +243,7 @@
 	"age":"53",
 	"geography":"Tulsa, OK",
 	"title":"First novel sold",
+	"icon":"fa-money",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
@@ -217,8 +254,9 @@
 	"id":"tl-1968-okc",
 	"year":"1968",
 	"age":"53",
-	"geography":"Oklahoma City, OK",
+	"geography":"Oklahoma City",
 	"title":"First meeting with SF fandom (minicon)",
+	"icon":"fa-user",
 	"references":[
 		{
 			"object":"U of Tulsa - Letter to Mark Shepherd",
@@ -231,9 +269,25 @@
 	"age":"54",
 	"geography":"New Orleans, LA",
 	"title":"First <em>Nebula Award</em> Nomination",
+	"icon":"fa-trophy",
 	"references":[
 		{
 			"object":"Guy Lillian fanzine - R.A.L.L.Y",
+		},
+	  ]
+	},
+	{
+	"id":"tl-1969-pohl",
+	"year":"1969",
+	"age":"54",
+	"title":"Editor <a href=\"http://en.wikipedia.org/wiki/Frederik_Pohl\">Frederik Pohl</a> left Galaxy, ending RAL story run",
+	"icon":"fa-money",
+	"references":[
+		{
+			"object":"http://en.wikipedia.org/wiki/Frederik_Pohl",
+		},
+		{
+			"object":"This Land Press article, Nov 2013",
 		},
 	  ]
 	},
@@ -243,6 +297,7 @@
 	"age":"55",
 	"geography":"Tulsa, OK",
 	"title":"2-year publishing streak of good stories ('70 & '71)",
+	"icon":"fa-pencil",
 	},
 	{
 	"id":"tl-1971-tulsa",
@@ -250,6 +305,7 @@
 	"age":"56",
 	"geography":"Tulsa, OK",
 	"title":"Retired from electrical business",
+	"icon":"fa-money",
 	},
 	{
 	"id":"tl-1972-tulsa",
@@ -257,12 +313,14 @@
 	"age":"57",
 	"geography":"Tulsa, OK",
 	"title":"Health: illness (heart?), no travel or writing",
+	"icon":"fa-medkit",
 	},
 	{
 	"id":"tl-1972-invisible",
 	"year":"1972",
 	"age":"57",
 	"geography":"SF Bay Area, CA",
+	"icon":"fa-trophy",
 	"title":"Winner, <a href=\"http://web.archive.org/web/20100723200406/http://www.lib.utulsa.edu/speccoll/collections/lafferty/index3.htm\">Little Invisible Man</a> Award",
 	},
 	{
@@ -270,6 +328,7 @@
 	"year":"1973",
 	"age":"58",
 	"geography":"Toronto, Canada",
+	"icon":"fa-trophy",
 	"title":"Winner, <em>Hugo Award</em>",
 	},
 	{
@@ -277,6 +336,7 @@
 	"year":"1975",
 	"age":"60",
 	"geography":"Japan",
+	"icon":"fa-trophy",
 	"title":"Winner, <a href=\"http://en.wikipedia.org/wiki/Seiun_Award\">Best Short Fiction</a>, <em>Seiun Award</em>",
 	},
 	{
@@ -285,6 +345,7 @@
 	"age":"62",
 	"title":"R.W. Sirignano interview recorded at DeepSouthCon",
 	"geography":"Birmingham, AL",
+	"icon":"fa-microphone",
 	"artifacts":[
 		{
 			"title":"Interview recorded by <em>Robert Whitaker Sirignano</em>",
@@ -299,6 +360,19 @@
 	"age":"64",
 	"geography":"New Orleans, LA",
 	"title":"<a href=\"http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/\">Guest</a> of Honor <a href=\"http://web.archive.org/web/20090327154715/http://www.prairienet.org/~almahu/after.htm\">Speech</a> at DeepSouthCon",
+	"icon":"fa-user",
+	"references":[
+		{
+			"object":"Challenger 16 fanzine",
+		},
+	  ]
+	},
+	{
+	"id":"tl-1979-visicalc",
+	"year":"1979",
+	"age":"64",
+	"title":"First PC <a href=\"http://en.wikipedia.org/wiki/VisiCalc\">spreadsheet</a> launched, will transform publishing",
+	"icon":"fa-money",
 	"references":[
 		{
 			"object":"Challenger 16 fanzine",
@@ -310,6 +384,7 @@
 	"year":"1981?",
 	"age":"67",
 	"title":"Health: injured knees",
+	"icon":"fa-medkit",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
@@ -327,6 +402,7 @@
 	"age":"68",
 	"geography":"Chicago, IL",
 	"title":"D. Schweitzer interview at World SF Convention",
+	"icon":"fa-microphone",
 	"references":[
 		{
 			"object":"Cranky Old Man from Tulsa - R.J. Walker interview",
@@ -339,6 +415,7 @@
 	"age":"70",
 	"geography":"Chattanooga, TN",
 	"title":"Attended DeepSouthCon",
+	"icon":"fa-user",
 	"references":[
 		{
 			"object":"Photo by Ned Brooks - Lafferty & John Guidry",
@@ -352,12 +429,14 @@
 	"age":"70",
 	"geography":"Tulsa, OK",
 	"title":"Retired from writing",
+	"icon":"fa-pencil",
 	},
 	{
 	"id":"tl-1990-schaumburg",
 	"year":"1990",
 	"age":"75",
 	"geography":"Schaumburg, IL",
+	"icon":"fa-trophy",
 	"title":"Winner, <a href=\"http://www.worldfantasy.org/awards/awardslist.html\">Lifetime Achievement</a> &mdash; <a href=\"http://www.worldfantasy.org/retro.html\">World Fantasy</a>",
 	},
 	{
@@ -367,6 +446,7 @@
 	"month":"September",
 	"geography":"Chicago, IL",
 	"title":"Attended ChiCon V (last con attended?)",
+	"icon":"fa-user",
 	"references":[
 		{
 			"object":"Letter to Alan Dean Foster - Sep 22, 1991",
@@ -385,12 +465,14 @@
 	"age":"80",
 	"geography":"Tulsa, OK",
 	"title":"Health: suffered a small stroke",
+	"icon":"fa-medkit",
 	},
 	{
 	"id":"tl-1995-gibson",
 	"year":"1995",
 	"age":"81",
-	"geography":"Oklahoma",
+	"geography":"Tulsa, OK",
+	"icon":"fa-trophy",
 	"title":"Winner, <a href=\"https://web.archive.org/web/20091027093656/http://geocities.com/konstiantin/osfw/authors/RAL_sinor_tribute.html\">Lifetime Achievement</a> &mdash; <em>Arrell Gibson Award</em>",
 	},
 	{
@@ -399,6 +481,7 @@
 	"age":"82",
 	"geography":"Tulsa, OK",
 	"title":"Health: larger stroke? Moved to nursing home?",
+	"icon":"fa-medkit",
 	"references":[
 		{
 			"object":"Andrew Ferguson blog",
@@ -409,6 +492,7 @@
 	"id":"tl-1997-dozois",
 	"year":"1997",
 	"age":"83",
+	"icon":"fa-trophy",
 	"title":"<a href=\"/works/stories/narrow-valley/\">Story</a> in <em>The Fantasy Hall of Fame</em>",
 	},
 	{
@@ -418,12 +502,14 @@
 	"geography":"Broken Arrow, OK",
 	"age":"83",
 	"title":"Health: <a href=\"http://www.ralafferty.org/archive/1997/bkennington-1997-12-28.txt\">confirmed</a> to be in nursing home.",
+	"icon":"fa-medkit",
 	},
 	{
 	"id":"tl-1998-silverberg",
 	"year":"1998",
 	"age":"83",
 	"title":"<a href=\"/works/stories/narrow-valley/\">Story</a> in <em>Modern Classics of Science Fiction</em>",
+	"icon":"fa-trophy",
 	},
 	{
 	"id":"tl-1998-atlanta",
@@ -431,7 +517,9 @@
 	"month":"March",
 	"age":"83",
 	"geography":"Atlanta, GA",
+	"icon":"fa-user",
 	"title":"<a href=\"http://www.fanac.org/fanzines/IGOTS/igots19.htm\">IGOTS 19</a>: Ray's mail for #18 was returned",
+	"icon":"fa-user",
 	"artifacts":[
 		{
 			"title":"Mail returned",
@@ -447,6 +535,7 @@
 	"geography":"Broken Arrow, OK",
 	"age":"84",
 	"title":"Health: <a href=\"http://www.ralafferty.org/archive/1999/mark-1999-03.txt\">update</a> from Ray's nurse.",
+	"icon":"fa-medkit",
 	},
 	{
 	"id":"tl-1999-atlanta",
@@ -455,6 +544,7 @@
 	"age":"84",
 	"geography":"Atlanta, GA",
 	"title":"<a href=\"http://www.fanac.org/fanzines/IGOTS/igots20.htm\">IGOTS 20</a>: D. Knight said that Ray is in nursing home", 
+	"icon":"fa-user",
 	"artifacts":[
 		{
 			"title":"Lafferty stroke",
@@ -468,6 +558,7 @@
 	"year":"2001",
 	"age":"86",
 	"title":"<a href=\"/works/stories/euremas-dam/\">Story</a> in <em>The Best Science Fiction of the Century</em>",
+	"icon":"fa-trophy",
 	},
 	{
 	"id":"tl-2002-tulsa",
@@ -475,11 +566,13 @@
 	"month":"March",
 	"age":"87",
 	"geography":"Broken Arrow, OK",
+	"icon":"fa-medkit",
 	"title":"<a href=\"http://www.ralafferty.org/archive/2002/nkennington-2002-03-20.txt\">Died</a> at nursing home.",
 	},
 	{
 	"id":"tl-2002-smith",
 	"year":"2002",
+	"icon":"fa-trophy",
 	"title":"Winner, <a href=\"http://www.cordwainer-smith.com/lafferty.htm\">Rediscovery Award</a>, <em>Cordwainer Smith Foundation</em>",
 	},
 	{
@@ -487,18 +580,21 @@
 	"year":"2003",
 	"geography":"Burlington, MA",
 	"title":"<a href=\"http://www.ralafferty.org/archive/2003/bdevney-2003-04-23.txt\">Memorial Guest of Honor</a> at <em>Readercon 15</em>",
+	"icon":"fa-trophy",
 	},
 	{
 	"id":"tl-2010-middletown",
 	"year":"2010",
 	"geography":"Middletown, CT",
 	"title":"<a href=\"/works/stories/slow-tuesday-night/\">Story</a> in <em>The Wesleyan Anthology of Science Fiction</em>",
+	"icon":"fa-trophy",
 	},
 	{
 	"id":"tl-2011-durham",
 	"year":"2011",
 	"month":"May",
 	"geography":"Durham, NC",
+	"icon":"fa-money",
 	"title":"Estate sold literary rights to Locus Foundation",
 	},
 	{
@@ -506,6 +602,7 @@
 	"year":"2013",
 	"month":"April",
 	"geography":"Japan",
+	"icon":"fa-money",
 	"title":"Hardcover <a href=\"http://www.amazon.co.jp/%E7%AC%AC%E5%9B%9B%E3%81%AE%E9%A4%A8-%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%96%87%E5%AD%A6-R%E3%83%BB-%E3%83%BB%E3%83%A9%E3%83%95%E3%82%A1%E3%83%86%E3%82%A3/dp/4336053227/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1418102803&sr=1-1-catcorr&keywords=Fourth+Mansions+lafferty\">translation</a> of <em>Fourth Mansions</em>",
 	},
 	{
@@ -514,6 +611,7 @@
 	"month":"February",
 	"geography":"USA",
 	"title":"Centipede Press released #1 of 12 collector volumes",
+	"icon":"fa-money",
 	},
 	{
 	"id":"tl-2014-nyc",
@@ -521,6 +619,7 @@
 	"month":"August",
 	"geography":"New York, NY",
 	"title":"Locus signed with <a href=\"http://awfulagent.com/jabclients/lafferty\">JABberwocky Literary Agency</a>",
+	"icon":"fa-money",
 	},
 	{
 	"id":"tl-2014-london",
@@ -528,12 +627,14 @@
 	"month":"August",
 	"geography":"London, UK",
 	"title":"<a href=\"http://ralafferty.tumblr.com/post/101718354377/lafferty-centennial-panel-at-worldcon\">Panel</a> at World SF Convention<br><a href=\"http://www.theguardian.com/books/booksblog/2014/aug/13/ra-lafferty-secret-sci-fi-genius-poised-for-comeback\">Article</a>, <em>The Guardian</em>",
+	"icon":"fa-user",
 	},
 	{
 	"id":"tl-2014-tulsa",
 	"year":"2014",
 	"month":"November",
 	"geography":"<br>Tulsa, OK<br>AU/CA/UK/USA<br>Japan<br>Washington, DC<br>Oakland, CA",
+	"icon":"fa-user",
 	"title":"Centennial Tributes<br><a href=\"http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete\">Lost and Found</a>, <em>This Land Press</em><br><a href=\"http://ralafferty.tumblr.com/post/102837431377/a-printable-feast\">Feast of Laughter</a>, <em>Ktistec Press</em><br><a href=\"http://ralafferty.tumblr.com/post/101900921217/hayakawa-sf-lafferty-centennial-issue\">Hayakawa SF</a><br><a href=\"http://ralafferty.tumblr.com/post/102459043047/lafferty-panel-at-world-fantasy\">Panel</a> at World Fantasy<br><a href=\"http://ralafferty.tumblr.com/post/102404246242/lafferty-in-locus\">November 2014</a>, <em>Locus</em>",
 	},
     ]
