@@ -98,9 +98,10 @@ layout: default
 		{% endfor %}
 		</ul>
 
-		<br>
-		<b>Notes</b><br><br>
 		{% for footnote in collection.footnotes %}
+			{% if forloop.first %}
+			<br><b>Notes</b><br><br>
+			{% endif %}
 			{{ forloop.index }}. &nbsp;<a name="{{ footnote.id }}"></a>{{ footnote.title }} <br>
 		{% endfor %}
 
