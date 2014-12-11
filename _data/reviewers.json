@@ -185,5 +185,15 @@
 		"name":"Wikipedia",
 		"url":"http://wikipedia.org",
 	},
+	{
+		"id":"tarbandu",
+		"name":"tarbandu",
+		"url":"http://theporporbooksblog.blogspot.co.uk",
+	},
+	{
+		"id":"Uchronia",
+		"name":"uchronia",
+		"url":"http://www.uchronia.net",
+	},
    ]
 }

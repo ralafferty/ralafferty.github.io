@@ -257,6 +257,12 @@
 		"year":"2002",
 	},
 	{
+		"id":"2003-muk-entire",
+		"year":"2003",
+		"reviewer":"muk",
+		"url":"http://www.mulle-kybernetik.com/RAL/MT/archives/2003/07/entire-and-perf.html",
+	},
+	{
 		"id":"2004-muk-days-grass",
 		"reviewer":"muk",
 		"url":"http://www.mulle-kybernetik.com/RAL/MT/archives/2003/07/days-of-grass-d.html",
@@ -493,6 +499,17 @@
 		"id":"re-wikipedia-fourth",
 		"reviewer":"wikipedia",
 		"url":"http://en.wikipedia.org/wiki/Fourth_Mansions",
+	},
+	{
+		"id":"re-uchronia-entire",
+		"reviewer":"uchronia",
+		"url":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
+	},
+	{
+		"id":"2009-tarbandu-entire",
+		"year":"2009",
+		"reviewer":"tarbandu",
+		"url":"http://theporporbooksblog.blogspot.co.uk/search/label/Orbit%206",
 	},
    ]
 }

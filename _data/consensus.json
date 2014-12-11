@@ -76,9 +76,21 @@
 	"year":"1971",
 	"type":"ss",
 	"class":"alt-hist",
-	"excerpt": "Should there by another reason, Shackleton? Well, there is; but we go about it awkwardly and without knowing what we're doing. The thing about humans which nobody apparently wishes to notice, is that we're a species which has never had an adult culture. We feel that lack more and more as we become truly adult in other ways. It grows tedious to stretch out a childhood forever. The easy enjoyments, the easy rationality, the easy governments and sciences, are really childish things. We master them while we are yet children, and we look beyond. But there isn't anything beyond the childishness, Shackleton. We must find a deeper view somehow. We are looking for that something deeper here.",
+	"excerpt": "Should there be another reason, Shackleton? Well, there is; but we go about it awkwardly and without knowing what we're doing. The thing about humans which nobody apparently wishes to notice, is that we're a species which has never had an adult culture. We feel that lack more and more as we become truly adult in other ways. It grows tedious to stretch out a childhood forever. The easy enjoyments, the easy rationality, the easy governments and sciences, are really childish things. We master them while we are yet children, and we look beyond. But there isn't anything beyond the childishness, Shackleton. We must find a deeper view somehow. We are looking for that something deeper here.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41436",
 	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
+	"collections":[	
+		{ "id":"co-1991-orbit"		},
+		{ "id":"co-1984-mirages"	},
+		{ "id":"co-1975-pluis"		},
+		{ "id":"co-1973-golden"		},
+		{ "id":"co-1973-strange"	},
+	  ],
+	"reviews":[
+		{ "id":"2009-tarbandu-entire" },
+		{ "id":"2003-muk-entire" },
+		{ "id":"re-uchronia-entire" },
+	 ],
 	"awards":[	
 		{
 			"place":"Anthology",
