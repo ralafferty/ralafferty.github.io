@@ -31,6 +31,14 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?380795",
 	},
 	{
+		"id":"co-1982-best",
+		"year":"1982",
+		"title":"Best Science Fiction of the Year",
+		"editor":"Terry Carr",
+		"img":"BSSFYR1119XX.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?4159",
+	},
+	{
 		"id":"co-1984-mirages",
 		"year":"1984",
 		"title":"Histoires de mirages",
@@ -50,6 +58,14 @@
 		"year":"1991",
 		"img":"SCRDVSNSGS1991.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?191085",
+	},
+	{
+		"id":"co-1992-iron",
+		"year":"1992",
+		"title":"Iron Tears",
+		"publisher":"Edgewood Press",
+		"img":"51QE8RM22VL.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?18567",
 	},
 	{
 		"id":"co-2001-best-century",

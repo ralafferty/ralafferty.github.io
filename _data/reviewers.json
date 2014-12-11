@@ -191,9 +191,19 @@
 		"url":"http://theporporbooksblog.blogspot.co.uk",
 	},
 	{
-		"id":"Uchronia",
-		"name":"uchronia",
+		"id":"uchronia",
+		"name":"Uchronia",
 		"url":"http://www.uchronia.net",
+	},
+	{
+		"id":"tor",
+		"name":"Tor.com",
+		"url":"http://www.tor.com",
+	},
+	{
+		"id":"nilf",
+		"name":"NILF-Italy",
+		"url":"http://www.fantascienza.com",
 	},
    ]
 }

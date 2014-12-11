@@ -134,6 +134,12 @@
 		"year":"2014",
 	},
 	{
+		"id":"re-2014-dpetersen-entire",
+		"year":"2014",
+		"reviewer":"dpetersen",
+		"url":"http://antsofgodarequeerfish.blogspot.com/2014/12/entire-and-perfect-chrysolite-1970.html",
+	},
+	{
 		"id":"2009-bmunro-assault",
 		"reviewer":"bmunro",
 		"url":"http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681",
@@ -510,6 +516,17 @@
 		"year":"2009",
 		"reviewer":"tarbandu",
 		"url":"http://theporporbooksblog.blogspot.co.uk/search/label/Orbit%206",
+	},
+	{
+		"id":"re-2011-tor-entire",
+		"year":"2011",
+		"reviewer":"tor",
+		"url":"http://www.tor.com/blogs/2011/02/hugo-nominees-1971",
+	},
+	{
+		"id":"re-nilf-entire",
+		"reviewer":"nilf",
+		"url":"http://www.fantascienza.com/catalogo/opere/NILF1045673/crisolite-intero-e-perfetto/",
 	},
    ]
 }

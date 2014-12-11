@@ -87,9 +87,12 @@
 		{ "id":"co-1973-strange"	},
 	  ],
 	"reviews":[
-		{ "id":"2009-tarbandu-entire" },
-		{ "id":"2003-muk-entire" },
-		{ "id":"re-uchronia-entire" },
+		{ "id":"re-2014-dpetersen-entire" 	},
+		{ "id":"re-2011-tor-entire"		},
+		{ "id":"2009-tarbandu-entire" 		},
+		{ "id":"2003-muk-entire" 		},
+		{ "id":"re-uchronia-entire" 		},
+		{ "id":"re-nilf-entire"			},
 	 ],
 	"awards":[	
 		{
@@ -1947,6 +1950,13 @@
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?43108",
 	"excerpt":"One evening in the Latter Days, Helen brought over some bones and rocks that belonged to her late husband John Palmer. She brought the Moon Whistle too. And she left those things with us.  Helen had married again, and to a man who hadn't known John. And she left all those things with us. And she thought that she'd better get some of those funny old things out of her house.  “The Moon Whistle will be no good without you to blow it, Helen,” Hector O'Day said.",
+	"collections":[	
+		{ "id":"co-1992-iron"		},
+		{ "id":"co-1982-best"		},
+	  ],
+	"reviews":[
+		{ "id":"2013-kcheek-narrow" 	},
+	 ],
 	},
 	{
 	"id":"1974-name",
