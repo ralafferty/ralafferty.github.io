@@ -143,17 +143,6 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[library](http://www.worldcat.org/title/arrive-at-easterwine-the-autobiography-of-a-ktistec-machine/oclc/000161018)
   &mdash;&nbsp;*1972&nbsp;Locus&nbsp;14<sup>th</sup>* 
 * <span class="btitle">[Fourth Mansions](/works/novels/fourth-mansions/)</span>
-  &middot; [David Pringle](http://books.google.com/books?id=lDmKBAAAQBAJ&pg=PA45&lpg=PA45&dq=%22american+fantasy%22+lafferty&source=bl&ots=NqfthfHeRK&sig=DKXWLADVu9ZzTw-5BeJWHuCiJ-A&hl=en&sa=X&ei=-shRVJ67GtLesAT9kIGwCg&ved=0CD4Q6AEwBg#v=onepage&q=%22american%20fantasy%22%20lafferty&f=false) (2014)
-  &middot; [Simon Crook](http://thegrammarofmatter.wordpress.com/2013/10/02/darkness-in-long-hour-spent-a-gift-from-greenham-common/) (2013)
-  &middot; [Daniel Petersen](http://antsofgodarequeerfish.blogspot.com/2011/07/some-initial-thoughts-on-r-laffertys.html) (2011)
-  &middot; [bcy.ca](http://freemasonry.bcy.ca/fiction/lafferty.html)
-  &middot; [goodreads](http://www.goodreads.com/book/show/689957.Fourth_Mansions#other_reviews "10 reviews")
-  &middot; [amazon](http://www.amazon.com/FOURTH-MANSIONS-24590-R-A-Lafferty/product-reviews/B001BJ0RAM/ref=cm_cr_dp_see_all_summary?ie=UTF8&showViewpoints=1&sortBy=byRankDescending "3 reviews") 
-  &middot; [amazon](http://www.amazon.com/Fourth-Mansions-R-A-Lafferty/product-reviews/1557850488/ref=cm_cr_pr_top_helpful?ie=UTF8&showViewpoints=0&sortBy=byRankDescending_ "4 reviews") 
-  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=fourth+mansions)
-  &middot;&nbsp;[library](http://www.worldcat.org/title/fourth-mansions/oclc/005950330)
-  &middot; [preview](http://books.google.com/books?id=AJ1yVXoMfkoC&printsec=frontcover&dq=fourth+mansions&hl=en&sa=X&ei=3H47VPmeCIzLsATNi4KIBg&ved=0CCsQuwUwAA#v=onepage&q=fourth%20mansions&f=false) 
-  &mdash;&nbsp;*1971 Nebula&nbsp;Nominee, Locus 5<sup>th</sup>* 
 * <span class="btitle">Okla Hannali</span>
   &middot; [Josephine](http://josephinereadersadvisory.wordpress.com/2013/01/30/okla-hannali-by-r-a-lafferty/) (2013)
   &middot;&nbsp;[Keith Purtell](http://www.keithpurtell.com/kthings/r-a-lafferty.htm) (1998)
@@ -177,16 +166,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
   &middot;&nbsp;[library](http://www.worldcat.org/title/past-master/oclc/001693870)
   &middot;&nbsp;[preview](http://books.google.com/books?id=uXHKVdU6nA8C&printsec=frontcover#v=onepage&q&f=false) 
   &mdash;&nbsp;*1969 Hugo&nbsp;&&nbsp;Nebula&nbsp;Nominee* 
-* <span class="btitle">The Devil is Dead</span>
-  &middot; [Arthur B](http://ferretbrain.com/articles/article-240.html) (2008)
-  &middot; [Steve Hooley](https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html) (2002)
-  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/1292067.The_Devil_Is_Dead#other_reviews "7 reviews")
-  &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/19376473-the-devil-is-dead#other_reviews "1 review")
-  &middot;&nbsp;[amazon](http://www.amazon.com/Devil-Dead-R-Lafferty/product-reviews/1557850461/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1 "4 reviews")
-  &middot;&nbsp;[used](http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title=the+devil+is+dead)
-  &middot;&nbsp;[library](http://www.worldcat.org/title/devil-is-dead/oclc/002896356)
-  &middot;&nbsp;[preview](http://books.google.com/books?id=xk0YTotXzu0C&printsec=frontcover#v=onepage&q&f=false) 
-  &mdash;&nbsp;*1972 Nebula&nbsp;Nominee, Locus 7<sup>th</sup>* 
+* <span class="btitle">[The Devil is Dead](/works/novels/the-devil-is-dead)</span>
 * <span class="btitle">The Fall of Rome</span>
   &middot; [Clemens](http://sentent.blogspot.com/2010/05/r-lafferty-and-semitic-germans-of-300.html) (2010)
   &middot; [Martin Heavisides](http://theevitable.blogspot.com/2009/01/ra-laffertys-fall-of-rome.html)  (2009)

@@ -43,6 +43,14 @@ layout: default
 
 				{% include reviews.html %}
 
+				<ul class="work-review taglist">
+				<i style="color:#ADADAD;" class="fa fa-search"></i> &nbsp;
+				{% if work.library %}
+					&middot;&nbsp;<a href="{{ work.library }}">Library</a>
+				{% endif %}
+				&middot;&nbsp;<a href="http://used.addall.com/SuperRare/submitRare.cgi?author=r.a.+lafferty&title={{ work.title | replace: ' ', '+' }}">Used</a>
+				</ul>
+
 				</li>
 			</ul>
 

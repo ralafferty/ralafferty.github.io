@@ -122,6 +122,12 @@
 		"year":"2009",
 	},
 	{
+		"id":"re-2013-dpetersen-weirdest",
+		"reviewer":"dpetersen",
+		"url":"http://antsofgodarequeerfish.blogspot.com/2013/04/world-world-world-water-water-water.html",
+		"year":"2013",
+	},
+	{
 		"id":"2014-dpetersen-wagons",
 		"reviewer":"dpetersen",
 		"url":"http://antsofgodarequeerfish.blogspot.com/2014/11/another-brief-short-story-review-wagons.html",
@@ -413,6 +419,11 @@
 		"year":"2005",
 	},
 	{
+		"id":"re-muk-weirdest",
+		"reviewer":"muk",
+		"url":"http://www.mulle-kybernetik.com/RAL/blob.html",
+	},
+	{
 		"id":"2010-afabulinus-wagons",
 		"reviewer":"afabulinus",
 		"url":"https://twitter.com/Atrox_Fabulinus/status/3834562070",
@@ -527,6 +538,39 @@
 		"id":"re-nilf-entire",
 		"reviewer":"nilf",
 		"url":"http://www.fantascienza.com/catalogo/opere/NILF1045673/crisolite-intero-e-perfetto/",
+	},
+	{
+		"id":"re-2008-arthurb-devil",
+		"year":"2008",
+		"reviewer":"arthurb",
+		"url":"http://ferretbrain.com/articles/article-240.html",
+	},
+	{
+		"id":"re-2002-stevehooley-devil",
+		"year":"2002",
+		"reviewer":"stevehooley",
+		"url":"https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html",
+	},
+	{
+		"id":"re-goodreads-devil-1",
+		"reviewer":"goodreads",
+		"url":"http://www.goodreads.com/book/show/1292067.The_Devil_Is_Dead#other_reviews",
+	},
+	{
+		"id":"re-goodreads-devil-2",
+		"reviewer":"goodreads",
+		"url":"http://www.goodreads.com/book/show/19376473-the-devil-is-dead#other_reviews",
+	},
+	{
+		"id":"re-amazon-devil",
+		"reviewer":"amazon",
+		"url":"http://www.amazon.com/Devil-Dead-R-Lafferty/product-reviews/1557850461/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1",
+	},
+	{
+		"id":"re-1983-abudrys-fourstories",
+		"year":"1983",
+		"reviewer":"abudrys",
+		"url":"https://books.google.com/books?id=umObBQAAQBAJ&pg=PA68&lpg=PA68&dq=%22r.a.+lafferty%22+%22Bird-Master%22&source=bl&ots=Pp8xMjNYnH&sig=-y_tKdEwoWIWpgnKG3LGjlnNwTE&hl=en&sa=X&ei=67iKVO-TGNOwsASGzoHgDQ&ved=0CDoQ6AEwBQ#v=onepage&q=%22r.a.%20lafferty%22%20%22Bird-Master%22&f=false",
 	},
    ]
 }

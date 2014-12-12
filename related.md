@@ -22,7 +22,6 @@ redirect_from: "/others/"
 
 These writers were selected for uniqueness or similarity in style or theme to Lafferty's writing.  They are ordered by co-occurrence with *R.A. Lafferty* on web pages.  This results from co-publication, articles or reader discussion.  Please email your suggestions to *&lt;related&nbsp;@&nbsp;this-domain&gt;*.
 
-
   * <span class="stitle">[Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "...received numerous awards for his writing, including seven Hugo Awards and three Nebula Awards.")</span> (2001)
 &middot; [quotes](http://en.wikiquote.org/wiki/Poul_Anderson)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?3)
@@ -46,6 +45,13 @@ These writers were selected for uniqueness or similarity in style or theme to La
 &middot; [goodreads](http://www.goodreads.com/author/show/8489.Robert_Sheckley)
 &middot; [amazon](http://www.amazon.com/Robert-Sheckley/e/B000APB2K2)
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22robert+sheckley%22 "64k results")
+  * <span class="stitle">[Algis Budrys](http://en.wikipedia.org/wiki/Algis_Budrys "... was a Lithuanian-American science fiction author, editor, and critic.")</span> (2008)
+&middot; [interview](https://www.sfsite.com/08a/alg14.htm)
+&middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?12)
+&middot; [sfe](http://www.sf-encyclopedia.com/entry/budrys_algis)
+&middot; [goodreads](http://www.goodreads.com/author/show/109116.Algis_Budrys)
+&middot; [amazon](http://www.amazon.com/Algis-Budrys/e/B000AP5OJ2)
+&middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22algis+budrys%22 "44k results")
   * <span class="stitle">[Alfred Bester](http://en.wikipedia.org/wiki/Alfred_Bester "...was an American science fiction author, TV and radio scriptwriter, magazine editor and scripter for comic strips and comic books.")</span> (1987)
 &middot; [interview](http://www.challzine.net/25/25alfie.html)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?6)

@@ -205,5 +205,20 @@
 		"name":"NILF-Italy",
 		"url":"http://www.fantascienza.com",
 	},
+	{
+		"id":"arthurb",
+		"name":"Arthur B",
+		"url":"http://ferretbrain.com/articles/article-240.html",
+	},
+	{
+		"id":"stevehooley",
+		"name":"Steve Hooley",
+		"url":"https://web.archive.org/web/20090917070520/http://www.lostbooks.org/guestreviews/2002-06-27-1.html",
+	},
+	{
+		"id":"abudrys",
+		"name":"Algis Budrys",
+		"url":"http://en.wikipedia.org/wiki/Algis_Budrys",
+	},
    ]
 }

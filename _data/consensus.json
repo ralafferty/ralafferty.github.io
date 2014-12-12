@@ -579,6 +579,9 @@
 	"url":"day-of-the-glacier",
 	"author":"R. A. Lafferty",
 	"year":"1960",
+	"collections":[	
+	 	{ "id":"co-1990-the-early-lafferty-ii" },
+	  ],
 	"type":"ss",
 	},
 	{
@@ -646,8 +649,13 @@
 	"title":"McGonigal's Worm",
 	"url":"mcgonigals-worm",
 	"author":"R. A. Lafferty",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69655",
 	"year":"1960",
 	"type":"ss",
+	"excerpt":"When it happened, it happened unnoticed. Though it affected all chordata on Earth (with a possible exception to be noted in a moment) nobody knew of it, not even the Prince of all chordata, Man himself. How could he have known of it so soon? Though his lifeline had suddenly been cut, it was a long lifeline and death would still be far off. So it was not suspected for nearly twenty-four hours, not accepted even as a working theory for nearly three days, and not realized in its full implications for a week.",
+	"collections":[	
+	 	{ "id":"co-1990-the-early-lafferty-ii" },
+	  ],
 	"reviews":[
 		{ "id": "2013-aferguson-worm", },
 	],
@@ -825,6 +833,8 @@
 	"title":"The Ultimate Creature",
 	"url":"the-ultimate-creature",
 	"author":"R. A. Lafferty",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69720",
+	"excerpt":"The old Galaxy maps (imitating early Earth maps, partly in humor and partly through intuition) pictured strong creatures in the far arms of the system — Serpents bigger than Spaceships, Ganymede-type Tigers, fish-tailed Maids, grand Dolphins, and Island-sized Androids. We think particularly of the wry masterpieces of Grobin. And at the end of the Far or Seventh arm of the Galaxy is shown the Ultimate Creature.  The Ultimate Creature had the form of a Woman, and it bore three signs in Chaldee: The Sign of Treasure; the Sign of the Fish Mashur (the queerest fish of them all); and the Sign of Restitution or of Floating Justice.",
 	"year":"1967",
 	"type":"ss",
 	},
@@ -916,6 +926,13 @@
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58346",
 	"excerpt":"“Dookh-Doctor, it is a sphairikos patient,” Lay Sister Moira P. T. de C. cried happily. “It is a genuine spherical alien patient. You've never had one before, not in good faith. I believe it is what you need to distract you from the—ah—happy news about yourself. It is good for a Dookh-Doctor to have a different patient sometimes.” “Thank you, lay sister. Let it, him, her, fourth case, fifth case or whatever come in. No, I've never had a sphairikos in good faith. I doubt if this one is, but I will enjoy the encounter.” The sphairikos rolled or pushed itself in. It was a big one, either a blubbery kid or a full-grown one. It rolled itself along by extruding and withdrawing pseudopods.  And it came to rest grinning, a large translucent rubbery ball of fleeting colors.",
+	"collections":[	
+	 	{ "id":"co-1991-orbit" 		},
+		{ "id":"co-1985-urania-1008"	},
+	 	{ "id":"co-1984-ringing-changes"},
+		{ "id":"co-1983-medecins"	},
+		{ "id":"co-1979-dagen"		},
+	 ],
 	},
 	{
 	"id":"1973-parthen",
@@ -957,6 +974,15 @@
 	"author":"R. A. Lafferty",
 	"year":"1961",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?59206",
+	"excerpt":"As I am now utterly without hope, lost to my mission and lost in the sight of my crew, I will record what petty thoughts I may have for what benefit they may give some other starfarer. Nine long days of bickering! But the decision is sure. The crew will maroon me. I have lost all control over them.  Who would have believed that I would show such weakness when crossing the barrier? By all tests I should have been the strongest. But the final test was the event itself. I failed.  I only hope that it is a pleasant and habitable planet where they put me down…",
+	"collections":[	
+	 	{ "id":"co-1974-anyone"	},
+	  ],
+	"reviews":[
+		{ "id": "re-2013-dpetersen-weirdest" },
+		{ "id": "re-muk-weirdest" },
+	],
 	},
 	{
 	"id":"1971-words",
@@ -1337,8 +1363,24 @@
 	"title":"Among the Hairy Earthmen",
 	"url":"among-the-hairy-earthmen",
 	"author":"R. A. Lafferty",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52431",
+	"excerpt":"There is one period of our World History that has aspects so different from anything that went before and after that we can only gaze back on those several hundred years and ask: “Was that ourselves who behaved so?” Well, no, as a matter of fact, it wasn't. It was beings of another sort who visited us briefly and who acted so gloriously and abominably. This is the way it was:",
 	"year":"1966",
 	"type":"ss",
+	"collections":[	
+		{ "id":"co-2001-aliens"		},
+	 	{ "id":"co-1984-ringing-changes"},
+		{ "id":"co-1983-histoires"	},
+		{ "id":"co-1976-evil"		},
+	  ],
+	"awards":[
+	 	{
+			"place":"Made First Ballot",
+			"year":"1967",
+			"award":"Nebula",
+			"category":"Best Short Story",
+		},
+	]
 	},
 	{
 	"id":"1960-adam",
@@ -1393,6 +1435,12 @@
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69715",
 	"excerpt":"‘There was a Cheyenne sub-chief named Whistling Elk.  There was also an animal, or a ghost-animal, in the mythology of several tribes, the Cheyennes, the Sioux, the Osages, and the Comanches. There is something spooky about this Whistling Elk in the legends, for real elks do not whistle. The Whistling Elk is an apparition, a ghost, a messenger of death. He is also the one who gives the birds the signal to migrate. They would not know when to mill and fly away, and they would perish of the cold and hunger, if the Elk didn't give them the signal. The Whistling Elk is sometimes associated with the Bird-Master, who is variously known as the ‘shape-changer’ and the ‘cloud-shaper’.",
+	"reviews":[
+		{ "id":"re-1983-abudrys-fourstories"	},
+	 ],
+	"collections":[	
+		{ "id":"co-1983-fourstories"	},
+	 ]
 	},
 	{
 	"id":"1983-faith",
@@ -1403,6 +1451,12 @@
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69716",
 	"excerpt":"The mouse and the handyman had a little game every day with the pecan, the mouse pushing it with all his physical strength, and the handyman pushing it with faith and telekinesis. But then the mouse would seem to double his strength, and they would play the game to a standstill.  “Brother Mus, my employers are rather overdoing this thing,” Brother Gus the handyman said. “I wonder why they have become so extravagant in their manifestations.  John Salt is likely to challenge them on the genuineness of them. He is riled by such arrogance. I may have to leave their employ as I left that of the extravagant persons at the laboratory. Oh certainly you will go with me wherever I go. You and I are one.” The mouse winked at Brother Gus and giggled, proving that he was a mouse of at least human intelligence.",
+	"reviews":[
+		{ "id":"re-1983-abudrys-fourstories"	},
+	 ],
+	"collections":[	
+		{ "id":"co-1983-fourstories"	},
+	 ]
 	},
 	{
 	"id":"1983-turpentine",
@@ -1620,6 +1674,9 @@
 	"url":"maleficent-morning",
 	"author":"R. A. Lafferty",
 	"year":"1990",
+	"collections":[	
+	 	{ "id":"co-1990-the-early-lafferty-ii" },
+	  ],
 	"type":"ss",
 	},
 	{
@@ -1762,7 +1819,13 @@
 	"author":"R. A. Lafferty",
 	"year":"1967",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52397",
+	"excerpt":"Hauser honks like a gander! That clattering laugh of Goldbeater! Snodden sniggers so loud that it echos! Cooper's boom is like barrels rolling downstairs, and your own — it'll shrivel me, Dismas. Imagine the weirdest cacophony ever — Oh no! I wasn't thinking of one so weird as that!” Musical screaming! Glorious gibbering with an undertone that could shatter rocks! Hooting of a resonance plainly too deep for so small an instrument! Yowling, hoodoo laughing, broken roaring, rhinoceros grunting! And the child came tumbling out of the tall rocks of Doolen's Mountain, leaping down the flanks of the hill as though she was a waterfall. And both the men laughed.  “Your Ginny is the weirdest cacophony I can imagine, Dismas,” Dr. Minden said. “It scares me, and I love it.  Your daughter is the most remarkable creature in the world.",
 	"collections":[	
+		{ "id":"co-1980-urania-852"	},
+	 	{ "id":"co-1976-mutants"	},
+	 	{ "id":"co-1974-grossmutter-1"	},
+		{ "id":"co-1972-grootmoeders"	},
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	},
@@ -1812,7 +1875,16 @@
 	"url":"cliffs-that-laughed",
 	"author":"R. A. Lafferty",
 	"year":"1969",
-	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?56571",
+	"excerpt":"“Imagine about flute notes ascending,” said Galli. “I haven't my flute with me, but a story should begin so to set the mood. Imagine about ships coming out of the Arabian Ocean, and finally to Jilolo Island, and still more finally to the very island on which we now stand.  Imagine about waves and trees that were the great-great-grandfathers of the waves and trees we now have.” It was about the year 1620, Galli is telling it, in the late afternoon of the high piracy. These Moluccas had already been the rich Spice Islands for three hundred years.",
+	"collections":[	
+		{ "id":"co-1993-amazing-oct"	},
+		{ "id":"co-1975-pluis"		},
+		{ "id":"co-1973-strange"	},
+		{ "id":"co-1969-horror-mar"	},
+	  ],
+	"reviews":[
+	],
 	"awards":[	
 		{
 			"place":"22<sup>nd</sup>",
@@ -2094,6 +2166,9 @@
 	"url":"almost-perfect",
 	"author":"R. A. Lafferty",
 	"year":"1980",
+	"collections":[	
+	 	{ "id":"co-1990-the-early-lafferty-ii" },
+	  ],
 	"type":"ss",
 	},
 	{
@@ -2325,6 +2400,9 @@
 	"url":"beautiful-dreamer",
 	"author":"R. A. Lafferty",
 	"year":"1960",
+	"collections":[	
+	 	{ "id":"co-1990-the-early-lafferty-ii" },
+	  ],
 	"type":"ss",
 	},
 	{
@@ -2418,6 +2496,9 @@
 	"url":"ghost-in-the-corn-crib",
 	"author":"R. A. Lafferty",
 	"year":"1973",
+	"collections":[	
+	 	{ "id":"co-1990-the-early-lafferty-ii" },
+	  ],
 	"type":"ss",
 	},
 	{
