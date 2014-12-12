@@ -306,6 +306,12 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58350",
 	"fulltext_url":"http://www.gutenberg.org/files/31663/31663-h/31663-h.htm",
 	"collections":[	
+		{ "id":"co-2014-feast-1"	},
+		{ "id":"co-2014-models"		},
+		{ "id":"co-1993-grossen"	},
+		{ "id":"co-1980-urania-852"	},
+	 	{ "id":"co-1974-grossmutter-1"	},
+		{ "id":"co-1972-grootmoeders"	},
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	"reviews":[
@@ -403,6 +409,8 @@
 		{ "id": "2004-muk-days-grass", },
 	],
 	"collections":[	
+		{ "id":"co-1985-urania-995"	},
+	 	{ "id":"co-1984-ringing-changes"},
 	 	{ "id":"co-1982-golden-gate"	},
 	  ],
 	"awards":[	
@@ -1083,6 +1091,11 @@
 		{ "id": "2013-aferguson-tigers" },
 		{ "id": "2005-mmorrow-tigers" },
 	],
+	"collections":[	
+		{ "id":"co-1975-pluis"		},
+		{ "id":"co-1973-strange"	},
+		{ "id":"co-1972-demons"		},
+	  ],
 	},
 	{
 	"id":"1973-seashore",

@@ -16,6 +16,13 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?205061",
 	},
 	{
+		"id":"co-1972-demons",
+		"year":"1972",
+		"title":"Young Demons",
+		"img":"YNGDMNS1972.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?55794",
+	},
+	{
 		"id":"co-1972-walk",
 		"title":"And Walk Now Gently Through The Fire",
 		"year":"1972",
@@ -284,6 +291,20 @@
 		"title":"Wesleyan Anthology of Science Fiction",
 		"img":"WASF.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?323953",
+	},
+	{
+		"id":"co-2014-models",
+		"year":"2014",
+		"title":"The Man Who Made Models",
+		"img":"THMNWHMDMD2013.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?438107",
+	},
+	{
+		"id":"co-2014-feast-1",
+		"year":"2014",
+		"title":"Feast of Laughter, Vol. 1",
+		"img":"51NzJo19D1L.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?491896",
 	},
 	{
 		"id":"co-1970-grandmothers",
