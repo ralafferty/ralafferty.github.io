@@ -166,6 +166,7 @@
 		{ "id": "2013-aferguson-rainbird", },
 	],
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1973-strange"	},
 	  ],
 	},
@@ -255,6 +256,10 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52458",
 	"fulltext_url":"http://www.baenebooks.com/chapters/9781618249203/9781618249203___2.htm",
 	"collections":[	
+		{ "id":"co-2010-wesleyan"  	},
+		{ "id":"co-1991-ral-favorites"  },
+	 	{ "id":"co-1974-grossmutter-1"	},
+		{ "id":"co-1972-grootmoeders"	},
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	"reviews":[
@@ -483,6 +488,12 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?53936",
 	"fulltext_url":"https://web.archive.org/web/20040813150700/http://www.scifi.com/scifiction/classics/classics_archive/lafferty3/lafferty31.html",
 	"collections":[	
+		{ "id":"co-1993-grossen"	},
+		{ "id":"co-1993-modern"		},
+		{ "id":"co-1991-ral-favorites"  },
+	 	{ "id":"co-1974-grossmutter-1"	},
+		{ "id":"co-1973-strange"	},
+		{ "id":"co-1972-grootmoeders"	},
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	"reviews":[
@@ -642,6 +653,12 @@
 			"category":"<em>Modern Classics of Fantasy</em>",
 		},
 	  ],
+	"collections":[	
+		{ "id":"co-1997-modern"		},
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1991-orbit"		},
+		{ "id":"co-1984-mirages"	},
+	],
 	},
 	{
 	"id":"1970-cliff-climbers",
@@ -742,6 +759,12 @@
 		{ "id": "2005-muk-snuffles" 	},
 	],
 	"collections":[	
+		{ "id":"co-1993-grossen"	},
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1983-divines"	},
+		{ "id":"co-1980-urania-852"	},
+	 	{ "id":"co-1974-grossmutter-1"	},
+		{ "id":"co-1972-grootmoeders"	},
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	},
@@ -846,7 +869,11 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69720",
 	"excerpt":"The old Galaxy maps (imitating early Earth maps, partly in humor and partly through intuition) pictured strong creatures in the far arms of the system — Serpents bigger than Spaceships, Ganymede-type Tigers, fish-tailed Maids, grand Dolphins, and Island-sized Androids. We think particularly of the wry masterpieces of Grobin. And at the end of the Far or Seventh arm of the Galaxy is shown the Ultimate Creature.  The Ultimate Creature had the form of a Woman, and it bore three signs in Chaldee: The Sign of Treasure; the Sign of the Fish Mashur (the queerest fish of them all); and the Sign of Restitution or of Floating Justice.",
 	"year":"1967",
-	"type":"ss",
+	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1978-lieux"		},
+	 	{ "id":"co-1974-anyone"		},
+	  ],
 	},
 	{
 	"id":"1980-island",
@@ -926,6 +953,12 @@
 	"reviews":[
 		{ "id": "2013-aferguson-ride-tin", },
 	],
+	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1975-pluis"		},
+		{ "id":"co-1973-strange"	},
+		{ "id":"co-1972-infinity"	},
+	  ],
 	},
 	{
 	"id":"1970-old",
@@ -938,6 +971,7 @@
 	"excerpt":"“Dookh-Doctor, it is a sphairikos patient,” Lay Sister Moira P. T. de C. cried happily. “It is a genuine spherical alien patient. You've never had one before, not in good faith. I believe it is what you need to distract you from the—ah—happy news about yourself. It is good for a Dookh-Doctor to have a different patient sometimes.” “Thank you, lay sister. Let it, him, her, fourth case, fifth case or whatever come in. No, I've never had a sphairikos in good faith. I doubt if this one is, but I will enjoy the encounter.” The sphairikos rolled or pushed itself in. It was a big one, either a blubbery kid or a full-grown one. It rolled itself along by extruding and withdrawing pseudopods.  And it came to rest grinning, a large translucent rubbery ball of fleeting colors.",
 	"collections":[	
 	 	{ "id":"co-1991-orbit" 		},
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1985-urania-1008"	},
 	 	{ "id":"co-1984-ringing-changes"},
 		{ "id":"co-1983-medecins"	},
@@ -987,6 +1021,8 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?59206",
 	"excerpt":"As I am now utterly without hope, lost to my mission and lost in the sight of my crew, I will record what petty thoughts I may have for what benefit they may give some other starfarer. Nine long days of bickering! But the decision is sure. The crew will maroon me. I have lost all control over them.  Who would have believed that I would show such weakness when crossing the barrier? By all tests I should have been the strongest. But the final test was the event itself. I failed.  I only hope that it is a pleasant and habitable planet where they put me down…",
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1978-lieux"		},
 	 	{ "id":"co-1974-anyone"	},
 	  ],
 	"reviews":[
@@ -1026,6 +1062,12 @@
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?44501",
 	"excerpt":"It had been a very long and ragged and incredibly interlocked and detailed river shore. Then a funny thing happened. It had been broken up, sliced up into pieces.  Some of the pieces had been folded and compressed into bales. Some of them had been cut into still smaller pieces and used for ornaments and as Indian medicine.  Rolled and baled pieces of the shore came to rest in barns and old warehouses, in attics, in caves. Some were buried in the ground.  And yet the river itself still exists physically, as do its shores, and you may go and examine them. But the shore you will see along the river now is not quite the same as that old shore that was broken up and baled into bales and rolled onto rollers, not quite the same as the pieces you will find in attics and caves.",
+	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1991-orbit"		},
+		{ "id":"co-1984-paradoxales"	},
+		{ "id":"co-1977-world"		},
+	  ],
 	},
 	{
 	"id":"1964-tigers",
@@ -1449,6 +1491,7 @@
 		{ "id":"re-1983-abudrys-fourstories"	},
 	 ],
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1983-fourstories"	},
 	 ]
 	},
@@ -1465,6 +1508,7 @@
 		{ "id":"re-1983-abudrys-fourstories"	},
 	 ],
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1983-fourstories"	},
 	 ]
 	},
@@ -1832,6 +1876,7 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?52397",
 	"excerpt":"Hauser honks like a gander! That clattering laugh of Goldbeater! Snodden sniggers so loud that it echos! Cooper's boom is like barrels rolling downstairs, and your own — it'll shrivel me, Dismas. Imagine the weirdest cacophony ever — Oh no! I wasn't thinking of one so weird as that!” Musical screaming! Glorious gibbering with an undertone that could shatter rocks! Hooting of a resonance plainly too deep for so small an instrument! Yowling, hoodoo laughing, broken roaring, rhinoceros grunting! And the child came tumbling out of the tall rocks of Doolen's Mountain, leaping down the flanks of the hill as though she was a waterfall. And both the men laughed.  “Your Ginny is the weirdest cacophony I can imagine, Dismas,” Dr. Minden said. “It scares me, and I love it.  Your daughter is the most remarkable creature in the world.",
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1980-urania-852"	},
 	 	{ "id":"co-1976-mutants"	},
 	 	{ "id":"co-1974-grossmutter-1"	},
@@ -1889,6 +1934,7 @@
 	"excerpt":"“Imagine about flute notes ascending,” said Galli. “I haven't my flute with me, but a story should begin so to set the mood. Imagine about ships coming out of the Arabian Ocean, and finally to Jilolo Island, and still more finally to the very island on which we now stand.  Imagine about waves and trees that were the great-great-grandfathers of the waves and trees we now have.” It was about the year 1620, Galli is telling it, in the late afternoon of the high piracy. These Moluccas had already been the rich Spice Islands for three hundred years.",
 	"collections":[	
 		{ "id":"co-1993-amazing-oct"	},
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1975-pluis"		},
 		{ "id":"co-1973-strange"	},
 		{ "id":"co-1969-horror-mar"	},
@@ -2034,6 +2080,7 @@
 	"excerpt":"One evening in the Latter Days, Helen brought over some bones and rocks that belonged to her late husband John Palmer. She brought the Moon Whistle too. And she left those things with us.  Helen had married again, and to a man who hadn't known John. And she left all those things with us. And she thought that she'd better get some of those funny old things out of her house.  “The Moon Whistle will be no good without you to blow it, Helen,” Hector O'Day said.",
 	"collections":[	
 		{ "id":"co-1992-iron"		},
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1982-best"		},
 	  ],
 	"reviews":[
@@ -2199,6 +2246,8 @@
 	"excerpt":"It was clear to Barnaby that Blackie was really a villain.  Not everybody knew this. A melodrama villain is only black behind the lights. Off stage he should have a heart of gold. Whether of wrestling match, or afternoon serial, or evening drama or film, or on the little stage here at the Golden Gate Bar, the villain should be — when his role is finished — kind and courteous, thoughtful and big-hearted, a prince of a fellow.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?58339",
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1985-urania-995"	},
 	 	{ "id":"co-1982-golden-gate"	},
 	  ],
 	"reviews":[
@@ -2231,6 +2280,7 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?93726",
 	"excerpt":"How hard it is to judge the second best.  Who is the second-best scientist in the history of the world? First place goes to Isaac Newton, of course, but who is second best? There'll never be a solution; only endless quarreling over twenty-five candidates at least.  And who is the second-best writer in the history of the world? First place goes to William Shakespeare, of course— Of course.  It is odd that so little is known about Shakespeare and that so many people believe so passionately that Shakespeare wasn't Shakespeare but that someone else wrote the plays and poems attributed to the man. But if you want the Great Shakespearean Controversy raised to new pitches of madness, read this mad story.",
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
 		{ "id":"co-1982-speculations"	},
 	  ],
 	},
@@ -2268,6 +2318,8 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69707",
 	"excerpt":"Tobias Lamb, though not well liked, was held in high esteem by the scientific community. There were many of us who hardly liked him because — well, it was because his tricks and illusions sometimes shattered us completely. “And besides,” Alwin Garvie said of him, “he's an unlikely man.” Ah well, admit it, we were afraid of him. He was a harsh mocker; and yet he had a pleasant strain (or it was meant to be pleasant) in him. He was a hard driver. If he didn't actually hold a whip in his hand when he was working on a project, there was always a whip in his voice. He was avid, even feverish, to drive a project to success; and yet he didn't seem at all hungry for personal glory. ",
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1985-urania-995"	},
 	 	{ "id":"co-1982-golden-gate"	},
 	  ],
 	},
@@ -2436,6 +2488,9 @@
 	"type":"ss",
 	"excerpt":"John Sourwine is always interested in new things, or old things returned. So John went down to Barnaby's Barn to see the Odd One.  There was no need to ask which one he was, though there were always strangers and traveling men and seamen unknown to John in the Barn. The Odd One stood out. He was a big, spare, tough fellow, and he said that his name was McSkee. He was eating and drinking with a chortling pleasure, and they all watched him in amazement.  “It's his fourth plate of spaghetti,” Smokehouse confided to Sour John, “and that is the last of two dozen eggs...”",
 	"collections":[	
+		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1991-orbit"		},
+		{ "id":"co-1972-grootmoeders"	},
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	},

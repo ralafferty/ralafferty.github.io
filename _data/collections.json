@@ -23,6 +23,13 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?2639",
 	},
 	{
+		"id":"co-1972-infinity",
+		"year":"1972",
+		"title":"This Side of Infinity",
+		"img":"This_Side_of_Infinity_PB.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?51118",
+	},
+	{
 		"id":"co-1972-grootmoeders",
 		"year":"1972",
 		"country":"Netherlands",
@@ -82,6 +89,21 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?301643",
 	},
 	{
+		"id":"co-1977-world",
+		"year":"1977",
+		"title":"Wollheim's World's Best SF: Series One",
+		"img":"WBSFSO1972.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?55374",
+	},
+	{
+		"id":"co-1978-lieux", 
+		"year":"1978",
+		"title":"Lieux secrets et vilains messieurs",
+		"img":"LXSCRTSTVL1978.jpg",
+		"country":"France",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?415337",
+	},
+	{
 		"id":"co-1979-dagen",
 		"year":"1979",
 		"country":"Denmark",
@@ -121,6 +143,14 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?38444",
 	},
 	{
+		"id":"co-1983-divines", 
+		"year":"1983",
+		"title":"Histoires divines",
+		"img":"HSTRSDVNSJ1983.jpg",
+		"country":"France",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?421135",
+	},
+	{
 		"id":"co-1983-medecins", 
 		"year":"1983",
 		"title":"Histoires de médecins",
@@ -137,6 +167,14 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?421075",
 	},
 	{
+		"id":"co-1984-paradoxales",
+		"year":"1984",
+		"title":"Histoires paradoxales",
+		"img":"HSTRSPRDXL1984.jpg",
+		"country":"France",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?422668",
+	},
+	{
 		"id":"co-1984-mirages",
 		"year":"1984",
 		"title":"Histoires de mirages",
@@ -149,6 +187,14 @@
 		"title":"Ringing Changes",
 		"img":"RNGNGCHGS19XX.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?28204",
+	},
+	{
+		"id":"co-1985-urania-995",
+		"year":"1985",
+		"country":"Italy",
+		"title":"Urania #995",
+		"img":"u995.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?383782",
 	},
 	{
 		"id":"co-1985-urania-1008",
@@ -173,6 +219,21 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?191085",
 	},
 	{
+		"id":"co-1993-grossen",
+		"year":"1993",
+		"country":"Germany",
+		"title":"So frustrieren wir Karl den Grossen",
+		"img":"SFRSTRRNWR1997.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?366546",
+	},
+	{
+		"id":"co-1993-modern",
+		"year":"1993",
+		"title":"Modern Classics of Science Fiction",
+		"img":"0312088477.01.LZZZZZZZ.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?22542",
+	},
+	{
 		"id":"co-1993-amazing-oct",
 		"year":"1993",
 		"title":"Amazing Stories",
@@ -186,6 +247,13 @@
 		"publisher":"Edgewood Press",
 		"img":"51QE8RM22VL.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?18567",
+	},
+	{
+		"id":"co-1997-modern",
+		"year":"1997",
+		"title":"Modern Classics of Fantasy",
+		"img":"0312169310.01.LZZZZZZZ.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?84142",
 	},
 	{
 		"id":"co-2001-best-century",
@@ -209,6 +277,13 @@
 		"title":"Imaginings: Volume 1",
 		"img":"51vcGfU3H7L.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?343594",
+	},
+	{
+		"id":"co-2010-wesleyan",
+		"year":"2010",
+		"title":"Wesleyan Anthology of Science Fiction",
+		"img":"WASF.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?323953",
 	},
 	{
 		"id":"co-1970-grandmothers",
@@ -349,9 +424,10 @@
 		],
 	}, 
 	{
-		"id":"co-2014-ral-favorites",
+		"id":"co-1991-ral-favorites",
 		"title":"Favorites",
-		"img":"unicorn.jpg",
+		"url":"favorites",
+		"img":"favorites.jpg",
 		"intro":"On several occasions, Lafferty named his favorite stories. See footnotes.",
 		"ral_comments":[
 			{
