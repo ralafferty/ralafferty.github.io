@@ -62,12 +62,10 @@
 		"country":"USA",
 	},
 	{
-		"id":"srudnicki",
-		"name":"Stefan Rudnicki",
-		"url": "http://www.audiofilemagazine.com/narrators/stefan-rudnicki/",
-		"interview": "https://www.sfsite.com/04a/st125.htm",
-		"imdb": "http://www.imdb.com/name/nm0748880/",
-		"country":"UK",
+		"id":"dbrannon",
+		"name":"Deborah J. Brannon",
+		"url":"http://www.greenmanreview.com/bio/bio_deborah_brannon.html",
+		"country":"USA",
 	},
 	{
 		"id":"vjbayne",

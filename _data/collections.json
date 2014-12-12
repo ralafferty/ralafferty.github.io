@@ -9,6 +9,13 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?59474",
 	},
 	{
+		"id":"co-1971-best",
+		"year":"1971",
+		"title":"World's Best Science Fiction: 1971",
+		"img":"WRLDSBSTSC1971.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?205061",
+	},
+	{
 		"id":"co-1972-walk",
 		"title":"And Walk Now Gently Through The Fire",
 		"year":"1972",
@@ -99,6 +106,14 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?4159",
 	},
 	{
+		"id":"co-1982-speculations",
+		"year":"1982",
+		"title":"Speculations",
+		"editor":"Isaac Asimov",
+		"img":"SPCLTNS3A1982.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?31619",
+	},
+	{
 		"id":"co-1983-fourstories",
 		"year":"1983",
 		"title":"Four Stories",
@@ -187,6 +202,13 @@
 		"title":"Aliens Among Us",
 		"img":"044100704X.01.LZZZZZZZ.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?201741",
+	},
+	{
+		"id":"co-2004-imaginings",
+		"year":"2004",
+		"title":"Imaginings: Volume 1",
+		"img":"51vcGfU3H7L.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?343594",
 	},
 	{
 		"id":"co-1970-grandmothers",

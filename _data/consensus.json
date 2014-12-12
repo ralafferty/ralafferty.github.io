@@ -165,6 +165,9 @@
 		{ "id": "2009-egahr-rainbird", },
 		{ "id": "2013-aferguson-rainbird", },
 	],
+	"collections":[	
+		{ "id":"co-1973-strange"	},
+	  ],
 	},
 	{
 	"id":"1967-charlemagne",
@@ -197,7 +200,7 @@
 	"reviews":[
 		{ "id":"re-2014-jboaz-rock"		},
 		{ "id":"2005-muk-continued"		},
-		{ "id":"2004-srudnicki-continued" 	},
+		{ "id":"re-2004-dbrannon-continued" 	},
 		{ "id":"1979-lafferty-continued" 	},
 	],
 	"awards":[	
@@ -224,7 +227,14 @@
 			"award":"Locus",
 			"category":"Best Short Fiction",
 		},
-	]
+	 ],
+	"collections":[	
+		{ "id":"co-2004-imaginings"	},
+		{ "id":"co-1991-orbit"		},
+		{ "id":"co-1975-pluis"		},
+		{ "id":"co-1973-strange"	},
+		{ "id":"co-1971-best"		},
+	  ],
 	},
 	{
 	"id":"1981-bank",
@@ -2220,6 +2230,9 @@
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?93726",
 	"excerpt":"How hard it is to judge the second best.  Who is the second-best scientist in the history of the world? First place goes to Isaac Newton, of course, but who is second best? There'll never be a solution; only endless quarreling over twenty-five candidates at least.  And who is the second-best writer in the history of the world? First place goes to William Shakespeare, of course— Of course.  It is odd that so little is known about Shakespeare and that so many people believe so passionately that Shakespeare wasn't Shakespeare but that someone else wrote the plays and poems attributed to the man. But if you want the Great Shakespearean Controversy raised to new pitches of madness, read this mad story.",
+	"collections":[	
+		{ "id":"co-1982-speculations"	},
+	  ],
 	},
 	{
 	"id":"1982-bear",
