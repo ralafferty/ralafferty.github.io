@@ -41,7 +41,8 @@ layout: default
 
 					<ul style="display:block" class="work-summary">
 					<blockquote>&ldquo;{{ intro.excerpt }}&rdquo;
-						<ul>&mdash;{% if intro.title %}{{ intro.title }},{% endif %}{{ intro.author }}&nbsp;({{ intro.year }})</ul></blockquote></ul>
+						<ul>&mdash;{{ intro.author }}{% if intro.title %}, {{ intro.title }}{% endif %}
+						({{ intro.year }})</ul></blockquote></ul>
 				{% endfor %}
 
 				{% if work.excerpt %}

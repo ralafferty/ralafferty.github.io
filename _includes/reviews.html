@@ -20,7 +20,8 @@
 				{% if review_details.title %} 
 					title="{{ review_details.title }}"
 				{% endif %}
-				>{{ reviewer.name | replace: ' ', '&nbsp;' }}&nbsp;</a>{% if review_details.year %}({{ review_details.year }}){% endif %} &nbsp;
+				>{{ reviewer.name | replace: ' ', '&nbsp;' }}&nbsp;</a>{% if review_details.year %}({{ review_details.year }}){% endif %}
+			{% if forloop.last == false %} &nbsp;{% endif %}
 			{% break %}
 			{% endif %}
 		{% endfor %}
