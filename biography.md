@@ -102,7 +102,7 @@ P.S. Price, "R.A. Lafferty, the man and his work", *Phantasmicom #3*
 * [New York Times](http://www.nytimes.com/2002/03/29/us/rafael-a-lafferty-87-science-fiction-writer.html)
 * [Locus Online](http://www.locusmag.com/2002/Reviews/Lalumiere06_PastMasters.html)
 * [Science Fiction Writers of America](http://www.sfwa.org/archive/news/lafferty.htm)
-* [SFX Magazine](http://www.ansible.co.uk/sfx/sfx092.html)
+* [SFX Magazine](http://www.ansible.co.uk/sfx/sfx092.html), David Langford
 * [Chad Love](http://mallardofdiscontent.blogspot.com/2011/07/re-visiting-some-old-stuff.html)
 * [Michael Cassutt](http://web.archive.org/web/20060629103807/http://www.scifi.com/sfw/issue260/cassutt.html)
 
