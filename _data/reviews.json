@@ -595,5 +595,11 @@
 		"reviewer":"sfe",
 		"url":"http://www.sf-encyclopedia.com/entry/secret_masters",
 	},
+	{
+		"id":"re-2002-dlangford-crocodile",
+		"year":"2002",
+		"reviewer":"dlangford",
+		"url":"http://www.ansible.co.uk/sfx/sfx092.html",
+	}
    ]
 }
