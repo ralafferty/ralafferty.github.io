@@ -74,6 +74,13 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?10498",
 	},
 	{
+		"id":"co-1975-social",
+		"year":"1975",
+		"title":Social Problems Through Science Fiction",
+		"img":"SPTSF.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?30986",
+	},
+	{
 		"id":"co-1975-pluis",
 		"year":"1975",
 		"title":"Niet Pluis",
@@ -125,6 +132,13 @@
 		"title":"Urania #852",
 		"img":"u852.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?380311",
+	},
+	{
+		"id":"co-1981-galaxy",
+		"year":"1981",
+		"title":"Galaxy: Thirty Years of Innovative Science Fiction",
+		"img":"GLXTHRTRSF1981.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?277598",
 	},
 	{
 		"id":"co-1982-best",
@@ -180,6 +194,15 @@
 		"img":"HSTRSPRDXL1984.jpg",
 		"country":"France",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?422668",
+	},
+	{
+		"id":"co-1984-livre",
+		"year":"1984",
+		"title":"Le livre d'or de la Science-Fiction",
+		"img":"LLVRDRDLSC1984.jpg",
+		"country":"France",
+		"translator":"Elisabeth Vonarburg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?336586",
 	},
 	{
 		"id":"co-1984-mirages",

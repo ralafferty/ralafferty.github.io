@@ -146,6 +146,12 @@
 		"url":"http://antsofgodarequeerfish.blogspot.com/2014/12/entire-and-perfect-chrysolite-1970.html",
 	},
 	{
+		"id":"re-2014-dpetersen-crocodile",
+		"year":"2014",
+		"reviewer":"dpetersen",
+		"url":"http://antsofgodarequeerfish.blogspot.com/2014/08/oh-rise-again-and-fight-some-more-dead.html",
+	},
+	{
 		"id":"2009-bmunro-assault",
 		"reviewer":"bmunro",
 		"url":"http://quantumbranching.deviantart.com/art/Assault-on-Fat-Mountain-145255681",
@@ -413,7 +419,7 @@
 		"year":"2006",
 	},
 	{
-		"id":"2005-muk-crocodile",
+		"id":"re-2005-muk-crocodile",
 		"reviewer":"muk",
 		"url":"http://www.mulle-kybernetik.com/RAL/MT/archives/2003/07/about-a-secret.html#comments",
 		"year":"2005",
@@ -567,10 +573,27 @@
 		"url":"http://www.amazon.com/Devil-Dead-R-Lafferty/product-reviews/1557850461/ref=sr_1_1_cm_cr_acr_txt?ie=UTF8&showViewpoints=1",
 	},
 	{
+		"id":"re-2007-mashley-crocodile",
+		"year":"2007",
+		"reviewer":"mashley",
+		"url":"https://books.google.com/books?id=2qkmF8HvP_gC&pg=PA49&lpg=PA49&dq=%22r.a.+lafferty%22+%22About+a+Secret+Crocodile%22&source=bl&ots=1Ttr6XbayX&sig=YrKpkb03cGYMRK4QFAP8kpExC8U&hl=en&sa=X&ei=6nCMVInKCKjjsATf6IKgAg&ved=0CEQQ6AEwBzgK#v=onepage&q=%22r.a.%20lafferty%22%20%22About%20a%20Secret%20Crocodile%22&f=false",
+	},
+	{
 		"id":"re-1983-abudrys-fourstories",
 		"year":"1983",
 		"reviewer":"abudrys",
 		"url":"https://books.google.com/books?id=umObBQAAQBAJ&pg=PA68&lpg=PA68&dq=%22r.a.+lafferty%22+%22Bird-Master%22&source=bl&ots=Pp8xMjNYnH&sig=-y_tKdEwoWIWpgnKG3LGjlnNwTE&hl=en&sa=X&ei=67iKVO-TGNOwsASGzoHgDQ&ved=0CDoQ6AEwBQ#v=onepage&q=%22r.a.%20lafferty%22%20%22Bird-Master%22&f=false",
+	},
+	{
+		"id":"re-2010-mlabossiere-crocodile",
+		"year":"2010",
+		"reviewer":"mlabossiere",
+		"url":"https://aphilosopher.wordpress.com/2010/03/16/the-crocodiles-mouth/",
+	},
+	{
+		"id":"re-sfe-crocodile",
+		"reviewer":"sfe",
+		"url":"http://www.sf-encyclopedia.com/entry/secret_masters",
 	},
    ]
 }

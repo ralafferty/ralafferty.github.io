@@ -1126,6 +1126,36 @@
 	"author":"R. A. Lafferty",
 	"year":"1970",
 	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?51980",
+	"excerpt":"There is a secret society of seven men that controls the finances of the world. This is known to everyone but the details are not known. There are some who believe that it would be better if one of those seven men were a financier.  There is a secret society of three men and four women that controls all the fashions of the world. The details of this are known to all who are in the fashion. And I am not.",
+	"introductions":[
+		{
+			"author":"R.A. Lafferty",
+			"year":"1980",
+			"excerpt":"“About a Secret Crocodile” was a shot in a war (since lost) against a cabal that was forcing “trendiness,” whose other name is “unoriginality,” on the world.  Oh rise again and fight some more, dead people! Galaxy died several times from embracing this trendiness or unoriginality.  The “magazine-that-is-different” became quite like all the other “magazines-that-are-different.”  And it died because it spent all its retrospection on things past.",
+		},
+		{
+			"title":"Galaxy: Thirty Years of Innovative Science Fiction",
+			"author":"Frederik Pohl, Marin H. Greenberg & Joseph D. Olander (Editors)",
+			"year":"1980",
+			"excerpt":"Lafferty’s agent, Virginia Kidd, tells us that when the story appeared in Galaxy, she received an indignant call from the editors of Playboy magazine wanting to know why they hadn’t seen it first. Virginia says, “Frankly, it had never occurred to me that it was anything but a Galaxy story, so that is where I sent it.”",
+		},
+	],
+	"collections":[	
+		{ "id":"co-2014-models"		},
+		{ "id":"co-1984-livre"		},
+		{ "id":"co-1981-galaxy"		},
+		{ "id":"co-1978-lieux"		},
+		{ "id":"co-1975-social"		},
+	 	{ "id":"co-1974-anyone"		},
+	  ],
+	"reviews":[
+		{ "id":"re-2014-dpetersen-crocodile"	},
+		{ "id":"re-2010-mlabossiere-crocodile"	},
+		{ "id":"re-2007-mashley-crocodile"	},
+		{ "id":"re-2005-muk-crocodile"		},
+		{ "id":"re-sfe-crocodile"		},
+	],
 	},
 	{
 	"id":"1964-man",
@@ -2041,18 +2071,6 @@
 	"author":"R. A. Lafferty",
 	"year":"1980",
 	"type":"ss",
-	},
-	{
-	"id":"1980-secret-croc",
-	"title":"Memoir (About a Secret Crocodile)",
-	"url":"memoir-about-a-secret-crocodile",
-	"author":"R. A. Lafferty",
-	"year":"1980",
-	"type":"ss",
-	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?51980",
-	"reviews":[
-		{ "id": "2005-muk-crocodile", },
-	],
 	},
 	{
 	"id":"1974-bears",

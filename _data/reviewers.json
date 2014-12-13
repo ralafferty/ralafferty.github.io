@@ -218,5 +218,18 @@
 		"name":"Algis Budrys",
 		"url":"http://en.wikipedia.org/wiki/Algis_Budrys",
 	},
+	{
+		"id":"mashley",
+		"name":"Michael Ashley",
+	},
+	{
+		"id":"mlabossiere",
+		"name":"Michael LaBossiere",
+		"url":"https://aphilosopher.wordpress.com",
+	},
+	{
+		"id":"sfe",
+		"name":"SF Encyclopedia",
+	},
    ]
 }

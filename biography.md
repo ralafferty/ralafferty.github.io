@@ -55,6 +55,7 @@ redirect_from: /tributes/
 * 1990, [Episodes of the Argo](http://antsofgodarequeerfish.blogspot.co.uk/2011/10/its-great-to-be-young-and-in-danger.html), Gene Wolfe
 * 1984, [Ringing Changes](http://antsofgodarequeerfish.blogspot.com/2014/10/against-grain-stories-songs-of.html)
 * 1987, [Musings on Ray](http://web.archive.org/web/20091027093659/http://geocities.com/konstiantin/osfw/authors/RAL_kimmel.html), Stephen Kimmel
+* 1976, [Anthologies](http://antsofgodarequeerfish.blogspot.com/2011/08/introductions-to-lafferty-in.html)
 * 1971, [Fall of Rome](http://books.google.com/books?id=HG-vjhQqE_cC&pg=PA107&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=uwhBVKXtGavbsASE64LoBw&ved=0CCIQuwUwAA#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false), Darrell Schweitzer
 
 ## Interviews {#interviews}

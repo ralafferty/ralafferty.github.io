@@ -33,6 +33,17 @@ layout: default
 					{% endif %}
 				</ul>
 
+				{% for intro in work.introductions %}
+					{% if forloop.first %}
+						<i style="color:#ADADAD;" class="fa fa-microphone"></i> &nbsp;&nbsp;
+						&middot; <a href="javascript:void(0);" onclick="toggle_story(this);">Introductions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					{% endif %}
+
+					<ul style="display:block" class="work-summary">
+					<blockquote>&ldquo;{{ intro.excerpt }}&rdquo;
+						<ul>&mdash;{% if intro.title %}{{ intro.title }},{% endif %}{{ intro.author }}&nbsp;({{ intro.year }})</ul></blockquote></ul>
+				{% endfor %}
+
 				{% if work.excerpt %}
 				<i style="color:#ADADAD;" class="fa fa-file-text-o"></i> &nbsp;
 				&middot; <a href="javascript:void(0);" onclick="toggle_story(this);">Excerpt</a>
