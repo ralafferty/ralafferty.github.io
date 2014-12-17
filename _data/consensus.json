@@ -11,8 +11,18 @@
 	"class":"tech",
 	"excerpt":"He was about the last of them.  What? The last of the great individualists? The last of the true creative geniuses of the century? The last of the sheer precursors? No. No. He was the last of the dolts.  Kids were being born smarter all the time when he came along, and they would be so forever more. He was about the last dumb kid ever born.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41432",
+	"commentary":[
+		{
+			"author":"Sheryl Smith",
+			"title":"Riverside Quarterly Vol. 7 No. 2",
+			"year":"1982",
+			"excerpt":"This &ldquo;last of the-dolts&rdquo; is described as inventing machines out of a well of absolute incompetence. Inferior to his fellow-men, intimidated by his grandest contraptions, he decided to end it all -- until a little-machine he built to have hunches (hence his true mechanical counterpart) shows him that the apparently-superior world is really a warren of fair game, and promises plenty of fun in the plucking.",
+		},
+	],
 	"collections":[	
 	 	{ "id":"co-2001-best-century"	},
+		{ "id":"co-1985-urania-995"	},
+		{ "id":"co-1984-livre"		},
 	 	{ "id":"co-1982-golden-gate"	},
 	  ],
 	"reviews":[
@@ -78,7 +88,14 @@
 	"class":"alt-hist",
 	"excerpt": "Should there be another reason, Shackleton? Well, there is; but we go about it awkwardly and without knowing what we're doing. The thing about humans which nobody apparently wishes to notice, is that we're a species which has never had an adult culture. We feel that lack more and more as we become truly adult in other ways. It grows tedious to stretch out a childhood forever. The easy enjoyments, the easy rationality, the easy governments and sciences, are really childish things. We master them while we are yet children, and we look beyond. But there isn't anything beyond the childishness, Shackleton. We must find a deeper view somehow. We are looking for that something deeper here.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41436",
-	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffentire",
+	"commentary":[
+		{
+			"author":"Sheryl Smith",
+			"title":"Riverside Quarterly Vol. 7 No. 2",
+			"year":"1982",
+			"excerpt":"In the ironic &ldquo;Entire and Perfect Chrysolite&rdquo;, the two [everyday and archetypal] worlds are sundered from one another completely, for the bright, constricted &ldquo;Ecumene&rdquo; (Eurasia) denies the existence of Africa, its primitive counterpart. That the dark world is there nonetheless is proved when some irresponsible people invoke it, finding it a more dangerous place than they are able to realize.",
+		},
+	],
 	"collections":[	
 		{ "id":"co-1991-orbit"		},
 		{ "id":"co-1984-mirages"	},
@@ -143,10 +160,25 @@
 	"excerpt":"And I will tell you another thing, boy: There is no future for the automobile. We cannot  let  there  be!  Consider the  man on  horseback,  and  I  have been  a  man  on  horseback  for  most of  my  life.  Well,  mostly  he  is  a  good  man, but there  is  a  change in  him  as  soon as he  mounts.  Every  man on horseback  is  an arrogant man, however  gentle  he may  be  on  foot.  I  know  this in  myself  and  in  others. He was  necessary  in his own  time, and  I  believe  that  time  is  ending.  There  was  always  extreme danger  from the  man  on horseback.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?43998",
 	"uchronia":"http://www.uchronia.net/bib.cgi/label.html?id=laffinteru",
+	"commentary":[
+		{
+			"author":"Sheryl Smith",
+			"title":"Riverside Quarterly Vol. 7 No. 2",
+			"year":"1982",
+			"excerpt":"Lafferty depicts an America where electric interurban transport had won out over the automobile, which the group-centred interurbanites have outlawed. The picture he paints is of a friendly, idyllic land free of urban blight, agriculture and industry being blended into lovely, evenly-populated &ldquo;quasiurbia&rdquo;, unified by convenient public transport. But it is also a land where competition having yielded completely to cooperation, the individualist and the loner are not tolerated; and those who persist in driving bootleg cars are considered incorrigible menaces to society, whom it is the duty of all right-thinking citizens to shoot on sight in approved vigilante manner. What makes &ldquo;Interurban Queen&rdquo; so remarkable, though, is the incredible tonal balance with which Lafferty handles the two sides of this question: I cannot tell, even with inside knowledge of Lafferty's personal politics, where his sympathies lie &mdash; probably a historic first in s-f of this type.",
+		},
+	],
 	"reviews":[
 		{ "id": "2014-kwolf-interurban", },
 		{ "id": "2010-farhim-interurban", },
-	]
+	],
+	"collections":[	
+	 	{ "id":"co-1991-orbit" 		},
+		{ "id":"co-1985-urania-1008"	},
+	 	{ "id":"co-1984-ringing-changes"},
+		{ "id":"co-1983-quatrieme"	},
+		{ "id":"co-1979-dagen"		},
+	 ],
 	},
 	{
 	"id":"1961-rainbird",
@@ -236,6 +268,14 @@
 		{ "id":"co-1973-strange"	},
 		{ "id":"co-1971-best"		},
 	  ],
+	"commentary":[
+		{
+			"author":"Sheryl Smith",
+			"title":"Riverside Quarterly Vol. 7 No. 2",
+			"year":"1982",
+			"excerpt":".. a recurring personal drama of unrequited love and destruction, in which three progressively-more-recent records in stone build to a present-time climax but not, it seems, an end. The two primordial-persons involved have little hope of achieving their mutually-exclusive aspirations except in death, adding to this mythic comedy a near-tragic countertheme which is beautifully supported by the writing ...",
+		},
+	 ],
 	},
 	{
 	"id":"1981-bank",
@@ -446,13 +486,25 @@
 	"title":"Hog-Belly Honey",
 	"url":"hog-belly-honey",
 	"author":"R. A. Lafferty",
+	"excerpt":"I'm Joe Spade — about as intellectual a guy as you'll find all day. I invented Wotto and Voxo and a bunch of other stuff that nobody can get along without anymore. It's on account of I have so much stuff in my head that I sometimes go to a head-grifter. This day all of them I know is out of town when I call. Lots of times everybody I know is out of town when I call. I go to a new one. The glass in his door says he is a anapsychologist, which is a head-grifter in the popular speech. “I'm Joe Spade the man that got everything,” I tell him and slap him on the back in that hearty way of mine. There is a crunch sound and at first I think I have crack his rib. Then I see I have only broke his glasses so no harm done.",
 	"year":"1965",
-	"type":"ss",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54012",
 	"collections":[	
+		{ "id":"co-1993-grossen"	},
+	 	{ "id":"co-1974-grossmutter-2"	},
+		{ "id":"co-1972-grootmoeders"	},
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	"reviews":[
 		{ "id": "2013-aferguson-honey", },
+	],
+	"commentary":[
+		{
+			"author":"Sheryl Smith",
+			"title":"Riverside Quarterly Vol. 7 No. 2",
+			"year":"1982",
+			"excerpt":"Lafferty essays the invention that goes out of control. Told in the first person by this anthropoid-type itinerant genius, it's about how he and his scholarly milquetoast buddy build a nullifier that can selectively dispose of anything useless. They run into trouble, though, when the machine takes this to include useless people. The style here is delightfully suited to the character, full of sly malapropisms, and misconstructions in every sense of the term.",
+		},
 	],
 	},
 	{
@@ -621,9 +673,22 @@
 	"year":"1971",
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54478",
+	"excerpt":"“In the tracks of our spiritual father Ivan Sanderson we may now have trailed a clutch of ABSMs to their lair,” the eminent scientist Arpad Arkabaranan was saying in his rattling voice. “And that lair may not be a mountain thicket or rain forest or swamp, but these scrimpy red clay flats. I would almost give my life for the success of this quest, but it seems that it should have a more magnificent setting.” “It looks like a wild goose chase,” the eminent scientist Willy McGilly commented. But no, Willy was not downgrading their quest. He was referring to the wild geese that rose about them from the edges of the flats with clatter and whistle and honk.",
+	"commentary":[
+		{
+			"author":"Sheryl Smith",
+			"title":"Riverside Quarterly Vol. 7 No. 2",
+			"year":"1982",
+			"excerpt":"The [myth] cycle at its most positive&mdash;what Lafferty elsewhere calls the ascending spiral&mdash;can be seen in the richly marvellous &ldquo;Boomer Flats.&rdquo; In this tale three scientists discover a group of living Neanderthals &mdash; the Lafferteian version of &ldquo;the link that is never really missing, the link between the clay and the blood&rdquo; &mdash; resulting in a death-and-rebirth experience in which the reader participates more literally than is usual.",
+		},
+	],
 	"reviews":[
 		{ "id": "2005-muk-boomer", },
 	],
+	"collections":[	
+		{ "id":"co-1978-lieux"		},
+	 	{ "id":"co-1974-anyone"		},
+	  ],
 	},
 	{
 	"id":"1976-springs",
@@ -653,6 +718,14 @@
 	"type":"ss",
 	"excerpt":"“I have let my business go down,” Miller said. “My wife says that I have let her down. My sons say that I have turned into a sleepy stranger. Everybody agrees that I've lost all ambition and judgment. And yet I do have a stirring ambition. I am not able, however, to put it into words.” “We'll put it into words, Miller, either yours or mine,” Rousse said. “Slip up on it right now! Quickly, what is the stirring ambition?” “To visit the Northern Shore, and to make the visit stick.”",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?69688",
+	"commentary":[
+		{
+			"author":"Sheryl Smith",
+			"title":"Riverside Quarterly Vol. 7 No. 2",
+			"year":"1982",
+			"excerpt":"... one of Lafferty's best from the mythological standpoint, the conflict between the two [everyday and archetypal] realities takes on a multiplex aspect. Here a dream-quest for a much-desired Land is shown as diverting energy from a character's exterior life. His psychiatrist, recognizing the destination as the &ldquo;Ultimate Arrival Nexus&rdquo; whose individual achievement (paradoxically enough) confers incalculable benefit on the whole race, forces his patient to resolve the conflict in favour of external reality, then pursues the inner quest himself using spurious dreams to take him there. But the land he reaches, as he is unprepared to deal with it from his own resources, shows the face not of desire, but of fear.",
+		},
+	],
 	"awards":[	
 		{
 			"place":"Anthology",
@@ -1128,7 +1201,7 @@
 	"type":"ss",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?51980",
 	"excerpt":"There is a secret society of seven men that controls the finances of the world. This is known to everyone but the details are not known. There are some who believe that it would be better if one of those seven men were a financier.  There is a secret society of three men and four women that controls all the fashions of the world. The details of this are known to all who are in the fashion. And I am not.",
-	"introductions":[
+	"commentary":[
 		{
 			"author":"R.A. Lafferty",
 			"title":"Galaxy: Thirty Years of Innovative Science Fiction",

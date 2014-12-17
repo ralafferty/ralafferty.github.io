@@ -67,6 +67,13 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?370801",
 	},
 	{
+	 	"id":"co-1974-grossmutter-2",
+		"year":"1974",
+		"title":"900 Grossmütter Band 2",
+		"img":"GRSSMTTRBB1974.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?370802",
+	},
+	{
 	 	"id":"co-1974-anyone",
 		"year":"1974",
 		"title":"Does Anyone Else Have Something Further to Add?",
@@ -186,6 +193,14 @@
 		"img":"HSTRSDNVHS1983.jpg",
 		"country":"France",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?421075",
+	},
+	{
+		"id":"co-1983-quatrieme", 
+		"year":"1983",
+		"title":"Histoires de la quatrième dimension",
+		"img":"HSTRSDLQTR1983.jpg",
+		"country":"France",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?421680",
 	},
 	{
 		"id":"co-1984-paradoxales",
