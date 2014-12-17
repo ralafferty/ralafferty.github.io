@@ -1,5 +1,6 @@
 ---
 layout: page
+seo_description: Writer R.A. Lafferty was an original American treasure.  Praised by Neil Gaiman and Gene Wolfe, compared to Borges and Garcia Marquez, Lafferty eluded genres.
 ---
 
 Dedicated to writer [R. A. Lafferty](https://www.google.com/search?q=R.+A.+Lafferty) (1914-2002), about whom the NY Times [said](http://www.nytimes.com/2002/03/29/us/rafael-a-lafferty-87-science-fiction-writer.html):
