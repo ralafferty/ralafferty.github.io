@@ -135,6 +135,7 @@ These writers were selected for uniqueness or similarity in style or theme to La
 &middot; [compare](https://www.google.com/search?q=%22r.a.+lafferty%22+%22james+joyce%22 "25k results")
   * <span class="stitle">[Zenna Henderson](http://en.wikipedia.org/wiki/Zenna_Henderson "an American science fiction and fantasy novella and short story author, and an elementary school teacher ... one of the first female science fiction authors, and never used a male pen name.")</span> (1983)
 &middot; [fansite](http://www.adherents.com/lit/bk_Zenna.html)
+&middot; [review](http://www.tor.com/blogs/2009/10/theres-need-zenna-hendersons-lemgingatheringlemg)
 &middot; [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?859)
 &middot; [sfe](http://sf-encyclopedia.com/Entry/henderson_zenna)
 &middot; [goodreads](http://www.goodreads.com/author/show/193296.Zenna_Henderson)
