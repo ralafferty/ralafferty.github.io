@@ -2271,9 +2271,23 @@
 	"id":"1975-heart",
 	"title":"Heart Grow Fonder",
 	"url":"heart-grow-fonder",
-	"author":"R. A. Lafferty",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?68142",
 	"year":"1975",
-	"type":"ss",
+	"excerpt":"“Our new neighbor on the west is a creep,” Simon Radert said sourly, “and what this neighborhood doesn't need is another creep.”<br>“No, you're the creep in residence,” said his sly wife Norah. “Can't stand the competition, can you? But Simon, he doesn't look like a creep to me. He sure doesn't creep around. He bounces around on his heels, and he's as open as a Dutch door in a Payne County wind. His name is Swag, and does he ever have a swagger! I wish you were like him. And that wife of his, Buxom Jean (that's really her name), wow, I wish I were like her. They sure seem to have a lot of fun at their house.”<br>“Let's swap houses, then, if that's the way you want it.”",
+	"collections":[	
+	 	{ "id":"co-1975-future-corruption" 	},
+	  ],
+	"reviews":[
+		{ "id":"re-2015-mporcius-fonder" 	},
+	  ],
+	"commentary":[
+		{
+			"author":"MPorcius",
+			"title":"Future Corruption",
+			"year":"2015",
+			"excerpt":"Lafferty does not disappoint; &ldquo;Heart Grow Fonder&rdquo; is fun and entertaining and is all about temptation and the evils of deceitfulness, marital infidelity, thievery, and trying to be something (and someone) you are not.",
+		},
+	],
 	},
 	{
 	"id":"1975-skinny",
@@ -2348,7 +2362,6 @@
 	"collections":[	
 	 	{ "id":"co-1990-the-early-lafferty-ii" },
 	  ],
-	"type":"ss",
 	},
 	{
 	"id":"1980-tune",

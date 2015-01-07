@@ -83,9 +83,16 @@
 	{
 		"id":"co-1975-social",
 		"year":"1975",
-		"title":Social Problems Through Science Fiction",
+		"title":"Social Problems Through Science Fiction",
 		"img":"SPTSF.jpg",
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?30986",
+	},
+	{
+		"id":"co-1975-future-corruption",
+		"year":"1975",
+		"title":"Future Corruption",
+		"img":"FTRCRTN1975.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?14867",
 	},
 	{
 		"id":"co-1975-pluis",
