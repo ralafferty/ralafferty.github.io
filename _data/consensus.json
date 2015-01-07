@@ -204,7 +204,9 @@
 		{ "id": "2013-aferguson-rainbird", },
 	],
 	"collections":[	
+		{ "id":"co-2005-best-timetravel"},
 		{ "id":"co-1991-ral-favorites"  },
+		{ "id":"co-1975-pluis"		},
 		{ "id":"co-1973-strange"	},
 	  ],
 	},
