@@ -164,7 +164,7 @@
 	"age":"35",
 	"geography":"Oklahoma City",
 	"title":"Worked for a year away from Tulsa",
-	"icon":"fa-bolt",
+	"icon":"fa-suitcase",
 	"references":[
 		{
 			"object":"Letter to Joye Swain - January 6, 1987",
@@ -348,7 +348,7 @@
 	"id":"tl-1977-birmingham",
 	"year":"1977",
 	"age":"62",
-	"title":"R.W. Sirignano interview recorded at DeepSouthCon",
+	"title":"Interview recorded at DeepSouthCon",
 	"geography":"Birmingham, AL",
 	"icon":"fa-microphone",
 	"artifacts":[
@@ -443,6 +443,19 @@
 	"geography":"Schaumburg, IL",
 	"icon":"fa-trophy",
 	"title":"Winner, <a href=\"http://www.worldfantasy.org/awards/awardslist.html\">Lifetime Achievement</a> &mdash; <a href=\"http://www.worldfantasy.org/retro.html\">World Fantasy</a>",
+	},
+	{
+	"id":"tl-1991-interview",
+	"year":"1991",
+	"age":"76",
+	"geography":"",
+	"title":"T. Jackson <a href=\"http://www.sanduskyregister.com/opinion/jackson-street-book-club/7267116\">interview</a> in <em>Lan's Lantern #39</em>",
+	"icon":"fa-microphone",
+	"references":[
+		{
+			"object":"Lan's Lantern #39 - Tom Jackson interview",
+		},
+	  ]
 	},
 	{
 	"id":"tl-1991-chicago",
@@ -620,8 +633,8 @@
 	},
 	{
 	"id":"tl-2014-nyc",
-	"year":"2014?",
-	"month":"August",
+	"year":"2014",
+	"month":"August?",
 	"geography":"New York, NY",
 	"title":"Locus signed with <a href=\"http://awfulagent.com/jabclients/lafferty\">JABberwocky Literary Agency</a>",
 	"icon":"fa-money",
@@ -640,7 +653,15 @@
 	"month":"November",
 	"geography":"<br>Tulsa, OK<br>AU/CA/UK/USA<br>Japan<br>Washington, DC<br>Oakland, CA",
 	"icon":"fa-user",
-	"title":"Centennial Tributes<br><a href=\"http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete\">Lost and Found</a>, <em>This Land Press</em><br><a href=\"http://ralafferty.tumblr.com/post/102837431377/a-printable-feast\">Feast of Laughter</a>, <em>Ktistec Press</em><br><a href=\"http://ralafferty.tumblr.com/post/101900921217/hayakawa-sf-lafferty-centennial-issue\">Hayakawa SF</a><br><a href=\"http://ralafferty.tumblr.com/post/102459043047/lafferty-panel-at-world-fantasy\">Panel</a> at World Fantasy<br><a href=\"http://ralafferty.tumblr.com/post/102404246242/lafferty-in-locus\">November 2014</a>, <em>Locus</em>",
+	"title":"Centennial Tributes<br><a href=\"http://thislandpress.com/11/05/2014/lafferty-lost-and-found/?read=complete\">Lost and Found</a>, <em>This Land Press</em><br><a href=\"http://ralafferty.tumblr.com/post/102837431377/a-printable-feast\">Feast of Laughter #1</a>, <em>Ktistec Press</em><br><a href=\"http://ralafferty.tumblr.com/post/101900921217/hayakawa-sf-lafferty-centennial-issue\">Hayakawa SF</a><br><a href=\"http://ralafferty.tumblr.com/post/102459043047/lafferty-panel-at-world-fantasy\">Panel</a> at World Fantasy<br><a href=\"http://ralafferty.tumblr.com/post/102404246242/lafferty-in-locus\">November 2014</a>, <em>Locus</em>",
 	},
+	{
+	"id":"tl-2015-centipede",
+	"year":"2015",
+	"month":"January",
+	"geography":"USA",
+	"title":"Centipede Press released #2 of 12 collector volumes",
+	"icon":"fa-money",
+	}
     ]
 }

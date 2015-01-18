@@ -207,7 +207,9 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 
 ### Books in Print {#booksinprint}
 
-* <span class="btitle">Centipede Vol 2: The Man with the Aura</span>
+* <span class="btitle">Centipede Press, Vol 1: The Man Who Made Models</span>
+  &middot;&nbsp;[amazon](http://www.amazon.com/The-Man-Who-Made-Models/dp/1613471440/)
+* <span class="btitle">Centipede Press, Vol 2: The Man with the Aura</span>
   &middot;&nbsp;[amazon](http://www.amazon.com/Collected-Short-Stories-Lafferty-Volume/dp/1613471092/)
 * <span class="btitle">Okla Hannali</span>
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/667700.Okla_Hannali#other_reviews "9 reviews")
@@ -244,7 +246,9 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 <li><i class="fa fa-paypal"></i> &nbsp;
 <a href="http://lsff.net">Make a Donation</a> &mdash; to Locus Foundation, literary custodian for R.A. Lafferty
 <li><i class="fa fa-search"></i> &nbsp;
-<a href="https://www.google.com/search?&q=r.a.+lafferty+%22the%20man%20who%20talled%20tales%22">Short Stories</a> &mdash; <a href="https://www.google.com/search?&q=r.a.+lafferty+%22science+fiction+novels+and+stories%22">Novels</a>
+<a href="https://www.google.com/search?&q=r.a.+lafferty+%22the%20man%20who%20talled%20tales%22">Short Stories</a> 
+&mdash; <a href="https://www.google.com/search?&q=r.a.+lafferty+%22science+fiction+novels+and+stories%22">Novels</a>
+&mdash; <a href="https://www.google.com/search?&q=r.a.+lafferty+%22summa%20risus%22">Nonfiction</a> 
 </li>
 <li><i class="fa fa-bank"></i> &nbsp;
 <a href="http://www.torontopubliclibrary.ca/search.jsp?N=38532&Ntt=r.+a.+lafferty">Merril Collection of Science Fiction</a>, <a href="http://www.torontopubliclibrary.ca/merril/">Toronto, Canada</a>

@@ -17,7 +17,7 @@ redirect_from: /tributes/
 
 * [Wikipedia](https://en.wikipedia.org/wiki/R._A._Lafferty) 
 * [Timeline](/biography/timeline)
-* Interviews with R.A. Lafferty: [1979](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) &nbsp;&middot;&nbsp; [1983](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false)
+* Interviews of R.A. Lafferty: [1979](http://hieronymopolis.wordpress.com/2012/12/03/at-the-sleepy-sailor-a-tribute-to-r-a-lafferty/) &nbsp;&middot;&nbsp; [1983](http://books.google.com/books?id=RHZ_CEPVucgC&pg=PA72&dq=darrell+schweitzer+%22r.a.+lafferty%22&hl=en&sa=X&ei=0QVBVL3tFOmPsQTuhIB4&ved=0CCUQuwUwAQ#v=onepage&q=darrell%20schweitzer%20%22r.a.%20lafferty%22&f=false) &nbsp;&middot;&nbsp; [1991](http://www.sanduskyregister.com/opinion/jackson-street-book-club/7267116)
 * [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/lafferty_r_a) (2014)
 * [Encyclopedia of Fantasy](http://sf-encyclopedia.co.uk/fe.php?nm=lafferty_r_a), Neil Gaiman (1997)
 * [listes.sf](http://web.archive.org/web/20030408031523/http://perso.wanadoo.fr/listes.sf/lafferty/bio.htm) (French), [translation](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20030408031523%2Fhttp%3A%2F%2Fperso.wanadoo.fr%2Flistes.sf%2Flafferty%2Fbio.htm&edit-text=) 
@@ -60,6 +60,7 @@ redirect_from: /tributes/
 
 ## Interviews {#interviews}
 
+* 1991, Tom Jackson, [*Lan's Lantern #39*](http://www.sanduskyregister.com/opinion/jackson-street-book-club/7267116)
 * [1990](http://www.isfdb.org/cgi-bin/pl.cgi?304652),
 D. Schweitzer & R.J. Whitaker, *Cranky Old Man from Tulsa* 
 * [1987](http://www.locusmag.com/index/t150.htm#A8865), Ron Wolfe, "Counting Grandmothers", *American Fantasy*
