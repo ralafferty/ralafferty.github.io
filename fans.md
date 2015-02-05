@@ -21,7 +21,7 @@ redirect_from: "/readers/"
 </a>
 
 * Facebook: group, [East of Laughter](https://www.facebook.com/groups/eastoflaughter/) &middot; page, [ralaffertyfans](https://www.facebook.com/ralaffertyfans) &middot;&nbsp;fanzine,&nbsp;[Feast of Laughter](http://feastoflaughter.org)
-* Blogs: [index of posts](/blogs) (2006-2015)
+* Blogs: [index of posts](/blogs) (2006 to 2015)
 * Twitter: search, [R.A. Lafferty](https://twitter.com/search?q=r.a.%20lafferty&src=typd) &middot; [#RALafferty](https://twitter.com/hashtag/RALafferty?src=hash) &middot; quotes,&nbsp;[@RALaffertyTweet](https://twitter.com/RALaffertyTweet)
 * Forums: [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL/messageboard/viewforum.php?f=1) &middot; [Vault of Evil](http://vaultofevil.proboards.com/thread/4740/lafferty) &middot;&nbsp;[Forum&nbsp;Romanum](http://5622.forumromanum.com/member/forum/forum.php?action=std_tindex&USER=user_5622&onsearch=1&threadid=2)&nbsp;(2003)
 * Disqus: [John Ellison](https://disqus.com/home/user/johnellison)
@@ -79,6 +79,7 @@ redirect_from: "/readers/"
 * [Mulle Kybernetik](http://www.mulle-kybernetik.com/RAL), Nat, Germany
 * [R.J. Wizard](http://rjwizard.wordpress.com/tag/r-a-lafferty/), USA
 * [Stephen R. Case](http://stephenrcase.wordpress.com/tag/lafferty/), USA
+* [Trent Walters](http://apbsal.blogspot.com/search/label/R.%20A.%20Lafferty), USA
 * [The Ants of God are Queer Fish](http://antsofgodarequeerfish.blogspot.com), Daniel Petersen, Scotland
 * [Yet Another Lafferty Blog](http://www.yetanotherlaffertyblog.com/), Kevin Cheek, USA
 
