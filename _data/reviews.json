@@ -2,6 +2,12 @@
 	"_comment": "Copyright (c) 2014, Rich Persaud, All Rights Reserved",
 	"reviews":[
 	{
+		"id":"re-2013-aferguson-seven",
+		"reviewer":"aferguson",
+		"url":"http://ralafferty.tumblr.com/post/47230769188/15-seven-day-terror",
+		"year":"2013",
+	},
+	{
 		"id":"2013-aferguson-holy-woman",
 		"reviewer":"aferguson",
 		"url":"http://ralafferty.tumblr.com/post/52139597797/34-holy-woman",
@@ -606,6 +612,12 @@
 		"year":"2002",
 		"reviewer":"dlangford",
 		"url":"http://www.ansible.co.uk/sfx/sfx092.html",
-	}
+	},
+	{
+		"id":"re-2015-twalters-seven",
+		"year":"2015",
+		"reviewer":"twalters",
+		"url":"http://apbsal.blogspot.com/2015/01/seven-day-terror-by-r-lafferty.html",
+	},
    ]
 }

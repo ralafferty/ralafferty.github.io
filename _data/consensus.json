@@ -527,29 +527,36 @@
 	"url":"seven-day-terror",
 	"author":"R. A. Lafferty",
 	"year":"1962",
-	"type":"ss",
+	"excerpt":"Is there anything you want to make disappear?&rdquo; Clarence Willoughby asked his mother.
+<br>&ldquo;A sink full of dishes is all I can think of. How will you do it?&rdquo;
+<br>&ldquo;I just built a disappearer. All you do is cut the other end out of a beer can. Then you take two pieces of red cardboard with peepholes in the middle and fit them in the ends. You look through the peepholes and blink.  Whatever you look at will disappear.&rdquo;
+<br>&ldquo;Oh.&rdquo;
+<br>&ldquo;But I don't know if I can make them come back.&rdquo;
+<br>&ldquo;We'd better try it on something else. Dishes cost money.",
 	"reviews":[
-		{ "id": "2005-muk-seven-terror", },
+		{ "id":"re-2015-twalters-seven" 	},
+		{ "id":"re-2013-aferguson-seven" 	},
+		{ "id":"2005-muk-seven-terror"	 	},
 	],
 	"collections":[	
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
-	"derivatives":[	
+	"films":[	
+	 	{
+			"country":"Russia",
+			"year":"1987",
+			"title":"Исчезатель",
+			"url_details":"http://animator.ru/db/?p=show_film&fid=3323",
+			"url_trailer": "https://www.youtube.com/watch?v=YvrlbtOTPBc",
+		},
 	 	{
 			"country":"Canada",
 			"producer":"Canadian Broadcasting Corporation (CBC)",
 			"year":"1971",
 			"title":"Four Day Wonder",
-			"url_history":"http://animator.ru/db/?p=show_film&fid=3323",
+			"url_details":"http://forums.abebooks.co.uk/discussions/AbeBookscouk_BookSleuth/Science_Fiction/Disappearer/abesleuthuk/81.1?redirCnt=2&nav=messages&mobile=y",
 		},
-	 	{
-			"country":"Russia",
-			"year":"1987",
-			"title":"Исчезатель",
-			"url_catalog":"http://animator.ru/db/?p=show_film&fid=3323",
-			"url_trailer": "http://animator.ru/db/?p=show_film&fid=3323",
-		},
-		]
+		],
 	},
 	{
 	"id":"1966-narrow",

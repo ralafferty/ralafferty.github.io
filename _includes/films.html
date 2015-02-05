@@ -1,0 +1,20 @@
+<ul class="work-review taglist">
+
+{% for film in work.films %}
+	{% if forloop.first %} 
+		{% assign hdr = '1' %}
+	{% endif %}
+
+	{% if hdr == '1' %}
+		<i style="color:#ADADAD;" class="fa fa-film"></i> &nbsp;
+		{% assign hdr = '0' %}
+	{% endif %}
+
+	&middot;&nbsp;<a href="{{ film.url_details }}">{{ film.title }}</a>{% if film.url_trailer %}&nbsp;&mdash;&nbsp;<a href="{{ film.url_trailer }}">trailer</a>{% endif %}{% if film.year %}&nbsp;({{ film.year }}){% endif %}
+
+	{% if forloop.last == false %} &nbsp;{% endif %}
+		
+{% endfor %}
+
+</ul>
+

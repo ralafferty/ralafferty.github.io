@@ -235,6 +235,11 @@
 		"id":"dlangford",
 		"name":"David Langford",
 		"url":"http://en.wikipedia.org/wiki/David_Langford",
-	}
+	},
+	{
+		"id":"twalters",
+		"name":"Trent Walters",
+		"url":"http://apbsal.blogspot.com",
+	},
    ]
 }
