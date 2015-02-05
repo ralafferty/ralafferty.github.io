@@ -32,6 +32,7 @@
 	 	{ "id":"co-1982-golden-gate"	},
 	  ],
 	"reviews":[
+		{ "id":"re-2015-twalters-eurema"},
 		{ "id":"2013-aferguson-eurema", },
 		{ "id":"2012-dpetersen-eurema", },
 	],
@@ -317,6 +318,7 @@
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	"reviews":[
+		{ "id":"re-2015-twalters-slow"	},
 		{ "id":"2012-hif-slow" 		},
 		{ "id":"2010-pdamien-slow" 	},
 		{ "id":"2007-gschmidt-slow" 	},
@@ -428,6 +430,7 @@
 	"excerpt":"Art Slick and Jim Boomer went to the rundown building next door. It was smaller, about a six-foot cube, and the sign said Public Stenographer . The clatter of a typewriter was coming from it, but the noise stopped when they opened the door.  A dark pretty girl was sitting in a chair before a small table. There was nothing else in the room, and no typewriter.  “I thought I heard a typewriter in here,” Art said.  “Oh that is me.” The girl smiled. “Sometimes I amuse myself make typewriter noises like a public stenographer is supposed to.”",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?54099",
 	"reviews":[
+		{ "id":"re-2015-twalters-block"	},
 		{ "id": "2003-muk-block", },
 	],
 	"collections":[	
@@ -921,8 +924,9 @@
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	"reviews":[
-		{ "id": "2011-aferguson-grandmothers", },
-		{ "id": "2005-muk-grandmothers", },
+		{ "id":"re-2015-twalters-grandmothers"	},
+		{ "id": "2011-aferguson-grandmothers"	},
+		{ "id": "2005-muk-grandmothers"		},
 	],
 	"awards":[	
 		{
