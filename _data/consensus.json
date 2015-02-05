@@ -578,8 +578,10 @@
 	 	{ "id":"co-1970-grandmothers"	},
 	  ],
 	"reviews":[
+		{ "id":"re-2015-twalters-narrow"},
 		{ "id":"2013-kcheek-narrow" 	},
 		{ "id":"2013-mporcius-narrow" 	},
+		{ "id":"re-2009-ddammassa-narrow"	},
 		{ "id":"2006-darkroastedblend-narrow" 	},
 		{ "id":"2004-muk-narrow" 	},
 		{ "id":"1999-rginzler-narrow" 	},
@@ -599,6 +601,14 @@
 			"category":"<em>Modern Classics of Science Fiction</em>",
 		},
 	  ],
+	"commentary":[
+		{
+			"author":"Don D'Ammassa",
+			"title":"Encyclopedia of Fantasy and Horror Fiction",
+			"year":"2009",
+			"excerpt":"One of his earliest and best stories is this delightful tale of a Pawnee who is granted 160 acres of land located around a valley, with the proviso that he must pay taxes on it.  Clarence Big-Saddle does not like that idea, so he invokes magic that makes his valley wide when he is alone but narrow whenever an intruder enters.",
+		},
+	],
 	},
 	{
 	"id":"1967-hole",

@@ -619,5 +619,17 @@
 		"reviewer":"twalters",
 		"url":"http://apbsal.blogspot.com/2015/01/seven-day-terror-by-r-lafferty.html",
 	},
+	{
+		"id":"re-2015-twalters-narrow",
+		"year":"2015",
+		"reviewer":"twalters",
+		"url":"http://apbsal.blogspot.com/2015/01/narrow-valley-by-r-lafferty.html",
+	},
+	{
+		"id":"re-2009-ddammassa-narrow",
+		"year":"2009",
+		"reviewer":"ddammassa",
+		"url":"https://books.google.com/books?id=jUv5gVgSNvYC&pg=PA253&lpg=PA253#v=onepage&q&f=false",
+	},
    ]
 }
