@@ -241,6 +241,7 @@
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41531",
 	"reviews":[
 		{ "id":"re-2014-jboaz-rock"		},
+		{ "id":"re-2009-ddammassa-rock"		},
 		{ "id":"2005-muk-continued"		},
 		{ "id":"re-2004-dbrannon-continued" 	},
 		{ "id":"1979-lafferty-continued" 	},
@@ -926,6 +927,7 @@
 	"reviews":[
 		{ "id":"re-2015-twalters-grandmothers"	},
 		{ "id": "2011-aferguson-grandmothers"	},
+		{ "id":"re-2009-ddammassa-grandmothers"	},
 		{ "id": "2005-muk-grandmothers"		},
 	],
 	"awards":[	
@@ -1184,6 +1186,9 @@
 		{ "id":"co-1984-paradoxales"	},
 		{ "id":"co-1977-world"		},
 	  ],
+	"reviews":[
+		{ "id":"re-2009-ddammassa-shore"	},
+	],
 	},
 	{
 	"id":"1964-tigers",

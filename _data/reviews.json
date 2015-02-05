@@ -655,5 +655,23 @@
 		"reviewer":"ddammassa",
 		"url":"https://books.google.com/books?id=jUv5gVgSNvYC&pg=PA253&lpg=PA253#v=onepage&q&f=false",
 	},
+	{
+		"id":"re-2009-ddammassa-rock",
+		"year":"2009",
+		"reviewer":"ddammassa",
+		"url":"https://books.google.com/books?id=AJxbAgAAQBAJ&pg=RA1-PR22&lpg=RA1-PR22#v=onepage&q&f=false",
+	},
+	{
+		"id":"re-2009-ddammassa-grandmothers",
+		"year":"2009",
+		"reviewer":"ddammassa",
+		"url":"https://books.google.com/books?id=AJxbAgAAQBAJ&pg=PA2065&lpg=PA2065#v=onepage&q&f=false",
+	},
+	{
+		"id":"re-2009-ddammassa-shore",
+		"year":"2009",
+		"reviewer":"ddammassa",
+		"url":"https://books.google.com/books?id=AJxbAgAAQBAJ&pg=PP17&lpg=PP17#v=onepage&q&f=false",
+	},
    ]
 }
