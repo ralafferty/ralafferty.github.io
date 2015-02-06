@@ -327,6 +327,8 @@ and the list of [writers cited](../library/#writerscited) by R. A. Lafferty.
 
 ## Agents
 
+* [Jabberwocky](http://awfulagent.com/jabclients/lafferty)
+ &middot; [Estate Acquisition](http://ak-agency.myds.me/wordpress/wp-content/uploads/2014/06/JABberwocky-News.pdf) (2014)
 * [Locus Science Fiction Foundation](http://www.lsff.net/about-2/meet-lsff-board-members/) 
 * Lafferty Estate 
 &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/55382042501/49-the-six-fingers-of-time) (2013) 
@@ -350,6 +352,7 @@ and the list of [writers cited](../library/#writerscited) by R. A. Lafferty.
 &middot; [Catalog](/archive/1992/ump-usenet.txt) (1992)
 * Greg Ketter, [Corroboree Press](http://www.isfdb.org/cgi-bin/publisher.cgi?1544)
 * [John Betancourt](https://www.sfsite.com/10b/jb138.htm), [Wildside Press](http://www.isfdb.org/cgi-bin/publisher.cgi?140) &middot; [Michael Swanwick](http://www.michaelswanwick.com/auth/squalidansw.html)
+* [Rick Norwood](http://en.wikipedia.org/wiki/Rick_Norwood), [Manuscript Press](http://www.isfdb.org/cgi-bin/pl.cgi?264119)
 * Steve Pasechnick, [Edgewood Press](http://www.isfdb.org/cgi-bin/pl.cgi?18567)
 * University of Oklahoma [Press](http://en.wikipedia.org/wiki/University_of_Oklahoma_Press)
 
