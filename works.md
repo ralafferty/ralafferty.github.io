@@ -207,6 +207,9 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 
 ### Books in Print {#booksinprint}
 
+
+* <span class="btitle">Gollancz SF Gateway ebooks (UK)</span>
+  &middot;&nbsp;[zenoagency](http://zenoagency.com/news/r-a-lafferty-backlist-out-this-friday/)
 * <span class="btitle">Centipede Press, Vol 1: The Man Who Made Models</span>
   &middot;&nbsp;[amazon](http://www.amazon.com/The-Man-Who-Made-Models/dp/1613471440/)
 * <span class="btitle">Centipede Press, Vol 2: The Man with the Aura</span>
