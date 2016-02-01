@@ -209,7 +209,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 
 
 * <span class="btitle">Gollancz SF Gateway ebooks (UK)</span>
-  &middot;&nbsp;[zenoagency](http://zenoagency.com/news/r-a-lafferty-backlist-out-this-friday/)
+  &middot;&nbsp;[zenoagency](http://zenoagency.com/news/r-a-lafferty-backlist-out-this-friday/) &middot;&nbsp;[amazon uk](http://www.amazon.co.uk/Kindle-Store-R-Lafferty/s?ie=UTF8&page=1&rh=n%3A341677031%2Cp_27%3AR.%20A.%20Lafferty)
 * <span class="btitle">Centipede Press, Vol 1: The Man Who Made Models</span>
   &middot;&nbsp;[amazon](http://www.amazon.com/The-Man-Who-Made-Models/dp/1613471440/)
 * <span class="btitle">Centipede Press, Vol 2: The Man with the Aura</span>
