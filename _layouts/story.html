@@ -61,7 +61,7 @@ layout: default
 					{% for tag in site.data.reviewer-tags.tag %}
 						{% for map in tag.map %}
 							{% if story.id == map.id %}
-								{% assign storytags = map.tags|split:&nbsp; %}
+								{% assign storytags = map.tags|split:" " %}
 								{% for storytag in storytags %}
 									{% if forloop.first %}
 										<ul class="taglist" style="list-style-type: none;">
