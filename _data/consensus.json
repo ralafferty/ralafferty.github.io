@@ -16,7 +16,7 @@
 			"author":"Sheryl Smith",
 			"title":"Riverside Quarterly Vol. 7 No. 2",
 			"year":"1982",
-			"excerpt":"This &ldquo;last of the-dolts&rdquo; is described as inventing machines out of a well of absolute incompetence. Inferior to his fellow-men, intimidated by his grandest contraptions, he decided to end it all -- until a little-machine he built to have hunches (hence his true mechanical counterpart) shows him that the apparently-superior world is really a warren of fair game, and promises plenty of fun in the plucking.",
+			"excerpt":"This &ldquo;last of the-dolts&rdquo; is described as inventing machines out of a well of absolute incompetence. Inferior to his fellow-men, intimidated by his grandest contraptions, he decided to end it all -- until a little-machine he built to have hunches (hence his true mechanical counterpart) shows him that the apparently-superior world is really a warren of fair game, and promises plenty of fun in the plucking."
 		},
 		{
 			"author":"R.A. Lafferty",
@@ -240,58 +240,72 @@
 	"excerpt":"The chimney rock is only a little older than mankind, only a little younger than grass. Its formation had been up-thrust and then eroded away again, all but such harder parts as itself and other chimneys and blocks.  A party of five persons came to this place where the chimney rock had fallen against a still newer hill. The people of the party did not care about the deep lime­ stone below: they were not geologists. They  did  care about the newer hill  ( it was man-made )  and they did care a little about the rock chimney; they were archeologists.  Here was time heaped up, bulging out in casing and accumulation, and not in line sequence. And here also was striated and banded time, grown tall, and then shattered and broken.",
 	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?41531",
 	"reviews":[
-		{ "id":"re-2014-jboaz-rock"		},
+		{ "id":"re-2019-gfeeley-continued"	},
+		{ "id":"re-2014-jboaz-rock"		    },
 		{ "id":"re-2009-ddammassa-rock"		},
-		{ "id":"2005-muk-continued"		},
-		{ "id":"re-2004-dbrannon-continued" 	},
-		{ "id":"1979-lafferty-continued" 	},
+		{ "id":"2005-muk-continued"		    },
+		{ "id":"re-2004-dbrannon-continued" },
+		{ "id":"re-2002-ngaiman-continued"  },
+		{ "id":"1979-lafferty-continued"    }
 	],
-	"awards":[	
+	"awards":[
 		{
 			"place":"Nominee",
 			"year":"1972",
-			"award":"Ditmar",
+			"award":"Ditmar"
 		},
 	 	{
 			"place":"Nominee",
 			"year":"1971",
 			"award":"Hugo",
-			"category":"Best Short Story",
+			"category":"Best Short Story"
 		},
 		{
 			"place":"Nominee",
 			"year":"1971",
 			"award":"Nebula",
-			"category":"Best Short Story",
+			"category":"Best Short Story"
 		},
 		{
 			"place":"3<sup>rd</sup>",
 			"year":"1970",
 			"award":"Locus",
-			"category":"Best Short Fiction",
-		},
+			"category":"Best Short Fiction"
+		}
 	 ],
-	"collections":[	
+	"collections":[
+		{ "id":"co-2019-best-of-ralafferty"	},
 		{ "id":"co-2004-imaginings"	},
 		{ "id":"co-1991-orbit"		},
 		{ "id":"co-1975-pluis"		},
 		{ "id":"co-1973-strange"	},
-		{ "id":"co-1971-best"		},
+		{ "id":"co-1971-best"		}
 	  ],
 	"commentary":[
+		{
+			"author":"Deborah J. Brannon",
+			"title":"Green Man Review",
+			"year":"2004",
+			"excerpt":"... absolutely brilliant. This story contained everything I expect when I hear the term &ldquo;visionary literature&rdquo;: it didn't explain itself (yet was accessible), it engaged archetypal figures, and it tripped the reader into a bizarre other world that was similar enough to our usual world that it just might be our own world seen by truly open eyes. I highly recommend this story about an archeological dig gone inexplicably awry, involving a curmudgeonly Magdalen and impossible artifacts."
+		},
+		{
+			"author":"Gregory Feeley",
+			"year":"2019",
+			"excerpt":"... an unusually concentrated mixture of Lafferty’s perennial themes: native American mythology, the interpretation of strange texts, the Biblical and the Greek, the unattainable woman, the end of the world."
+		},
 		{
 			"author":"Sheryl Smith",
 			"title":"Riverside Quarterly Vol. 7 No. 2",
 			"year":"1982",
-			"excerpt":"... a recurring personal drama of unrequited love and destruction, in which three progressively-more-recent records in stone build to a present-time climax but not, it seems, an end. The two primordial-persons involved have little hope of achieving their mutually-exclusive aspirations except in death, adding to this mythic comedy a near-tragic countertheme which is beautifully supported by the writing ...",
+			"excerpt":"... a recurring personal drama of unrequited love and destruction, in which three progressively-more-recent records in stone build to a present-time climax but not, it seems, an end. The two primordial-persons involved have little hope of achieving their mutually-exclusive aspirations except in death, adding to this mythic comedy a near-tragic countertheme which is beautifully supported by the writing ..."
 		},
 		{
 			"author":"R.A. Lafferty",
 			"title":"At The Sleepy Sailor",
 			"year":"1979",
-			"excerpt":"How did I write &ldquo;Continued on Next Rock&rdquo; then? Upside down and backwards, of course. I started with a simple, but I believe novel, idea that had to do with time.  Then I involuted the idea of time (making all things contemporary or at least repeating), and I turned the system of values backwards, trying to make the repulsive things appear poetic (&ldquo;the nobility of badgers, the serentity of toads&rdquo;) and trying to set anti-love up as comparable to love (the flattest thing you can imagine has to have at least two sides; it can have many more).  I let the characters that had been generated by this action work out their own way then...",
+			"excerpt":"How did I write &ldquo;Continued on Next Rock&rdquo; then? Upside down and backwards, of course. I started with a simple, but I believe novel, idea that had to do with time.  Then I involuted the idea of time (making all things contemporary or at least repeating), and I turned the system of values backwards, trying to make the repulsive things appear poetic (&ldquo;the nobility of badgers, the serentity of toads&rdquo;) and trying to set anti-love up as comparable to love (the flattest thing you can imagine has to have at least two sides; it can have many more).  I let the characters that had been generated by this action work out their own way then..."
 		}
-	 ],
+	 ]
 	},
 	{
 	"id":"1981-bank",
@@ -299,7 +313,7 @@
 	"url":"bank-and-shoal-of-time",
 	"author":"R. A. Lafferty",
 	"year":"1981",
-	"type":"ss",
+	"type":"ss"
 	},
 	{
 	"id":"1965-slow",

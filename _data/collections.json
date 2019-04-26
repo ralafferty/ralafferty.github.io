@@ -359,6 +359,13 @@
 		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?491896",
 	},
 	{
+		"id":"co-2019-best-of-ralafferty",
+		"year":"2019",
+		"title":"The Best of R.A. Lafferty",
+		"img":"412U91z65cL.jpg",
+		"isfdb":"http://www.isfdb.org/cgi-bin/pl.cgi?698044"
+	},
+	{
 		"id":"co-1970-grandmothers",
 		"title":"Nine Hundred Grandmothers",
 		"url":"nine-hundred-grandmothers",

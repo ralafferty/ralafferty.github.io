@@ -202,7 +202,7 @@
 	{
 		"id":"re-2004-dbrannon-continued",
 		"reviewer":"dbrannon",
-		"url":"http://www.greenmanreview.com/book/book_rudnicki_imaginings.html",
+		"url":"https://web.archive.org/web/20141026090744/http://www.greenmanreview.com/book/book_rudnicki_imaginings.html",
 		"year":"2004"
 	},
 	{
@@ -403,7 +403,7 @@
 	{
 		"id":"2005-muk-continued",
 		"reviewer":"muk",
-		"url":"http://www.mulle-kybernetik.com/RAL/MT/archives/2003/07/continued-on-ne.html#comments",
+		"url":"https://web.archive.org/web/20141125055338/http://www.mulle-kybernetik.com/RAL/MT/archives/2003/07/continued-on-ne.html",
 		"year":"2005"
 	},
 	{
@@ -672,6 +672,18 @@
 		"year":"2009",
 		"reviewer":"ddammassa",
 		"url":"https://books.google.com/books?id=AJxbAgAAQBAJ&pg=PP17&lpg=PP17#v=onepage&q&f=false"
+	},
+	{
+		"id":"re-2002-ngaiman-continued",
+		"year":"2002",
+		"reviewer":"ngaiman",
+		"url":"https://www.facebook.com/groups/eastoflaughter/permalink/1286898414696525/"
+	},
+	{
+		"id":"re-2019-gfeeley-continued",
+		"year":"2019",
+		"reviewer":"gfeeley",
+		"url":"https://www.facebook.com/groups/eastoflaughter/permalink/2085337748185917/"
 	}
    ]
 }

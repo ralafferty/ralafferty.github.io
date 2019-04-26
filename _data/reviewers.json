@@ -234,7 +234,9 @@
 	{
 		"id":"dlangford",
 		"name":"David Langford",
-		"url":"http://en.wikipedia.org/wiki/David_Langford"
+		"url":"http://en.wikipedia.org/wiki/David_Langford",
+		"isfdb":"http://www.isfdb.org/cgi-bin/ea.cgi?752",
+		"country":"UK"
 	},
 	{
 		"id":"twalters",
@@ -244,6 +246,19 @@
 	{
 		"id":"ddammassa",
 		"name":"Don D'Ammassa"
+	},
+	{
+		"id":"ngaiman",
+		"name":"Neil Gaiman",
+		"isfdb":"http://www.isfdb.org/cgi-bin/ea.cgi?410",
+		"url":"https://neil-gaiman.tumblr.com",
+		"country":"USA"
+	},
+	{
+		"id":"gfeeley",
+		"name":"Gregory Feeley",
+		"isfdb":"http://www.isfdb.org/cgi-bin/ea.cgi?107",
+		"country":"USA"
 	}
    ]
 }
