@@ -680,10 +680,22 @@
 		"url":"https://www.facebook.com/groups/eastoflaughter/permalink/1286898414696525/"
 	},
 	{
+		"id":"re-2019-istoner-annals",
+		"year":"2019",
+		"reviewer":"istoner",
+		"url":"https://www.goodreads.com/review/show/2757365398"
+	},
+	{
 		"id":"re-2019-gfeeley-continued",
 		"year":"2019",
 		"reviewer":"gfeeley",
 		"url":"https://www.facebook.com/groups/eastoflaughter/permalink/2085337748185917/"
+	},
+	{
+		"id":"re-2019-mcrookall-fourth",
+		"year":"2019",
+		"reviewer":"mcrookall",
+		"url":"https://mbc1955.wordpress.com/2019/09/18/the-man-who-wrote-lafferties-fourth-mansions/?fbclid=IwAR3PKmuwJ-PVLDlB8Dh_Twhm6Z1BG1qZZMEnBrhxXeMhpeP68k-uLoAw6aY"
 	}
    ]
 }

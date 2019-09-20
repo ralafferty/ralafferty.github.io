@@ -78,8 +78,9 @@
 		},
 	],
 	"reviews":[
+		{ "id":"re-2019-mcrookall-fourth"       },
 		{ "id":"re-2014-eastoflaughter-fourth"	},
-		{ "id":"re-2014-dpetersen-fourth"	},
+		{ "id":"re-2014-dpetersen-fourth"	    },
 		{ "id":"re-2014-trawlerman-fourth-2"	},
 		{ "id":"re-2014-trawlerman-fourth-1"	},
 		{ "id":"re-2013-scrook-fourth"		},
@@ -180,6 +181,31 @@
 			"category":"Best Novel",
 		},
 	  ],
-	},
+    },
+    {
+	"id":"no-1983-annals-of-klepsis",
+	"title":"Annals of Klepsis",
+	"url":"annals-of-klepsis",
+	"author":"R. A. Lafferty",
+	"year":"1983",
+	"library":"https://www.worldcat.org/title/annals-of-klepsis/oclc/945766644",
+	"isfdb":"http://www.isfdb.org/cgi-bin/title.cgi?7647",
+	"editions":[
+		{	"url":"http://www.isfdb.org/cgi-bin/pl.cgi?2779",
+			"publisher":"Ace Books",
+			"year":"1983",
+			"illustrator":"James Gurney",
+			"img":"NNLSKLPSS1983.jpg"
+		},
+		{	"url":"http://www.isfdb.org/cgi-bin/pl.cgi?560157",
+			"publisher":"Gateway / Orion",
+			"year":"2016",
+			"img":"5111BpsmJkL.jpg"
+		}
+	],
+	"reviews":[
+		{ "id":"re-2019-istoner-annals"       }
+	]
+	}
     ]
 }

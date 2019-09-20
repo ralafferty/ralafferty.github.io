@@ -259,6 +259,17 @@
 		"name":"Gregory Feeley",
 		"isfdb":"http://www.isfdb.org/cgi-bin/ea.cgi?107",
 		"country":"USA"
+	},
+	{
+		"id":"istoner",
+		"name":"Ivan Stoner",
+		"country":"USA"
+	},
+	{
+		"id":"mcrookall",
+		"name":"Martin Crookall",
+		"url":"https://mbc1955.wordpress.com",
+		"country":"USA"
 	}
    ]
 }

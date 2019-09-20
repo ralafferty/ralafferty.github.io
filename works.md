@@ -131,6 +131,7 @@ This is a partial and in-progress list, a complete list is available at [isfdb](
 
 This is a partial and in-progress list, a complete list is available at [isfdb](http://www.isfdb.org/cgi-bin/ea.cgi?36).
 
+* <span class="btitle">[Annals of Klepsis](/works/novels/annals-of-klepsis)</span>
 * <span class="btitle">Archipelago</span>
   &middot; [Andrew Ferguson](http://ralafferty.tumblr.com/post/70874732451/interlude-archipelago-and-the-argo-legend) (2013)
   &middot;&nbsp;[goodreads](http://www.goodreads.com/book/show/2700591-archipelago#other_reviews "no reviews as of 2014-10-15")
